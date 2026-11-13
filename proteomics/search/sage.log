@@ -1,0 +1,132 @@
+[2026-11-13T09:16:05Z INFO  sage] generated 356357804 fragments, 15032668 peptides in 53613ms
+[2026-11-13T09:16:05Z INFO  sage] processing files 0 .. 1 
+[2026-11-13T09:16:13Z INFO  sage] - file IO:     7177 ms
+[2026-11-13T09:23:42Z INFO  sage] - search:    449415 ms (250 spectra/s)
+[2026-11-13T09:23:42Z INFO  sage] processing files 1 .. 2 
+[2026-11-13T09:23:45Z INFO  sage] - file IO:     3169 ms
+[2026-11-13T09:30:07Z INFO  sage] - search:    382165 ms (291 spectra/s)
+[2026-11-13T09:30:08Z INFO  sage] processing files 2 .. 3 
+[2026-11-13T09:30:12Z INFO  sage] - file IO:     3982 ms
+[2026-11-13T09:35:59Z INFO  sage] - search:    346916 ms (281 spectra/s)
+[2026-11-13T09:35:59Z INFO  sage] processing files 3 .. 4 
+[2026-11-13T09:36:01Z INFO  sage] - file IO:     2537 ms
+[2026-11-13T09:40:14Z INFO  sage] - search:    253142 ms (334 spectra/s)
+[2026-11-13T09:40:14Z INFO  sage] processing files 4 .. 5 
+[2026-11-13T09:40:17Z INFO  sage] - file IO:     2578 ms
+[2026-11-13T09:45:24Z INFO  sage] - search:    307108 ms (290 spectra/s)
+[2026-11-13T09:45:24Z INFO  sage] processing files 5 .. 6 
+[2026-11-13T09:45:27Z INFO  sage] - file IO:     3103 ms
+[2026-11-13T09:50:25Z INFO  sage] - search:    297871 ms (329 spectra/s)
+[2026-11-13T09:50:32Z INFO  sage] discovered 507744 target peptide-spectrum matches at 1% FDR
+[2026-11-13T09:50:32Z INFO  sage] discovered 48591 target peptides at 1% FDR
+[2026-11-13T09:50:32Z INFO  sage] discovered 7538 target proteins at 1% FDR
+{
+  "version": "0.14.6",
+  "database": {
+    "bucket_size": 8192,
+    "enzyme": {
+      "missed_cleavages": 1,
+      "min_len": 7,
+      "max_len": 40,
+      "cleave_at": "KR",
+      "restrict": "P",
+      "c_terminal": null,
+      "semi_enzymatic": null
+    },
+    "fragment_min_mz": 150.0,
+    "fragment_max_mz": 2000.0,
+    "peptide_min_mass": 500.0,
+    "peptide_max_mass": 5000.0,
+    "ion_kinds": [
+      "b",
+      "y"
+    ],
+    "min_ion_index": 2,
+    "static_mods": {},
+    "variable_mods": {
+      "M": [
+        15.9949
+      ]
+    },
+    "max_variable_mods": 2,
+    "decoy_tag": "rev_",
+    "generate_decoys": true,
+    "fasta": "db/search_db.fasta"
+  },
+  "quant": {
+    "tmt": null,
+    "tmt_settings": {
+      "level": 3,
+      "sn": false
+    },
+    "lfq": false,
+    "lfq_settings": {
+      "peak_scoring": "Hybrid",
+      "integration": "Sum",
+      "spectral_angle": 0.7,
+      "ppm_tolerance": 5.0,
+      "combine_charge_states": true
+    }
+  },
+  "precursor_tol": {
+    "ppm": [
+      -10.0,
+      10.0
+    ]
+  },
+  "fragment_tol": {
+    "da": [
+      -0.5,
+      0.5
+    ]
+  },
+  "precursor_charge": [
+    2,
+    4
+  ],
+  "isotope_errors": [
+    0,
+    1
+  ],
+  "deisotope": false,
+  "chimera": false,
+  "wide_window": false,
+  "min_peaks": 15,
+  "max_peaks": 150,
+  "max_fragment_charge": 2,
+  "min_matched_peaks": 4,
+  "report_psms": 1,
+  "predict_rt": false,
+  "mzml_paths": [
+    "raw/Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.mzid_Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.MGF",
+    "raw/Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.mzid_Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.MGF",
+    "raw/Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.mzid_Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.MGF",
+    "raw/Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid_Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.MGF",
+    "raw/Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.mzid_Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.MGF",
+    "raw/Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.mzid_Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.MGF"
+  ],
+  "output_paths": [
+    "search/out/results.sage.tsv",
+    "search/out/results.json"
+  ]
+}
+[2026-11-13T09:50:34Z INFO  sage] finished in 2121s
+[2026-11-13T09:50:34Z INFO  sage] cite: "Sage: An Open-Source Tool for Fast Proteomics Searching and Quantification at Scale" https://doi.org/10.1021/acs.jproteome.3c00486
+     2128.48 real      7150.49 user       454.39 sys
+          5214420992  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+            55734556  page reclaims
+                1095  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+              299297  voluntary context switches
+            11959496  involuntary context switches
+       4475629713882  instructions retired
+      21922866341313  cycles elapsed
+          8343739520  peak memory footprint

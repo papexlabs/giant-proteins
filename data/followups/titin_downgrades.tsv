@@ -1,0 +1,27 @@
+model	organism	run	sample	library	read_len	instrument	reads_unique	junction_fraction	introns_ge3	n_introns	profile_5to3_depth	profile_5to3_supported	covered_but_unspliced_introns	of_which_partner_used_elsewhere
+XP_040214433.1	Rana temporaria	SRR11300562	TXO15_RNAseq mix of different organs	RNA-Seq/RANDOM/PAIRED	75	NextSeq 500	93706	0.041	50	324	[2.4, 2.2, 0.9, 2.8, 105.2]	[0.06, 0.22, 0.08, 0.22, 0.2]	0	0
+XP_040214433.1	Rana temporaria	SRR7140896	Tv5_461 G46, female, RNA sample replicat	RNA-Seq/cDNA/PAIRED	101	Illumina HiSeq 2500	92957	0.068	18	324	[2.0, 0.9, 0.6, 0.7, 157.6]	[0.05, 0.05, 0.02, 0.02, 0.15]	1	0
+XP_040214433.1	Rana temporaria	SRR7251162	Am5_312_L8 embryo21	RNA-Seq/cDNA/PAIRED	101	Illumina HiSeq 2500	93838	0.079	84	324	[3.9, 1.2, 0.6, 1.5, 175.3]	[0.42, 0.05, 0.02, 0.08, 0.74]	0	0
+XP_040214433.1	Rana temporaria	SRR8149036	A6MT1 testes	RNA-Seq/PolyA/PAIRED	74	NextSeq 500	77	0.039	0	324	[0.0, 0.0, 0.0, 0.0, 0.2]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+XP_030066708.1	Microcaecilia unicolor	SRR5591423	Model organism or animal sample from Mic	RNA-Seq/other/PAIRED	101	Illumina HiSeq 2000	95424	0.129	49	304	[2.0, 1.7, 1.7, 1.3, 316.7]	[0.12, 0.13, 0.11, 0.08, 0.36]	0	0
+XP_030066708.1	Microcaecilia unicolor	SRR5591425	Model organism or animal sample from Mic	RNA-Seq/other/PAIRED	101	Illumina HiSeq 2000	4	0.0	0	304	[0.0, 0.0, 0.0, 0.0, 0.0]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+XP_030066708.1	Microcaecilia unicolor	SRR5591439	Model organism or animal sample from Mic	RNA-Seq/other/PAIRED	100	Illumina HiSeq 2000	11	0.091	0	304	[0.0, 0.0, 0.0, 0.0, 0.0]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+XP_030066708.1	Microcaecilia unicolor	SRR5591440	Model organism or animal sample from Mic	RNA-Seq/other/PAIRED	101	Illumina HiSeq 2000	34	0.029	0	304	[0.0, 0.0, 0.0, 0.0, 0.1]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+XP_071978768.1	Engystomops pustulosus	SRR10362872	Model organism or animal sample from Eng	RNA-Seq/cDNA/PAIRED	151	Illumina HiSeq 4000	57556	0.148	159	340	[6.8, 1.4, 0.5, 4.7, 150.8]	[0.56, 0.15, 0.03, 0.63, 0.97]	0	0
+XP_071978768.1	Engystomops pustulosus	SRR11565164	Model organism or animal sample from Eng	RNA-Seq/cDNA/PAIRED	48	Illumina HiSeq 2000	101	0.0	0	340	[0.0, 0.0, 0.1, 0.0, 0.0]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+XP_071978768.1	Engystomops pustulosus	SRR11565165	Model organism or animal sample from Eng	RNA-Seq/cDNA/PAIRED	48	Illumina HiSeq 2000	49	0.02	0	340	[0.0, 0.1, 0.0, 0.0, 0.0]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+XP_071978768.1	Engystomops pustulosus	SRR11583962	Engystomops_pustulosus_stomach tomach	RNA-Seq/size fractionation/SINGLE	140	Illumina HiSeq 2500	14	0.071	0	340	[0.0, 0.0, 0.0, 0.0, 0.0]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+XP_087738184.1	Pantherophis guttatus	SRR10360869	RNA seq species 6 Cerebellum	RNA-Seq/cDNA/PAIRED	81	NextSeq 500	731	0.097	4	326	[0.3, 0.2, 0.1, 0.3, 1.0]	[0.0, 0.02, 0.0, 0.0, 0.05]	0	0
+XP_087738184.1	Pantherophis guttatus	SRR32343001	WT corn snake replicate 2 Dorsal skin	RNA-Seq/cDNA/PAIRED	151	Illumina NovaSeq 6000	10167	0.127	34	326	[0.8, 1.1, 1.1, 0.6, 23.7]	[0.05, 0.11, 0.06, 0.02, 0.29]	0	0
+XP_087738184.1	Pantherophis guttatus	SRR6868484	corn snake 5.5 dpo replicate 2 posterior	RNA-Seq/cDNA/SINGLE	100	Illumina HiSeq 2500	15	0.0	0	326	[0.0, 0.0, 0.0, 0.0, 0.0]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+XP_087738184.1	Pantherophis guttatus	SRR9596706	Model organism or animal sample from Pan	RNA-Seq/Oligo-dT/SINGLE	101	Illumina HiSeq 2500	64098	0.071	45	326	[1.5, 1.7, 0.8, 0.6, 95.9]	[0.15, 0.12, 0.05, 0.02, 0.35]	0	0
+KAG7502825.1	Solea senegalensis	ERR15284582	Brain_Individual _5_Sampling_3 	RNA-Seq/cDNA/SINGLE	98	Illumina NovaSeq 6000	948	0.102	11	255	[0.6, 0.0, 0.1, 0.2, 1.8]	[0.04, 0.0, 0.0, 0.02, 0.16]	0	0
+KAG7502825.1	Solea senegalensis	SRR18693561	Muscle. Family1 High Ellipticity muscle	RNA-Seq/RANDOM/PAIRED	75	NextSeq 500	83224	0.028	36	255	[2.8, 5.9, 4.4, 1.0, 93.8]	[0.08, 0.31, 0.16, 0.02, 0.14]	0	0
+KAG7502825.1	Solea senegalensis	SRR18693670	Muscle. Family6 muscle	RNA-Seq/RANDOM/PAIRED	76	NextSeq 500	82634	0.031	39	255	[1.5, 4.2, 4.1, 1.2, 104.1]	[0.02, 0.31, 0.14, 0.06, 0.24]	0	0
+KAG7502825.1	Solea senegalensis	SRR3417239	Upper olfactory rosette Solea senegalens	RNA-Seq/RANDOM/PAIRED	76	Illumina HiSeq 2000	4380	0.07	2	255	[8.9, 0.0, 0.0, 0.0, 0.3]	[0.04, 0.0, 0.0, 0.0, 0.0]	0	0
+NP_001254479.2	Homo sapiens (control)	ERR030899	HCT20148 skeletal muscle	RNA-Seq/cDNA/SINGLE	75	Illumina HiSeq 2000	96302	0.075	283	361	[16.0, 15.4, 5.6, 10.8, 131.0]	[0.78, 0.93, 0.46, 0.86, 0.89]	0	0
+NP_001254479.2	Homo sapiens (control)	SRR12625574	Skeletal_muscle_3 Skeletal muscle	RNA-Seq/cDNA/PAIRED	62	NextSeq 500	95826	0.106	306	361	[91.9, 39.4, 4.9, 54.3, 62.6]	[0.9, 0.99, 0.35, 1.0, 1.0]	0	0
+NP_001254479.2	Homo sapiens (control)	SRR20672175	muscle_longRNA_PH011_w0h3 skeletal muscl	RNA-Seq/cDNA/PAIRED	101	Illumina NovaSeq 6000	95961	0.277	318	361	[91.7, 166.8, 105.1, 100.1, 81.5]	[0.89, 1.0, 0.54, 1.0, 0.97]	1	0
+NP_001254479.2	Homo sapiens (control)	SRR21934199	Ctrl skeletal muscle	RNA-Seq/cDNA/PAIRED	64	Illumina NovaSeq 6000	9081	0.234	187	361	[9.2, 14.0, 7.7, 7.7, 7.8]	[0.46, 0.74, 0.44, 0.5, 0.45]	1	0
+NP_001254479.2	Homo sapiens (control)	SRR22870348	Homo sapiens skeletal muscle	RNA-Seq/PCR/PAIRED	38	Illumina HiSeq 2000	426	0.042	0	361	[0.2, 0.1, 0.0, 0.2, 0.5]	[0.0, 0.0, 0.0, 0.0, 0.0]	0	0
+NP_001254479.2	Homo sapiens (control)	SRR31127718	Human sample from Homo sapiens Skeletal 	RNA-Seq/cDNA/PAIRED	101	NextSeq 2000	63871	0.25	328	361	[82.1, 81.0, 33.3, 65.9, 47.0]	[0.89, 0.99, 0.72, 0.99, 0.96]	1	0

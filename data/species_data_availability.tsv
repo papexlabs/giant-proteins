@@ -1,0 +1,142 @@
+taxid	organism	n_giant_seqs	max_len	superkingdom	sra_rnaseq_experiments	sra_longread_rna_experiments	sra_longread_genomic_experiments	median_rnaseq_run_gbases	median_rnaseq_run_size_gb	pride_projects_name_match
+2918886	Ovis ammon polii x Ovis aries	12	98182	Eukaryota	2	1	1	31.67	8.35	0
+157070	Trichobilharzia szidati	1	95356	Eukaryota	9	0	0	3.68	2.25	0
+6192	Fasciola hepatica	12	91906	Eukaryota	210	7	2	6.9	2.63	21
+2035772	Omnitrophica bacterium	23	85803	Bacteria	0	0	0			0
+69293	Gasterosteus aculeatus	4	83180	Eukaryota	3018	31	64	1.14	0.55	error
+8063	Merluccius merluccius	1	75805	Eukaryota	0	0	7			0
+1898207	Clostridiales bacterium	2	74488	Bacteria	3	0	8	0.0	0.0	0
+29760	Vitis vinifera	1	66180	Eukaryota	14255	77	413	6.88	2.56	46
+51631	Nucella lapillus	1	65964	Eukaryota	9	0	40	0.95	1.47	0
+2171726	Plectranthus ornatus	26	61844	Eukaryota	0	0	0			0
+172907	Cirrhinus molitorella	1	59714	Eukaryota	25	0	3	6.89	2.04	0
+2975995	Nocardia sp. NBC_00881	2	59275	Bacteria	0	0	1			0
+648755	Actinospineispora eucalypti	3	57976	Bacteria	0	0	3			0
+477	Moraxella lacunata	1	55519	Bacteria	0	0	6			0
+175774	Bagarius yarrelli	1	54498	Eukaryota	12	0	7	7.97	5.52	0
+2975998	Nocardia sp. NBC_01730	2	51778	Bacteria	0	0	1			0
+446776	Acnodon oligacanthus	1	51481	Eukaryota	4	0	4	6.61	2.24	0
+118154	Synaphobranchus kaupii	2	51285	Eukaryota	5	0	2	5.7	1.84	0
+27933	Sycon ciliatum	2	50516	Eukaryota	106	0	2	1.2	0.5	2
+3155650	Nocardia sp. NPDC049190	1	50390	Bacteria	0	0	0			0
+121492	Corticium candelabrum	1	49499	Eukaryota	2	0	3	8.9	2.57	0
+95486	Burkholderia cenocepacia	1	48799	Bacteria	262	0	86	3.66	1.28	44
+562	Escherichia coli	1	48520	Bacteria	14372	268	25889	2.64	0.93	51
+1801839	Omnitrophica WOR_2 bacterium GWA2_45_18	1	46858	Bacteria	0	0	0			0
+3392119	Nocardia arseniciresistens	1	46734	Bacteria	0	0	0			0
+1572043	Triplophysa tibetana	1	45354	Eukaryota	2	2	9	10.05	2.56	0
+363190	Coilia grayii	1	45317	Eukaryota	1	0	3	15.76	9.27	0
+97485	Prymnesium parvum	1	45212	Eukaryota	53	0	3	3.96	1.39	1
+256737	Latrodectus hesperus	1	44468	Eukaryota	37	0	1	6.43	3.41	3
+6185	Schistosoma haematobium	2	43775	Eukaryota	43	2	44	2.41	0.96	4
+2056631	Thermoproteota archaeon	1	43527	Archaea	0	0	0			0
+3154697	Nocardia sp. NPDC023852	2	43074	Bacteria	0	0	0			0
+394696	Sebastes mentella	1	43065	Eukaryota	1	0	5	15.83	3.78	0
+3155681	Nocardia sp. NPDC052254	1	43007	Bacteria	0	0	0			0
+1801819	Omnitrophica bacterium RIFCSPHIGHO2_02_FULL_45_28	1	42323	Bacteria	0	0	0			0
+3364316	Nocardia sp. NPDC049526	1	42052	Bacteria	0	0	0			0
+6063	Halichondria panicea	1	41592	Eukaryota	91	0	3	5.76	2.12	1
+1872131	Actinocatenispora sp.	1	41394	Bacteria	0	0	0			0
+1443217	Glandiceps talaboti	1	40863	Eukaryota	2	0	1	9.34	2.81	0
+2975991	Nocardia sp. NBC_00416	1	40805	Bacteria	0	0	1			0
+7769	Myxine glutinosa	1	40334	Eukaryota	15	5	5	7.44	2.52	0
+380021	Pseudomonas protegens	1	40199	Bacteria	153	0	13	3.49	1.05	1
+55544	Platysternon megacephalum	1	40151	Eukaryota	13	0	4	0.84	0.25	0
+1930593	Candidatus Velamenicoccus archaeovorus	2	39686	Bacteria	0	0	0			1
+27788	Lepidochelys olivacea	3	39588	Eukaryota	97	0	8	1.3	0.52	0
+519421	Actinocatenispora rupis	2	39571	Bacteria	0	0	0			0
+3239974	Nocardia sp. CA-120079	1	39399	Bacteria	0	0	0			0
+559737	Xanthomonas vasicola pv. musacearum NCPPB 4381	1	39236	Bacteria	0	0	0			0
+246179	Vipera latastei	1	39205	Eukaryota	0	0	21			0
+103942	Vipera ursinii	1	39164	Eukaryota	1	0	2	4.47	1.5	0
+37030	Prionailurus iriomotensis	1	39099	Eukaryota	6	0	1	4.82	1.99	0
+31155	Vipera berus	1	39043	Eukaryota	1	0	3	16.75	4.98	2
+307972	Apostichopus japonicus	48	39031	Eukaryota	1657	8	11	7.04	2.24	5
+1129001	Emydura macquarii macquarii	50	39031	Eukaryota	5	0	0	6.87	2.37	0
+1496133	Pteropus pselaphon	1	38882	Eukaryota	1	0	1	8.85	4.41	0
+2025560	Natrix helvetica	1	38856	Eukaryota	1	0	1	11.79	3.4	0
+10224	Saccoglossus kowalevskii	1	38813	Eukaryota	147	0	1	0.73	0.24	0
+30640	Sciurus carolinensis	1	38810	Eukaryota	38	0	24	12.86	5.05	2
+187007	Miniopterus fuliginosus	1	38779	Eukaryota	19	0	1	6.47	2.64	0
+3345402	Nocardia sp. NPDC127579	1	38772	Bacteria	0	0	0			0
+260642	Pangshura tecta	1	38686	Eukaryota	0	0	4			0
+37653	Octopus bimaculoides	1	38676	Eukaryota	188	2	2	31.05	10.08	0
+8058	Merlangius merlangus	2	38645	Eukaryota	0	0	2			0
+51853	Candoia aspera	1	38521	Eukaryota	1	0	12	7.01	4.58	0
+476260	Vulpes vulpes japonica	1	38516	Eukaryota	0	0	1			0
+7764	Eptatretus burgeri	1	38490	Eukaryota	67	0	2	9.03	3.97	0
+185735	Arctogadus glacialis	1	38458	Eukaryota	12	0	14	3.92	1.56	0
+187939	Furcifer pardalis	1	38430	Eukaryota	3	0	1	14.87	8.85	0
+72004	Bos mutus	1	38354	Eukaryota	99	0	7	0.07	0.02	4
+36176	Chiloscyllium plagiosum	2	38279	Eukaryota	217	0	8	8.41	5.57	0
+375764	Sphaeramia orbicularis	1	38182	Eukaryota	1	0	7	30.78	12.56	0
+1415580	Microcaecilia unicolor	1	38163	Eukaryota	9	0	36	4.92	3.75	0
+240159	Collichthys lucidus	1	38162	Eukaryota	56	0	1	7.22	2.5	0
+146911	Gekko japonicus	1	38105	Eukaryota	63	0	14	8.25	3.17	0
+260995	Geotrypetes seraphini	18	38067	Eukaryota	6	0	11	18.02	7.93	0
+76066	Engystomops pustulosus	1	38028	Eukaryota	34	0	9	5.11	2.01	0
+1566151	Willisornis vidua	1	37930	Eukaryota	0	0	1			0
+143292	Manis pentadactyla	1	37904	Eukaryota	10	0	15	11.69	3.73	1
+8519	Sceloporus occidentalis	1	37868	Eukaryota	8	0	1	5.93	2.06	0
+6347	Owenia fusiformis	1	37788	Eukaryota	92	0	16	10.49	3.72	1
+2991368	Malaclemys terrapin pileata	1	37775	Eukaryota	0	0	11			0
+8478	Chrysemys picta bellii	2	37768	Eukaryota	40	1	2	2.26	1.65	0
+1041117	Myuchelys georgesi	1	37732	Eukaryota	3	0	1	15.61	5.06	0
+3370412	Nyctereutes viverrinus	1	37708	Eukaryota	0	0	1			0
+933632	Sphaerodactylus townsendi	1	37707	Eukaryota	2	0	1	18.66	8.36	0
+2485925	Oscillospiraceae bacterium	1	37690	Bacteria	3	0	19	0.02	0.01	0
+9654	Procyon lotor	1	37683	Eukaryota	4	0	4	16.26	5.81	0
+3233022	Nocardia sp. 2YAB30	1	37661	Bacteria	0	0	0			0
+261503	Rhineura floridana	21	37630	Eukaryota	3	0	12	44.05	15.44	0
+106734	Chelonoidis abingdonii	1	37612	Eukaryota	2	0	30	2.48	1.52	0
+88082	Crotalus tigris	45	37403	Eukaryota	40	0	1	5.07	2.08	0
+28689	Alca torda	1	37401	Eukaryota	0	0	10			0
+344064	Poephila acuticauda hecki	9	37372	Eukaryota	0	0	0			0
+1343680	Narcine bancroftii	1	37359	Eukaryota	4	0	20	54.69	19.5	0
+3026461	Macrochelys suwanniensis	1	37336	Eukaryota	0	0	16			0
+9940	Ovis aries	2	37314	Eukaryota	19021	176	2574	15.94	5.94	87
+8407	Rana temporaria	1	37231	Eukaryota	168	0	4	3.38	1.34	0
+13708	Tagetes erecta	1	37183	Eukaryota	207	2	8	6.03	1.7	1
+8472	Lepidochelys kempii	3	37143	Eukaryota	29	0	15	3.92	1.46	1
+48895	Poecile montanus	1	37091	Eukaryota	9	2	2	12.89	4.12	0
+248551	Nocardia testacea	1	37087	Bacteria	6	0	0	4.11	1.32	0
+92651	Macrotis lagotis	1	37042	Eukaryota	13	0	1	17.86	5.85	0
+44489	Carettochelys insculpta	1	37008	Eukaryota	5	0	1	20.31	6.87	0
+372326	Patagioenas fasciata monilis	5	36991	Eukaryota	0	0	0			0
+72542	Capra ibex	1	36943	Eukaryota	10	0	8	20.78	8.4	2
+34761	Thalia democratica	1	36927	Eukaryota	1	0	4	18.14	5.13	0
+94885	Pantherophis guttatus	1	36924	Eukaryota	71	4	2	14.4	4.76	0
+9770	Balaenoptera physalus	1	36900	Eukaryota	0	0	1			0
+13735	Pelodiscus sinensis	51	36880	Eukaryota	486	0	5	7.13	2.61	1
+27790	Natator depressus	2	36831	Eukaryota	62	0	2	2.1	0.98	0
+340177	Chlorobium chlorochromatii (strain CaD3)	1	36805	Bacteria	0	0	0			0
+57982	Cetorhinus maximus	1	36793	Eukaryota	2	3	3	9.09	5.33	0
+13397	Carcharodon carcharias	1	36688	Eukaryota	9	0	11	18.15	8.68	0
+8345	Bombina bombina	1	36669	Eukaryota	34	0	6	14.12	5.75	0
+3155273	Nocardia sp. NPDC049220	1	36629	Bacteria	0	0	0			0
+91951	Catharus ustulatus	1	36619	Eukaryota	197	2	9	11.54	3.94	0
+286002	Gopherus flavomarginatus	43	36562	Eukaryota	0	0	15			0
+1825980	Gopherus evgoodei	1	36556	Eukaryota	3	0	19	2.48	3.37	0
+260615	Mauremys reevesii	1	36529	Eukaryota	105	1	9	10.54	5.57	0
+10181	Heterocephalus glaber	1	36507	Eukaryota	780	34	164	17.98	5.34	4
+3082113	Rangifer tarandus platyrhynchus	1	36500	Eukaryota	0	0	3			0
+111125	Ranitomeya imitator	1	36486	Eukaryota	295	2	0	17.69	5.35	0
+9238	Pygoscelis adeliae	1	36484	Eukaryota	4	0	0	5.44	2.45	1
+3155034	Nocardia sp. NPDC050193	1	36483	Bacteria	0	0	0			0
+94835	Gavialis gangeticus	1	36421	Eukaryota	0	0	0			0
+2563697	Natrix natrix natrix	2	36420	Eukaryota	0	0	1			0
+202257	Galemys pyrenaicus	1	36362	Eukaryota	0	0	0			1
+9796	Equus caballus	1	36247	Eukaryota	6026	45	140	6.8	2.34	98
+30427	Haemorhous mexicanus	1	36214	Eukaryota	207	4	25	2.91	1.35	0
+27787	Eretmochelys imbricata	1	36183	Eukaryota	7	0	22	5.74	3.7	0
+488313	Pogoniulus pusillus	1	36174	Eukaryota	3	0	3	39.28	14.53	0
+201445	Coronella austriaca	2	36169	Eukaryota	0	0	1			0
+9995	Marmota monax	1	36136	Eukaryota	366	0	3	4.15	14.52	1
+35019	Thamnophis sirtalis	1	36122	Eukaryota	22	0	1	7.55	4.43	0
+752182	Hyperolius riggenbachi	1	36097	Eukaryota	5	0	14	35.88	13.47	0
+283338	Liasis olivaceus	1	36094	Eukaryota	0	0	10			0
+8467	Caretta caretta	1	36086	Eukaryota	62	0	18	9.56	4.57	2
+28829	Solea senegalensis	1	36057	Eukaryota	1942	1	7	8.68	2.53	1
+10029	Cricetulus griseus	1	36026	Eukaryota	1886	8	75	6.76	2.93	65
+9598	Pan troglodytes	1	35997	Eukaryota	4891	31	198	7.34	6.32	15
+9601	Pongo abelii	2	35994	Eukaryota	214	40	69	9.21	3.99	1

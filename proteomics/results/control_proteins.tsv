@@ -1,0 +1,13 @@
+protein	name	length	psms_q1	peptides_q1	unique_peptides_q1	unique_coverage_pct	protein_q
+Velamenicoccus|QAT17045.1|BU251_04490	18-strand beta-barrel outer membrane pore	480	10534	33	31	61.7	0.00020151345
+Velamenicoccus|QAT17089.1|BU251_04735	co-chaperone GroES	544	4753	46	41	76.7	0.00020151345
+Velamenicoccus|QAT17732.1|BU251_08370	GPI-membrane anchored actin binding protein with KELCH repeats	4528	4730	180	177	52.2	0.00020151345
+Velamenicoccus|QAT16786.1|BU251_03080	translation elongation factor Tu	400	3599	29	23	55.0	0.00020151345
+Velamenicoccus|QAT17061.1|BU251_04585	pyruvate phosphate dikinase	918	3494	64	59	67.9	0.00020151345
+Velamenicoccus|QAT16782.1|BU251_03055	DNA-directed RNA polymerase subunit beta	1133	3159	88	78	67.1	0.00020151345
+Velamenicoccus|QAT16783.1|BU251_03060	DNA-directed RNA polymerase subunit beta'	1362	2626	96	82	55.7	0.00020151345
+Velamenicoccus|QAT16725.1|BU251_02745	hypothetical protein	3180	2050	83	82	40.8	0.00020151345
+Velamenicoccus|QAT18033.1|BU251_05955	polyribonucleotide nucleotidyltransferase	700	1761	50	48	56.4	0.00020151345
+Velamenicoccus|QAT16243.1|BU251_00065	ATPase for pilus assembly/DNA-transfer CpaF	740	1560	51	51	75.3	0.00020151345
+Velamenicoccus|WP_128698900.1|BU251_00165	giant	39686	1520	186	186	5.9	0.00020151345
+Velamenicoccus|QAT16240.1|BU251_00050	peptidyl-prolyl cis-trans isomerase	314	1486	28	27	78.3	0.00020151345

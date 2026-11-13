@@ -1,0 +1,902 @@
+[
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_06.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 269581670,
+  "checksum": "cc7a0134238edae7427a2cc818f9522c858c5c37"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_03.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 239420566,
+  "checksum": "472d64e0a8e5b4cb2012a6d87afbf72533eec96b"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_01.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 236098752,
+  "checksum": "d1b57574f4bfba4211c40a149c5ae45d66a1e448"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_06.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 283847794,
+  "checksum": "3c40ff66eef2b114927b38e1abb70798fcb1695f"
+ },
+ {
+  "fileName": "Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.mzid.gz",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:1002848",
+   "name": "Result file URI",
+   "value": "RESULT"
+  },
+  "fileSizeBytes": 190824631,
+  "checksum": "90bbedc2cf85eac43b57d52dc645ee57f371b5a2"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_10.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 259499912,
+  "checksum": "257573341add613be66e1a439f0e30880e81428b"
+ },
+ {
+  "fileName": "Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.mzid_Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.MGF",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000409",
+   "name": "Peak list file URI",
+   "value": "PEAK"
+  },
+  "fileSizeBytes": 545082021,
+  "checksum": "c5d9e1df4d251cefb80f532c4eca81a52a50291c"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_05.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 268013228,
+  "checksum": "f1d5216ddbc6e63d54998c4076ed9ce382ae8b32"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_09.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 245585540,
+  "checksum": "1ccf90d1474168e7a36a708298d6f299d16b9e40"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_03.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 277345688,
+  "checksum": "71eef50f1146913dfcbc3417883e84472da19e89"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_05.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 267297412,
+  "checksum": "85afdd4987b091db81d5ad7fad25682a672543ca"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_08.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 275046056,
+  "checksum": "5f991b7a0d2105f76798e0f51da30dba8f27e5e6"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_03.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 238823386,
+  "checksum": "97c4c713221802dbda05605d88a2868e2a4bf807"
+ },
+ {
+  "fileName": "Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.mzid.gz",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:1002848",
+   "name": "Result file URI",
+   "value": "RESULT"
+  },
+  "fileSizeBytes": 210985519,
+  "checksum": "84dbfc211c195d91a4471671bf7b198f0ecff445"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_08.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 226960256,
+  "checksum": "522f330a58f1e66af7b7a01b45bfd703b3839b2b"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_07.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 286288182,
+  "checksum": "ab90d596593e1f3deee1b9033268a857e3f5ecc7"
+ },
+ {
+  "fileName": "files_overview_for_PRIDE_submission_20210325.pdf",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000410",
+   "name": "Other type file URI",
+   "value": "OTHER"
+  },
+  "fileSizeBytes": 62073,
+  "checksum": "98564041b883705ba0d8b7cb6234011c4198a3a1"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_04.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 253950786,
+  "checksum": "c462d1f8d2db174158fbacea136ae5dee11f75b0"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_09.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 226334186,
+  "checksum": "93c35c54a378a7dcaea0ebc714eed3b9f093a957"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_02.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 263272600,
+  "checksum": "1c1dc71c1258fcc8491229719e179463de59b1b7"
+ },
+ {
+  "fileName": "Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.mzid_Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.MGF",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000409",
+   "name": "Peak list file URI",
+   "value": "PEAK"
+  },
+  "fileSizeBytes": 475656890,
+  "checksum": "8799204eeef3f044eecd91d483b1f479252bc8ea"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_01.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 223590938,
+  "checksum": "e4033ee4eaeb3c60ad2d12bd7b88e491df836d56"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_10.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 267598486,
+  "checksum": "176e95d8d0751f51e5b45b23b84a776d739d1366"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_04.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 256903124,
+  "checksum": "a4e9fb6f0cdcd98256b8292672b9642d094a0894"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_03.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 260928184,
+  "checksum": "2e8b8d216b3d9420783590a2a3c7b2866e518bf0"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_10.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 273866562,
+  "checksum": "3481c46f53b8220f0b6780f2600bc9f4768109d9"
+ },
+ {
+  "fileName": "OP3_AA_20170330_fw_rev_cont.fasta",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000464",
+   "name": "Fasta file URI",
+   "value": "FASTA"
+  },
+  "fileSizeBytes": 97612964,
+  "checksum": "90506db38ff6f953a02f0f5d233e45e632b94625"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_08.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 272922206,
+  "checksum": "f22cf4d654fca8ac50827f8ab806924043cfecee"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_10.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 262423036,
+  "checksum": "bc97af6d5b42503082045537fffc392e05b814b3"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_09.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 220597160,
+  "checksum": "ab85d4f8aa2763e4d9db4d64727253579c1ff79b"
+ },
+ {
+  "fileName": "Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.mzid_Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.MGF",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000409",
+   "name": "Peak list file URI",
+   "value": "PEAK"
+  },
+  "fileSizeBytes": 549260229,
+  "checksum": "13f85f575bc27744ab120bf3afda04522fa21bba"
+ },
+ {
+  "fileName": "Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid_Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.MGF",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000409",
+   "name": "Peak list file URI",
+   "value": "PEAK"
+  },
+  "fileSizeBytes": 404520407,
+  "checksum": "be7336987f15781a71aa55e96b7fa95082e7f4e7"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_05.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 271252136,
+  "checksum": "7c021d8f67943f16722515ee46934a9644cf12b8"
+ },
+ {
+  "fileName": "Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.mzid_Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.MGF",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000409",
+   "name": "Peak list file URI",
+   "value": "PEAK"
+  },
+  "fileSizeBytes": 475601902,
+  "checksum": "ea2dfe857cb55eed5c337d740c0ddfcecfddb152"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_04.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 273829610,
+  "checksum": "50f4f7b2118927025ddb59d874d59bbc3a3fcaba"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_05.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 291995714,
+  "checksum": "8a2829c70c9ce6ac65fa3d2d83217c0b1f5d4999"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_07.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 240168218,
+  "checksum": "babf7c9b161240045679ac5f53669883af191827"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_02.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 221244108,
+  "checksum": "e27dc268425fed7faf434327107b7673b07040c7"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_03.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 257772338,
+  "checksum": "dbd07e45080eb3400c7427687559de2735a13ef9"
+ },
+ {
+  "fileName": "Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.mzid_Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.MGF",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000409",
+   "name": "Peak list file URI",
+   "value": "PEAK"
+  },
+  "fileSizeBytes": 431302334,
+  "checksum": "68f6da885fb691f0117a618b12571a9017613b2b"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_07.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 279531382,
+  "checksum": "ecf6f2c59ff841f41f557195cd100b1b01ffb6ac"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_06.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 271216092,
+  "checksum": "e9409d80d0d920b3df29cbe312255423d9f0fd31"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_01.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 231200566,
+  "checksum": "7720064c792f745e329f3c0276ca955ab07f3684"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_09.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 237091222,
+  "checksum": "9225da30410556166e5df5815a7ce0a60f3c3a2b"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_05.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 231598868,
+  "checksum": "4d4d337c5a25e537465099c1fe71343874d3bc76"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_07.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 283651130,
+  "checksum": "758a8f1bef3ad298236be60c8f45c2c3d975fedc"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_08.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 275821894,
+  "checksum": "3a175f10e89dfc2937c961fe6a5ee59af28094c7"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_04.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 273521616,
+  "checksum": "3959196e8c267abfa9e6011b5060a74180b529f4"
+ },
+ {
+  "fileName": "Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.mzid.gz",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:1002848",
+   "name": "Result file URI",
+   "value": "RESULT"
+  },
+  "fileSizeBytes": 192711333,
+  "checksum": "cada7a6eafcb401609929cb77635ee2eae72e51c"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_01.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 233589794,
+  "checksum": "3e5a59bcd8d6edf3a788531dac55b28e5bf07978"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_10.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 287092504,
+  "checksum": "c72c9d52e2e42742b3778dd43dcdfd2937f70500"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_09.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 245043218,
+  "checksum": "38ebfce2f08ce9d7214fac6b0b23e23f52e72ab3"
+ },
+ {
+  "fileName": "Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid.gz",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:1002848",
+   "name": "Result file URI",
+   "value": "RESULT"
+  },
+  "fileSizeBytes": 161499618,
+  "checksum": "e48f778b647ab6ebddc19648b7fa9fd292e29434"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_08.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 270131006,
+  "checksum": "f8d2a6ef488477216de5562dfc63e9056bbf8d3e"
+ },
+ {
+  "fileName": "160209_OV3_P5_SK_JHa_373-Pe3_05.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 254780414,
+  "checksum": "754b9a610cf569b795db61a9682808d1ba3c9af0"
+ },
+ {
+  "fileName": "Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.mzid.gz",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:1002848",
+   "name": "Result file URI",
+   "value": "RESULT"
+  },
+  "fileSizeBytes": 213773486,
+  "checksum": "aa624e3ed335ef3772053e7f5e2adec9547d2099"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_07.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 269353832,
+  "checksum": "525c4551e653659c0e55596536bc9f013dc49f41"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_04.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 275084468,
+  "checksum": "0c487131ceb0791750801dfd754dd2411ba4f09a"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_02.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 246083112,
+  "checksum": "a48671d6aad637e752801ae7c0c83fb0b0e52f39"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_02.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 224158288,
+  "checksum": "b0cd2328d169d34f4f41485b933c8db59c964d8d"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_03.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 251154602,
+  "checksum": "a96fae2513462be6ac0e336e9c38c7e267be1d0f"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_04.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 269944288,
+  "checksum": "ec0a0b4e3843d1ae02679fc250b5f5f4efba7edf"
+ },
+ {
+  "fileName": "Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.mzid.gz",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:1002848",
+   "name": "Result file URI",
+   "value": "RESULT"
+  },
+  "fileSizeBytes": 175846373,
+  "checksum": "b2ab904fac03ac1de13a0a356c3a83fd6cbbd3c7"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_09.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 257735166,
+  "checksum": "9fc226c966f472fb1c0279fa373c646ea35b4050"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_01.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 201796356,
+  "checksum": "99c4eb1890afd375af765f8c71f6913916d63713"
+ },
+ {
+  "fileName": "160211_OV3_P5_SK_JHa_373-Pe2_06.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 281238190,
+  "checksum": "b74afa149b000843dbcb94d0c2d73d2c4223f8b8"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_02.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 248401600,
+  "checksum": "9c2831ded4405ea6355a77bbeb312558bbeb5afa"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_08.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 255532260,
+  "checksum": "8a1160d95aca486bd4f061ac001aacd99960764b"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_01.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 214448116,
+  "checksum": "ffc3b8a4dbadff2d30fa45f7093f18069a4de153"
+ },
+ {
+  "fileName": "160215_OV3_P5_SK_JHa_372-Pe3_06.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 281665056,
+  "checksum": "841e8955373175cf9d10eba513ac7805e9fcd814"
+ },
+ {
+  "fileName": "160212_OV3_P5_SK_JHa_373-Pe1_02.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 228443610,
+  "checksum": "11978a6a7e4ff51b5a9a1f0aa5394af45afe20f5"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_10.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 262187068,
+  "checksum": "1c779a59a15c44a3ee807d16d3cbb8f1bb4369c0"
+ },
+ {
+  "fileName": "160214_OV3_P5_SK_JHa_372-Pe2_07.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 247828612,
+  "checksum": "25f0f6764a45d35b833a900b2561b612270c0986"
+ },
+ {
+  "fileName": "160213_OV3_P5_SK_JHa_372-Pe1_06.raw",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000404",
+   "name": "Associated raw file URI",
+   "value": "RAW"
+  },
+  "fileSizeBytes": 233686096,
+  "checksum": "420c19844b748cfb5eec1a2b532d5af9f287295e"
+ },
+ {
+  "fileName": "PXD025008_community_annotated.sdrf.tsv",
+  "fileCategory": {
+   "@type": "CvParam",
+   "cvLabel": "PRIDE",
+   "accession": "PRIDE:0000584",
+   "name": "Experimental design file URI",
+   "value": "EXPERIMENTAL DESIGN"
+  },
+  "fileSizeBytes": 45932,
+  "checksum": ""
+ }
+]

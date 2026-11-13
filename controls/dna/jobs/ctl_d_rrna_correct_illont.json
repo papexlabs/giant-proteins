@@ -1,0 +1,18 @@
+{
+ "job_id": "ctl_d_rrna_correct_illont",
+ "assembly_path": "controls/dna/refs/original.fa.gz",
+ "contig": "CP109162.1",
+ "gene_start": 210001,
+ "gene_end": 330000,
+ "strand": "+",
+ "illumina": [
+  "controls/dna/reads/SRR21428551_1.fastq.gz",
+  "controls/dna/reads/SRR21428551_2.fastq.gz"
+ ],
+ "illumina_expected_reads": 15565314,
+ "ont": [
+  "controls/dna/reads/SRR21563524_1.fastq.gz"
+ ],
+ "ont_expected_reads": 36579,
+ "truth": "correct assembly; contains one copy of a three-copy rRNA operon repeat"
+}

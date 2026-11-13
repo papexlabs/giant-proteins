@@ -1,0 +1,17 @@
+{
+ "job_id": "omnitrophota_DAOTDT_HRZ03494",
+ "label": "Omnitrophota MAG AMR_MDS_3148 HRZ03494 (85,803 aa)",
+ "assembly_url": "https://ftp.ebi.ac.uk/pub/databases/ena/wgs/public/dao/DAOTDT01.fasta.gz",
+ "contig": "DAOTDT010000001.1",
+ "gene_start": 849554,
+ "gene_end": 1106965,
+ "strand": "+",
+ "ont": [],
+ "illumina": [
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR500/006/SRR5007146/SRR5007146_1.fastq.gz",
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR500/006/SRR5007146/SRR5007146_2.fastq.gz"
+ ],
+ "illumina_bytes": 7701864293,
+ "ont_bytes": 0,
+ "illumina_expected_reads": 85214796
+}

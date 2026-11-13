@@ -1,0 +1,41 @@
+default omnitrophota_DAOOUB_HOW35280 | inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where th | B
+default omnitrophota_DAOPMG_HPD84636 | supported outside 1.3 kb of repeat (no long reads to resolve it) | B
+default omnitrophota_DAOTDT_HRZ03494 | supported outside 1.32 kb of repeat (no long reads to resolve it) | B
+default nocardia_NBC_01730_WSG58785 | supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads) | A
+default nocardia_NBC_00881_WSY60125 | supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads) | B
+min_pairs_per_boundary=3 omnitrophota_DAOOUB_HOW35280 | supported outside 1.28 kb of repeat (no long reads to resolve it) | B
+min_pairs_per_boundary=3 omnitrophota_DAOPMG_HPD84636 | supported outside 1.25 kb of repeat (no long reads to resolve it) | B
+min_pairs_per_boundary=3 omnitrophota_DAOTDT_HRZ03494 | supported outside 1.25 kb of repeat (no long reads to resolve it) | B
+min_pairs_per_boundary=3 nocardia_NBC_01730_WSG58785 | supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads) | A
+min_pairs_per_boundary=3 nocardia_NBC_00881_WSY60125 | supported by the reads (short reads; the 1.09 kb repeat block(s) spanned by 64+ long reads | B
+min_pairs_per_boundary=10 omnitrophota_DAOOUB_HOW35280 | supported outside 1.46 kb of repeat (no long reads to resolve it) | B
+min_pairs_per_boundary=10 omnitrophota_DAOPMG_HPD84636 | supported outside 1.41 kb of repeat (no long reads to resolve it) | B
+min_pairs_per_boundary=10 omnitrophota_DAOTDT_HRZ03494 | supported outside 1.48 kb of repeat (no long reads to resolve it) | B
+min_pairs_per_boundary=10 nocardia_NBC_01730_WSG58785 | supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads) | A
+min_pairs_per_boundary=10 nocardia_NBC_00881_WSY60125 | supported outside 1.13 kb of repeat; long reads do not span it (or it was not measured) | C
+min_unique_depth_illumina=5 omnitrophota_DAOOUB_HOW35280 | inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where th | B
+min_unique_depth_illumina=5 omnitrophota_DAOPMG_HPD84636 | supported outside 1.3 kb of repeat (no long reads to resolve it) | B
+min_unique_depth_illumina=5 omnitrophota_DAOTDT_HRZ03494 | supported outside 1.32 kb of repeat (no long reads to resolve it) | B
+min_unique_depth_illumina=5 nocardia_NBC_01730_WSG58785 | supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads) | A
+min_unique_depth_illumina=5 nocardia_NBC_00881_WSY60125 | supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads) | B
+min_unique_depth_illumina=20 omnitrophota_DAOOUB_HOW35280 | inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where th | B
+min_unique_depth_illumina=20 omnitrophota_DAOPMG_HPD84636 | supported outside 1.3 kb of repeat (no long reads to resolve it) | B
+min_unique_depth_illumina=20 omnitrophota_DAOTDT_HRZ03494 | supported outside 1.32 kb of repeat (no long reads to resolve it) | B
+min_unique_depth_illumina=20 nocardia_NBC_01730_WSG58785 | supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads) | A
+min_unique_depth_illumina=20 nocardia_NBC_00881_WSY60125 | supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads) | B
+min_frac_depth5=0.95 omnitrophota_DAOOUB_HOW35280 | inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where th | B
+min_frac_depth5=0.95 omnitrophota_DAOPMG_HPD84636 | supported outside 1.3 kb of repeat (no long reads to resolve it) | B
+min_frac_depth5=0.95 omnitrophota_DAOTDT_HRZ03494 | supported outside 1.32 kb of repeat (no long reads to resolve it) | B
+min_frac_depth5=0.95 nocardia_NBC_01730_WSG58785 | supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads) | A
+min_frac_depth5=0.95 nocardia_NBC_00881_WSY60125 | supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads) | B
+max_discordant_frac=0.05 omnitrophota_DAOOUB_HOW35280 | inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where th | B
+max_discordant_frac=0.05 omnitrophota_DAOPMG_HPD84636 | supported outside 1.3 kb of repeat (no long reads to resolve it) | B
+max_discordant_frac=0.05 omnitrophota_DAOTDT_HRZ03494 | supported outside 1.32 kb of repeat (no long reads to resolve it) | B
+max_discordant_frac=0.05 nocardia_NBC_01730_WSG58785 | supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads) | A
+max_discordant_frac=0.05 nocardia_NBC_00881_WSY60125 | supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads) | B
+max_discordant_frac=0.2 omnitrophota_DAOOUB_HOW35280 | inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where th | B
+max_discordant_frac=0.2 omnitrophota_DAOPMG_HPD84636 | supported outside 1.3 kb of repeat (no long reads to resolve it) | B
+max_discordant_frac=0.2 omnitrophota_DAOTDT_HRZ03494 | supported outside 1.32 kb of repeat (no long reads to resolve it) | B
+max_discordant_frac=0.2 nocardia_NBC_01730_WSG58785 | supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads) | A
+max_discordant_frac=0.2 nocardia_NBC_00881_WSY60125 | supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads) | B
+written controls/dna/sensitivity.tsv

@@ -1,0 +1,272 @@
+{
+ "models": 57,
+ "replicates": 20,
+ "fractions": [
+  0.05,
+  0.1,
+  0.2,
+  0.3,
+  0.4,
+  0.5,
+  0.6,
+  0.8,
+  1.0
+ ],
+ "by_kind_fraction": {
+  "shift 0.05": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.113,
+    "full": 0.887
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.113,
+    "full": 0.887
+   }
+  },
+  "shift 0.1": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.997,
+    "full": 0.003
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.997,
+    "full": 0.003
+   }
+  },
+  "shift 0.2": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.865,
+    "partial": 0.135,
+    "full": 0.0
+   }
+  },
+  "shift 0.3": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 1.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 0.4": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 1.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 0.5": {
+   "v1": {
+    "contradicted": 0.725,
+    "under-supported where covered": 0.198,
+    "partial": 0.076,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.725,
+    "under-supported where covered": 0.275,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 0.6": {
+   "v1": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 0.8": {
+   "v1": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 1.0": {
+   "v1": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.05": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.116,
+    "full": 0.884
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.116,
+    "full": 0.884
+   }
+  },
+  "skip 0.1": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.558,
+    "full": 0.442
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.558,
+    "full": 0.442
+   }
+  },
+  "skip 0.2": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.278,
+    "partial": 0.722,
+    "full": 0.0
+   }
+  },
+  "skip 0.3": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 1.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.4": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.001,
+    "partial": 0.999,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 1.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.5": {
+   "v1": {
+    "contradicted": 0.242,
+    "under-supported where covered": 0.061,
+    "partial": 0.696,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.242,
+    "under-supported where covered": 0.758,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.6": {
+   "v1": {
+    "contradicted": 0.981,
+    "under-supported where covered": 0.009,
+    "partial": 0.011,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.981,
+    "under-supported where covered": 0.019,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.8": {
+   "v1": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 1.0": {
+   "v1": {
+    "contradicted": 0.035,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.035,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  }
+ },
+ "true_models_verdicts": {
+  "full": 57
+ }
+}

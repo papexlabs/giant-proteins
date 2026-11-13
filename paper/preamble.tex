@@ -1,0 +1,40 @@
+% Shared preamble of manuscript.tex and supplement.tex (built with tectonic; see paper/build.py)
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{fontspec}   % XeTeX (tectonic): Latin Modern OpenType by default, Unicode input
+\usepackage{microtype}
+\usepackage[running]{lineno}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf,labelsep=period}
+\usepackage{enumitem}
+\setlist{itemsep=1pt,topsep=3pt}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage[numbers,sort&compress,square]{natbib}
+\usepackage[hidelinks]{hyperref}
+\urlstyle{same}
+\setlength{\parskip}{3pt}
+\renewcommand{\arraystretch}{1.15}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+
+% Numbers: every number taken from the data is printed with \nm{key}; the values come from
+% numbers.tex, which paper/make_numbers.py writes from the repository's files (sources in
+% NUMBERS_generated.tsv, text-to-key map in NUMBERS.md). An unknown key stops the build.
+\makeatletter
+\newcommand{\nmdef}[2]{\expandafter\def\csname nm@#1\endcsname{#2}}
+\newcommand{\nm}[1]{\ifcsname nm@#1\endcsname\csname nm@#1\endcsname\else\errmessage{unknown number key: #1}\fi}
+\makeatother
+\input{numbers.tex}
+
+\newcommand{\gene}[1]{\textit{#1}}
+\newcommand{\spn}[1]{\textit{#1}}
+\newcommand{\Ca}{\textit{Candidatus}}
+\newcommand{\placeholder}[1]{\textcolor{red!70!black}{[#1]}}
+% table bodies from paper/tables are read with the primitive \input (LaTeX's \input breaks \bottomrule)
+\makeatletter\newcommand{\tablebody}[1]{\@@input #1 }\makeatother
+\newcommand{\file}[1]{\texttt{\detokenize{#1}}}

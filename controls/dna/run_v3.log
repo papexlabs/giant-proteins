@@ -1,0 +1,24 @@
+11:30:58 ctl_a_deletion_ill on modified
+11:32:33 ctl_a_deletion_ill illumina mapped 15565314 reads (expected 15565314) 95s
+11:32:41 ctl_a_deletion_ill done against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed] {'illumina': 'against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]'}
+11:32:41 ctl_b_collapse_ill on modified
+11:32:50 ctl_b_collapse_ill done supported by the reads {'illumina': 'supported by the reads'}
+11:32:50 ctl_c_expansion_ill on modified
+11:32:59 ctl_c_expansion_ill done supported outside 9.37 kb of repeat (no long reads to resolve it) {'illumina': 'supported by the reads [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]'}
+11:32:59 ctl_a_deletion_illont on modified
+11:33:39 ctl_a_deletion_illont ont mapped 36579 reads (expected 36579) 40s
+11:33:51 ctl_a_deletion_illont done against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed] {'illumina': 'against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]', 'ont': 'against: 1 single-copy boundary(ies) with 0 spanning reads between well-covered windows; 2 clip pile-up(s) where physical coverage drops'}
+11:33:51 ctl_b_collapse_illont on modified
+11:34:03 ctl_b_collapse_illont done supported by the reads {'illumina': 'supported by the reads', 'ont': 'supported by the reads'}
+11:34:03 ctl_c_expansion_illont on modified
+11:34:14 ctl_c_expansion_illont done supported outside 9.37 kb of repeat; long reads do not span it {'illumina': 'supported by the reads [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]', 'ont': 'inconclusive: weakest single-copy boundary spanned by 0'}
+11:34:15 ctl_d_rrna_correct_ill on original
+11:36:03 ctl_d_rrna_correct_ill illumina mapped 15565314 reads (expected 15565314) 109s
+11:36:13 ctl_d_rrna_correct_ill done supported outside 4.89 kb of repeat (no long reads to resolve it) {'illumina': 'supported by the reads [4.0 kb in multi-copy block(s) that short reads cannot place; 4.26 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]'}
+11:36:13 ctl_e_segdup_correct_ill on original
+11:36:24 ctl_e_segdup_correct_ill done inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed] {'illumina': 'inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]'}
+11:36:24 ctl_d_rrna_correct_illont on original
+11:37:04 ctl_d_rrna_correct_illont ont mapped 36579 reads (expected 36579) 41s
+11:37:16 ctl_d_rrna_correct_illont done supported by the reads (short reads; the 4.89 kb repeat block(s) spanned by 13+ long reads) {'illumina': 'supported by the reads [4.0 kb in multi-copy block(s) that short reads cannot place; 4.26 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]', 'ont': 'supported by the reads'}
+11:37:16 ctl_e_segdup_correct_illont on original
+11:37:28 ctl_e_segdup_correct_illont done inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed] {'illumina': 'inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]', 'ont': 'supported by the reads'}

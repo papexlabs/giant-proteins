@@ -1,0 +1,67 @@
+{
+ "sage_output": "search/out",
+ "files": [
+  "Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.mzid_Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.MGF",
+  "Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.mzid_Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.MGF",
+  "Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.mzid_Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.MGF",
+  "Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid_Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.MGF",
+  "Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.mzid_Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.MGF",
+  "Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.mzid_Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.MGF"
+ ],
+ "psms_reported": 591292,
+ "target_psms_q01": 502718,
+ "decoy_psms_q01": 5026,
+ "target_peptides_q01": 42000,
+ "target_proteins_q01": 7981,
+ "giant": {
+  "entry": "Velamenicoccus|WP_128698900.1|BU251_00165 giant (RefSeq version of QAT16263.1)",
+  "length": 39686,
+  "peptides_q01": 186,
+  "unique_peptides_q01": 186,
+  "shared_peptides_q01": 0,
+  "unique_psms_q01": 1487,
+  "unique_peptides_at_several_positions_in_the_giant": 0,
+  "residues_covered_by_unique_peptides": 2357,
+  "coverage_frac": 0.0594,
+  "covered_regions": 86,
+  "first_unique_position": 292,
+  "last_unique_position": 16949,
+  "unique_peptides_per_fifth_of_length": [
+   182,
+   3,
+   1,
+   0,
+   0
+  ]
+ },
+ "controls_giant_copies": {
+  "reversed giant": {
+   "psms_q01": 0,
+   "psms_any_q": 34
+  },
+  "shuffled giant": {
+   "psms_q01": 0,
+   "psms_any_q": 41
+  }
+ },
+ "normal_proteins": {
+  "elongation factor Tu": {
+   "entry": "Velamenicoccus|QAT16786.1|BU251_03080",
+   "length": 400,
+   "peptides_q01": 29,
+   "unique_peptides_q01": 23,
+   "psms_q01": 3435,
+   "coverage_frac": 0.728,
+   "coverage_by_unique_frac": 0.55
+  },
+  "ribosomal protein L7/L12": {
+   "entry": "Velamenicoccus|QAT16781.1|BU251_03050",
+   "length": 128,
+   "peptides_q01": 9,
+   "unique_peptides_q01": 6,
+   "psms_q01": 95,
+   "coverage_frac": 0.766,
+   "coverage_by_unique_frac": 0.68
+  }
+ }
+}

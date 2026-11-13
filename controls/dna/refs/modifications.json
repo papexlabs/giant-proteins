@@ -1,0 +1,102 @@
+{
+ "genome": "GCA_035920445.1 CP109162.1",
+ "genome_len": 8676891,
+ "modified_len": 8667338,
+ "deletion_a": [
+  4305001,
+  4315000
+ ],
+ "collapse_b_removed_copy": [
+  7542232,
+  7546784
+ ],
+ "duplication_c": [
+  5858001,
+  5863000
+ ],
+ "regions": {
+  "a_deletion": {
+   "ref": "modified",
+   "genome_region": [
+    4250001,
+    4370000
+   ],
+   "region": [
+    4250001,
+    4360000
+   ],
+   "junction": 4305000,
+   "truth": "misassembly: 10 kb of the genome missing (deletion misjoin at the junction)"
+  },
+  "b_collapse": {
+   "ref": "modified",
+   "genome_region": [
+    40001,
+    150000
+   ],
+   "region": [
+    40001,
+    150000
+   ],
+   "repeat_copy": [
+    89952,
+    94504
+   ],
+   "truth": "misassembly: a two-copy 4.55-kb repeat collapsed to one copy (reads of both copies pile here)"
+  },
+  "c_expansion": {
+   "ref": "modified",
+   "genome_region": [
+    5800001,
+    5920000
+   ],
+   "region": [
+    5790001,
+    5915000
+   ],
+   "copies": [
+    [
+     5848001,
+     5853000
+    ],
+    [
+     5853001,
+     5858000
+    ]
+   ],
+   "truth": "misassembly: a 5-kb unique segment present twice in tandem (extra copy not in the genome)"
+  },
+  "d_rrna_correct": {
+   "ref": "original",
+   "genome_region": [
+    210001,
+    330000
+   ],
+   "region": [
+    210001,
+    330000
+   ],
+   "repeat_copy": [
+    263060,
+    268735
+   ],
+   "truth": "correct assembly; contains one copy of a three-copy rRNA operon repeat"
+  },
+  "e_segdup_correct": {
+   "ref": "original",
+   "genome_region": [
+    6880001,
+    7000000
+   ],
+   "region": [
+    6880001,
+    7000000
+   ],
+   "repeat_copy": [
+    6933167,
+    6946964
+   ],
+   "truth": "correct assembly; contains a 13.8-kb segmental repeat (second copy at 2.94 Mb, reversed)"
+  }
+ }
+}

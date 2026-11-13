@@ -1,0 +1,7 @@
+query_name	query	count
+all_gt_titin_isoform	35992:100000000[SLEN]	472
+all_gt_pkzilla1	45213:100000000[SLEN]	47
+refseq_gt_titin_isoform	35992:100000000[SLEN] AND refseq[filter]	349
+refseq_gt_pkzilla1	45213:100000000[SLEN] AND refseq[filter]	7
+swissprot_gt_titin_isoform	35992:100000000[SLEN] AND swissprot[filter]	0
+all_gt_titin_canonical	34351:100000000[SLEN]	1884

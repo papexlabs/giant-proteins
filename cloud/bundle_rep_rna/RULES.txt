@@ -1,0 +1,77 @@
+RNA-seq test of the repeat-flag models: rules fixed before the data
+=====================================================================
+Written 13 Nov 2026 (UTC), before the box run. Committed with the bundle; any later change to
+these rules must be reported as a change.
+
+What is tested
+--------------
+The 43 models that were never sent to the RNA stage because the first repeat rule graded them D
+(now C with a repeat flag). Their bundle (this directory, built by cloud/make_jobs.py
+--select repeat-flag) holds 10 models in 7 species jobs that have an assembly and usable ENA
+RNA-seq runs:
+  Arctogadus glacialis CAR9444729.1; Owenia fusiformis CAH1773861.1;
+  Schistosoma haematobium CAH8664242.1, CAH8664230.1; Synaphobranchus kaupii KAJ8332361.1,
+  KAJ8332362.1; Acnodon oligacanthus KAL7845143.1; Gasterosteus aculeatus CAR0409254.1 (hap2
+  assembly GCA_982374575.1), CAR0409140.1 and CAR0409152.1 (hap1 assembly GCA_982374505.1).
+The other 33 cannot be tested this way and stay C, with the reason recorded:
+  25 Plectranthus ornatus models: ENA lists no Illumina RNA-seq run for the taxon;
+  2 Merlangius merlangus: no RNA-seq run; 1 Coilia grayii: no Illumina RNA-Seq run in ENA;
+  5 Fasciola hepatica (UniParc entries): no locus (no gene model coordinates).
+33 runs, 135 GB of FASTQ (ENA sizes; HEAD requests 13 Nov).
+
+Rules (unchanged from the published Stage 2 rules, plus one guard fixed here)
+-----------------------------------------------------------------------------
+Counting and verdicts as in cloud/summarize.py (verdict order v2): an intron is supported with
+>= 3 exactly matching spliced reads placed uniquely (MAPQ >= 10). These are repeat-flag models,
+so multi-mapped reads do NOT count. An intron is testable when both flanking exons reach a mean
+unique depth >= 10 in at least one run.
+  full     >= 90 % of introns supported                       -> C becomes B
+  partial  >= 50 % of introns supported                       -> C becomes B
+  contradicted (>= 10 testable introns with >= 50 % of them unsupported, or more unique reads
+           on junctions leaving the gene than on annotated junctions, at least 10)
+                                                              -> C becomes D, ONLY IF the guard holds
+  under-supported where covered, weak, no-expression, no runs -> stays C
+Guard (new, fixed before the data): a model moves to D only if 'contradicted' also holds on the
+introns whose junction sequence (50 bp either side) is unique within the model
+(controls/rna_rep/junction_mappability.json), or through the junctions-leaving-the-gene
+criterion. Reason: in a tandem-repeat model, a correct intron in a repeated copy cannot get a
+uniquely placed junction read, while its flanking exons can still reach unique depth through
+diverged positions; missing support there is a mapping limit, not evidence against the model.
+Implemented in cloud/summarize.py (column contradicted_on_unique_junctions) and
+scripts/15_apply_rnaseq.py. Support is not guarded: multi-mapped reads cannot create it.
+Reported but without effect on grades: introns with >= 3 reads counting multi-mapped reads
+(evidence that the repeat unit's splice pattern exists, not that the copies are as annotated).
+
+What a clean result can and cannot mean (controls/rna_rep/junction_mappability.tsv)
+-----------------------------------------------------------------------------------
+Share of introns whose junction is unique within the model (an upper bound; copies elsewhere in
+the genome are not checked):
+  Arctogadus 7/7, Owenia 22/22, Schistosoma 37/45 and 37/46: the test can support or contradict.
+  Synaphobranchus 16/203 and 9/134, Acnodon 48/1035, Gasterosteus 25/2053, 26/1273, 27/1208:
+  'partial' (>= 50 %) is out of reach, so these models cannot move to B by this test. They can
+  move to D only through the guarded contradiction (Synaphobranchus KAJ8332361.1 is the only one
+  with >= 10 unique junctions) or the junctions-leaving-the-gene criterion. For Gasterosteus and
+  Acnodon no intron, or fewer than 10, has two flanking exons with a unique 50-mer, so they cannot
+  become testable at all: a 'weak' or 'no-expression' result for them says nothing either way.
+Power test (controls/rna_power): on 57 non-repetitive models with >= 100 testable introns, the
+contradicted rule needed >= 50-60 % wrong introns and the under-supported rule >= 20-30 %. For the
+repeat models the testable set is at most the unique-junction subset (<= 48 introns for the large
+models), so an error confined to the repeated copies, including a wrong number of copies, is
+invisible to this test. A clean result for these models means only that the parts with unique
+sequence are spliced as annotated.
+
+Order of work on the box
+------------------------
+jobs.tsv is ordered by the share of unique junctions (controls/rna_rep/order_jobs.py), so the
+decidable species run first if the box stops early.
+
+Disclosure: Mac test before this file was committed
+---------------------------------------------------
+The driver's new --download mode was tested on the Mac with one small run of Schistosoma
+haematobium (ERR11178326, 0.26 GB). Its result was written at 11:03:37 UTC and seen shortly after
+(1,634 unique reads; 5 of 45 and 5 of 46 introns with >= 3 unique reads in that one run). The
+guard and its implementation (scripts/15_apply_rnaseq.py 11:03:02, cloud/summarize.py 11:03:12,
+controls/rna_rep/junction_mappability.json 11:02:44 UTC) were written before that result existed
+and were not changed after it. The test result is not used; the box re-runs that run with the rest.
+A second Mac test used the Gasterosteus hap2 genome with a stand-in run (reads of another species)
+to test the ENA genome download and locus placement only.

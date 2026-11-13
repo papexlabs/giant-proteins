@@ -1,0 +1,16 @@
+{
+ "job_id": "ctl_e_segdup_correct_ill",
+ "assembly_path": "controls/dna/refs/original.fa.gz",
+ "contig": "CP109162.1",
+ "gene_start": 6880001,
+ "gene_end": 7000000,
+ "strand": "+",
+ "illumina": [
+  "controls/dna/reads/SRR21428551_1.fastq.gz",
+  "controls/dna/reads/SRR21428551_2.fastq.gz"
+ ],
+ "illumina_expected_reads": 15565314,
+ "ont": [],
+ "ont_expected_reads": 36579,
+ "truth": "correct assembly; contains a 13.8-kb segmental repeat (second copy at 2.94 Mb, reversed)"
+}

@@ -1,0 +1,48 @@
+{
+ "raw_files": 60,
+ "ms2_spectra_raw": 1106517,
+ "ms1_spectra_raw": 137741,
+ "instrument": [
+  "Orbitrap Velos Pro"
+ ],
+ "conversions_completed": 60,
+ "conversion_errors": 0,
+ "mgf_spectra": 594284,
+ "mgf_share_of_raw_ms2": 0.537,
+ "best_protein_q": {
+  "giant": 0.00022342913,
+  "CTRLREV_giant": 0.08902783,
+  "CTRLSHUF_giant": 0.17032512
+ },
+ "raw_unique_peptides": 182,
+ "raw_starts_first_6000": 179,
+ "raw_after_6000": [
+  [
+   8279,
+   1,
+   0.000376,
+   "METTQAQAVLR"
+  ],
+  [
+   12982,
+   1,
+   5.116e-05,
+   "INLQTNTVDPQGSK"
+  ],
+  [
+   15831,
+   1,
+   0.0001349,
+   "IVGNPDLAER"
+  ]
+ ],
+ "raw_last_residue": 15840,
+ "raw_last_residue_pct": 39.9,
+ "peptides_in_both_searches": 179,
+ "peptides_only_raw": 3,
+ "peptides_only_mgf": 7,
+ "mgf_only_after_6000": [
+  16949
+ ],
+ "raw_peptides_inside_or_after_repeats": 0
+}

@@ -1,0 +1,17 @@
+{
+ "job_id": "omnitrophota_DAOOUB_HOW35280",
+ "label": "Omnitrophota MAG AMR_MDS_2478 HOW35280 (85,803 aa)",
+ "assembly_url": "https://ftp.ebi.ac.uk/pub/databases/ena/wgs/public/dao/DAOOUB01.fasta.gz",
+ "contig": "DAOOUB010000001.1",
+ "gene_start": 507741,
+ "gene_end": 765152,
+ "strand": "-",
+ "ont": [],
+ "illumina": [
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR424/009/SRR4244739/SRR4244739_1.fastq.gz",
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR424/009/SRR4244739/SRR4244739_2.fastq.gz"
+ ],
+ "illumina_bytes": 7295660895,
+ "ont_bytes": 0,
+ "illumina_expected_reads": 83321080
+}

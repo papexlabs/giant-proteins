@@ -1,0 +1,20 @@
+{
+ "job_id": "nocardia_NBC_00881_WSY60125",
+ "label": "Nocardia sp. NBC_00881 WP_406270362.1 / WSY60125.1 (59,275 aa)",
+ "assembly_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/045/207/455/GCA_045207455.1_ASM4520745v1/GCA_045207455.1_ASM4520745v1_genomic.fna.gz",
+ "contig": "CP108798.1",
+ "gene_start": 6663804,
+ "gene_end": 6841631,
+ "strand": "+",
+ "ont": [
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR216/020/SRR21696620/SRR21696620_1.fastq.gz"
+ ],
+ "illumina": [
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/018/SRR21428318/SRR21428318_1.fastq.gz",
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/018/SRR21428318/SRR21428318_2.fastq.gz"
+ ],
+ "illumina_bytes": 718208350,
+ "ont_bytes": 592511142,
+ "illumina_expected_reads": 14056286,
+ "ont_expected_reads": 61843
+}

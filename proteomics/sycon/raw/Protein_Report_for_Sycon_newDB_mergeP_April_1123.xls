@@ -1,0 +1,78 @@
+Sycon_newDB_mergeP_April_1123, Protein report created on 10/25/2024
+Experiment: Sycon_newDB_mergeP_April_1123
+	Peak List Generator: unknown
+		Version: unknown
+		Charge States Calculated: unknown
+		Deisotoped: unknown
+		Textual Annotation: unknown
+	Database Set: 1 Database
+		Database Name: the Sponge_Sycon_2023_HBWS01_CDS20231106 database
+			Version: unknown
+			Taxonomy: All Entries
+			Number of Proteins: 99773
+		Does database contain common contaminants?: unknown
+	Search Engine Set: 1 Search Engine
+		Search Engine: Mascot
+			Version: 2.6.2
+			Samples: All Samples
+			Fragment Tolerance: 0.020 Da (Monoisotopic)
+			Parent Tolerance: 10.0 PPM (Monoisotopic)
+			Fixed Modifications: +57 on C (Carbamidomethyl)
+			Variable Modifications: +16 on M (Oxidation)
+			Database: the Sponge_Sycon_2023_HBWS01_CDS20231106 database (unknown version, 99773 entries)
+			Digestion Enzyme: Trypsin
+			Max Missed Cleavages: 1
+			Probability Model: 
+				mascot_daemon_merge (F014903): Percolator [all charge states]
+	Scaffold: Version: Scaffold_5.0.1
+		Modification Metadata Set: 2334 modifications
+			Source: C:\Program Files\Scaffold\parameters\unimod.xml
+			Comment: 
+		Protein Grouping Strategy: Experiment-wide grouping with binary peptide-protein weights
+		Peptide Thresholds: 76.0% minimum 
+		Protein Thresholds: 96.0% minimum and 1 peptide minimum
+		Peptide FDR: 0.0% (Decoy)
+		Protein FDR: 0.0% (Decoy)
+		GO Annotation Source(s): 
+		Pathway Annotation Source(s): 
+		Alternate ID Source(s): 
+
+Experiment name	Biological sample category	Biological sample name	MS/MS sample name	Protein name	Protein accession numbers	Alternate IDs	Database sources	Protein molecular weight (Da)	Protein identification probability	Exclusive unique peptide count	Exclusive unique spectrum count	Exclusive spectrum count	Percentage of total spectra	Percentage sequence coverage	Length
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0794662.1|Sycon ciliatum Calcarin 3	CAH0794662		Sponge_Sycon_2023_HBWS01_CDS.fasta	38,610.0	100.0%	9	9	28	0.0214%	29.1%	362
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0809064.1|Sycon ciliatum similar to Elongation factor 2 (0 Sophophora); CCQ18663.1 Translation elongation factor EF-1 alpha/Tu (5.47e-06 Sycon ciliatum)	CAH0809064		Sponge_Sycon_2023_HBWS01_CDS.fasta	94,009.0	98.0%	1	2	5	0.00382%	2.86%	841
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0811471.1|Sycon ciliatum Calcarin 10	CAH0811471		Sponge_Sycon_2023_HBWS01_CDS.fasta	29,173.4	98.6%	1	1	2	0.00153%	4.18%	288
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0924671.1|Sycon ciliatum partial Calcarin 11	CAH0924671		Sponge_Sycon_2023_HBWS01_CDS.fasta	71,611.4	98.2%	1	1	3	0.00229%	1.15%	695
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0893205.1|Sycon ciliatum partial similar to Cysteine-rich secretory protein LCCL domain-containing 2 (2.77e-32 Silurana)	CAH0893205		Sponge_Sycon_2023_HBWS01_CDS.fasta	34,315.1	99.8%	2	2	5	0.00382%	9.66%	321
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0796798.1|Sycon ciliatum similar to Galaxin (1.84e-13 Acropora)	CAH0796798,Sci_TRINITY_DN22565_c0_g1		Sponge_Sycon_2023_HBWS01_CDS.fasta	32,106.2	99.9%	2	2	3	0.00229%	6.54%	307
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	HBWS01158424b|Sycon ciliatum Calcarin 8	xxxxxxxxxx		Sponge_Sycon_2023_HBWS01_CDS.fasta	39,824.6	98.5%	1	1	1	0.000763%	3.64%	386
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0805104.1|Sycon ciliatum partial similar to Peptidyl-prolyl cis-trans isomerase B (1.71e-95 Mus)	CAH0805104		Sponge_Sycon_2023_HBWS01_CDS.fasta	25,087.3	100.0%	3	3	7	0.00534%	11.8%	230
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0797261.1|Sycon ciliatum similar to Subtilisin-like protease CPC735_031240 (2.23e-72 Coccidioides)	CAH0797261		Sponge_Sycon_2023_HBWS01_CDS.fasta	52,635.0	100.0%	3	3	9	0.00687%	5.12%	489
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0816633.1|Sycon ciliatum partial hypothetical protein	CAH0816633,CAH0869199,CAH0888392		Sponge_Sycon_2023_HBWS01_CDS.fasta	71,927.8	100.0%	5	5	6	0.00458%	7.37%	692
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0871494.1|Sycon ciliatum similar to Collagen alpha-2(I) chain (1.45e-109 Rattus)	CAH0871494,CAH0871496		Sponge_Sycon_2023_HBWS01_CDS.fasta	125,937.0	98.7%	1	1	1	0.000763%	0.672%	1340
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0891878.1|Sycon ciliatum similar to Peptidase inhibitor 15 (9.6e-28 Gallus)	CAH0891878		Sponge_Sycon_2023_HBWS01_CDS.fasta	35,818.9	100.0%	3	3	11	0.00840%	10.6%	332
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0930803.1|Sycon ciliatum partial hypothetical protein	CAH0930803		Sponge_Sycon_2023_HBWS01_CDS.fasta	56,006.8	96.2%	1	1	1	0.000763%	4.55%	528
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0869830.1|Sycon ciliatum Calcarin 7	CAH0869830		Sponge_Sycon_2023_HBWS01_CDS.fasta	43,593.2	99.5%	2	2	7	0.00534%	4.89%	410
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0791050.1|Sycon ciliatum partial similar to Histone H4 (1.67e-67 Dendronephthya)	CAH0791050		Sponge_Sycon_2023_HBWS01_CDS.fasta	12,345.0	99.9%	2	2	2	0.00153%	19.8%	112
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0819637.1|Sycon ciliatum hypothetical protein	CAH0819637		Sponge_Sycon_2023_HBWS01_CDS.fasta	85,748.0	99.9%	2	2	2	0.00153%	2.41%	791
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0799654.1|Sycon ciliatum partial hypothetical protein	CAH0799654		Sponge_Sycon_2023_HBWS01_CDS.fasta	32,476.4	95.8%	1	2	4	0.00305%	23.1%	291
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0894882.1|Sycon ciliatum partial similar to Peptidyl-prolyl cis-trans isomerase B (4.89e-90 Bos)	CAH0894882		Sponge_Sycon_2023_HBWS01_CDS.fasta	26,064.5	100.0%	5	5	6	0.00458%	17.2%	240
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0794423.1|Sycon ciliatum hypothetical protein	CAH0794423,CAH0928132,CAH0945103,CAH0945104		Sponge_Sycon_2023_HBWS01_CDS.fasta	21,705.9	99.5%	1	1	3	0.00229%	4.81%	209
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0874318.1|Sycon ciliatum hypothetical protein	CAH0874318		Sponge_Sycon_2023_HBWS01_CDS.fasta	23,962.3	95.7%	1	1	1	0.000763%	3.69%	218
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0788721.1|Sycon ciliatum similar to Tubulin beta chain (0 Paracentrotus)	CAH0788721		Sponge_Sycon_2023_HBWS01_CDS.fasta	50,036.1	100.0%	4	5	20	0.0153%	15.2%	449
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0944656.1|Sycon ciliatum partial similar to ATP synthase subunit alpha, mitochondrial (0 Bos); CCQ42778.1 ATP synthase beta chain (7.03e-21 Sycon ciliatum)	CAH0944656		Sponge_Sycon_2023_HBWS01_CDS.fasta	63,882.7	96.1%	1	1	1	0.000763%	1.70%	589
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0903063.1|Sycon ciliatum partial similar to Neurogenic locus notch homolog protein 1 (2.41e-119 Homo)	CAH0903063		Sponge_Sycon_2023_HBWS01_CDS.fasta	268,668.5	98.9%	1	1	1	0.000763%	0.296%	2700
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0819945.1|Sycon ciliatum hypothetical protein	CAH0819945		Sponge_Sycon_2023_HBWS01_CDS.fasta	56,545.7	99.2%	2	2	3	0.00229%	4.04%	521
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0941340.1|Sycon ciliatum Calcarin1	CAH0941340		Sponge_Sycon_2023_HBWS01_CDS.fasta	41,226.0	99.2%	2	2	4	0.00305%	5.61%	393
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0889971.1|Sycon ciliatum partial hypothetical protein	CAH0889971		Sponge_Sycon_2023_HBWS01_CDS.fasta	28,356.7	97.7%	1	1	2	0.00153%	4.95%	284
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0824556.1|Sycon ciliatum partial similar to Tubulin alpha chain (5.09e-63 Oncorhynchus)	CAH0824556		Sponge_Sycon_2023_HBWS01_CDS.fasta	11,887.5	97.4%	1	2	2	0.00153%	13.5%	104
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0799386.1|Sycon ciliatum partial hypothetical protein	CAH0799386		Sponge_Sycon_2023_HBWS01_CDS.fasta	83,266.4	99.9%	2	2	3	0.00229%	2.69%	782
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0869470.1|Sycon ciliatum hypothetical protein	CAH0869470		Sponge_Sycon_2023_HBWS01_CDS.fasta	80,566.3	99.9%	1	1	1	0.000763%	1.35%	740
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0883051.1|Sycon ciliatum hypothetical protein	CAH0883051,CAH0893968		Sponge_Sycon_2023_HBWS01_CDS.fasta	41,896.9	100.0%	5	5	10	0.00763%	14.9%	377
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0821874.1|Sycon ciliatum partial hypothetical protein	CAH0821874		Sponge_Sycon_2023_HBWS01_CDS.fasta	33,875.7	99.8%	1	1	4	0.00305%	3.43%	322
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0795681.1|Sycon ciliatum hypothetical protein	CAH0795681		Sponge_Sycon_2023_HBWS01_CDS.fasta	55,598.3	100.0%	5	6	6	0.00458%	10.5%	507
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0826820.1|Sycon ciliatum partial hypothetical protein	CAH0826820,CAH0943672		Sponge_Sycon_2023_HBWS01_CDS.fasta	53,087.9	99.5%	1	3	4	0.00305%	5.93%	490
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0872848.1|Sycon ciliatum hypothetical protein	CAH0872848		Sponge_Sycon_2023_HBWS01_CDS.fasta	70,186.6	100.0%	2	2	3	0.00229%	5.29%	644
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0812942.1|Sycon ciliatum similar to Enolase (0 Caenorhabditis)	CAH0812942		Sponge_Sycon_2023_HBWS01_CDS.fasta	46,497.9	97.1%	1	2	5	0.00382%	4.16%	434
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0938818.1|Sycon ciliatum similar to Sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1 (5.11e-10 Mus)	CAH0938818		Sponge_Sycon_2023_HBWS01_CDS.fasta	48,676.4	97.6%	1	1	1	0.000763%	1.60%	439
+Sycon_newDB_mergeP_April_1123	Uncategorized Sample	Sycon_GW1999	mascot_daemon_merge (F014903)	CAH0812801.1|Sycon ciliatum similar to Tubulin alpha-1C chain (0 Homo)	CAH0812801		Sponge_Sycon_2023_HBWS01_CDS.fasta	50,311.0	100.0%	5	7	18	0.0137%	20.0%	455
+END OF FILE

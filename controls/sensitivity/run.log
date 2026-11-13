@@ -1,0 +1,36 @@
+baseline reproduces data/locus_checks.tsv grades: True (differences: 0 )
+published thresholds {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1 rule v1: repeat pattern alone is a contradiction (used until 13 Nov) {'D': 76, 'B': 265, 'C': 49, 'A': 120} {'D': 34, 'B': 5, 'C': 17, 'A': 1} 47 17
+RNA verdict order v1: covered-intron test only below 50 % support (used until 13 Nov) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1 period identity >= 0.5 (published 0.6) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1 period identity >= 0.5, D1 rule v1 {'D': 76, 'B': 265, 'C': 49, 'A': 120} {'D': 34, 'B': 5, 'C': 17, 'A': 1} 47 17
+D1 period identity >= 0.7 (published 0.6) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1 period identity >= 0.7, D1 rule v1 {'D': 76, 'B': 265, 'C': 49, 'A': 120} {'D': 34, 'B': 5, 'C': 17, 'A': 1} 47 17
+D1 period identity >= 0.8 (published 0.6) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1 period identity >= 0.8, D1 rule v1 {'D': 76, 'B': 265, 'C': 49, 'A': 120} {'D': 34, 'B': 5, 'C': 17, 'A': 1} 47 17
+D1 rep25 >= 0.6 (published 0.8) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1 rep25 >= 0.6, D1 rule v1 {'D': 76, 'B': 265, 'C': 49, 'A': 120} {'D': 34, 'B': 5, 'C': 17, 'A': 1} 47 17
+D1 rep25 >= 0.9 (published 0.8) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1 rep25 >= 0.9, D1 rule v1 {'D': 73, 'B': 265, 'C': 52, 'A': 120} {'D': 34, 'B': 5, 'C': 17, 'A': 1} 44 17
+D1-D3 domain guard < 0.02 (published 0.05) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1-D3 domain guard < 0.10 (published 0.05) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D1-D3 domain guard < 0.20 (published 0.05) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D2 non-coding windows >= 0.3 (published 0.5) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+D2 non-coding windows >= 0.7 (published 0.5) {'D': 28, 'B': 267, 'C': 95, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 1 0
+D3 open frames >= 1 (published 2) {'D': 78, 'B': 259, 'C': 54, 'A': 119} {'D': 33, 'B': 3, 'C': 21} 49 16
+D3 open frames >= 3 (published 2) {'D': 26, 'B': 268, 'C': 96, 'A': 120} {'D': 16, 'B': 5, 'C': 35, 'A': 1} 3 1
+coding signal Fickett median >= 0.90 (published 0.95) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+coding signal Fickett median >= 1.00 (published 0.95) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+record twins counted as independent (S1 species key and S2 assembly key before 13 Nov) {'D': 29, 'B': 273, 'C': 88, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 6 0
+S6 peptides: >= 3 of 5 length fifths (published: all 5; first draft 13 Nov) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+spliced reads per intron >= 1 (published 3) {'D': 29, 'B': 210, 'C': 93, 'A': 178} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 59 0
+spliced reads per intron >= 2 (published 3) {'D': 29, 'B': 250, 'C': 94, 'A': 137} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 17 0
+spliced reads per intron >= 5 (published 3) {'D': 29, 'B': 269, 'C': 94, 'A': 118} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 2 0
+spliced reads per intron >= 10 (published 3) {'D': 29, 'B': 265, 'C': 99, 'A': 117} {'D': 17, 'B': 4, 'C': 35, 'A': 1} 8 1
+'full' intron fraction >= 0.8 (published 0.9) {'D': 29, 'B': 209, 'C': 94, 'A': 178} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 58 0
+'full' intron fraction >= 0.95 (published 0.9) {'D': 29, 'B': 271, 'C': 94, 'A': 116} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 4 0
+'partial' intron fraction >= 0.3 (published 0.5) {'D': 29, 'B': 268, 'C': 93, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 1 0
+'partial' intron fraction >= 0.7 (published 0.5) {'D': 29, 'B': 266, 'C': 95, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 1 0
+testable-intron flank depth >= 5 (published 10) {'D': 29, 'B': 266, 'C': 95, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 1 0
+testable-intron flank depth >= 20 (published 10) {'D': 29, 'B': 267, 'C': 94, 'A': 120} {'D': 17, 'B': 5, 'C': 34, 'A': 1} 0 0
+written controls/sensitivity/sensitivity_stage12.tsv

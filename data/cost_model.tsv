@@ -1,0 +1,4 @@
+case	s2_species_with_rnaseq	s2_runs	s2_gb	s2_vcpu_h	s3_species	s3_gb	s3_vcpu_h	other_vcpu_h	total_vcpu_h	compute_usd	storage_usd	total_usd
+low	71	194	764	146	8	160	80	120	346	1.7	9.0	10.7
+central	71	301	1186	452	8	400	200	510	1162	9.3	22.5	31.8
+high	71	913	3597	3875	91	13650	5460	2200	11535	173.0	180.0	353.0

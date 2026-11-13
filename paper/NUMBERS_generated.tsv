@@ -1,0 +1,671 @@
+key	value	source
+titin_len	35991	human titin NP_001254479.2 length, data/locus_checks.tsv (control row, column length)
+pkz_len	45212	PKZILLA-1 KAL1508129.1 length, data/locus_checks.tsv column length
+uniprotkb_gt_titin	51	data/uniprotkb_ge35992.tsv rows (UniProtKB 2026_04, length > 35,991)
+uniprotkb_gt_pkz	4	data/uniprotkb_ge35992.tsv, Length > 45,212
+uniprotkb_pe3	37	data/uniprotkb_ge35992.tsv column 'Protein existence' = Inferred from homology
+uniprotkb_pe4	14	data/uniprotkb_ge35992.tsv column 'Protein existence' = Predicted
+uniprotkb_reviewed	0	data/uniprotkb_ge35992.tsv column Reviewed
+uniparc_gt_titin	477	data/uniparc_ge35992.tsv rows
+uniparc_gt_pkz	65	data/uniparc_ge35992.tsv, length > 45,212
+ncbi_gt_titin	472	data/ncbi_counts.tsv all_gt_titin_isoform (Entrez, 11 Nov 2026)
+ncbi_gt_pkz	47	data/ncbi_counts.tsv all_gt_pkzilla1
+refseq_gt_titin	349	data/ncbi_counts.tsv refseq_gt_titin_isoform
+union_seqs	552	data/giant_unique_sequences.tsv rows (unique MD5)
+union_gt_pkz	71	data/giant_unique_sequences.tsv, length > 45,212
+union_live	523	data/giant_unique_sequences.tsv currently_live = yes
+excl_nolive	29	data/giant_unique_sequences.tsv currently_live = no
+excl_patent	6	data/giant_unique_sequences.tsv patent_or_synthetic = yes
+excl_partial	7	data/giant_unique_sequences.tsv partial_in_title = yes
+longest_record	187500	data/giant_unique_sequences.tsv max length (a patent sequence, excluded)
+n_retained	510	data/stage0_table.tsv triage != T-excl
+n_excluded	42	data/stage0_table.tsv triage = T-excl
+n_retained_gt_pkz	57	data/stage0_table.tsv, retained and length > 45,212
+loci_retained_stage0	228	data/stage0_loci.tsv triage != T-excl
+xp_records	329	data/ncbi_records_parsed.tsv accessions starting XP_
+xp_genes	52	data/ncbi_records_parsed.tsv distinct gene_id among XP_
+n_euk	452	data/locus_checks.tsv superkingdom (510 rows, controls excluded)
+n_bact	57	data/locus_checks.tsv superkingdom
+n_arch	1	data/locus_checks.tsv superkingdom
+big_euk	34	data/locus_checks.tsv superkingdom, length > 45,212
+big_bact	23	data/locus_checks.tsv superkingdom, length > 45,212
+s1_all_A	114	data/locus_checks.tsv column grade_stage1, 510 sequences
+s1_all_B	213	data/locus_checks.tsv column grade_stage1, 510 sequences
+s1_all_C	154	data/locus_checks.tsv column grade_stage1, 510 sequences
+s1_all_D	29	data/locus_checks.tsv column grade_stage1, 510 sequences
+s1_big_A	0	data/locus_checks.tsv column grade_stage1, length > 45,212
+s1_big_B	4	data/locus_checks.tsv column grade_stage1, length > 45,212
+s1_big_C	36	data/locus_checks.tsv column grade_stage1, length > 45,212
+s1_big_D	17	data/locus_checks.tsv column grade_stage1, length > 45,212
+s2_all_A	119	data/locus_checks.tsv column grade_stage2_rna, 510 sequences
+s2_all_B	267	data/locus_checks.tsv column grade_stage2_rna, 510 sequences
+s2_all_C	95	data/locus_checks.tsv column grade_stage2_rna, 510 sequences
+s2_all_D	29	data/locus_checks.tsv column grade_stage2_rna, 510 sequences
+s2_big_A	0	data/locus_checks.tsv column grade_stage2_rna, length > 45,212
+s2_big_B	5	data/locus_checks.tsv column grade_stage2_rna, length > 45,212
+s2_big_C	35	data/locus_checks.tsv column grade_stage2_rna, length > 45,212
+s2_big_D	17	data/locus_checks.tsv column grade_stage2_rna, length > 45,212
+fin_all_A	120	data/locus_checks.tsv column grade, 510 sequences
+fin_all_B	267	data/locus_checks.tsv column grade, 510 sequences
+fin_all_C	94	data/locus_checks.tsv column grade, 510 sequences
+fin_all_D	29	data/locus_checks.tsv column grade, 510 sequences
+fin_big_A	1	data/locus_checks.tsv column grade, length > 45,212
+fin_big_B	5	data/locus_checks.tsv column grade, length > 45,212
+fin_big_C	34	data/locus_checks.tsv column grade, length > 45,212
+fin_big_D	17	data/locus_checks.tsv column grade, length > 45,212
+s1s2_C_to_B	59	data/locus_checks.tsv grade_stage1 C -> grade_stage2_rna B
+s1s2_B_to_A	5	data/locus_checks.tsv grade_stage1 B -> grade_stage2_rna A
+s1s2_C_to_B_apostichopus	48	data/locus_checks.tsv, C -> B rows with organism Apostichopus japonicus
+rule_D1_all	25	data/locus_checks.tsv grade_reason_stage1 contains 'D1 ' (D rows)
+rule_D1_big	15	same, length > 45,212
+rule_D2_all	16	data/locus_checks.tsv grade_reason_stage1 contains 'D2 ' (D rows)
+rule_D2_big	10	same, length > 45,212
+rule_D3_all	24	data/locus_checks.tsv grade_reason_stage1 contains 'D3 ' (D rows)
+rule_D3_big	15	same, length > 45,212
+rule_D5_all	3	data/locus_checks.tsv grade_reason_stage1 contains 'D5 ' (D rows)
+rule_D5_big	2	same, length > 45,212
+rule_D1_big_euk	14	data/locus_checks.tsv D1 rows > 45,212 aa, superkingdom Eukaryota
+d1_pattern_all	72	data/locus_checks.tsv grade_reason_stage1 contains 'D1 ' or 'repeat flag'
+d1_pattern_big	32	same, length > 45,212
+d1_pattern_big_euk	29	same, Eukaryota
+repeat_flag_all	47	data/locus_checks.tsv 'repeat flag' (D1 pattern without D2/D3)
+repeat_flag_big	17	same, length > 45,212
+flag_big_weak_coding	11	data/locus_checks.tsv repeat-flag rows > 45,212 aa with Fickett median < 0.95
+flag_big_weak_coding_range	(0.919, 0.942)	same, Fickett median range
+flag_big_coding	4	repeat-flag rows > 45,212 aa with Fickett median >= 0.95
+flag_big_nodna	2	repeat-flag rows > 45,212 aa without locus DNA
+d_big_d1_with_dna	15	data/locus_checks.tsv D rows > 45,212 aa with D1 (now always with D2 or D3)
+d_big_d5	2	data/locus_checks.tsv D rows > 45,212 aa with D5
+rna_not_tested_d1	0	data/locus_checks.tsv rnaseq_verdict not-tested (graded D1 ...)
+rep_models	43	data/locus_checks.tsv repeat-flag models in cloud/bundle_rep_rna/loci or without a locus (the 43 never sent to the RNA stage)
+rep_testable	10	data/locus_checks.tsv models whose bundle_rep_rna species key has runs in jobs.tsv
+rep_testable_big	5	same, length > 45,212
+rep_jobs	7	cloud/bundle_rep_rna/jobs.tsv rows
+rep_runs	33	cloud/bundle_rep_rna/jobs.tsv n_runs sum
+rep_gb	135	cloud/bundle_rep_rna/jobs.tsv runs_gb sum
+rep_schisto1_supported	32	data/rnaseq_support.tsv CAH8664242.1 introns_counted_supported
+rep_schisto1_introns	45	data/rnaseq_support.tsv CAH8664242.1 n_introns
+rep_schisto1_testable	32	data/rnaseq_support.tsv CAH8664242.1 testable_introns
+rep_schisto1_testable_unsup	0	data/rnaseq_support.tsv CAH8664242.1 testable_introns_unsupported
+rep_schisto1_unique_reads	44113	data/rnaseq_support.tsv CAH8664242.1 reads_unique
+rep_schisto1_verdict	partial	data/rnaseq_support.tsv CAH8664242.1 verdict
+rep_schisto1_grade	B	data/locus_checks.tsv CAH8664242.1 grade
+rep_schisto2_supported	32	data/rnaseq_support.tsv CAH8664230.1 introns_counted_supported
+rep_schisto2_introns	46	data/rnaseq_support.tsv CAH8664230.1 n_introns
+rep_schisto2_testable	32	data/rnaseq_support.tsv CAH8664230.1 testable_introns
+rep_schisto2_testable_unsup	0	data/rnaseq_support.tsv CAH8664230.1 testable_introns_unsupported
+rep_schisto2_unique_reads	44112	data/rnaseq_support.tsv CAH8664230.1 reads_unique
+rep_schisto2_verdict	partial	data/rnaseq_support.tsv CAH8664230.1 verdict
+rep_schisto2_grade	B	data/locus_checks.tsv CAH8664230.1 grade
+rep_owenia_supported	9	data/rnaseq_support.tsv CAH1773861.1 introns_counted_supported
+rep_owenia_introns	22	data/rnaseq_support.tsv CAH1773861.1 n_introns
+rep_owenia_testable	6	data/rnaseq_support.tsv CAH1773861.1 testable_introns
+rep_owenia_testable_unsup	0	data/rnaseq_support.tsv CAH1773861.1 testable_introns_unsupported
+rep_owenia_unique_reads	673	data/rnaseq_support.tsv CAH1773861.1 reads_unique
+rep_owenia_verdict	weak (unsupported introns lie where reads are too few)	data/rnaseq_support.tsv CAH1773861.1 verdict
+rep_owenia_grade	C	data/locus_checks.tsv CAH1773861.1 grade
+rep_arcto_supported	1	data/rnaseq_support.tsv CAR9444729.1 introns_counted_supported
+rep_arcto_introns	7	data/rnaseq_support.tsv CAR9444729.1 n_introns
+rep_arcto_testable	0	data/rnaseq_support.tsv CAR9444729.1 testable_introns
+rep_arcto_testable_unsup	0	data/rnaseq_support.tsv CAR9444729.1 testable_introns_unsupported
+rep_arcto_unique_reads	85	data/rnaseq_support.tsv CAR9444729.1 reads_unique
+rep_arcto_verdict	weak (unsupported introns lie where reads are too few)	data/rnaseq_support.tsv CAR9444729.1 verdict
+rep_arcto_grade	C	data/locus_checks.tsv CAR9444729.1 grade
+rep_noexpr	6	data/rnaseq_support.tsv verdict no-expression among the testable repeat-flag models
+rep_noexpr_max_unique	34	same, maximum reads_unique
+rep_contradicted	0	same, verdict contradicted
+rep_to_B	2	data/locus_checks.tsv testable repeat-flag models C -> B
+rep_to_D	0	same, grade D
+rep_run_results	33	data/rnaseq_run_results.tar.gz results/*_rep/*.json (run results, skips excluded)
+rep_run_skips	0	data/rnaseq_run_results.tar.gz results/*_rep/*.skip.json
+rep_schisto_err10016938	32	data/rnaseq_run_results.tar.gz results/Schistosoma_haematobium_944470465.2_rep/ERR10016938.json introns_with_ge3_exact_reads (CAH8664242.1), a run not seen during the Mac test
+mapp_gas1_uj	25	controls/rna_rep/junction_mappability.json CAR0409254.1 introns_unique_junction
+mapp_gas1_n	2053	controls/rna_rep/junction_mappability.json CAR0409254.1 n_introns
+mapp_gas1_pct	1	same, share_unique_junction x 100
+mapp_gas2_uj	26	controls/rna_rep/junction_mappability.json CAR0409140.1 introns_unique_junction
+mapp_gas2_n	1273	controls/rna_rep/junction_mappability.json CAR0409140.1 n_introns
+mapp_gas2_pct	2	same, share_unique_junction x 100
+mapp_gas3_uj	27	controls/rna_rep/junction_mappability.json CAR0409152.1 introns_unique_junction
+mapp_gas3_n	1208	controls/rna_rep/junction_mappability.json CAR0409152.1 n_introns
+mapp_gas3_pct	2	same, share_unique_junction x 100
+mapp_acn_uj	48	controls/rna_rep/junction_mappability.json KAL7845143.1 introns_unique_junction
+mapp_acn_n	1035	controls/rna_rep/junction_mappability.json KAL7845143.1 n_introns
+mapp_acn_pct	5	same, share_unique_junction x 100
+mapp_syn1_uj	16	controls/rna_rep/junction_mappability.json KAJ8332361.1 introns_unique_junction
+mapp_syn1_n	203	controls/rna_rep/junction_mappability.json KAJ8332361.1 n_introns
+mapp_syn1_pct	8	same, share_unique_junction x 100
+mapp_syn2_uj	9	controls/rna_rep/junction_mappability.json KAJ8332362.1 introns_unique_junction
+mapp_syn2_n	134	controls/rna_rep/junction_mappability.json KAJ8332362.1 n_introns
+mapp_syn2_pct	7	same, share_unique_junction x 100
+mapp_schisto1_uj	37	controls/rna_rep/junction_mappability.json CAH8664242.1 introns_unique_junction
+mapp_schisto1_n	45	controls/rna_rep/junction_mappability.json CAH8664242.1 n_introns
+mapp_schisto1_pct	82	same, share_unique_junction x 100
+mapp_owenia_uj	22	controls/rna_rep/junction_mappability.json CAH1773861.1 introns_unique_junction
+mapp_owenia_n	22	controls/rna_rep/junction_mappability.json CAH1773861.1 n_introns
+mapp_owenia_pct	100	same, share_unique_junction x 100
+mapp_arcto_uj	7	controls/rna_rep/junction_mappability.json CAR9444729.1 introns_unique_junction
+mapp_arcto_n	7	controls/rna_rep/junction_mappability.json CAR9444729.1 n_introns
+mapp_arcto_pct	100	same, share_unique_junction x 100
+ctl_release	2026_04	controls/d1/summary.json uniprot_release
+ctl_n	176	controls/d1/summary.json n_entries
+ctl_silk_n	3	controls/d1/summary.json by_group[G1 silk (Swiss-Prot)].n
+ctl_silk_d1	1	controls/d1/summary.json by_group[G1 silk (Swiss-Prot)].D1
+ctl_spidroin_n	4	controls/d1/summary.json by_group[G1b complete spidroins].n
+ctl_spidroin_d1	3	controls/d1/summary.json by_group[G1b complete spidroins].D1
+ctl_mucin_n	15	controls/d1/summary.json by_group[G2 mucins].n
+ctl_mucin_d1	0	controls/d1/summary.json by_group[G2 mucins].D1
+ctl_adhesin_n	13	controls/d1/summary.json by_group[G3 bacterial adhesins].n
+ctl_adhesin_d1	4	controls/d1/summary.json by_group[G3 bacterial adhesins].D1
+ctl_long_n	150	controls/d1/summary.json by_group[G4 long proteins].n
+ctl_long_d1	3	controls/d1/summary.json by_group[G4 long proteins].D1
+ctl_d1_flagged	10	controls/d1/summary.json all.D1
+ctl_d23_flagged	0	controls/d1/summary.json flagged with D2 or D3
+ctl_flagged_with_cds	8	controls/d1/d1_controls.tsv D1 rows with a matched CDS
+ctl_flagged_fickett_min	1.094	same, minimum Fickett median
+ctl_flagged_open_max	1	same, maximum open alternative frames
+hold_n	9428	controls/d1/holdout_summary.json n_holdout
+hold_trigger	17	controls/d1/holdout_summary.json repeat_trigger
+hold_d1_v1	17	controls/d1/holdout_summary.json D1_rule_v1
+hold_d1_cds	10	controls/d1/holdout_summary.json D1_with_cds
+hold_d1_v2	0	controls/d1/holdout_summary.json D1_revised
+power_models	57	controls/rna_power/summary.json models
+power_reps	20	controls/rna_power/summary.json replicates
+power_shift_0.1_v1_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.1'].v1['contradicted']
+power_shift_0.1_v1_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.1'].v1['under-supported where covered']
+power_shift_0.1_v1_partial	0.997	controls/rna_power/summary.json by_kind_fraction['shift 0.1'].v1['partial']
+power_shift_0.1_v1_full	0.003	controls/rna_power/summary.json by_kind_fraction['shift 0.1'].v1['full']
+power_shift_0.1_v2_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.1'].v2['contradicted']
+power_shift_0.1_v2_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.1'].v2['under-supported where covered']
+power_shift_0.1_v2_partial	0.997	controls/rna_power/summary.json by_kind_fraction['shift 0.1'].v2['partial']
+power_shift_0.1_v2_full	0.003	controls/rna_power/summary.json by_kind_fraction['shift 0.1'].v2['full']
+power_shift_0.2_v1_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v1['contradicted']
+power_shift_0.2_v1_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v1['under-supported where covered']
+power_shift_0.2_v1_partial	1.0	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v1['partial']
+power_shift_0.2_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v1['full']
+power_shift_0.2_v2_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v2['contradicted']
+power_shift_0.2_v2_under-supported	0.865	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v2['under-supported where covered']
+power_shift_0.2_v2_partial	0.135	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v2['partial']
+power_shift_0.2_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v2['full']
+power_shift_0.3_v1_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.3'].v1['contradicted']
+power_shift_0.3_v1_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.3'].v1['under-supported where covered']
+power_shift_0.3_v1_partial	1.0	controls/rna_power/summary.json by_kind_fraction['shift 0.3'].v1['partial']
+power_shift_0.3_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.3'].v1['full']
+power_shift_0.3_v2_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.3'].v2['contradicted']
+power_shift_0.3_v2_under-supported	1.0	controls/rna_power/summary.json by_kind_fraction['shift 0.3'].v2['under-supported where covered']
+power_shift_0.3_v2_partial	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.3'].v2['partial']
+power_shift_0.3_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.3'].v2['full']
+power_shift_0.4_v1_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.4'].v1['contradicted']
+power_shift_0.4_v1_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.4'].v1['under-supported where covered']
+power_shift_0.4_v1_partial	1.0	controls/rna_power/summary.json by_kind_fraction['shift 0.4'].v1['partial']
+power_shift_0.4_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.4'].v1['full']
+power_shift_0.4_v2_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.4'].v2['contradicted']
+power_shift_0.4_v2_under-supported	1.0	controls/rna_power/summary.json by_kind_fraction['shift 0.4'].v2['under-supported where covered']
+power_shift_0.4_v2_partial	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.4'].v2['partial']
+power_shift_0.4_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.4'].v2['full']
+power_shift_0.5_v1_contradicted	0.725	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v1['contradicted']
+power_shift_0.5_v1_under-supported	0.198	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v1['under-supported where covered']
+power_shift_0.5_v1_partial	0.076	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v1['partial']
+power_shift_0.5_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v1['full']
+power_shift_0.5_v2_contradicted	0.725	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v2['contradicted']
+power_shift_0.5_v2_under-supported	0.275	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v2['under-supported where covered']
+power_shift_0.5_v2_partial	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v2['partial']
+power_shift_0.5_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v2['full']
+power_shift_0.6_v1_contradicted	1.0	controls/rna_power/summary.json by_kind_fraction['shift 0.6'].v1['contradicted']
+power_shift_0.6_v1_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.6'].v1['under-supported where covered']
+power_shift_0.6_v1_partial	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.6'].v1['partial']
+power_shift_0.6_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.6'].v1['full']
+power_shift_0.6_v2_contradicted	1.0	controls/rna_power/summary.json by_kind_fraction['shift 0.6'].v2['contradicted']
+power_shift_0.6_v2_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.6'].v2['under-supported where covered']
+power_shift_0.6_v2_partial	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.6'].v2['partial']
+power_shift_0.6_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['shift 0.6'].v2['full']
+power_skip_0.2_v1_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v1['contradicted']
+power_skip_0.2_v1_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v1['under-supported where covered']
+power_skip_0.2_v1_partial	1.0	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v1['partial']
+power_skip_0.2_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v1['full']
+power_skip_0.2_v2_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v2['contradicted']
+power_skip_0.2_v2_under-supported	0.278	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v2['under-supported where covered']
+power_skip_0.2_v2_partial	0.722	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v2['partial']
+power_skip_0.2_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v2['full']
+power_skip_0.3_v1_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.3'].v1['contradicted']
+power_skip_0.3_v1_under-supported	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.3'].v1['under-supported where covered']
+power_skip_0.3_v1_partial	1.0	controls/rna_power/summary.json by_kind_fraction['skip 0.3'].v1['partial']
+power_skip_0.3_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.3'].v1['full']
+power_skip_0.3_v2_contradicted	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.3'].v2['contradicted']
+power_skip_0.3_v2_under-supported	1.0	controls/rna_power/summary.json by_kind_fraction['skip 0.3'].v2['under-supported where covered']
+power_skip_0.3_v2_partial	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.3'].v2['partial']
+power_skip_0.3_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.3'].v2['full']
+power_skip_0.5_v1_contradicted	0.242	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v1['contradicted']
+power_skip_0.5_v1_under-supported	0.061	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v1['under-supported where covered']
+power_skip_0.5_v1_partial	0.696	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v1['partial']
+power_skip_0.5_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v1['full']
+power_skip_0.5_v2_contradicted	0.242	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v2['contradicted']
+power_skip_0.5_v2_under-supported	0.758	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v2['under-supported where covered']
+power_skip_0.5_v2_partial	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v2['partial']
+power_skip_0.5_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v2['full']
+power_skip_0.6_v1_contradicted	0.981	controls/rna_power/summary.json by_kind_fraction['skip 0.6'].v1['contradicted']
+power_skip_0.6_v1_under-supported	0.009	controls/rna_power/summary.json by_kind_fraction['skip 0.6'].v1['under-supported where covered']
+power_skip_0.6_v1_partial	0.011	controls/rna_power/summary.json by_kind_fraction['skip 0.6'].v1['partial']
+power_skip_0.6_v1_full	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.6'].v1['full']
+power_skip_0.6_v2_contradicted	0.981	controls/rna_power/summary.json by_kind_fraction['skip 0.6'].v2['contradicted']
+power_skip_0.6_v2_under-supported	0.019	controls/rna_power/summary.json by_kind_fraction['skip 0.6'].v2['under-supported where covered']
+power_skip_0.6_v2_partial	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.6'].v2['partial']
+power_skip_0.6_v2_full	0.0	controls/rna_power/summary.json by_kind_fraction['skip 0.6'].v2['full']
+pw_contr_ge60_min_pct	98	controls/rna_power/summary.json by_kind_fraction: minimum 'contradicted' share at 60 and 80 % wrong introns (shift, skip)
+pw_shift50_pct	73	controls/rna_power/summary.json by_kind_fraction['shift 0.5'].v2.contradicted
+pw_skip50_pct	24	controls/rna_power/summary.json by_kind_fraction['skip 0.5'].v2.contradicted
+pw_v1_partial_2040_min_pct	99.9	controls/rna_power/summary.json by_kind_fraction: minimum v1 'partial' share at 20-40 % wrong
+pw_v2_down_3040_min_pct	100	controls/rna_power/summary.json by_kind_fraction: minimum v2 downgraded share at 30-40 % wrong
+pw_v2_shift20_pct	87	controls/rna_power/summary.json by_kind_fraction['shift 0.2'].v2 contradicted + under-supported
+pw_v2_skip20_pct	28	controls/rna_power/summary.json by_kind_fraction['skip 0.2'].v2 contradicted + under-supported
+pw_v2_10_down_pct	0	controls/rna_power/summary.json by_kind_fraction: maximum v2 downgraded share at 10 % wrong
+dnactl_v3_a_deletion_ill	against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.a_deletion/ill.final_verdict
+dnactl_v3_a_deletion_illont	against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.a_deletion/illont.final_verdict
+dnactl_v3_b_collapse_ill	supported by the reads	controls/dna/summary.json v3.b_collapse/ill.final_verdict
+dnactl_v3_b_collapse_illont	supported by the reads	controls/dna/summary.json v3.b_collapse/illont.final_verdict
+dnactl_v3_c_expansion_ill	supported outside 9.37 kb of repeat (no long reads to resolve it)	controls/dna/summary.json v3.c_expansion/ill.final_verdict
+dnactl_v3_c_expansion_illont	supported outside 9.37 kb of repeat; long reads do not span it	controls/dna/summary.json v3.c_expansion/illont.final_verdict
+dnactl_v3_d_rrna_correct_ill	supported outside 4.89 kb of repeat (no long reads to resolve it)	controls/dna/summary.json v3.d_rrna_correct/ill.final_verdict
+dnactl_v3_d_rrna_correct_illont	supported by the reads (short reads; the 4.89 kb repeat block(s) spanned by 13+ long reads)	controls/dna/summary.json v3.d_rrna_correct/illont.final_verdict
+dnactl_v3_e_segdup_correct_ill	inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.e_segdup_correct/ill.final_verdict
+dnactl_v3_e_segdup_correct_illont	inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.e_segdup_correct/illont.final_verdict
+dnactl_v31_a_deletion_ill	against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.1.a_deletion/ill.final_verdict
+dnactl_v31_a_deletion_illont	against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.1.a_deletion/illont.final_verdict
+dnactl_v31_b_collapse_ill	against: copy-number anomaly (v3.1): 5 kb at 1.98x, excess copies (collapsed repeat?)	controls/dna/summary.json v3.1.b_collapse/ill.final_verdict
+dnactl_v31_b_collapse_ill_ratio	1.98	controls/dna/summary.json v3.1.b_collapse/ill.copy_number_blocks
+dnactl_v31_b_collapse_illont	against: copy-number anomaly (v3.1): 5 kb at 1.98x, excess copies (collapsed repeat?)	controls/dna/summary.json v3.1.b_collapse/illont.final_verdict
+dnactl_v31_b_collapse_illont_ratio	1.98	controls/dna/summary.json v3.1.b_collapse/illont.copy_number_blocks
+dnactl_v31_c_expansion_ill	against: copy-number anomaly (v3.1): 10 kb at 0.49x, deficit (expanded or absent?) [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.1.c_expansion/ill.final_verdict
+dnactl_v31_c_expansion_ill_ratio	0.49	controls/dna/summary.json v3.1.c_expansion/ill.copy_number_blocks
+dnactl_v31_c_expansion_illont	against: copy-number anomaly (v3.1): 10 kb at 0.49x, deficit (expanded or absent?) [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.1.c_expansion/illont.final_verdict
+dnactl_v31_c_expansion_illont_ratio	0.49	controls/dna/summary.json v3.1.c_expansion/illont.copy_number_blocks
+dnactl_v31_d_rrna_correct_ill	supported outside 4.89 kb of repeat (no long reads to resolve it)	controls/dna/summary.json v3.1.d_rrna_correct/ill.final_verdict
+dnactl_v31_d_rrna_correct_illont	supported by the reads (short reads; the 4.89 kb repeat block(s) spanned by 13+ long reads)	controls/dna/summary.json v3.1.d_rrna_correct/illont.final_verdict
+dnactl_v31_e_segdup_correct_ill	inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.1.e_segdup_correct/ill.final_verdict
+dnactl_v31_e_segdup_correct_illont	inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	controls/dna/summary.json v3.1.e_segdup_correct/illont.final_verdict
+dnactl_real_unchanged	True	controls/dna/summary.json rejudged_real_v3.1 (v3 verdict == v3.1 verdict for all five)
+dnactl_repeat_depth_ratio_range	(0.84, 0.97)	controls/dna/summary.json repeat_block_all_mapq_depth_ratio (all five checks)
+dnactl_omni_repeat_depth_ratio_range	(0.86, 0.97)	same, Omnitrophota only
+sens_variants	33	controls/sensitivity/sensitivity_stage12.tsv rows minus the baseline
+sens_big_ab_stable	31	controls/sensitivity/sensitivity_stage12.tsv variant rows with the baseline A and B counts above 45,212 aa
+sens_big_ab_changed	[('D3 open frames >= 1 (published 2)', '0', '3'), ('spliced reads per intron >= 10 (published 3)', '1', '4')]	controls/sensitivity/sensitivity_stage12.tsv variants whose A or B count above 45,212 aa differs from the baseline
+sens_s6_lenient_all_B	267	controls/sensitivity/sensitivity_stage12.tsv S6 >= 3 fifths variant, all_B
+sens_base_all_B	267	controls/sensitivity/sensitivity_stage12.tsv baseline all_B
+sens_d1v1_big_D	34	controls/sensitivity/sensitivity_stage12.tsv D1 rule v1 big_D
+sens_d1v1_all_D	76	same, all_D
+sens_allA_range	(116, 178)	controls/sensitivity/sensitivity_stage12.tsv all_A range
+dna_sens_settings	7	controls/dna/sensitivity.tsv settings minus default
+dna_sens_grade_changes	[('min_pairs_per_boundary=10', 'WP_406270362.1', 'B', 'C')]	controls/dna/sensitivity.tsv rows whose grade differs from the current grade
+prot_spectra	594284	proteomics/results/verify_extra.json spectra_in_peak_lists (BEGIN IONS in the six MGF files)
+prot_db_entries	151457	proteomics/results/verify_extra.json database_entries
+prot_fractions	60	proteomics/results/verify_extra.json fractions (MudPIT fractions in the six peak lists)
+prot_scan_share_pct	48	proteomics/results/verify_extra.json share_of_scan_numbers_present x 100
+prot_id_rate_pct	84.6	proteomics/results/full6_summary.json target_psms_q01 / proteomics/results/verify_extra.json spectra_in_peak_lists
+prot_distal	[(8279, 1), (12982, 1), (15831, 1), (16949, 2)]	proteomics/results/verify_extra.json distal_peptides_psms (start, PSMs) for starts > 6,000
+prot_psms	502718	proteomics/results/full6_summary.json target_psms_q01 (spectrum q <= 0.01)
+prot_decoy_psms	5026	proteomics/results/full6_summary.json decoy_psms_q01
+prot_peptides	42000	proteomics/results/full6_summary.json target_peptides_q01 (peptide q <= 0.01)
+prot_proteins	7981	proteomics/results/full6_summary.json target_proteins_q01 (protein q <= 0.01)
+prot_giant_len	39686	proteomics/results/full6_summary.json giant.length
+prot_giant_peptides	186	proteomics/results/full6_summary.json giant.unique_peptides_q01 (PSM, peptide and protein q <= 0.01; unique in the database)
+prot_giant_shared	0	proteomics/results/full6_summary.json giant.shared_peptides_q01
+prot_giant_psms	1487	proteomics/results/full6_summary.json giant.unique_psms_q01
+prot_giant_residues	2357	proteomics/results/full6_summary.json giant.residues_covered_by_unique_peptides
+prot_giant_cov_pct	5.9	proteomics/results/full6_summary.json giant.coverage_frac x 100
+prot_giant_regions	86	proteomics/results/full6_summary.json giant.covered_regions
+prot_giant_first	292	proteomics/results/full6_summary.json giant.first_unique_position
+prot_giant_last_end	16957	proteomics/results/verify_extra.json last_residue_covered
+prot_giant_last_pct	42.7	proteomics/results/verify_extra.json fraction_of_length_up_to_last_residue x 100
+prot_giant_fifths	[182, 3, 1, 0, 0]	proteomics/results/full6_summary.json giant.unique_peptides_per_fifth_of_length
+prot_giant_first6000	182	proteomics/results/verify_extra.json unique_starts_first_6000
+prot_giant_after6000	[8279, 12982, 15831, 16949]	proteomics/results/verify_extra.json unique_starts_after_6000 (start positions)
+prot_giant_protein_q	0.00020151345	proteomics/results/verify_extra.json best_protein_q.giant
+prot_rev_q	0.063445985	proteomics/results/verify_extra.json best_protein_q.CTRLREV_giant
+prot_shuf_q	0.17356591	proteomics/results/verify_extra.json best_protein_q.CTRLSHUF_giant
+prot_rev_psms	0	proteomics/results/full6_summary.json controls_giant_copies['reversed giant'].psms_q01
+prot_shuf_psms	0	proteomics/results/full6_summary.json controls_giant_copies['shuffled giant'].psms_q01
+prot_tryptic_range	[41, 63]	proteomics/results/verify_extra.json theoretical_min_max_full_bins (7-40 aa fully tryptic per full 1,000-aa bin)
+prot_repeat_span	[17653, 25339]	proteomics/results/verify_extra.json repeat_span (20-mers occurring more than once, blocks >= 100 aa)
+prot_repeat_blocks	5	proteomics/results/verify_extra.json repeat_blocks_ge100aa (count)
+prot_peptides_in_or_after_repeats	0	proteomics/results/verify_extra.json unique_peptides_inside_or_after_first_block
+prot_eftu_peptides	23	proteomics/results/full6_summary.json normal_proteins['elongation factor Tu'].unique_peptides_q01
+prot_eftu_cov_pct	55	proteomics/results/full6_summary.json normal_proteins['elongation factor Tu'].coverage_by_unique_frac x 100
+prot_eftu_len	400	proteomics/results/full6_summary.json normal_proteins['elongation factor Tu'].length
+prot_l7_peptides	6	proteomics/results/full6_summary.json normal_proteins['ribosomal protein L7/L12'].unique_peptides_q01
+prot_l7_cov_pct	68	proteomics/results/full6_summary.json normal_proteins['ribosomal protein L7/L12'].coverage_by_unique_frac x 100
+prot_l7_len	128	proteomics/results/full6_summary.json normal_proteins['ribosomal protein L7/L12'].length
+prot_top_n	12	proteomics/results/summary.json abundant_proteins_same_organism (the 12 Velamenicoccus proteins with most PSMs)
+prot_top_rank_giant	11	proteomics/results/summary.json abundant_proteins_same_organism, rank of the giant by PSMs
+prot_top_cov_range	(40.8, 78.3)	proteomics/results/summary.json abundant_proteins_same_organism unique_coverage_pct, the other 11
+prot_wall_min	35	proteomics/results/summary.json search_settings.wall_s / 60
+prot_rss_gb	5.2	proteomics/results/summary.json search_settings.peak_rss_gb
+raw_files	60	proteomics/results/verify_raw.json raw_files (converted, searched)
+raw_conversion_errors	0	proteomics/results/verify_raw.json conversion_errors
+raw_ms2	1106517	proteomics/results/verify_raw.json ms2_spectra_raw (ThermoRawFileParser metadata)
+raw_mgf_share_pct	54	proteomics/results/verify_raw.json mgf_share_of_raw_ms2 x 100
+raw_instrument	Orbitrap Velos Pro	proteomics/results/verify_raw.json instrument
+raw_psms	507612	proteomics/results/raw60_summary.json target_psms_q01
+raw_peptides	40845	proteomics/results/raw60_summary.json target_peptides_q01
+raw_proteins	7560	proteomics/results/raw60_summary.json target_proteins_q01
+raw_giant_peptides	182	proteomics/results/raw60_summary.json giant.unique_peptides_q01
+raw_giant_psms	1505	proteomics/results/raw60_summary.json giant.unique_psms_q01
+raw_giant_residues	2282	proteomics/results/raw60_summary.json giant.residues_covered_by_unique_peptides
+raw_giant_cov_pct	5.8	proteomics/results/raw60_summary.json giant.coverage_frac x 100
+raw_giant_fifths	[179, 3, 0, 0, 0]	proteomics/results/raw60_summary.json giant.unique_peptides_per_fifth_of_length
+raw_giant_first6000	179	proteomics/results/verify_raw.json raw_starts_first_6000
+raw_giant_after6000	[(8279, 1), (12982, 1), (15831, 1)]	proteomics/results/verify_raw.json raw_after_6000 (start, PSMs)
+raw_giant_last_end	15840	proteomics/results/verify_raw.json raw_last_residue
+raw_giant_last_pct	39.9	proteomics/results/verify_raw.json raw_last_residue_pct
+raw_giant_protein_q	0.00022342913	proteomics/results/verify_raw.json best_protein_q.giant
+raw_rev_q	0.08902783	proteomics/results/verify_raw.json best_protein_q.CTRLREV_giant
+raw_shuf_q	0.17032512	proteomics/results/verify_raw.json best_protein_q.CTRLSHUF_giant
+raw_rev_psms	0	proteomics/results/raw60_summary.json controls_giant_copies['reversed giant'].psms_q01
+raw_shuf_psms	0	proteomics/results/raw60_summary.json controls_giant_copies['shuffled giant'].psms_q01
+raw_eftu_peptides	24	proteomics/results/raw60_summary.json normal_proteins['elongation factor Tu'].unique_peptides_q01
+raw_eftu_cov_pct	57	proteomics/results/raw60_summary.json normal_proteins['elongation factor Tu'].coverage_by_unique_frac x 100
+raw_l7_peptides	5	proteomics/results/raw60_summary.json normal_proteins['ribosomal protein L7/L12'].unique_peptides_q01
+raw_l7_cov_pct	56	proteomics/results/raw60_summary.json normal_proteins['ribosomal protein L7/L12'].coverage_by_unique_frac x 100
+raw_both	179	proteomics/results/verify_raw.json peptides_in_both_searches
+raw_only_raw	3	proteomics/results/verify_raw.json peptides_only_raw
+raw_only_mgf	7	proteomics/results/verify_raw.json peptides_only_mgf
+raw_mgf_only_after6000	[16949]	proteomics/results/verify_raw.json mgf_only_after_6000 (start)
+raw_in_or_after_repeats	0	proteomics/results/verify_raw.json raw_peptides_inside_or_after_repeats
+raw_wall_min	56	proteomics/search/sage_raw.log 'finished in 3337s' (rounded to min)
+prot_peak_last_q	0.009635	proteomics/results/full6_giant_peptides.tsv peptide_q of LNTIVTQNK (start 16,949)
+sy_ms2	131021	proteomics/sycon/results/summary.json spectra_searched_ms2
+sy_raw_files	5	proteomics/sycon/results/summary.json raw_files
+sy_db_kept	99767	proteomics/sycon/results/summary.json database_entries_searched minus the model and two controls
+sy_db_authors	99773	proteomics/sycon/results/summary.json database_entries_authors (authors' database)
+sy_fragments	6	proteomics/sycon/db/dropped_fragments.tsv rows (fragments of XP_065194412.1)
+sy_fragment_max_len	46359	same, longest fragment (CAH0927406.1)
+sy_psms_spec	272	proteomics/sycon/results/summary.json spectrum_level.target_psms
+sy_peptides_spec	88	proteomics/sycon/results/summary.json spectrum_level.target_peptides
+sy_min_pep_q	0.018	proteomics/sycon/results/summary.json min_peptide_q_any_target
+sy_min_prot_q	0.024	proteomics/sycon/results/summary.json min_protein_q_any_target
+sy_authors_n	37	proteomics/sycon/results/summary.json authors_reported_proteins
+sy_authors_found	31	proteomics/sycon/results/summary.json spectrum_level.authors_proteins_with_psm
+sy_giant_psms_spec	0	proteomics/sycon/results/summary.json spectrum_level.giant.psms_spectrum_q01
+sy_giant_psms_any	17	proteomics/sycon/results/summary.json spectrum_level.giant.psms_any_q
+sy_rev_psms_any	27	proteomics/sycon/results/summary.json spectrum_level.CTRLREV_giant.psms_any_q
+sy_shuf_psms_any	15	proteomics/sycon/results/summary.json spectrum_level.CTRLSHUF_giant.psms_any_q
+sy_calc3_psms	30	proteomics/sycon/results/summary.json spectrum_level.comparison_proteins.CAH0794662
+sy_tub_psms	37	proteomics/sycon/results/summary.json spectrum_level.comparison_proteins.CAH0788721
+sy_ef2_psms	9	proteomics/sycon/results/summary.json spectrum_level.comparison_proteins.CAH0809064
+prot_authors_file	Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid.gz	proteomics/results/authors_mzid_check.json file
+prot_authors_len	39671	proteomics/results/authors_mzid_check.json giant_length_in_authors_db
+prot_authors_peptides	174	proteomics/results/authors_mzid_check.json distinct_peptides
+prot_authors_fifths	[130, 2, 2, 2, 0]	proteomics/results/authors_mzid_check.json starts_per_fifth
+prot_authors_last_start	25870	proteomics/results/authors_mzid_check.json last_start
+prot_authors_pass_peptides	130	proteomics/results/authors_mzid_check.json passThreshold_only.distinct_peptides
+prot_authors_pass_fifths	[101, 0, 0, 0, 0]	proteomics/results/authors_mzid_check.json passThreshold_only.starts_per_fifth
+pride_omni	0	data/species_data_availability.tsv pride_projects_name_match, Omnitrophica bacterium
+pride_noc881	0	data/species_data_availability.tsv pride_projects_name_match, Nocardia sp. NBC_00881
+pride_noc1730	0	data/species_data_availability.tsv pride_projects_name_match, Nocardia sp. NBC_01730
+pride_sycon	2	data/species_data_availability.tsv pride_projects_name_match, Sycon ciliatum
+pride_velam	1	data/species_data_availability.tsv pride_projects_name_match, Candidatus Velamenicoccus archaeovorus
+prot_raw_files	60	proteomics/results/pride_files_PXD025008.json fileCategory RAW (PRIDE API, 13 Nov 2026)
+prot_raw_gb	15.3	same, sum of fileSizeBytes / 1e9
+prot_closed_genome_proteins	1863	proteomics/db/CP019384.1_cds_aa.fasta entries (GenBank CDS translations of the closed genome)
+raw_giant_last_pct_round	40	proteomics/results/verify_raw.json raw_last_residue_pct, rounded
+rep_untestable_noruns	28	repeat-flag models in bundle_rep_rna/loci whose species key has no runs (no RNA-seq in ENA)
+rep_untestable_nolocus	5	repeat-flag models without a locus (not in bundle_rep_rna/loci)
+twin_fix_n	6	controls/sensitivity/sensitivity_stage12.tsv 'record twins' sequences_changing_grade
+twin_fix_big	0	same, of_which_above_45212
+rep_noruns_plectranthus	25	repeat-flag models without runs, Plectranthus ornatus
+rep_noruns_merlangius	2	same, Merlangius merlangus
+rep_noruns_coilia	1	same, Coilia grayii
+raw_giant_unc_pct	60	100 - raw_last_residue_pct (share of the length after the last peptide)
+prot_giant_grade	C	data/locus_checks.tsv WP_128698900.1 grade
+lb_loci	213	data/leaderboard.tsv rows with grade A-D
+lb_excluded_rows	42	data/leaderboard.tsv rows with grade X
+lb_A	9	data/leaderboard.tsv grade, loci
+lb_B	85	data/leaderboard.tsv grade, loci
+lb_C	90	data/leaderboard.tsv grade, loci
+lb_D	29	data/leaderboard.tsv grade, loci
+lb_big	55	data/leaderboard.tsv loci with length_aa > 45,212
+lb_big_A	1	data/leaderboard.tsv grade, loci > 45,212 aa
+lb_big_B	3	data/leaderboard.tsv grade, loci > 45,212 aa
+lb_big_C	34	data/leaderboard.tsv grade, loci > 45,212 aa
+lb_big_D	17	data/leaderboard.tsv grade, loci > 45,212 aa
+lb_merged_records	11	data/leaderboard.tsv same_gene_other_records, entries
+lb_A_titin_loci	8	data/leaderboard.tsv grade A, Eukaryota (all titins)
+lb_A_titin_min	36247	same, min length_aa
+lb_A_titin_max	38490	same, max length_aa
+rna_runs_total	269	data/rnaseq_runs.tsv rows (all run results)
+rna_runs_kept	261	data/rnaseq_runs.tsv minus runs superseded by a _nosat re-run
+rna_runs_superseded	8	data/rnaseq_runs.tsv runs re-run without the saturation stop
+rna_runs_followup	16	data/rnaseq_runs.tsv species_key ending _nosat/_extra
+rna_species	71	data/rnaseq_runs.tsv distinct species (suffixes removed)
+rna_runs_v1	8	data/rnaseq_runs.tsv driver = v1
+rna_runs_v2	253	data/rnaseq_runs.tsv driver = v2 (kept)
+rna_reads_billion	11.6	data/rnaseq_runs.tsv sum reads_processed, v2 kept runs
+rna_runs_stream_error	51	data/rnaseq_runs.tsv stop_rule contains 'stream error curl rc=' (kept runs)
+rna_runs_stream_error_first	46	same, first RNA box only
+rna_stream_error_frac_median_pct	68	data/rnaseq_runs.tsv frac_of_run_read median over stream-error runs
+rna_stream_error_frac_min_pct	9	same, minimum
+rna_runs_saturation	55	data/rnaseq_runs.tsv stop_rule contains saturation (kept)
+rna_runs_readcap	20	data/rnaseq_runs.tsv stop_rule contains read cap (kept)
+rna_frac_read_median_pct	88	data/rnaseq_runs.tsv frac_of_run_read median, v2 kept runs
+rna_runs_lt50	49	same, runs with frac_of_run_read < 0.5
+rna_full	59	data/locus_checks.tsv rnaseq_verdict = full (510)
+rna_partial	75	data/locus_checks.tsv rnaseq_verdict = partial
+rna_weak	27	data/locus_checks.tsv rnaseq_verdict starts weak
+rna_noexpr	12	data/locus_checks.tsv rnaseq_verdict = no-expression
+rna_noruns	127	data/locus_checks.tsv rnaseq_verdict = no-rnaseq-runs
+rna_nottested	15	data/locus_checks.tsv rnaseq_verdict = not-tested (...)
+rna_notselected	137	data/locus_checks.tsv rnaseq_verdict = not selected (Stage 1 A or D, not a control or fusion check)
+rna_prok	58	data/locus_checks.tsv rnaseq_verdict = not applicable (prokaryotes)
+rna_contradicted	0	data/locus_checks.tsv rnaseq_verdict = contradicted
+rna_tested_models	173	data/locus_checks.tsv models with an RNA verdict from reads
+titin_runs	6	data/rnaseq_support.tsv NP_001254479.2 column runs
+titin_reads_unique	361467	data/rnaseq_support.tsv NP_001254479.2 column reads_unique
+titin_n_introns	361	data/rnaseq_support.tsv NP_001254479.2 column n_introns
+titin_introns_unique_support	340	data/rnaseq_support.tsv NP_001254479.2 column introns_unique_support
+titin_introns_multi_only	13	data/rnaseq_support.tsv NP_001254479.2 column introns_multi_only
+titin_introns_counted_supported	353	data/rnaseq_support.tsv NP_001254479.2 column introns_counted_supported
+titin_cds_breadth	0.973	data/rnaseq_support.tsv NP_001254479.2 column cds_breadth
+titin_testable_introns	325	data/rnaseq_support.tsv NP_001254479.2 column testable_introns
+titin_testable_introns_unsupported	0	data/rnaseq_support.tsv NP_001254479.2 column testable_introns_unsupported
+pkz_runs	7	data/rnaseq_support.tsv KAL1508129.1 column runs
+pkz_reads_unique	71183	data/rnaseq_support.tsv KAL1508129.1 column reads_unique
+pkz_n_introns	16	data/rnaseq_support.tsv KAL1508129.1 column n_introns
+pkz_introns_unique_support	9	data/rnaseq_support.tsv KAL1508129.1 column introns_unique_support
+pkz_introns_multi_only	7	data/rnaseq_support.tsv KAL1508129.1 column introns_multi_only
+pkz_introns_counted_supported	16	data/rnaseq_support.tsv KAL1508129.1 column introns_counted_supported
+pkz_cds_breadth	0.733	data/rnaseq_support.tsv KAL1508129.1 column cds_breadth
+pkz_testable_introns	12	data/rnaseq_support.tsv KAL1508129.1 column testable_introns
+pkz_testable_introns_unsupported	0	data/rnaseq_support.tsv KAL1508129.1 column testable_introns_unsupported
+sycon_runs	6	data/rnaseq_support.tsv XP_065194412.1 column runs
+sycon_reads_unique	49375	data/rnaseq_support.tsv XP_065194412.1 column reads_unique
+sycon_n_introns	24	data/rnaseq_support.tsv XP_065194412.1 column n_introns
+sycon_introns_unique_support	22	data/rnaseq_support.tsv XP_065194412.1 column introns_unique_support
+sycon_introns_multi_only	0	data/rnaseq_support.tsv XP_065194412.1 column introns_multi_only
+sycon_introns_counted_supported	22	data/rnaseq_support.tsv XP_065194412.1 column introns_counted_supported
+sycon_cds_breadth	1.0	data/rnaseq_support.tsv XP_065194412.1 column cds_breadth
+sycon_testable_introns	24	data/rnaseq_support.tsv XP_065194412.1 column testable_introns
+sycon_testable_introns_unsupported	2	data/rnaseq_support.tsv XP_065194412.1 column testable_introns_unsupported
+halichondria_runs	4	data/rnaseq_support.tsv XP_064389544.1 column runs
+halichondria_reads_unique	70304	data/rnaseq_support.tsv XP_064389544.1 column reads_unique
+halichondria_n_introns	2	data/rnaseq_support.tsv XP_064389544.1 column n_introns
+halichondria_introns_unique_support	2	data/rnaseq_support.tsv XP_064389544.1 column introns_unique_support
+halichondria_introns_multi_only	0	data/rnaseq_support.tsv XP_064389544.1 column introns_multi_only
+halichondria_introns_counted_supported	2	data/rnaseq_support.tsv XP_064389544.1 column introns_counted_supported
+halichondria_cds_breadth	0.979	data/rnaseq_support.tsv XP_064389544.1 column cds_breadth
+halichondria_testable_introns	0	data/rnaseq_support.tsv XP_064389544.1 column testable_introns
+halichondria_testable_introns_unsupported	0	data/rnaseq_support.tsv XP_064389544.1 column testable_introns_unsupported
+titin_introns_none	8	data/rnaseq_support.tsv NP_001254479.2 introns_none
+microcaecilia_testable	41	data/rnaseq_support.tsv XP_030066708.1 testable_introns
+microcaecilia_testable_unsup	1	data/rnaseq_support.tsv XP_030066708.1 testable_introns_unsupported
+microcaecilia_verdict	partial	data/rnaseq_support.tsv XP_030066708.1 verdict
+rana_testable	63	data/rnaseq_support.tsv XP_040214433.1 testable_introns
+rana_testable_unsup	1	data/rnaseq_support.tsv XP_040214433.1 testable_introns_unsupported
+rana_verdict	partial	data/rnaseq_support.tsv XP_040214433.1 verdict
+solea_testable	57	data/rnaseq_support.tsv KAG7502825.1 testable_introns
+solea_testable_unsup	1	data/rnaseq_support.tsv KAG7502825.1 testable_introns_unsupported
+solea_verdict	partial	data/rnaseq_support.tsv KAG7502825.1 verdict
+pantherophis_testable	21	data/rnaseq_support.tsv XP_087738184.1 testable_introns
+pantherophis_testable_unsup	0	data/rnaseq_support.tsv XP_087738184.1 testable_introns_unsupported
+pantherophis_verdict	weak (unsupported introns lie where reads are too few)	data/rnaseq_support.tsv XP_087738184.1 verdict
+liftover_moved	143	data/followups/relocation_liftover.json introns_moved (CAM4536479.1)
+liftover_n_introns	334	data/followups/relocation_liftover.json introns_lifted length
+cam_after_sup	67	data/rnaseq_support.tsv CAM4536479.1 introns_counted_supported (lifted)
+cam_after_testable_unsup	0	data/rnaseq_support.tsv CAM4536479.1 testable_introns_unsupported
+ovis_length	98182	data/locus_checks.tsv KAI4551101.1 column length
+ovis_n_exons	37	data/locus_checks.tsv KAI4551101.1 column n_exons
+ovis_genomic_span_bp	356419	data/locus_checks.tsv KAI4551101.1 column genomic_span_bp
+ovis_protein_period_aa	22	data/locus_checks.tsv KAI4551101.1 column protein_period_aa
+ovis_protein_period_identity	0.847	data/locus_checks.tsv KAI4551101.1 column protein_period_identity
+ovis_rep25_frac	0.9922	data/locus_checks.tsv KAI4551101.1 column rep25_frac
+ovis_gc_cds	0.678	data/locus_checks.tsv KAI4551101.1 column gc_cds
+ovis_dna_tandem_lag_bp	22	data/locus_checks.tsv KAI4551101.1 column dna_tandem_lag_bp
+ovis_dna_tandem_identity	0.939	data/locus_checks.tsv KAI4551101.1 column dna_tandem_identity
+ovis_fickett_median	0.465	data/locus_checks.tsv KAI4551101.1 column fickett_median
+ovis_n_other_frames_open	2	data/locus_checks.tsv KAI4551101.1 column n_other_frames_open
+ovis_min_stops_per_kcodon_other_frames	1.2	data/locus_checks.tsv KAI4551101.1 column min_stops_per_kcodon_other_frames
+ovis_rna_reads	50777537	data/rnaseq_runs.tsv Ovis_ammon_polii* reads_processed
+ovis_rna_candidates	0	data/rnaseq_runs.tsv Ovis_ammon_polii* candidate_reads
+ovis_period22_entries	10	data/locus_checks.tsv organism Ovis ammon polii x Ovis aries with protein_period_aa = 22
+cirrhinus_len	59714	data/locus_checks.tsv KAK2904762.1 length
+cirrhinus_exons	454	data/locus_checks.tsv KAK2904762.1 n_exons
+cirrhinus_runs	6	data/rnaseq_support.tsv KAK2904762.1 runs
+cirrhinus_reads_unique	54161	data/rnaseq_support.tsv KAK2904762.1 reads_unique
+cirrhinus_n_introns	453	data/rnaseq_support.tsv KAK2904762.1 n_introns
+cirrhinus_introns_counted_supported	356	data/rnaseq_support.tsv KAK2904762.1 introns_counted_supported
+bagarius_len	54498	data/locus_checks.tsv TSR51413.1 length
+bagarius_exons	417	data/locus_checks.tsv TSR51413.1 n_exons
+bagarius_runs	2	data/rnaseq_support.tsv TSR51413.1 runs
+bagarius_reads_unique	4277	data/rnaseq_support.tsv TSR51413.1 reads_unique
+bagarius_n_introns	416	data/rnaseq_support.tsv TSR51413.1 n_introns
+bagarius_introns_counted_supported	144	data/rnaseq_support.tsv TSR51413.1 introns_counted_supported
+cirrhinus_second_copy_start_aa	31001	data/followups/fish_titin_pair.tsv KAK2904762.1: first window whose zebrafish match restarts near the N-terminus
+cirrhinus_first_ttna	30 of 30	data/followups/fish_titin_pair.tsv KAK2904762.1 windows before the restart with ttna best
+cirrhinus_second_ttnb	20 of 29	data/followups/fish_titin_pair.tsv KAK2904762.1 windows from the restart with ttnb best
+bagarius_second_copy_start_aa	32001	data/followups/fish_titin_pair.tsv TSR51413.1: first window whose zebrafish match restarts near the N-terminus
+bagarius_first_ttna	31 of 31	data/followups/fish_titin_pair.tsv TSR51413.1 windows before the restart with ttna best
+bagarius_second_ttnb	11 of 22	data/followups/fish_titin_pair.tsv TSR51413.1 windows from the restart with ttnb best
+cirrhinus_join_intron_aa	30675	rnaseq_run_results.tar.gz Cirrhinus results: intron nearest aa 30,675 (CDS position / 3)
+cirrhinus_join_intron_reads	0	same: unique exact junction reads summed over runs
+cirrhinus_join_before_median	103	same: median of the 5 introns before
+cirrhinus_join_after_median	2	same: median of the 5 introns after
+ovis_entries	11	data/locus_checks.tsv organism Ovis ammon polii x Ovis aries
+ovis_period_multiple22	11	same, protein_period_aa a multiple of 22
+sycon_gap_patch_bp	2968	data/ncbi_records_parsed.tsv XP_065194412.1 model_modifications
+sycon_best_homolog_len	4063	data/locus_checks.tsv XP_065194412.1 best_other_species_len
+sycon_len	50516	data/locus_checks.tsv XP_065194412.1 length
+nbc00881_len	59275	data/locus_checks.tsv WP_406270362.1 length
+nbc00881_ratio	1.27	data/locus_checks.tsv WP_406270362.1 length_ratio_query_over_best
+nbc00881_best_len	46734	data/locus_checks.tsv WP_406270362.1 best_other_species_len
+nbc00881_orf_bp	177828	data/locus_checks.tsv WP_406270362.1 cds_bp
+nbc01730_len	51778	data/locus_checks.tsv WP_327112628.1 length
+nbc01730_ratio	1.11	data/locus_checks.tsv WP_327112628.1 length_ratio_query_over_best
+nbc01730_best_len	46734	data/locus_checks.tsv WP_327112628.1 best_other_species_len
+nbc01730_orf_bp	155337	data/locus_checks.tsv WP_327112628.1 cds_bp
+pkz_uniprot_pe	Predicted	data/uniprotkb_ge35992.tsv A0AB34IYJ6 'Protein existence'
+stage1_cpu_hours	4.4	notes/FEASIBILITY.md section 11 (measured CPU time of Stage 1; not in a data file)
+ovis_stops_six_frames	[0.0, 1.2, 1.2, 45.6, 45.2, 45.5]	computed from data/manual/KAI4551101_locus.fa.gz + CDS join in data/raw/ncbi_gp.txt.gz (+1 = annotated)
+dna_oub_reads	83321080	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina_reads_processed
+dna_oub_reads_expected	83321080	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina_expected_reads
+dna_oub_depth	45.0	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina.gene_median_depth_unique_windows
+dna_oub_ratio	1.12	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina.depth_ratio_gene_vs_contig
+dna_oub_span_median	38	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina.median_spanning_per_boundary
+dna_oub_span_min_testable	4	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina.min_spanning_unique_boundaries
+dna_oub_discordant_pct	1.5	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina.max_discordant_frac_window
+dna_oub_insert	288	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina.median_insert
+dna_oub_untestable	1	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina.boundaries_untestable_for_library
+dna_oub_boundaries	257	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json illumina.boundaries
+dna_oub_verdict	inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json final_verdict
+dna_oub_control	True	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json negative_control_illumina.control_detected_the_join
+dna_oub_v2	against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json previous.final_verdict
+dna_oub_E_at_untestable	[0]	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json expected_spanning_per_boundary at untestable boundaries
+dna_oub_obs_at_untestable	[0]	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json spanning_per_boundary at untestable boundaries
+dna_oub_weakest	(4, 5.8)	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json weakest testable boundary (observed, expected)
+dna_nbc00881_reads	14056286	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina_reads_processed
+dna_nbc00881_reads_expected	14056286	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina_expected_reads
+dna_nbc00881_depth	252.0	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina.gene_median_depth_unique_windows
+dna_nbc00881_ratio	1.02	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina.depth_ratio_gene_vs_contig
+dna_nbc00881_span_median	252	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina.median_spanning_per_boundary
+dna_nbc00881_span_min_testable	159	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina.min_spanning_unique_boundaries
+dna_nbc00881_discordant_pct	1.2	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina.max_discordant_frac_window
+dna_nbc00881_insert	340.0	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina.median_insert
+dna_nbc00881_untestable	1	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina.boundaries_untestable_for_library
+dna_nbc00881_boundaries	177	data/dna_checks/nocardia_NBC_00881_WSY60125.json illumina.boundaries
+dna_nbc00881_verdict	supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)	data/dna_checks/nocardia_NBC_00881_WSY60125.json final_verdict
+dna_nbc00881_control	True	data/dna_checks/nocardia_NBC_00881_WSY60125.json negative_control_illumina.control_detected_the_join
+dna_nbc00881_v2	supported by the reads	data/dna_checks/nocardia_NBC_00881_WSY60125.json previous.final_verdict
+dna_nbc00881_E_at_untestable	[0]	data/dna_checks/nocardia_NBC_00881_WSY60125.json expected_spanning_per_boundary at untestable boundaries
+dna_nbc00881_obs_at_untestable	[6]	data/dna_checks/nocardia_NBC_00881_WSY60125.json spanning_per_boundary at untestable boundaries
+dna_nbc00881_weakest	(159, 163.0)	data/dna_checks/nocardia_NBC_00881_WSY60125.json weakest testable boundary (observed, expected)
+dna_nbc00881_ont_reads	61843	data/dna_checks/nocardia_NBC_00881_WSY60125.json ont_reads_processed
+dna_nbc00881_ont_span_blocks	[64, 67]	data/dna_checks/nocardia_NBC_00881_WSY60125.json ont.short_read_repeat_blocks_spanned_by_long_reads
+dna_nbc01730_reads	15565314	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina_reads_processed
+dna_nbc01730_reads_expected	15565314	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina_expected_reads
+dna_nbc01730_depth	272	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina.gene_median_depth_unique_windows
+dna_nbc01730_ratio	1.02	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina.depth_ratio_gene_vs_contig
+dna_nbc01730_span_median	284	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina.median_spanning_per_boundary
+dna_nbc01730_span_min_testable	74	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina.min_spanning_unique_boundaries
+dna_nbc01730_discordant_pct	1.4	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina.max_discordant_frac_window
+dna_nbc01730_insert	347	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina.median_insert
+dna_nbc01730_untestable	8	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina.boundaries_untestable_for_library
+dna_nbc01730_boundaries	155	data/dna_checks/nocardia_NBC_01730_WSG58785.json illumina.boundaries
+dna_nbc01730_verdict	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	data/dna_checks/nocardia_NBC_01730_WSG58785.json final_verdict
+dna_nbc01730_control	True	data/dna_checks/nocardia_NBC_01730_WSG58785.json negative_control_illumina.control_detected_the_join
+dna_nbc01730_v2	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	data/dna_checks/nocardia_NBC_01730_WSG58785.json previous.final_verdict
+dna_nbc01730_E_at_untestable	[0, 0, 0, 0, 0, 0, 0, 0]	data/dna_checks/nocardia_NBC_01730_WSG58785.json expected_spanning_per_boundary at untestable boundaries
+dna_nbc01730_obs_at_untestable	[0, 0, 0, 0, 0, 0, 0, 0]	data/dna_checks/nocardia_NBC_01730_WSG58785.json spanning_per_boundary at untestable boundaries
+dna_nbc01730_weakest	(74, 22.2)	data/dna_checks/nocardia_NBC_01730_WSG58785.json weakest testable boundary (observed, expected)
+dna_nbc01730_ont_reads	36579	data/dna_checks/nocardia_NBC_01730_WSG58785.json ont_reads_processed
+dna_nbc01730_ont_span_blocks	[9]	data/dna_checks/nocardia_NBC_01730_WSG58785.json ont.short_read_repeat_blocks_spanned_by_long_reads
+dna_tdt_reads	85214796	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina_reads_processed
+dna_tdt_reads_expected	85214796	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina_expected_reads
+dna_tdt_depth	40.0	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina.gene_median_depth_unique_windows
+dna_tdt_ratio	1.08	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina.depth_ratio_gene_vs_contig
+dna_tdt_span_median	34	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina.median_spanning_per_boundary
+dna_tdt_span_min_testable	14	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina.min_spanning_unique_boundaries
+dna_tdt_discordant_pct	2.1	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina.max_discordant_frac_window
+dna_tdt_insert	295.0	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina.median_insert
+dna_tdt_untestable	1	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina.boundaries_untestable_for_library
+dna_tdt_boundaries	257	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json illumina.boundaries
+dna_tdt_verdict	supported outside 1.32 kb of repeat (no long reads to resolve it)	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json final_verdict
+dna_tdt_control	True	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json negative_control_illumina.control_detected_the_join
+dna_tdt_v2	n/a (judged under v3 only)	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json previous.final_verdict
+dna_tdt_E_at_untestable	[0]	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json expected_spanning_per_boundary at untestable boundaries
+dna_tdt_obs_at_untestable	[0]	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json spanning_per_boundary at untestable boundaries
+dna_tdt_weakest	(14, 19.1)	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json weakest testable boundary (observed, expected)
+dna_pmg_reads	78636086	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina_reads_processed
+dna_pmg_reads_expected	78636086	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina_expected_reads
+dna_pmg_depth	52.0	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina.gene_median_depth_unique_windows
+dna_pmg_ratio	1.06	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina.depth_ratio_gene_vs_contig
+dna_pmg_span_median	45	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina.median_spanning_per_boundary
+dna_pmg_span_min_testable	15	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina.min_spanning_unique_boundaries
+dna_pmg_discordant_pct	1.9	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina.max_discordant_frac_window
+dna_pmg_insert	292	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina.median_insert
+dna_pmg_untestable	1	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina.boundaries_untestable_for_library
+dna_pmg_boundaries	257	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json illumina.boundaries
+dna_pmg_verdict	supported outside 1.3 kb of repeat (no long reads to resolve it)	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json final_verdict
+dna_pmg_control	True	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json negative_control_illumina.control_detected_the_join
+dna_pmg_v2	against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json previous.final_verdict
+dna_pmg_E_at_untestable	[0]	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json expected_spanning_per_boundary at untestable boundaries
+dna_pmg_obs_at_untestable	[0]	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json spanning_per_boundary at untestable boundaries
+dna_pmg_weakest	(15, 43.6)	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json weakest testable boundary (observed, expected)
+orf_bp	257412	data/manual/DAOTDT01.fasta.gz, CDS of HRZ03494 (contig DAOTDT010000001.1, gene coordinates from the DNA-check JSON)
+contig_len_tdt	1614705	data/manual/DAOTDT01.fasta.gz contig DAOTDT010000001.1 length
+rep_lag_bp	10362	computed: most common offset of repeated 40-mers in the CDS (paper/make_numbers.py)
+rep_lag_codons	3454.0	rep_lag_bp / 3
+rep_copy_bp	1184	computed: span of 40-mers shared at that offset
+rep_copy_a	(223454, 224637)	computed: copy A, CDS bp (1-based from the A of ATG)
+rep_copy_b	(233816, 234999)	computed: copy B, CDS bp
+rep_diffs	2	computed: mismatches between the two copies (ungapped)
+orf_len_aa	85803	orf_bp minus the stop codon, / 3
+rep_copy_bp_kb	1.18	rep_copy_bp / 1000
+dna_oub_weakest_obs	4	dna_oub_weakest observed pairs
+dna_oub_weakest_exp	6	dna_oub_weakest expected pairs, rounded
+orf_len_if_excised	82349	(orf_bp - rep_lag_bp - stop codon) / 3
+omni_copies	3	data/locus_checks.tsv UPI002B62E083 near_identical_copy_accessions + itself
+omni_aa_identity_min_pct	99.96	data/fasta/unique_ge35992.fasta.gz, ungapped identity of the 3 copies (min)
+omni_aa_identity_max_pct	99.98	same (max)
+omni_contig_lengths	[1614705, 1613271, 1168148]	data/dna_checks/*.json contig_length
+omni_n_in_cds	0	data/locus_checks.tsv UPI002B62E083 N_in_cds
+hmm_panel	74	data/hmm/panel.hmm NAME lines
+s2_A_titin	119	data/locus_checks.tsv grade_stage2_rna A with best_other_species_name Titin
+s1_fix_B_to_C	48	notes/FEASIBILITY.md section 14 and notes/RESULTS.md section 2 (Stage 1 B 267 -> 219, C 53 -> 101 after the S2 fix)
+titin_downgrades_withdrawn	5	notes/RESULTS.md section 3 ('moved five titin models from B to C', withdrawn)
+cirrhinus_first_end	31000	cirrhinus_second_copy_start_aa - 1

@@ -1,0 +1,39 @@
+{
+ "file": "Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid.gz",
+ "giant_length_in_authors_db": 39671,
+ "peptide_evidence_on_giant": 174,
+ "decoy_evidence": 0,
+ "identification_items_on_giant": 570,
+ "items_passThreshold_true": 413,
+ "distinct_peptides": 174,
+ "distinct_start_positions": 136,
+ "starts_per_fifth": [
+  130,
+  2,
+  2,
+  2,
+  0
+ ],
+ "first_start": 277,
+ "last_start": 25870,
+ "starts_after_6000": [
+  10600,
+  10943,
+  18036,
+  22456,
+  25584,
+  25870
+ ],
+ "passThreshold_only": {
+  "distinct_peptides": 130,
+  "distinct_start_positions": 101,
+  "starts_per_fifth": [
+   101,
+   0,
+   0,
+   0,
+   0
+  ],
+  "starts_after_6000": []
+ }
+}

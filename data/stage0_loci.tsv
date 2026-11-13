@@ -1,0 +1,271 @@
+locus_key	n_sequences	max_length	rep_accession	organism	triage	panel_class	flags
+seq:51bc8540009a0e898c9a225375c23486	1	187500	QHX71256.1	Unknown.	T-excl	no panel hit	synthetic/patent;tandem-repeat-translation(period=1875aa,id=1.00);low-complexity(1.00);no-initial-Met
+seq:87a7dcf603f1aaa7e3dd4d5312ccceec	1	187500	QHX71248.1	Unknown.	T-excl	no panel hit	synthetic/patent;tandem-repeat-translation(period=1875aa,id=1.00);low-complexity(1.00);no-initial-Met
+seq:UPI000745AC2E	1	179598	UPI000745AC2E	Hymenolepis microstoma	T-excl	no panel hit	no-live-record;tandem-repeat-translation(period=14aa,id=1.00);low-complexity(1.00);X-residues(0.99955)
+JALAIW010000082.1:475588-832006	1	98182	KAI4551101.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.85)
+seq:UPI00266DF9F8	1	97333	UPI00266DF9F8	Fasciola hepatica	T-excl	no panel hit	no-live-record;tandem-repeat-translation(period=1aa,id=0.76);low-complexity(1.00)
+CALYDE020000827.1:45894-356316	1	95356	CAH8821467.1	Trichobilharzia szidati	T-excl	no panel hit	partial;tandem-repeat-translation(period=7aa,id=0.50);low-complexity(1.00)
+seq:UPI00043A4918	1	92896	ATK14334.1	Unknown.	T-excl	no panel hit	synthetic/patent;low-complexity(1.00);no-initial-Met
+CANUEZ050000212.1:932629-1232677	1	91906	CAM0512439.1	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.77);low-complexity(1.00)
+JALAIX010000016.1:266887-567435	1	88433	KAI4559938.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.86)
+seq:UPI002B62E083	1	85803	UPI002B62E083	Omnitrophica bacterium	T-unclear	mixed/other:SecA,TPR,MT	
+seq:UPI002CD77A7D	1	85803	UPI002CD77A7D	Omnitrophica bacterium	T-unclear	mixed/other:SecA,TPR,MT	
+seq:UPI002D0F8BFA	1	85803	UPI002D0F8BFA	Omnitrophica bacterium	T-unclear	mixed/other:SecA,TPR,MT	
+OZ454619.1:21647226-22146857	1	83180	CAR0409254.1	Gasterosteus aculeatus	T-repeat	no panel hit	tandem-repeat-translation(period=40aa,id=0.57)
+OZ556881.1:5558856-5786438	1	75805	CAR9536049.1	Merluccius merluccius	T-repeat	no panel hit	tandem-repeat-translation(period=7aa,id=0.60);low-complexity(1.00)
+QALV01000002.1:39408-262874	1	74488	PWL95011.1	Clostridiales bacterium	T-repeat	no panel hit	tandem-repeat-translation(period=73aa,id=1.00);MAG
+QALV01000011.1:387476-609697	1	74074	PWL93229.1	Clostridiales bacterium	T-excl	no panel hit	partial;tandem-repeat-translation(period=1971aa,id=1.00);MAG
+CANUEZ050000212.1:1232898-1485423	1	66665	CAM0512440.1	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.76);low-complexity(1.00)
+seq:UPI00266DFE73	1	66581	UPI00266DFE73	Fasciola hepatica	T-excl	no panel hit	no-live-record;tandem-repeat-translation(period=4aa,id=0.70);low-complexity(0.98)
+CP126663.1:9294491-9508218	1	66180	WKA06629.1	Vitis vinifera	T-repeat	no panel hit	tandem-repeat-translation(period=107aa,id=0.69)
+JBNHDL010000975.1:939089-1139733	1	65964	KAL8597380.1	Nucella lapillus	T-repeat	no panel hit	tandem-repeat-translation(period=20aa,id=0.47)
+CANUEZ050000212.1:1746921-2006464	1	64540	CAM0512448.1	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.81);low-complexity(1.00)
+seq:UPI00266E78F9	1	63065	UPI00266E78F9	Fasciola hepatica	T-excl	no panel hit	no-live-record;tandem-repeat-translation(period=1aa,id=0.77);low-complexity(1.00)
+seq:UPI00357A9CF3	1	62845	UPI00357A9CF3	Omnitrophica bacterium	T-unclear	bacterial-adhesin-repeat	
+seq:UPI0044ED23D6	1	61844	UPI0044ED23D6	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.81)
+seq:UPI0044EA59C9	1	61632	UPI0044EA59C9	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.82)
+JALAIX010000018.1:111034-320818	1	60592	KAI4557105.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.85)
+seq:UPI0001EF1910	1	60183	AJL30552.1	Unknown.	T-excl	no panel hit	synthetic/patent;tandem-repeat-translation(period=1aa,id=1.00);low-complexity(1.00);X-residues(0.99696);no-initial-Met
+seq:UPI0044E9FC53	1	59955	UPI0044E9FC53	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.80)
+JAUYZG010000006.1:10673544-11006226	1	59714	KAK2904762.1	Cirrhinus molitorella	T-arch	Ig/FN3-repeat (titin-like)	
+seq:be4305dbde95f65b2538c69a1d33a7af	1	59275	WP_406270362.1	Nocardia sp. NBC_00881	T-unclear	no panel hit	
+seq:UPI00358583AB	1	57995	UPI00358583AB	Omnitrophica bacterium	T-unclear	mixed/other:kinase	
+seq:UPI0018209D0B	1	57976	UPI0018209D0B	Actinospineispora eucalypti	T-unclear	mixed/other:SecA	
+seq:UPI003BE71D56	1	57421	UPI003BE71D56	Omnitrophica bacterium	T-unclear	mixed/other:TPR,MT	
+seq:UPI002725F753	1	57085	UPI002725F753	Omnitrophica bacterium	T-unclear	mixed/other:TPR,MT	
+JALAIX010000007.1:818973-1007039	1	56282	KAI4569145.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.85)
+seq:UPI003EDF78DB	1	55519	WP_437244732.1	Moraxella lacunata	T-excl	no panel hit	partial;tandem-repeat-translation(period=5aa,id=1.00);no-initial-Met
+seq:UPI004396603F	1	54848	UPI004396603F	Omnitrophica bacterium	T-unclear	no panel hit	
+VCAZ01000094.1:270614-593857	1	54498	TSR51413.1	Bagarius yarrelli	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI00356EAD03	1	52507	UPI00356EAD03	Omnitrophica bacterium	T-unclear	mixed/other:MT	
+CANUEZ050000212.1:288986-499946	1	51859	CAM0512428.1	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.76);low-complexity(0.98)
+seq:b0f359b588c9449304124e6a37d8bc1a	1	51778	WP_327112628.1	Nocardia sp. NBC_01730	T-unclear	no panel hit	
+JALAIX010000011.1:4124677-4297735	1	51741	KAI4565070.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.84)
+OZ454598.1:23934655-24247568	1	51658	CAR0409140.1	Gasterosteus aculeatus	T-repeat	no panel hit	tandem-repeat-translation(period=40aa,id=0.55)
+JAULLB010000020.1:2596306-2886443	1	51481	KAL7845143.1	Acnodon oligacanthus	T-repeat	no panel hit	tandem-repeat-translation(period=199aa,id=0.98)
+JAINUF010000027.1:1528728-1731334	1	51285	KAJ8332361.1	Synaphobranchus kaupii	T-repeat	no panel hit	tandem-repeat-translation(period=23aa,id=0.42);low-complexity(0.60)
+GeneID:135825719	1	50516	XP_065194412.1	Sycon ciliatum	T-unclear	no panel hit	model-patches-assembly-gap
+seq:UPI00347DC589	1	50390	WP_357176029.1	Nocardia sp. NPDC049190	T-unclear	no panel hit	
+GeneID:134193701	1	49499	XP_062518523.1	Corticium candelabrum	T-unclear	no panel hit	RefSeq-ab-initio-part:33% of CDS bases
+seq:UPI0001EF1911	1	49105	AJL30554.1	Unknown.	T-excl	no panel hit	synthetic/patent;tandem-repeat-translation(period=1aa,id=1.00);low-complexity(1.00);X-residues(0.99786)
+OZ454598.1:24569743-24880821	1	48977	CAR0409152.1	Gasterosteus aculeatus	T-repeat	no panel hit	tandem-repeat-translation(period=40aa,id=0.59)
+seq:UPI00266DDB8C	1	48896	UPI00266DDB8C	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=1aa,id=0.79);low-complexity(1.00)
+seq:UPI003EDECB6B	1	48799	UPI003EDECB6B	Burkholderia cenocepacia	T-repeat	no panel hit	tandem-repeat-translation(period=5aa,id=1.00)
+seq:UPI0044E790D6	1	48778	UPI0044E790D6	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.71)
+JALAIX010000022.1:4698439-5041427	1	48746	KAI4552952.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.85)
+seq:UPI000A67BCA2	1	48520	UPI000A67BCA2	Escherichia coli	T-repeat	no panel hit	tandem-repeat-translation(period=1aa,id=1.00);low-complexity(1.00);X-residues(0.99948)
+seq:UPI0027442B48	1	47583	UPI0027442B48	Omnitrophica bacterium	T-unclear	mixed/other:MT	
+JALAIW010000103.1:6402-152210	1	47538	KAI4551092.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.85)
+seq:UPI0044EC9B7B	1	47377	UPI0044EC9B7B	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.71)
+seq:UPI0044EEC62A	1	47242	UPI0044EEC62A	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.80)
+seq:UPI002C456832	1	47109	UPI002C456832	Omnitrophica bacterium	T-unclear	mixed/other:MT,SecA,WD40	
+seq:UPI00358F51CD	1	47063	UPI00358F51CD	Myxine glutinosa	T-excl	Ig/FN3-repeat (titin-like)	no-live-record;X-residues(6e-05)
+seq:UPI0044E89ADB	1	47023	UPI0044E89ADB	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.72)
+seq:UPI000A932905	1	46858	UPI000A932905	Omnitrophica WOR_2 bacterium GWA2_45_18	T-unclear	mixed/other:MT	
+seq:UPI0044F20C04	1	46764	UPI0044F20C04	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.66)
+seq:UPI00398E31D8	1	46734	WP_412012550.1	Nocardia arseniciresistens	T-unclear	no panel hit	
+HBWS01145221.1:1-139077	1	46359	CAH0927406.1	Sycon ciliatum	T-excl	no panel hit	partial;no-initial-Met
+seq:UPI00357D296F	1	45989	UPI00357D296F	Omnitrophica bacterium	T-unclear	no panel hit	
+seq:UPI00244030A9	1	45887	UPI00244030A9	Omnitrophica bacterium	T-unclear	no panel hit	
+CP070837.1:1156634-1292764	1	45376	UCB56787.1	Candidatus Omnitrophota bacterium	T-unclear	mixed/other:TPR,SecA,MT	MAG
+SOYY01000010.1:4573675-4821915	1	45354	KAA0715513.1	Triplophysa tibetana	T-arch	Ig/FN3-repeat (titin-like)	
+JBHFQA010000018.1:30429874-30695182	1	45317	KAL2083670.1	Coilia grayii	T-repeat	no panel hit	tandem-repeat-translation(period=191aa,id=0.91)
+JBGBPQ010000017.1:2286225-2423056	1	45212	KAL1508129.1	Prymnesium parvum	T-arch	PKS+NRPS	
+seq:UPI0044EC404C	1	45192	UPI0044EC404C	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.75)
+JALAIX010000019.1:5979756-6138270	1	45005	KAI4555775.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.84)
+seq:UPI00305211F2	1	44969	UPI00305211F2	Omnitrophica bacterium	T-unclear	mixed/other:PKS,kinase	
+seq:UPI00266E8F5F	1	44784	UPI00266E8F5F	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.74);low-complexity(1.00)
+CANUEZ050000211.1:1178805-1347927	1	44697	CAM0512344.1	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.74);low-complexity(1.00)
+PV657097.1:1-133404	1	44468	YCB02351.1	Latrodectus hesperus	T-excl	no panel hit	partial;tandem-repeat-translation(period=312aa,id=0.79)
+seq:UPI0035746B67	1	44129	UPI0035746B67	Omnitrophica bacterium	T-unclear	mixed/other:MT,SecA,kinase	
+OX103970.1:28932743-29147295	2	43775	CAH8664242.1	Schistosoma haematobium	T-repeat	mixed/other:ankyrin	tandem-repeat-translation(period=81aa,id=0.89);low-complexity(0.44)
+seq:UPI00266E5996	1	43743	UPI00266E5996	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=1aa,id=0.78);low-complexity(0.99)
+seq:UPI0035FBDA05	1	43527	UPI0035FBDA05	Thermoproteota archaeon	T-unclear	mixed/other:kinase,MT,TPR	no-initial-Met
+seq:UPI0044EE03A4	1	43164	UPI0044EE03A4	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.79)
+seq:UPI0033D09B30	1	43074	WP_357266140.1	Nocardia sp. NPDC023852	T-unclear	no panel hit	
+OZ558153.1:28534236-28667169	1	43065	CAR9942894.1	Sebastes mentella	T-repeat	no panel hit	tandem-repeat-translation(period=10aa,id=0.96);low-complexity(1.00)
+seq:UPI00342936FC	1	43007	WP_364959628.1	Nocardia sp. NPDC052254	T-unclear	no panel hit	
+seq:UPI00266E18B5	1	42803	UPI00266E18B5	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.79);low-complexity(1.00)
+seq:UPI0044E97E32	1	42674	UPI0044E97E32	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.68)
+seq:UPI0019EE08CE	1	42417	UPI0019EE08CE	Omnitrophica bacterium	T-unclear	no panel hit	
+seq:UPI000ACF292D	1	42323	UPI000ACF292D	Omnitrophica bacterium RIFCSPHIGHO2_02_FULL_45_28	T-unclear	mixed/other:adhesin	no-initial-Met
+seq:UPI0044E74607	1	42253	UPI0044E74607	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.69)
+seq:UPI0037AAB210	1	42052	WP_397047094.1	Nocardia sp. NPDC049526	T-unclear	no panel hit	
+seq:UPI0005C333A5	1	41965	UPI0005C333A5	Amphimedon queenslandica	T-excl	no panel hit	no-live-record
+seq:UPI00021A620C	1	41943	UPI00021A620C	Amphimedon queenslandica	T-excl	no panel hit	no-live-record
+JALAIW010000082.1:888140-1045814	1	41935	KAI4551103.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.86)
+CANUEZ050000212.1:790949-932460	1	41905	CAM0512437.1	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=1aa,id=0.78);low-complexity(0.99)
+GeneID:135337542	1	41592	XP_064389544.1	Halichondria panicea	T-unclear	no panel hit	
+seq:UPI002A6592A0	1	41524	UPI002A6592A0	Omnitrophica bacterium	T-unclear	no panel hit	
+seq:UPI0044F2A4AD	1	41508	UPI0044F2A4AD	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.73)
+seq:UPI002F78761B	1	41394	UPI002F78761B	Actinocatenispora sp.	T-unclear	no panel hit	
+seq:UPI002B43A353	1	41116	WLO41820.1	Unknown.	T-excl	no panel hit	synthetic/patent
+seq:UPI0033D4639E	1	41091	WP_357265723.1	Nocardia sp. NPDC023852	T-unclear	no panel hit	
+seq:UPI0044E9C0C8	1	41052	UPI0044E9C0C8	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.73)
+seq:UPI0016133188	1	40920	WP_185063161.1	Actinospineispora eucalypti	T-unclear	mixed/other:SecA	
+BAABJP010000052.1:127610-250321	1	40903	GAA5172730.1	Actinospineispora eucalypti	T-unclear	mixed/other:SecA	
+GeneID:144450678	1	40863	XP_077997457.1	Glandiceps talaboti	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI002E22A622	1	40805	WP_328395556.1	Nocardia sp. NBC_00416	T-unclear	no panel hit	
+seq:UPI0044F02594	1	40792	UPI0044F02594	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.68)
+seq:UPI0043675D7E	1	40782	UPI0043675D7E	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.64)
+seq:UPI0044EE9F45	1	40380	UPI0044EE9F45	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.80)
+GeneID:137439903	1	40334	XP_078632839.1	Myxine glutinosa	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+seq:UPI000A814B95	1	40199	UPI000A814B95	Pseudomonas protegens	T-repeat	no panel hit	tandem-repeat-translation(period=13aa,id=1.00);low-complexity(1.00);X-residues(0.99831)
+JBWMAB010000012.1:37072563-37376950	1	40151	KAO2397898.1	Platysternon megacephalum	T-arch	Ig/FN3-repeat (titin-like)	
+OZ454598.1:23429495-23747131	1	40014	CAR0409134.1	Gasterosteus aculeatus	T-excl	no panel hit	partial;tandem-repeat-translation(period=42aa,id=0.70)
+seq:UPI00245205B9	1	39957	UPI00245205B9	Omnitrophica bacterium	T-unclear	no panel hit	
+seq:UPI0044F2B058	1	39851	UPI0044F2B058	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.72)
+seq:UPI000FFEDAD7	1	39686	WP_128698900.1	Candidatus Velamenicoccus archaeovorus	T-unclear	mixed/other:SecA	
+CP019384.1:29853-148886	1	39677	QAT16263.1	Candidatus Velamenicoccus archaeovorus	T-unclear	mixed/other:SecA	
+GeneID:311528153	1	39588	XP_084498969.1	Lepidochelys olivacea	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI0019403D63	1	39571	WP_203660675.1	Actinocatenispora rupis	T-unclear	no panel hit	
+JALAIX010000022.1:7569327-7915314	1	39546	KAI4552968.1	Ovis ammon polii x Ovis aries	T-excl	no panel hit	partial;tandem-repeat-translation(period=22aa,id=0.87);no-initial-Met
+seq:UPI003D976B0A	1	39399	WP_433635445.1	Nocardia sp. CA-120079	T-unclear	no panel hit	
+BAAAZM010000011.1:166246-284376	1	39376	GAA4215161.1	Actinocatenispora rupis	T-unclear	no panel hit	
+seq:UPI0002F4774D	1	39236	UPI0002F4774D	Xanthomonas vasicola pv. musacearum NCPPB 4381	T-repeat	no panel hit	tandem-repeat-translation(period=12aa,id=1.00);low-complexity(1.00)
+JANCQY010000001.1:166435028-166742837	1	39205	KAM3850998.1	Vipera latastei	T-arch	Ig/FN3-repeat (titin-like)	
+CANUEZ050000212.1:114853-279155	1	39183	CAM0512426.1	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.75);low-complexity(1.00)
+GeneID:310643778	1	39164	XP_083224473.1	Vipera ursinii	T-arch	Ig/FN3-repeat (titin-like)	
+BAAHRX010000008.1:165541119-166039632	1	39099	GAB5575788.1	Prionailurus iriomotensis	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:308675248	1	39043	XP_081196487.1	Vipera berus	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:139964732	48	39031	XP_071822701.1	Apostichopus japonicus	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:137153596	50	39031	XP_067405209.1	Emydura macquarii macquarii	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI0044F13974	1	38979	UPI0044F13974	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.72)
+BAAJCM010000011.1:43710061-44157043	1	38882	GAB9674000.1	Pteropus pselaphon	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:309393803	1	38856	XP_081812424.1	Natrix helvetica	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:100367237	1	38813	XP_085351973.1	Saccoglossus kowalevskii	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+seq:UPI0026E804F2	1	38810	A0AA41SNZ1	Sciurus carolinensis	T-arch	Ig/FN3-repeat (titin-like)	no-initial-Met
+seq:UPI004C2BA1D4	1	38779	UPI004C2BA1D4	Miniopterus fuliginosus	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI00362B8AAC	1	38772	WP_379215411.1	Nocardia sp. NPDC127579	T-unclear	no panel hit	
+JBJABS010000012.1:33701704-34015515	1	38686	KAM9123075.1	Pangshura tecta	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:106877301	1	38676	XP_089194185.1	Octopus bimaculoides	T-arch	Ig/FN3-repeat	
+OZ555857.1:39109498-39230303	1	38645	CAR9408907.1	Merlangius merlangus	T-repeat	no panel hit	tandem-repeat-translation(period=7aa,id=0.29);low-complexity(0.61)
+seq:UPI0046C2EB76	1	38634	UPI0046C2EB76	Omnitrophica bacterium	T-unclear	mixed/other:MT	
+seq:UPI0044EFA0AF	1	38604	UPI0044EFA0AF	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.75)
+GeneID:134498946	1	38521	XP_063161488.1	Candoia aspera	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:5% of CDS bases
+seq:UPI004C2D616F	1	38516	UPI004C2D616F	Vulpes vulpes japonica	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:147032388	1	38490	XP_085706711.1	Eptatretus burgeri	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+OZ556498.1:18523463-18639848	1	38458	CAR9444729.1	Arctogadus glacialis	T-repeat	no panel hit	tandem-repeat-translation(period=312aa,id=0.42);low-complexity(0.66)
+CP126894.1:151127376-151456074	1	38430	YEX71550.1	Furcifer pardalis	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI001256766E	1	38354	A0A6B0RPA5	Bos mutus	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI0027648324	1	38329	UPI0027648324	Omnitrophica bacterium	T-unclear	mixed/other:kinase	
+seq:UPI00295AB97A	1	38280	UPI00295AB97A	Anolis sagrei ordinatus	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI001CB855D4	1	38279	UPI001CB855D4	Chiloscyllium plagiosum	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:115412831	1	38182	XP_029981348.1	Sphaeramia orbicularis	T-arch	Ig/FN3-repeat (titin-like)	X-residues(0.00065);RefSeq-LOW-QUALITY;genomic-stop-substituted(3);RefSeq-ab-initio-part:corrected 3 genomic 
+GeneID:115475109	1	38163	XP_030066708.1	Microcaecilia unicolor	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:2% of CDS bases
+CM014079.1:1490060-1680770	1	38162	TKS66768.1	Collichthys lucidus	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:107112583	1	38105	XP_015269234.1	Gekko japonicus	T-arch	Ig/FN3-repeat (titin-like)	X-residues(5e-05);RefSeq-LOW-QUALITY;genomic-stop-substituted(1);RefSeq-ab-initio-part:corrected 1 genomic 
+GeneID:117361557	18	38067	XP_033802948.1	Geotrypetes seraphini	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:140076158	1	38028	XP_071978768.1	Engystomops pustulosus	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:2% of CDS bases
+WHWB01034253.1:457059-774587	1	37930	KAJ7412326.1	Willisornis vidua	T-arch	Ig/FN3-repeat (titin-like)	X-residues(0.00063)
+JAMXTM010002573.1:3763419-4239813	1	37904	KAI5187665.1	Manis pentadactyla	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:149313698	1	37868	XP_089379146.1	Sceloporus occidentalis	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+seq:UPI001C675CD7	1	37853	UPI001C675CD7	Chrysemys picta bellii	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI000D72069A	1	37808	UPI000D72069A	Pelodiscus sinensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record;X-residues(0.0005)
+CAIIXF020000001.1:24698649-24837314	1	37788	CAH1773861.1	Owenia fusiformis	T-repeat	mixed/other:EGF	tandem-repeat-translation(period=47aa,id=0.69);low-complexity(0.96)
+seq:UPI00202B74A9	1	37779	UPI00202B74A9	Stegostoma tigrinum	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI0000429D4B	1	37777	UPI0000429D4B		T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+GeneID:128845600	1	37775	XP_053900404.1	Malaclemys terrapin pileata	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI001CABDC92	1	37774	UPI001CABDC92	Owenia fusiformis	T-excl	mixed/other:EGF	no-live-record;tandem-repeat-translation(period=47aa,id=0.69);low-complexity(0.96)
+seq:UPI000703E5DF	1	37771	UPI000703E5DF	Pelodiscus sinensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record;X-residues(0.00013)
+GeneID:101933242	2	37768	XP_065416876.1	Chrysemys picta bellii	T-arch	Ig/FN3-repeat (titin-like)	
+JAVCPN020000007.1:41265720-41558976	1	37732	KAN6777963.1	Myuchelys georgesi	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI004C31D00E	1	37708	UPI004C31D00E	Nyctereutes viverrinus	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:125426212	1	37707	XP_048340426.1	Sphaerodactylus townsendi	T-arch	Ig/FN3-repeat (titin-like)	X-residues(0.00037);RefSeq-LOW-QUALITY;genomic-stop-substituted(12);RefSeq-ab-initio-part:corrected 12 genomic
+seq:UPI00216C0413	1	37690	UPI00216C0413	Oscillospiraceae bacterium	T-unclear	no panel hit	
+seq:UPI0049124D44	1	37683	UPI0049124D44	Procyon lotor	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI000CE63434	1	37665	UPI000CE63434	Chrysemys picta bellii	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI0046B9384D	1	37663	UPI0046B9384D	Omnitrophica bacterium	T-unclear	mixed/other:MT	
+seq:UPI003F9C91C3	1	37661	WP_442023304.1	Nocardia sp. 2YAB30	T-unclear	no panel hit	
+seq:UPI00266E1027	1	37646	UPI00266E1027	Fasciola hepatica	T-repeat	no panel hit	tandem-repeat-translation(period=2aa,id=0.74);low-complexity(0.98)
+GeneID:133376358	21	37630	XP_061464309.1	Rhineura floridana	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:116817943	1	37612	XP_074925927.1	Chelonoidis abingdonii	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+seq:UPI00386384D7	1	37431	WP_406274080.1	Nocardia sp. NBC_00881	T-unclear	no panel hit	
+GeneID:120306336	45	37403	XP_039195311.1	Crotalus tigris	T-arch	Ig/FN3-repeat (titin-like)	
+VMED01000021.1:34315990-34556823	1	37401	KAM6348687.1	Alca torda	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-LOW-QUALITY
+JBBXKG010000008.1:20873823-21109299	9	37372	KAN7820843.1	Poephila acuticauda hecki	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI0006ECB2A3	1	37363	UPI0006ECB2A3	Alligator mississippiensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI0006EC60AE	1	37361	UPI0006EC60AE	Alligator mississippiensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+GeneID:138762481	1	37359	XP_069792334.1	Narcine bancroftii	T-arch	Ig/FN3-repeat (titin-like)	X-residues(5e-05);RefSeq-LOW-QUALITY;RefSeq-ab-initio-part:corrected 2 indels
+JAVFKW010000018.1:40583904-40887023	1	37336	KAM7153945.1	Macrochelys suwanniensis	T-arch	Ig/FN3-repeat (titin-like)	
+JALAIX010000027.1:45929713-46057989	1	37336	KAI4550367.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=22aa,id=0.84)
+seq:UPI0006EC6624	1	37335	UPI0006EC6624	Alligator mississippiensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI0006EC7308	1	37317	UPI0006EC7308	Alligator mississippiensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+JAEMGP010000002.1:131562686-132125657	1	37314	KAG5213687.1	Ovis aries	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI0006ECB7AA	1	37307	UPI0006ECB7AA	Alligator mississippiensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI0006EC7BAF	1	37272	UPI0006EC7BAF	Alligator mississippiensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI0006ECBDE6	1	37272	UPI0006ECBDE6	Alligator mississippiensis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+CP162241.1:135404452-135687765	1	37248	XDA72527.1	Ovis aries	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:120944437	1	37231	XP_040214433.1	Rana temporaria	T-arch	Ig/FN3-repeat (titin-like)	X-residues(0.00016);RefSeq-LOW-QUALITY;genomic-stop-substituted(1);RefSeq-ab-initio-part:corrected 1 genomic 
+seq:UPI0044EB349F	1	37209	UPI0044EB349F	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=175aa,id=0.21)
+JAUHHV010000010.1:35278297-35623258	1	37183	KAK1411600.1	Tagetes erecta	T-repeat	no panel hit	tandem-repeat-translation(period=33aa,id=0.78)
+OZ223569.1:45034149-45340950	1	37143	CAM4536708.1	Lepidochelys kempii	T-arch	Ig/FN3-repeat (titin-like)	
+JBBLMP020000009.1:25999945-26237241	1	37091	KAO2547375.1	Poecile montanus	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI003C2F9652	1	37087	WP_423697738.1	Nocardia testacea	T-unclear	no panel hit	
+GeneID:141506211	1	37042	XP_074068859.1	Macrotis lagotis	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+GeneID:142016668	1	37008	XP_074856878.1	Carettochelys insculpta	T-arch	Ig/FN3-repeat (titin-like)	
+OZ223597.1:44883875-45190680	1	37008	CAM4536479.1	Lepidochelys kempii	T-arch	Ig/FN3-repeat (titin-like)	
+LSYS01004331.1:24011033-24255653	5	36991	OPJ80120.1	Patagioenas fasciata monilis	T-arch	Ig/FN3-repeat (titin-like)	
+JBIMMJ010000002.1:18359136-18641038	1	36943	KAM7247103.1	Capra ibex	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:145845187	1	36927	XP_082808736.1	Thalia democratica	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:14% of CDS bases
+GeneID:117672110	1	36924	XP_087738184.1	Pantherophis guttatus	T-arch	Ig/FN3-repeat (titin-like)	
+OZ555879.1:38800073-38915715	1	36923	CAR9407816.1	Merlangius merlangus	T-repeat	no panel hit	tandem-repeat-translation(period=1516aa,id=0.35);low-complexity(0.60)
+GeneID:309662954	1	36900	XP_082322286.1	Balaenoptera physalus	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:102452728	50	36880	XP_089636042.1	Pelodiscus sinensis	T-arch	Ig/FN3-repeat (titin-like)	
+OZ223949.1:44500643-44805772	1	36831	CAM5094532.1	Natator depressus	T-arch	Ig/FN3-repeat (titin-like)	
+OZ223122.1:45295921-45602263	1	36806	CAM4616941.1	Lepidochelys olivacea	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI00005D5563	1	36805	UPI00005D5563	Chlorobium chlorochromatii (strain CaD3)	T-unclear	no panel hit	
+JAINUF010000027.1:1731852-1868391	1	36798	KAJ8332362.1	Synaphobranchus kaupii	T-repeat	no panel hit	tandem-repeat-translation(period=23aa,id=0.40);low-complexity(0.60)
+GeneID:144686587	1	36793	XP_078408136.1	Cetorhinus maximus	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI00035A28E3	1	36789	UPI00035A28E3	Ficedula albicollis	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+JALAIX010000016.1:74557-191603	1	36768	KAI4559934.1	Ovis ammon polii x Ovis aries	T-repeat	no panel hit	tandem-repeat-translation(period=66aa,id=0.87)
+seq:UPI003F6D1A0D	1	36762	UPI003F6D1A0D	Pelodiscus sinensis	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI0044F032DE	1	36755	UPI0044F032DE	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.75)
+GeneID:121285224	1	36688	XP_041057455.1	Carcharodon carcharias	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI0044EDE847	1	36675	UPI0044EDE847	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.73)
+GeneID:128658760	1	36669	XP_053568820.1	Bombina bombina	T-arch	Ig/FN3-repeat (titin-like)	X-residues(0.00109);RefSeq-LOW-QUALITY;genomic-stop-substituted(4);RefSeq-ab-initio-part:corrected 4 genomic 
+seq:UPI0033DEA43B	1	36629	WP_357074110.1	Nocardia sp. NPDC049220	T-unclear	no panel hit	
+GeneID:116998695	1	36619	XP_042635384.1	Catharus ustulatus	T-arch	Ig/FN3-repeat (titin-like)	X-residues(3e-05);RefSeq-LOW-QUALITY;RefSeq-ab-initio-part:corrected 1 indel
+seq:UPI002E0F8250	1	36587	WP_327114044.1	Nocardia sp. NBC_01730	T-unclear	no panel hit	
+GeneID:127030391	43	36562	XP_050772699.1	Gopherus flavomarginatus	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:115659647	1	36556	XP_030435962.1	Gopherus evgoodei	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-LOW-QUALITY
+GeneID:120374675	1	36529	XP_039350638.1	Mauremys reevesii	T-arch	Ig/FN3-repeat (titin-like)	
+JH167841.1:410-254150	1	36507	EHB02902.1	Heterocephalus glaber	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI0044EADEFE	1	36505	UPI0044EADEFE	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.79)
+OX596097.2:17959357-18491361	1	36500	CAM9590860.1	Rangifer tarandus platyrhynchus	T-arch	Ig/FN3-repeat (titin-like)	
+OZ223864.1:43228455-43533584	1	36491	CAM5089473.1	Natator depressus	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:138646086	1	36486	XP_069591654.1	Ranitomeya imitator	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+GeneID:103924608	1	36484	XP_009331438.1	Pygoscelis adeliae	T-arch	Ig/FN3-repeat (titin-like)	X-residues(0.00038);RefSeq-LOW-QUALITY;genomic-stop-substituted(1);RefSeq-ab-initio-part:corrected 1 genomic 
+seq:UPI00343D1227	1	36483	UPI00343D1227	Nocardia sp. NPDC050193	T-unclear	no panel hit	
+seq:UPI0004DDEE38	1	36444	UPI0004DDEE38	Corvus brachyrhynchos	T-excl	Ig/FN3-repeat (titin-like)	no-live-record;X-residues(3e-05)
+GeneID:109301625	1	36421	XP_019378405.1	Gavialis gangeticus	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:3% of CDS bases
+OZ578759.1:206418616-206720225	1	36420	CAS4028103.1	Natrix natrix natrix	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI001408FB3D	1	36419	UPI001408FB3D	Catharus ustulatus	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+JAGFMF010011573.1:553624-819597	1	36362	KAG8520333.1	Galemys pyrenaicus	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-LOW-QUALITY
+OZ578741.1:208074114-208379507	1	36361	CAS4027104.1	Natrix natrix natrix	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI003C6F5AFB	1	36329	UPI003C6F5AFB	Lepidochelys kempii	T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+seq:UPI003040B6E2	1	36327	UPI003040B6E2	Omnitrophica bacterium	T-unclear	no panel hit	
+seq:UPI00053433C1	1	36300	UPI00053433C1	Corvus cornix cornix	T-excl	Ig/FN3-repeat (titin-like)	no-live-record;X-residues(0.00011)
+seq:UPI004363AFA3	1	36291	UPI004363AFA3	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.69)
+GeneID:140895950	1	36274	XP_078704114.1	Lepidochelys kempii	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:2% of CDS bases
+OZ222865.1:45299719-45606084	1	36268	CAM4630209.1	Lepidochelys olivacea	T-arch	Ig/FN3-repeat (titin-like)	
+JAZARX010000018.1:57580866-57846360	1	36247	KAO2468769.1	Equus caballus	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-LOW-QUALITY
+GeneID:132330230	1	36214	XP_059708286.1	Haemorhous mexicanus	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+seq:UPI0044EAFC7D	1	36198	UPI0044EAFC7D	Plectranthus ornatus	T-repeat	no panel hit	tandem-repeat-translation(period=54aa,id=0.66)
+OZ223921.1:45084232-45391460	1	36183	CAM5147486.1	Eretmochelys imbricata	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:135187404	1	36174	XP_064022154.1	Pogoniulus pusillus	T-arch	Ig/FN3-repeat (titin-like)	X-residues(3e-05);RefSeq-LOW-QUALITY;RefSeq-ab-initio-part:corrected 1 indel
+OZ557014.1:199768032-200081545	1	36169	CAR9679312.1	Coronella austriaca	T-arch	Ig/FN3-repeat (titin-like)	
+CABDUW010000306.1:340362-602562	1	36136	VTJ65423.1	Marmota monax	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI000047C37F	1	36134	UPI000047C37F		T-excl	Ig/FN3-repeat (titin-like)	no-live-record
+GeneID:106544574	1	36122	XP_087561718.1	Thamnophis sirtalis	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+GeneID:137526154	1	36097	XP_068103475.1	Hyperolius riggenbachi	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-ab-initio-part:1% of CDS bases
+JAVFJL010000002.1:150786556-151085270	1	36094	KAM6461435.1	Liasis olivaceus	T-arch	Ig/FN3-repeat (titin-like)	
+OZ222818.1:45252165-45559746	1	36086	CAM4632270.1	Caretta caretta	T-arch	Ig/FN3-repeat (titin-like)	
+OZ556884.1:202866781-203179078	1	36081	CAR9519500.1	Coronella austriaca	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:122551920	1	36067	XP_087845101.1	Chiloscyllium plagiosum	T-arch	Ig/FN3-repeat (titin-like)	
+JAGKHQ010000012.1:182950-365010	1	36057	KAG7502825.1	Solea senegalensis	T-arch	Ig/FN3-repeat (titin-like)	
+JH000248.1:601237-1050143	1	36026	EGW08606.1	Cricetulus griseus	T-arch	Ig/FN3-repeat (titin-like)	
+seq:UPI001292EFBC	1	36008	UPI001292EFBC	Lonchura striata	T-excl	Ig/FN3-repeat (titin-like)	no-live-record;X-residues(3e-05)
+NBAG03000211.1:46376501-46653661	1	35997	PNI86607.1	Pan troglodytes	T-arch	Ig/FN3-repeat (titin-like)	
+GeneID:100435464	1	35994	XP_063568970.1	Pongo abelii	T-arch	Ig/FN3-repeat (titin-like)	
+NDHI03003413.1:11857950-12134510	1	35993	PNJ60112.1	Pongo abelii	T-arch	Ig/FN3-repeat (titin-like)	RefSeq-LOW-QUALITY

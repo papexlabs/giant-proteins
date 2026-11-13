@@ -1,0 +1,67 @@
+entries 176 release 2026_04 {'G1 silk (Swiss-Prot)': 3, 'G1b complete spidroins': 4, 'G2 mucins': 15, 'G3 bacterial adhesins': 13, 'G4 long proteins': 150}
+0 A2ASS6 35213 0.119 0.011 0.766 False
+10 M9MRD1 12345 0.094 0.0 0.076 False
+20 Q8NF91 8797 0.098 0.0 0.154 False
+30 P9WER8 7760 0.227 0.04 0.852 False
+40 K0E4D7 7260 0.097 0.0 0.758 False
+50 K9N7C7 7078 0.091 0.0 0.0 False
+60 P0C6X1 6758 0.086 0.0 0.0 False
+70 O30409 6486 0.157 0.0 0.889 False
+80 Q96RW7 5635 0.111 0.0 0.745 False
+90 Q9W596 5495 0.241 0.164 0.0 False
+100 P05790 5263 0.752 0.914 0.0 True
+110 Q5T4S7 5183 0.103 0.0 0.0 False
+120 Q4G0P3 5121 0.107 0.0 0.0 False
+130 Q9JKS6 5085 0.117 0.0 0.0 False
+140 A2QYX4 5054 0.101 0.0 0.745 False
+150 A2AAE1 5005 0.104 0.0 0.0 False
+160 Q3YL96 3132 0.142 0.0 0.0 False
+170 Q7A362 2271 0.39 0.0 0.0 False
+{
+ "G1 silk (Swiss-Prot)": {
+  "n": 3,
+  "D1": 1,
+  "D2": 0,
+  "D3": 0,
+  "any_D": 1,
+  "with_cds": 1,
+  "repeat_trigger_before_domain_guard": 1
+ },
+ "G1b complete spidroins": {
+  "n": 4,
+  "D1": 3,
+  "D2": 0,
+  "D3": 0,
+  "any_D": 3,
+  "with_cds": 4,
+  "repeat_trigger_before_domain_guard": 3
+ },
+ "G2 mucins": {
+  "n": 15,
+  "D1": 0,
+  "D2": 0,
+  "D3": 0,
+  "any_D": 0,
+  "with_cds": 3,
+  "repeat_trigger_before_domain_guard": 0
+ },
+ "G3 bacterial adhesins": {
+  "n": 13,
+  "D1": 4,
+  "D2": 0,
+  "D3": 0,
+  "any_D": 4,
+  "with_cds": 12,
+  "repeat_trigger_before_domain_guard": 4
+ },
+ "G4 long proteins": {
+  "n": 150,
+  "D1": 3,
+  "D2": 0,
+  "D3": 0,
+  "any_D": 3,
+  "with_cds": 82,
+  "repeat_trigger_before_domain_guard": 4
+ }
+}
+flagged: [('K7YP04', 'Aciniform spidroin 1', 6332, 376, 0.882, 0.938, 0.0, True, False, False), ('Q9Y6R7', 'IgGFc-binding protein', 5405, 1201, 0.609, 0.636, 0.0, True, False, False), ('P05790', 'Fibroin heavy chain', 5263, 6, 0.752, 0.914, 0.0, True, False, False), ('P0DPF2', 'NBPF family member NBPF20', 5207, 732, 0.956, 0.98, 0.0, True, False, False), ('A0A0H2URK1', 'Pneumococcal serine-rich repeat protein', 4776, 16, 0.851, 0.904, 0.0, True, False, False), ('A0A2R2YSJ7', 'Tubuliform spidroin 1', 3153, 180, 0.901, 0.885, 0.0, True, False, False), ('A6YIY1', 'Major ampullate spidroin 1', 3129, 35, 0.532, 0.882, 0.0, True, False, False), ('Q939N5', 'Platelet binding protein GspB', 3072, 36, 0.756, 0.733, 0.0, True, False, False), ('A1C3L3', 'Fap1 adhesin', 2587, 12, 0.793, 0.775, 0.0, True, False, False), ('A8AWU7', 'Streptococcal hemagglutinin', 2178, 36, 0.745, 0.653, 0.0, True, False, False)]

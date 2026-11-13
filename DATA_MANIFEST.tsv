@@ -1,0 +1,1004 @@
+kind	item	bytes	source	used_by
+stored	cloud/bundle/assembly_cache.json	15198	this repository	
+stored	cloud/bundle/exons/Alca_torda_008658365.1.fa	163756	this repository	
+stored	cloud/bundle/exons/Apostichopus_japonicus_037975245.1.fa	8731021	this repository	
+stored	cloud/bundle/exons/Bagarius_yarrelli_005784505.1.fa	220492	this repository	
+stored	cloud/bundle/exons/Balaenoptera_physalus_965194825.1.fa	164157	this repository	
+stored	cloud/bundle/exons/Bombina_bombina_027579735.1.fa	158437	this repository	
+stored	cloud/bundle/exons/Candoia_aspera_035149785.1.fa	171617	this repository	
+stored	cloud/bundle/exons/Capra_ibex_054642885.1.fa	167606	this repository	
+stored	cloud/bundle/exons/Caretta_caretta_965140235.1.fa	159360	this repository	
+stored	cloud/bundle/exons/Carettochelys_insculpta_033958435.1.fa	163040	this repository	
+stored	cloud/bundle/exons/Catharus_ustulatus_009819885.2.fa	163690	this repository	
+stored	cloud/bundle/exons/Cetorhinus_maximus_964194155.1.fa	162115	this repository	
+stored	cloud/bundle/exons/Chelonoidis_abingdonii_003597395.2.fa	167939	this repository	
+stored	cloud/bundle/exons/Chiloscyllium_plagiosum_037043375.1.fa	157247	this repository	
+stored	cloud/bundle/exons/Chrysemys_picta_bellii_011386835.1.fa	331324	this repository	
+stored	cloud/bundle/exons/Cirrhinus_molitorella_033026305.1.fa	238391	this repository	
+stored	cloud/bundle/exons/Collichthys_lucidus_004119915.2.fa	151814	this repository	
+stored	cloud/bundle/exons/Corticium_candelabrum_963422355.1.fa	149314	this repository	
+stored	cloud/bundle/exons/Cricetulus_griseus_000223135.1.fa	163113	this repository	
+stored	cloud/bundle/exons/Emydura_macquarii_macquarii_026122565.2.fa	8839758	this repository	
+stored	cloud/bundle/exons/Engystomops_pustulosus_040894005.1.fa	163754	this repository	
+stored	cloud/bundle/exons/Eptatretus_burgeri_056783735.1.fa	174003	this repository	
+stored	cloud/bundle/exons/Equus_caballus_036426135.1.fa	158046	this repository	
+stored	cloud/bundle/exons/Eretmochelys_imbricata_965152285.1.fa	159774	this repository	
+stored	cloud/bundle/exons/Furcifer_pardalis_030440675.1.fa	175656	this repository	
+stored	cloud/bundle/exons/Galemys_pyrenaicus_019455555.1.fa	161329	this repository	
+stored	cloud/bundle/exons/Gavialis_gangeticus_001723915.1.fa	164831	this repository	
+stored	cloud/bundle/exons/Gekko_japonicus_001447785.1.fa	171371	this repository	
+stored	cloud/bundle/exons/Geotrypetes_seraphini_902459505.2.fa	172664	this repository	
+stored	cloud/bundle/exons/Glandiceps_talaboti_964340395.1.fa	198108	this repository	
+stored	cloud/bundle/exons/Gopherus_flavomarginatus_025201925.1.fa	7224413	this repository	
+stored	cloud/bundle/exons/Haemorhous_mexicanus_027477595.1.fa	161421	this repository	
+stored	cloud/bundle/exons/Halichondria_panicea_963675165.1.fa	125448	this repository	
+stored	cloud/bundle/exons/Heterocephalus_glaber_000230445.1.fa	162009	this repository	
+stored	cloud/bundle/exons/Homo_sapiens_000001405.40.fa	167359	this repository	
+stored	cloud/bundle/exons/Hyperolius_riggenbachi_040937935.1.fa	155468	this repository	
+stored	cloud/bundle/exons/Lepidochelys_kempii_965140285.1.fa	168485	this repository	
+stored	cloud/bundle/exons/Lepidochelys_olivacea_965140255.1.fa	161281	this repository	
+stored	cloud/bundle/exons/Lepidochelys_olivacea_965140295.1.fa	166536	this repository	
+stored	cloud/bundle/exons/Liasis_olivaceus_030867105.1.fa	171487	this repository	
+stored	cloud/bundle/exons/Macrochelys_suwanniensis_033349115.1.fa	169787	this repository	
+stored	cloud/bundle/exons/Macrotis_lagotis_037893015.1.fa	167144	this repository	
+stored	cloud/bundle/exons/Malaclemys_terrapin_pileata_027887155.1.fa	170066	this repository	
+stored	cloud/bundle/exons/Manis_pentadactyla_024244205.1.fa	170743	this repository	
+stored	cloud/bundle/exons/Marmota_monax_901343595.1.fa	158638	this repository	
+stored	cloud/bundle/exons/Mauremys_reevesii_016161935.1.fa	169268	this repository	
+stored	cloud/bundle/exons/Microcaecilia_unicolor_901765095.2.fa	166802	this repository	
+stored	cloud/bundle/exons/Myuchelys_georgesi_040894355.2.fa	169817	this repository	
+stored	cloud/bundle/exons/Myxine_glutinosa_964187855.1.fa	199003	this repository	
+stored	cloud/bundle/exons/Narcine_bancroftii_036971445.1.fa	162680	this repository	
+stored	cloud/bundle/exons/Natator_depressus_965152195.1.fa	163893	this repository	
+stored	cloud/bundle/exons/Natator_depressus_965152275.1.fa	166929	this repository	
+stored	cloud/bundle/exons/Natrix_helvetica_964273705.1.fa	175137	this repository	
+stored	cloud/bundle/exons/Natrix_natrix_natrix_990120369.1.fa	334053	this repository	
+stored	cloud/bundle/exons/Octopus_bimaculoides_046866305.1.fa	176927	this repository	
+stored	cloud/bundle/exons/Ovis_ammon_polii_x_Ovis_aries_023701675.1.fa	301817	this repository	
+stored	cloud/bundle/exons/Ovis_aries_017524585.1.fa	166080	this repository	
+stored	cloud/bundle/exons/Ovis_aries_040805955.1.fa	169779	this repository	
+stored	cloud/bundle/exons/Pan_troglodytes_002880755.3.fa	167212	this repository	
+stored	cloud/bundle/exons/Pangshura_tecta_045781085.1.fa	172008	this repository	
+stored	cloud/bundle/exons/Pantherophis_guttatus_059756535.1.fa	168200	this repository	
+stored	cloud/bundle/exons/Patagioenas_fasciata_monilis_002029285.1.fa	818567	this repository	
+stored	cloud/bundle/exons/Platysternon_megacephalum_057946115.1.fa	178474	this repository	
+stored	cloud/bundle/exons/Poecile_montanus_038429875.2.fa	162101	this repository	
+stored	cloud/bundle/exons/Poephila_acuticauda_hecki_057534655.1.fa	1484942	this repository	
+stored	cloud/bundle/exons/Pogoniulus_pusillus_015220805.1.fa	160306	this repository	
+stored	cloud/bundle/exons/Pongo_abelii_002880775.3.fa	167241	this repository	
+stored	cloud/bundle/exons/Pongo_abelii_028885655.2.fa	167243	this repository	
+stored	cloud/bundle/exons/Prionailurus_iriomotensis_054601675.1.fa	182076	this repository	
+stored	cloud/bundle/exons/Prymnesium_parvum_041296205.1.fa	137055	this repository	
+stored	cloud/bundle/exons/Pteropus_pselaphon_056242155.1.fa	181570	this repository	
+stored	cloud/bundle/exons/Pygoscelis_adeliae_000699105.1.fa	161584	this repository	
+stored	cloud/bundle/exons/Rana_temporaria_905171775.1.fa	163320	this repository	
+stored	cloud/bundle/exons/Rangifer_tarandus_platyrhynchus_951394145.2.fa	170036	this repository	
+stored	cloud/bundle/exons/Ranitomeya_imitator_032444005.1.fa	157381	this repository	
+stored	cloud/bundle/exons/Rhineura_floridana_030035675.1.fa	3576553	this repository	
+stored	cloud/bundle/exons/Saccoglossus_kowalevskii_978046115.1.fa	192097	this repository	
+stored	cloud/bundle/exons/Sceloporus_occidentalis_023333645.1.fa	167887	this repository	
+stored	cloud/bundle/exons/Solea_senegalensis_019176455.1.fa	144124	this repository	
+stored	cloud/bundle/exons/Sphaeramia_orbicularis_902148855.1.fa	157925	this repository	
+stored	cloud/bundle/exons/Sphaerodactylus_townsendi_021028975.2.fa	170444	this repository	
+stored	cloud/bundle/exons/Sycon_ciliatum_964019385.1.fa	155597	this repository	
+stored	cloud/bundle/exons/Thalia_democratica_965202585.1.fa	153242	this repository	
+stored	cloud/bundle/exons/Thamnophis_sirtalis_051295495.1.fa	166209	this repository	
+stored	cloud/bundle/exons/Triplophysa_tibetana_008369825.1.fa	178531	this repository	
+stored	cloud/bundle/exons/Vipera_berus_964194415.1.fa	172977	this repository	
+stored	cloud/bundle/exons/Vipera_latastei_024294585.1.fa	174559	this repository	
+stored	cloud/bundle/exons/Vipera_ursinii_947247035.1.fa	174765	this repository	
+stored	cloud/bundle/exons/Willisornis_vidua_029286905.1.fa	165197	this repository	
+stored	cloud/bundle/jobs.tsv	91115	this repository	
+stored	cloud/bundle/loci/Alca_torda_008658365.1.json	10568	this repository	
+stored	cloud/bundle/loci/Apostichopus_japonicus_037975245.1.json	337244	this repository	
+stored	cloud/bundle/loci/Bagarius_yarrelli_005784505.1.json	8016	this repository	
+stored	cloud/bundle/loci/Balaenoptera_physalus_965194825.1.json	7641	this repository	
+stored	cloud/bundle/loci/Bombina_bombina_027579735.1.json	7906	this repository	
+stored	cloud/bundle/loci/Candoia_aspera_035149785.1.json	8338	this repository	
+stored	cloud/bundle/loci/Capra_ibex_054642885.1.json	7975	this repository	
+stored	cloud/bundle/loci/Caretta_caretta_965140235.1.json	7352	this repository	
+stored	cloud/bundle/loci/Carettochelys_insculpta_033958435.1.json	7553	this repository	
+stored	cloud/bundle/loci/Catharus_ustulatus_009819885.2.json	7553	this repository	
+stored	cloud/bundle/loci/Cetorhinus_maximus_964194155.1.json	7267	this repository	
+stored	cloud/bundle/loci/Chelonoidis_abingdonii_003597395.2.json	7641	this repository	
+stored	cloud/bundle/loci/Chiloscyllium_plagiosum_037043375.1.json	7050	this repository	
+stored	cloud/bundle/loci/Chrysemys_picta_bellii_011386835.1.json	15458	this repository	
+stored	cloud/bundle/loci/Cirrhinus_molitorella_033026305.1.json	10505	this repository	
+stored	cloud/bundle/loci/Collichthys_lucidus_004119915.2.json	5687	this repository	
+stored	cloud/bundle/loci/Corticium_candelabrum_963422355.1.json	692	this repository	
+stored	cloud/bundle/loci/Cricetulus_griseus_000223135.1.json	6418	this repository	
+stored	cloud/bundle/loci/Emydura_macquarii_macquarii_026122565.2.json	418368	this repository	
+stored	cloud/bundle/loci/Engystomops_pustulosus_040894005.1.json	8015	this repository	
+stored	cloud/bundle/loci/Eptatretus_burgeri_056783735.1.json	7025	this repository	
+stored	cloud/bundle/loci/Equus_caballus_036426135.1.json	7183	this repository	
+stored	cloud/bundle/loci/Eretmochelys_imbricata_965152285.1.json	7374	this repository	
+stored	cloud/bundle/loci/Furcifer_pardalis_030440675.1.json	8621	this repository	
+stored	cloud/bundle/loci/Galemys_pyrenaicus_019455555.1.json	6365	this repository	
+stored	cloud/bundle/loci/Gavialis_gangeticus_001723915.1.json	7754	this repository	
+stored	cloud/bundle/loci/Gekko_japonicus_001447785.1.json	6328	this repository	
+stored	cloud/bundle/loci/Geotrypetes_seraphini_902459505.2.json	8674	this repository	
+stored	cloud/bundle/loci/Glandiceps_talaboti_964340395.1.json	8125	this repository	
+stored	cloud/bundle/loci/Gopherus_flavomarginatus_025201925.1.json	352345	this repository	
+stored	cloud/bundle/loci/Haemorhous_mexicanus_027477595.1.json	7421	this repository	
+stored	cloud/bundle/loci/Halichondria_panicea_963675165.1.json	572	this repository	
+stored	cloud/bundle/loci/Heterocephalus_glaber_000230445.1.json	6104	this repository	
+stored	cloud/bundle/loci/Homo_sapiens_000001405.40.json	9205	this repository	
+stored	cloud/bundle/loci/Hyperolius_riggenbachi_040937935.1.json	7450	this repository	
+stored	cloud/bundle/loci/Lepidochelys_kempii_965140285.1.json	8125	this repository	
+stored	cloud/bundle/loci/Lepidochelys_olivacea_965140255.1.json	7484	this repository	
+stored	cloud/bundle/loci/Lepidochelys_olivacea_965140295.1.json	7858	this repository	
+stored	cloud/bundle/loci/Liasis_olivaceus_030867105.1.json	9158	this repository	
+stored	cloud/bundle/loci/Macrochelys_suwanniensis_033349115.1.json	8063	this repository	
+stored	cloud/bundle/loci/Macrotis_lagotis_037893015.1.json	8386	this repository	
+stored	cloud/bundle/loci/Malaclemys_terrapin_pileata_027887155.1.json	7971	this repository	
+stored	cloud/bundle/loci/Manis_pentadactyla_024244205.1.json	7176	this repository	
+stored	cloud/bundle/loci/Marmota_monax_901343595.1.json	5985	this repository	
+stored	cloud/bundle/loci/Mauremys_reevesii_016161935.1.json	8279	this repository	
+stored	cloud/bundle/loci/Microcaecilia_unicolor_901765095.2.json	7834	this repository	
+stored	cloud/bundle/loci/Myuchelys_georgesi_040894355.2.json	7975	this repository	
+stored	cloud/bundle/loci/Myxine_glutinosa_964187855.1.json	9754	this repository	
+stored	cloud/bundle/loci/Narcine_bancroftii_036971445.1.json	7882	this repository	
+stored	cloud/bundle/loci/Natator_depressus_965152195.1.json	7682	this repository	
+stored	cloud/bundle/loci/Natator_depressus_965152275.1.json	7880	this repository	
+stored	cloud/bundle/loci/Natrix_helvetica_964273705.1.json	8458	this repository	
+stored	cloud/bundle/loci/Natrix_natrix_natrix_990120369.1.json	16766	this repository	
+stored	cloud/bundle/loci/Octopus_bimaculoides_046866305.1.json	7378	this repository	
+stored	cloud/bundle/loci/Ovis_ammon_polii_x_Ovis_aries_023701675.1.json	1181	this repository	
+stored	cloud/bundle/loci/Ovis_aries_017524585.1.json	8126	this repository	
+stored	cloud/bundle/loci/Ovis_aries_040805955.1.json	8885	this repository	
+stored	cloud/bundle/loci/Pan_troglodytes_002880755.3.json	8476	this repository	
+stored	cloud/bundle/loci/Pangshura_tecta_045781085.1.json	7821	this repository	
+stored	cloud/bundle/loci/Pantherophis_guttatus_059756535.1.json	8362	this repository	
+stored	cloud/bundle/loci/Patagioenas_fasciata_monilis_002029285.1.json	37584	this repository	
+stored	cloud/bundle/loci/Platysternon_megacephalum_057946115.1.json	8107	this repository	
+stored	cloud/bundle/loci/Poecile_montanus_038429875.2.json	7227	this repository	
+stored	cloud/bundle/loci/Poephila_acuticauda_hecki_057534655.1.json	67595	this repository	
+stored	cloud/bundle/loci/Pogoniulus_pusillus_015220805.1.json	7333	this repository	
+stored	cloud/bundle/loci/Pongo_abelii_002880775.3.json	8520	this repository	
+stored	cloud/bundle/loci/Pongo_abelii_028885655.2.json	8477	this repository	
+stored	cloud/bundle/loci/Prionailurus_iriomotensis_054601675.1.json	9614	this repository	
+stored	cloud/bundle/loci/Prymnesium_parvum_041296205.1.json	856	this repository	
+stored	cloud/bundle/loci/Pteropus_pselaphon_056242155.1.json	9009	this repository	
+stored	cloud/bundle/loci/Pygoscelis_adeliae_000699105.1.json	6835	this repository	
+stored	cloud/bundle/loci/Rana_temporaria_905171775.1.json	8314	this repository	
+stored	cloud/bundle/loci/Rangifer_tarandus_platyrhynchus_951394145.2.json	8430	this repository	
+stored	cloud/bundle/loci/Ranitomeya_imitator_032444005.1.json	7399	this repository	
+stored	cloud/bundle/loci/Rhineura_floridana_030035675.1.json	167303	this repository	
+stored	cloud/bundle/loci/Saccoglossus_kowalevskii_978046115.1.json	8587	this repository	
+stored	cloud/bundle/loci/Sceloporus_occidentalis_023333645.1.json	7380	this repository	
+stored	cloud/bundle/loci/Solea_senegalensis_019176455.1.json	5123	this repository	
+stored	cloud/bundle/loci/Sphaeramia_orbicularis_902148855.1.json	6167	this repository	
+stored	cloud/bundle/loci/Sphaerodactylus_townsendi_021028975.2.json	7465	this repository	
+stored	cloud/bundle/loci/Sycon_ciliatum_964019385.1.json	995	this repository	
+stored	cloud/bundle/loci/Thalia_democratica_965202585.1.json	5331	this repository	
+stored	cloud/bundle/loci/Thamnophis_sirtalis_051295495.1.json	7732	this repository	
+stored	cloud/bundle/loci/Triplophysa_tibetana_008369825.1.json	7053	this repository	
+stored	cloud/bundle/loci/Vipera_berus_964194415.1.json	8218	this repository	
+stored	cloud/bundle/loci/Vipera_latastei_024294585.1.json	8366	this repository	
+stored	cloud/bundle/loci/Vipera_ursinii_947247035.1.json	8386	this repository	
+stored	cloud/bundle/loci/Willisornis_vidua_029286905.1.json	6020	this repository	
+stored	cloud/bundle_dna/done_on_mac/nocardia_NBC_00881_WSY60125.json	775	this repository	
+stored	cloud/bundle_dna/done_on_mac/nocardia_NBC_01730_WSG58785.json	775	this repository	
+stored	cloud/bundle_dna/jobs/omnitrophota_DAOOUB_HOW35280.json	582	this repository	
+stored	cloud/bundle_dna/jobs/omnitrophota_DAOPMG_HPD84636.json	583	this repository	
+stored	cloud/bundle_dna/jobs/omnitrophota_DAOTDT_HRZ03494.json	583	this repository	
+stored	cloud/bundle_followup_rna/exons/Lepidochelys_kempii_965140285.1_extra.fa	333868	this repository	
+stored	cloud/bundle_followup_rna/exons/Lepidochelys_olivacea_965140295.1_extra.fa	175953	this repository	
+stored	cloud/bundle_followup_rna/exons/Microcaecilia_unicolor_901765095.2_nosat.fa	166802	this repository	
+stored	cloud/bundle_followup_rna/exons/Pantherophis_guttatus_059756535.1_nosat.fa	168200	this repository	
+stored	cloud/bundle_followup_rna/exons/Rana_temporaria_905171775.1_nosat.fa	163320	this repository	
+stored	cloud/bundle_followup_rna/exons/Solea_senegalensis_019176455.1_nosat.fa	144124	this repository	
+stored	cloud/bundle_followup_rna/jobs.tsv	7249	this repository	
+stored	cloud/bundle_followup_rna/loci/Lepidochelys_kempii_965140285.1_extra.json	15738	this repository	
+stored	cloud/bundle_followup_rna/loci/Lepidochelys_olivacea_965140295.1_extra.json	7927	this repository	
+stored	cloud/bundle_followup_rna/loci/Microcaecilia_unicolor_901765095.2_nosat.json	7834	this repository	
+stored	cloud/bundle_followup_rna/loci/Pantherophis_guttatus_059756535.1_nosat.json	8362	this repository	
+stored	cloud/bundle_followup_rna/loci/Rana_temporaria_905171775.1_nosat.json	8314	this repository	
+stored	cloud/bundle_followup_rna/loci/Solea_senegalensis_019176455.1_nosat.json	5123	this repository	
+stored	cloud/bundle_rep_rna/RULES.txt	5732	this repository	
+stored	cloud/bundle_rep_rna/assembly_cache.json	1711	this repository	
+stored	cloud/bundle_rep_rna/exons/Acnodon_oligacanthus_051861665.1_rep.fa	290260	this repository	
+stored	cloud/bundle_rep_rna/exons/Arctogadus_glacialis_988276835.1_rep.fa	116631	this repository	
+stored	cloud/bundle_rep_rna/exons/Coilia_grayii_042479465.1_rep.fa	245614	this repository	
+stored	cloud/bundle_rep_rna/exons/Gasterosteus_aculeatus_982374505.1_rep.fa	597628	this repository	
+stored	cloud/bundle_rep_rna/exons/Gasterosteus_aculeatus_982374575.1_rep.fa	490702	this repository	
+stored	cloud/bundle_rep_rna/exons/Merlangius_merlangus_988265335.1_rep.fa	236921	this repository	
+stored	cloud/bundle_rep_rna/exons/Owenia_fusiformis_903813345.2_rep.fa	117067	this repository	
+stored	cloud/bundle_rep_rna/exons/Plectranthus_ornatus_978021945.2_rep.fa	145954	this repository	
+stored	cloud/bundle_rep_rna/exons/Plectranthus_ornatus_978856865.2_rep.fa	3569121	this repository	
+stored	cloud/bundle_rep_rna/exons/Schistosoma_haematobium_944470465.2_rep.fa	279261	this repository	
+stored	cloud/bundle_rep_rna/exons/Synaphobranchus_kaupii_029718625.1_rep.fa	330283	this repository	
+stored	cloud/bundle_rep_rna/jobs.tsv	13862	this repository	
+stored	cloud/bundle_rep_rna/loci/Acnodon_oligacanthus_051861665.1_rep.json	21236	this repository	
+stored	cloud/bundle_rep_rna/loci/Arctogadus_glacialis_988276835.1_rep.json	686	this repository	
+stored	cloud/bundle_rep_rna/loci/Coilia_grayii_042479465.1_rep.json	21483	this repository	
+stored	cloud/bundle_rep_rna/loci/Gasterosteus_aculeatus_982374505.1_rep.json	55646	this repository	
+stored	cloud/bundle_rep_rna/loci/Gasterosteus_aculeatus_982374575.1_rep.json	45698	this repository	
+stored	cloud/bundle_rep_rna/loci/Merlangius_merlangus_988265335.1_rep.json	2692	this repository	
+stored	cloud/bundle_rep_rna/loci/Owenia_fusiformis_903813345.2_rep.json	1023	this repository	
+stored	cloud/bundle_rep_rna/loci/Plectranthus_ornatus_978021945.2_rep.json	5204	this repository	
+stored	cloud/bundle_rep_rna/loci/Plectranthus_ornatus_978856865.2_rep.json	95898	this repository	
+stored	cloud/bundle_rep_rna/loci/Schistosoma_haematobium_944470465.2_rep.json	3066	this repository	
+stored	cloud/bundle_rep_rna/loci/Synaphobranchus_kaupii_029718625.1_rep.json	7812	this repository	
+stored	controls/d1/d1_controls.tsv	33949	this repository	
+stored	controls/d1/holdout.log	2040	this repository	
+stored	controls/d1/holdout.tsv	2160	this repository	
+stored	controls/d1/holdout_summary.json	2507	this repository	
+stored	controls/d1/run.log	2458	this repository	
+stored	controls/d1/summary.json	3004	this repository	
+stored	controls/dna/jobs/ctl_a_deletion_ill.json	457	this repository	
+stored	controls/dna/jobs/ctl_a_deletion_illont.json	508	this repository	
+stored	controls/dna/jobs/ctl_b_collapse_ill.json	472	this repository	
+stored	controls/dna/jobs/ctl_b_collapse_illont.json	523	this repository	
+stored	controls/dna/jobs/ctl_c_expansion_ill.json	472	this repository	
+stored	controls/dna/jobs/ctl_c_expansion_illont.json	523	this repository	
+stored	controls/dna/jobs/ctl_d_rrna_correct_ill.json	454	this repository	
+stored	controls/dna/jobs/ctl_d_rrna_correct_illont.json	505	this repository	
+stored	controls/dna/jobs/ctl_e_segdup_correct_ill.json	476	this repository	
+stored	controls/dna/jobs/ctl_e_segdup_correct_illont.json	527	this repository	
+stored	controls/dna/refs/modifications.json	1734	this repository	
+stored	controls/dna/rejudged_v31/nocardia_NBC_00881_WSY60125.json	21690	this repository	
+stored	controls/dna/rejudged_v31/nocardia_NBC_01730_WSG58785.json	20266	this repository	
+stored	controls/dna/rejudged_v31/omnitrophota_DAOOUB_HOW35280.json	14658	this repository	
+stored	controls/dna/rejudged_v31/omnitrophota_DAOPMG_HPD84636.json	16018	this repository	
+stored	controls/dna/rejudged_v31/omnitrophota_DAOTDT_HRZ03494.json	15752	this repository	
+stored	controls/dna/results/v3.1/ctl_a_deletion_ill.json	8089	this repository	
+stored	controls/dna/results/v3.1/ctl_a_deletion_illont.json	12682	this repository	
+stored	controls/dna/results/v3.1/ctl_b_collapse_ill.json	7135	this repository	
+stored	controls/dna/results/v3.1/ctl_b_collapse_illont.json	11008	this repository	
+stored	controls/dna/results/v3.1/ctl_c_expansion_ill.json	9201	this repository	
+stored	controls/dna/results/v3.1/ctl_c_expansion_illont.json	13719	this repository	
+stored	controls/dna/results/v3.1/ctl_d_rrna_correct_ill.json	7976	this repository	
+stored	controls/dna/results/v3.1/ctl_d_rrna_correct_illont.json	12369	this repository	
+stored	controls/dna/results/v3.1/ctl_e_segdup_correct_ill.json	9347	this repository	
+stored	controls/dna/results/v3.1/ctl_e_segdup_correct_illont.json	13881	this repository	
+stored	controls/dna/results/v3/ctl_a_deletion_ill.json	7819	this repository	
+stored	controls/dna/results/v3/ctl_a_deletion_illont.json	12325	this repository	
+stored	controls/dna/results/v3/ctl_b_collapse_ill.json	6630	this repository	
+stored	controls/dna/results/v3/ctl_b_collapse_illont.json	10417	this repository	
+stored	controls/dna/results/v3/ctl_c_expansion_ill.json	8485	this repository	
+stored	controls/dna/results/v3/ctl_c_expansion_illont.json	12915	this repository	
+stored	controls/dna/results/v3/ctl_d_rrna_correct_ill.json	7639	this repository	
+stored	controls/dna/results/v3/ctl_d_rrna_correct_illont.json	11945	this repository	
+stored	controls/dna/results/v3/ctl_e_segdup_correct_ill.json	8940	this repository	
+stored	controls/dna/results/v3/ctl_e_segdup_correct_illont.json	13389	this repository	
+stored	controls/dna/run_v3.log	4688	this repository	
+stored	controls/dna/run_v31.log	5424	this repository	
+stored	controls/dna/sensitivity.log	5524	this repository	
+stored	controls/dna/sensitivity.tsv	6498	this repository	
+stored	controls/dna/summary.json	41147	this repository	
+stored	controls/rna_power/rna_power.tsv	87230	this repository	
+stored	controls/rna_power/run.log	7588	this repository	
+stored	controls/rna_power/summary.json	4958	this repository	
+stored	controls/rna_rep/junction_mappability.json	297967	this repository	
+stored	controls/rna_rep/junction_mappability.tsv	2808	this repository	
+stored	controls/sensitivity/run.log	4349	this repository	
+stored	controls/sensitivity/sensitivity_stage12.tsv	5542	this repository	
+stored	data/cost_model.tsv	310	this repository	
+stored	data/dna_checks/nocardia_NBC_00881_WSY60125.json	20842	this repository	
+stored	data/dna_checks/nocardia_NBC_01730_WSG58785.json	19573	this repository	
+stored	data/dna_checks/omnitrophota_DAOOUB_HOW35280.json	14137	this repository	
+stored	data/dna_checks/omnitrophota_DAOPMG_HPD84636.json	15283	this repository	
+stored	data/dna_checks/omnitrophota_DAOTDT_HRZ03494.json	14273	this repository	
+stored	data/domain_panel_hits.tsv	13127993	this repository	
+stored	data/domain_panel_summary.tsv	71109	this repository	
+stored	data/fasta/ncbi_ge35992.fasta.gz	8529041	this repository	
+stored	data/fasta/uniparc_ge35992.fasta.gz	8498803	this repository	
+stored	data/fasta/unique_ge35992.fasta.gz	9927726	this repository	
+stored	data/followup_run_results.tar.gz	86473	this repository	
+stored	data/followups/fish_titin_pair.tsv	6810	this repository	
+stored	data/followups/peptide_evidence.tsv	760	this repository	
+stored	data/followups/relocation_liftover.json	8278	this repository	
+stored	data/followups/titin_downgrades.tsv	5480	this repository	
+stored	data/followups/zebrafish_ttna_ttnb.fasta	59406	this repository	
+stored	data/giant_unique_sequences.tsv	325987	this repository	
+stored	data/hmm/panel.hmm	5195952	this repository	
+stored	data/leaderboard.tsv	96331	this repository	
+stored	data/loci/contig_lengths.json	5336	this repository	
+stored	data/loci/control_specs.jsonl	9000	this repository	
+stored	data/loci/dna/BAAAZM010000011.1_161246_289376.fa.gz	37571	this repository	
+stored	data/loci/dna/BAABJP010000052.1_122610_255321.fa.gz	39094	this repository	
+stored	data/loci/dna/BAAHRX010000008.1_165536119_166044632.fa.gz	154781	this repository	
+stored	data/loci/dna/BAAJCM010000011.1_43705061_44162043.fa.gz	139696	this repository	
+stored	data/loci/dna/BAAKRY010000336.1_53862846_54146961.fa.gz	87174	this repository	
+stored	data/loci/dna/BAAKUK010000003.1_23567242_24040391.fa.gz	144727	this repository	
+stored	data/loci/dna/BAAKUL010000090.1_9945982_10228913.fa.gz	86959	this repository	
+stored	data/loci/dna/BAAKVI010000152.1_1_416390.fa.gz	127557	this repository	
+stored	data/loci/dna/CABDUW010000306.1_335362_607562.fa.gz	83237	this repository	
+stored	data/loci/dna/CAIIXF020000001.1_24693649_24842314.fa.gz	24880	this repository	
+stored	data/loci/dna/CANUEZ050000211.1_1173805_1352927.fa.gz	16032	this repository	
+stored	data/loci/dna/CANUEZ050000212.1_109853_284155.fa.gz	17634	this repository	
+stored	data/loci/dna/CANUEZ050000212.1_1741921_2011464.fa.gz	31837	this repository	
+stored	data/loci/dna/CANUEZ050000212.1_283986_504946.fa.gz	20956	this repository	
+stored	data/loci/dna/CANUEZ050000212.1_785949_1490423.fa.gz	61470	this repository	
+stored	data/loci/dna/CANUEZ050000212.1_927629_1237677.fa.gz	27330	this repository	
+stored	data/loci/dna/CANUEZ050000212.1_927629_1490423.fa.gz	50166	this repository	
+stored	data/loci/dna/CDXDRH010000005.1_67547490_67708051.fa.gz	14831	this repository	
+stored	data/loci/dna/CEBWZN010000298.1_1443558_1582243.fa.gz	11734	this repository	
+stored	data/loci/dna/CM014079.1_1485060_1685770.fa.gz	59624	this repository	
+stored	data/loci/dna/CP000108.1_712094_832511.fa.gz	34168	this repository	
+stored	data/loci/dna/CP019384.1_24853_153886.fa.gz	39769	this repository	
+stored	data/loci/dna/CP070837.1_1151634_1297764.fa.gz	45321	this repository	
+stored	data/loci/dna/CP107932.1_1934687_2067104.fa.gz	39768	this repository	
+stored	data/loci/dna/CP108798.1_6658804_6846631.fa.gz	56885	this repository	
+stored	data/loci/dna/CP108798.1_93310_215605.fa.gz	37814	this repository	
+stored	data/loci/dna/CP109162.1_6932723_7098059.fa.gz	49314	this repository	
+stored	data/loci/dna/CP109162.1_7969660_8089423.fa.gz	36272	this repository	
+stored	data/loci/dna/CP126663.1_9289491_9513218.fa.gz	17585	this repository	
+stored	data/loci/dna/CP126894.1_151122376_151461074.fa.gz	102632	this repository	
+stored	data/loci/dna/CP162241.1_135399452_135692765.fa.gz	89848	this repository	
+stored	data/loci/dna/CP192088.1_7492568_7620767.fa.gz	39090	this repository	
+stored	data/loci/dna/DAOOUB010000001.1_502741_770152.fa.gz	82985	this repository	
+stored	data/loci/dna/DAOPMG010000001.1_843101_1110512.fa.gz	82940	this repository	
+stored	data/loci/dna/DAOTDR010000002.1_18851_170180.fa.gz	45572	this repository	
+stored	data/loci/dna/DAOTDT010000001.1_844554_1111965.fa.gz	82962	this repository	
+stored	data/loci/dna/DASXWQ010000026.1_69781_203965.fa.gz	39139	this repository	
+stored	data/loci/dna/JAATJV010152300.1_128644_619730.fa.gz	147760	this repository	
+stored	data/loci/dna/JAAWBD010000111.1_52525_175597.fa.gz	36792	this repository	
+stored	data/loci/dna/JACHMT010000003.1_810157_994087.fa.gz	54841	this repository	
+stored	data/loci/dna/JACKFL010000005.1_316569_491115.fa.gz	50426	this repository	
+stored	data/loci/dna/JADFXH010000005.1_26119_163372.fa.gz	42923	this repository	
+stored	data/loci/dna/JAEMGP010000002.1_131557686_132130657.fa.gz	174726	this repository	
+stored	data/loci/dna/JAGFMF010011573.1_548624_824597.fa.gz	84182	this repository	
+stored	data/loci/dna/JAGKHQ010000012.1_177950_370010.fa.gz	58676	this repository	
+stored	data/loci/dna/JAINUF010000027.1_1523728_1873391.fa.gz	20846	this repository	
+stored	data/loci/dna/JAIPGM010000001.1_48375_196038.fa.gz	46071	this repository	
+stored	data/loci/dna/JALAIW010000082.1_470588_837006.fa.gz	21719	this repository	
+stored	data/loci/dna/JALAIW010000082.1_883140_1050814.fa.gz	11019	this repository	
+stored	data/loci/dna/JALAIW010000103.1_1402_157210.fa.gz	8622	this repository	
+stored	data/loci/dna/JALAIX010000007.1_813973_1012039.fa.gz	12433	this repository	
+stored	data/loci/dna/JALAIX010000011.1_4119677_4302735.fa.gz	10660	this repository	
+stored	data/loci/dna/JALAIX010000016.1_261887_572435.fa.gz	17736	this repository	
+stored	data/loci/dna/JALAIX010000016.1_69557_196603.fa.gz	6682	this repository	
+stored	data/loci/dna/JALAIX010000018.1_106034_325818.fa.gz	16050	this repository	
+stored	data/loci/dna/JALAIX010000019.1_5974756_6143270.fa.gz	10941	this repository	
+stored	data/loci/dna/JALAIX010000022.1_4693439_5046427.fa.gz	35452	this repository	
+stored	data/loci/dna/JALAIX010000027.1_45924713_46062989.fa.gz	8494	this repository	
+stored	data/loci/dna/JAMXTM010002573.1_3758419_4244813.fa.gz	148497	this repository	
+stored	data/loci/dna/JANCQY010000001.1_166430028_166747837.fa.gz	96485	this repository	
+stored	data/loci/dna/JAPLLR010000046.1_8060_137931.fa.gz	39275	this repository	
+stored	data/loci/dna/JAQUOV010000003.1_19193_142184.fa.gz	38038	this repository	
+stored	data/loci/dna/JAQUOV010000008.1_1_123463.fa.gz	37214	this repository	
+stored	data/loci/dna/JAQURX010000002.1_66473_201044.fa.gz	40455	this repository	
+stored	data/loci/dna/JAUHHV010000010.1_35273297_35628258.fa.gz	23431	this repository	
+stored	data/loci/dna/JAULLB010000020.1_2591306_2891443.fa.gz	15839	this repository	
+stored	data/loci/dna/JAUSED010000005.1_1_176300.fa.gz	54887	this repository	
+stored	data/loci/dna/JAUYIB010000007.1_61741_214490.fa.gz	45503	this repository	
+stored	data/loci/dna/JAUYIB010000010.1_96211_221200.fa.gz	37263	this repository	
+stored	data/loci/dna/JAUYZG010000006.1_10668544_11011226.fa.gz	104500	this repository	
+stored	data/loci/dna/JAVCPN020000007.1_41260720_41563976.fa.gz	92230	this repository	
+stored	data/loci/dna/JAVFJL010000002.1_150781556_151090270.fa.gz	92360	this repository	
+stored	data/loci/dna/JAVFKW010000018.1_40578904_40892023.fa.gz	95131	this repository	
+stored	data/loci/dna/JAZARX010000018.1_57575866_57851360.fa.gz	84470	this repository	
+stored	data/loci/dna/JBAQBM010000021.1_1_177302.fa.gz	55023	this repository	
+stored	data/loci/dna/JBAWWL010000001.1_1_140173.fa.gz	44025	this repository	
+stored	data/loci/dna/JBAXRK010000001.1_1_113983.fa.gz	35540	this repository	
+stored	data/loci/dna/JBAYGD010000001.1_91460_289997.fa.gz	59558	this repository	
+stored	data/loci/dna/JBAZGN010000002.1_1_179159.fa.gz	55474	this repository	
+stored	data/loci/dna/JBAZKL010000001.1_695369_843338.fa.gz	44309	this repository	
+stored	data/loci/dna/JBAZNR010000001.1_293907_436296.fa.gz	44470	this repository	
+stored	data/loci/dna/JBAZTA010000002.1_1_162559.fa.gz	50755	this repository	
+stored	data/loci/dna/JBBLMP020000009.1_25994945_26242241.fa.gz	75247	this repository	
+stored	data/loci/dna/JBBXKG010000008.1_20868823_21114299.fa.gz	74784	this repository	
+stored	data/loci/dna/JBFARE010000001.1_187843_307291.fa.gz	35090	this repository	
+stored	data/loci/dna/JBGBPQ010000017.1_2281225_2428056.fa.gz	42719	this repository	
+stored	data/loci/dna/JBHFQA010000018.1_30424874_30700182.fa.gz	19631	this repository	
+stored	data/loci/dna/JBHPEX010000001.1_1_135583.fa.gz	40944	this repository	
+stored	data/loci/dna/JBIMMJ010000002.1_18354136_18646038.fa.gz	89589	this repository	
+stored	data/loci/dna/JBJABS010000012.1_33696704_34020515.fa.gz	98635	this repository	
+stored	data/loci/dna/JBNHDL010000975.1_934089_1144733.fa.gz	12451	this repository	
+stored	data/loci/dna/JBPAGL010000010.1_1_151398.fa.gz	742	this repository	
+stored	data/loci/dna/JBWMAB010000012.1_37067563_37381950.fa.gz	95403	this repository	
+stored	data/loci/dna/JH000248.1_596237_1055143.fa.gz	139561	this repository	
+stored	data/loci/dna/JH167841.1_1_259150.fa.gz	78490	this repository	
+stored	data/loci/dna/LSYS01004331.1_24006033_24260653.fa.gz	77900	this repository	
+stored	data/loci/dna/NBAG03000211.1_46371501_46658661.fa.gz	86990	this repository	
+stored	data/loci/dna/NC_000002.12_178522012_178809642.fa.gz	86866	this repository	
+stored	data/loci/dna/NC_043977.1_10762831_11000381.fa.gz	71982	this repository	
+stored	data/loci/dna/NC_044037.1_217816095_218292915.fa.gz	145528	this repository	
+stored	data/loci/dna/NC_044332.1_35877387_36192658.fa.gz	95701	this repository	
+stored	data/loci/dna/NC_046227.1_15397083_15644309.fa.gz	75315	this repository	
+stored	data/loci/dna/NC_047088.1_192010257_192478064.fa.gz	142334	this repository	
+stored	data/loci/dna/NC_052633.1_34280557_34595235.fa.gz	95673	this repository	
+stored	data/loci/dna/NC_053494.1_157731545_158064414.fa.gz	102094	this repository	
+stored	data/loci/dna/NC_054478.1_86362891_87057471.fa.gz	213006	this repository	
+stored	data/loci/dna/NC_059426.1_24914158_25292441.fa.gz	116563	this repository	
+stored	data/loci/dna/NC_066626.1_37467593_37786103.fa.gz	96719	this repository	
+stored	data/loci/dna/NC_069499.1_475318483_475599585.fa.gz	84504	this repository	
+stored	data/loci/dna/NC_071515.1_36123516_36440168.fa.gz	95994	this repository	
+stored	data/loci/dna/NC_071996.2_81162420_81449008.fa.gz	86751	this repository	
+stored	data/loci/dna/NC_082348.1_22650468_22893756.fa.gz	74186	this repository	
+stored	data/loci/dna/NC_084481.1_38641556_39007444.fa.gz	109363	this repository	
+stored	data/loci/dna/NC_085102.1_3675496_3835110.fa.gz	49683	this repository	
+stored	data/loci/dna/NC_086153.1_188823111_189116095.fa.gz	89070	this repository	
+stored	data/loci/dna/NC_087265.1_39501545_39761851.fa.gz	79402	this repository	
+stored	data/loci/dna/NC_087382.1_7360156_7497242.fa.gz	42546	this repository	
+stored	data/loci/dna/NC_088652.1_984968_1162332.fa.gz	54374	this repository	
+stored	data/loci/dna/NC_088801.1_44046269_44360121.fa.gz	95420	this repository	
+stored	data/loci/dna/NC_090652.1_242529877_242902023.fa.gz	113998	this repository	
+stored	data/loci/dna/NC_091288.1_50314436_50603363.fa.gz	88131	this repository	
+stored	data/loci/dna/NC_091472.1_306848805_307239258.fa.gz	119763	this repository	
+stored	data/loci/dna/NC_092418.1_86800201_87030806.fa.gz	70803	this repository	
+stored	data/loci/dna/NC_092583.1_14748294_15145801.fa.gz	113674	this repository	
+stored	data/loci/dna/NC_133658.1_682572767_682985978.fa.gz	124463	this repository	
+stored	data/loci/dna/NC_133778.1_35428413_35756629.fa.gz	97649	this repository	
+stored	data/loci/dna/NC_134144.1_30543016_30880011.fa.gz	103120	this repository	
+stored	data/loci/dna/NC_135568.1_11675483_12134341.fa.gz	132485	this repository	
+stored	data/loci/dna/NC_135889.1_55440833_56144368.fa.gz	215693	this repository	
+stored	data/loci/dna/NC_136261.1_272646882_273149208.fa.gz	126004	this repository	
+stored	data/loci/dna/NC_136390.1_45029149_45507665.fa.gz	145438	this repository	
+stored	data/loci/dna/NC_138202.1_163019499_163340008.fa.gz	97463	this repository	
+stored	data/loci/dna/NC_138548.1_168011392_168329206.fa.gz	96903	this repository	
+stored	data/loci/dna/NC_138885.1_71502723_71795238.fa.gz	88455	this repository	
+stored	data/loci/dna/NC_139173.1_30967977_31179356.fa.gz	63753	this repository	
+stored	data/loci/dna/NC_139512.1_162469674_162790528.fa.gz	97621	this repository	
+stored	data/loci/dna/NC_140421.1_45290921_45607263.fa.gz	96083	this repository	
+stored	data/loci/dna/NC_140662.1_25313732_25729243.fa.gz	121186	this repository	
+stored	data/loci/dna/NC_140962.1_77826298_78241454.fa.gz	118586	this repository	
+stored	data/loci/dna/NC_142063.1_156926104_157245335.fa.gz	97222	this repository	
+stored	data/loci/dna/NC_142929.1_130047512_130501961.fa.gz	130705	this repository	
+stored	data/loci/dna/NC_143058.1_48341235_48671646.fa.gz	101100	this repository	
+stored	data/loci/dna/NDHI03003413.1_11852950_12139510.fa.gz	86706	this repository	
+stored	data/loci/dna/NW_008824035.1_7373820_7626657.fa.gz	77089	this repository	
+stored	data/loci/dna/NW_015167560.1_393987_744165.fa.gz	107201	this repository	
+stored	data/loci/dna/NW_017729031.1_60834073_61153965.fa.gz	87077	this repository	
+stored	data/loci/dna/NW_024096600.1_2250540_2570714.fa.gz	95834	this repository	
+stored	data/loci/dna/NW_027131390.1_70350820_70825500.fa.gz	144702	this repository	
+stored	data/loci/dna/NW_028261381.1_19811827_20128676.fa.gz	96695	this repository	
+stored	data/loci/dna/NW_028270145.1_47841915_48197833.fa.gz	107590	this repository	
+stored	data/loci/dna/NW_028316984.1_33219736_33544041.fa.gz	99212	this repository	
+stored	data/loci/dna/NZ_BAAAZM010000011.1_160661_289376.fa.gz	37750	this repository	
+stored	data/loci/dna/NZ_BAABJP010000052.1_122559_255321.fa.gz	39106	this repository	
+stored	data/loci/dna/NZ_CP019384.1_24826_153886.fa.gz	39763	this repository	
+stored	data/loci/dna/NZ_JBEZDA010000007.1_151408_266321.fa.gz	35202	this repository	
+stored	data/loci/dna/NZ_JBEZDE010000005.1_133759_290048.fa.gz	47750	this repository	
+stored	data/loci/dna/NZ_JBFAAB010000007.1_90951_224226.fa.gz	40893	this repository	
+stored	data/loci/dna/NZ_JBFAAB010000009.1_1_134269.fa.gz	40850	this repository	
+stored	data/loci/dna/NZ_JBFAUW010000003.1_156691_295714.fa.gz	41671	this repository	
+stored	data/loci/dna/NZ_JBFRFK010000015.1_1_120096.fa.gz	36797	this repository	
+stored	data/loci/dna/NZ_JBHXVZ010000010.1_39345_165663.fa.gz	38789	this repository	
+stored	data/loci/dna/NZ_JBITMA010000004.1_623787_759945.fa.gz	41548	this repository	
+stored	data/loci/dna/NZ_JBKORD010000003.1_14070_164274.fa.gz	45862	this repository	
+stored	data/loci/dna/NZ_JBMXCC010000002.1_430147_551410.fa.gz	37225	this repository	
+stored	data/loci/dna/OX103970.1_28927743_29152295.fa.gz	36316	this repository	
+stored	data/loci/dna/OX596097.2_17954357_18496361.fa.gz	165216	this repository	
+stored	data/loci/dna/OZ222818.1_45247165_45564746.fa.gz	96401	this repository	
+stored	data/loci/dna/OZ222865.1_45294719_45611084.fa.gz	96085	this repository	
+stored	data/loci/dna/OZ223122.1_45290921_45607263.fa.gz	96081	this repository	
+stored	data/loci/dna/OZ223569.1_45029149_45345950.fa.gz	96002	this repository	
+stored	data/loci/dna/OZ223597.1_44878875_45195680.fa.gz	96043	this repository	
+stored	data/loci/dna/OZ223864.1_43223455_43538584.fa.gz	95655	this repository	
+stored	data/loci/dna/OZ223921.1_45079232_45396460.fa.gz	96207	this repository	
+stored	data/loci/dna/OZ223949.1_44495643_44810772.fa.gz	95658	this repository	
+stored	data/loci/dna/OZ409137.1_38639653_38815773.fa.gz	12196	this repository	
+stored	data/loci/dna/OZ409137.1_39401082_39534176.fa.gz	9227	this repository	
+stored	data/loci/dna/OZ409139.1_37373077_37520588.fa.gz	13642	this repository	
+stored	data/loci/dna/OZ409139.1_37574069_37713210.fa.gz	11119	this repository	
+stored	data/loci/dna/OZ409139.1_38229502_38381198.fa.gz	13715	this repository	
+stored	data/loci/dna/OZ409142.1_47669512_47837396.fa.gz	13023	this repository	
+stored	data/loci/dna/OZ409142.1_48287709_48442463.fa.gz	14060	this repository	
+stored	data/loci/dna/OZ409143.1_16372532_16518750.fa.gz	11516	this repository	
+stored	data/loci/dna/OZ409144.1_30038537_30214187.fa.gz	13315	this repository	
+stored	data/loci/dna/OZ409144.1_30821935_30957138.fa.gz	9932	this repository	
+stored	data/loci/dna/OZ409144.1_31782919_31937359.fa.gz	11004	this repository	
+stored	data/loci/dna/OZ409145.1_44404193_44583272.fa.gz	15264	this repository	
+stored	data/loci/dna/OZ409146.1_40821922_40973367.fa.gz	12573	this repository	
+stored	data/loci/dna/OZ409151.1_33820692_33964197.fa.gz	12440	this repository	
+stored	data/loci/dna/OZ409153.1_24590049_24754088.fa.gz	12008	this repository	
+stored	data/loci/dna/OZ409153.1_25284123_25451312.fa.gz	13121	this repository	
+stored	data/loci/dna/OZ409153.1_31439868_31569746.fa.gz	9195	this repository	
+stored	data/loci/dna/OZ409153.1_31945708_32552637.fa.gz	36928	this repository	
+stored	data/loci/dna/OZ409153.1_32608733_32750092.fa.gz	11337	this repository	
+stored	data/loci/dna/OZ409162.1_20589461_20798181.fa.gz	8307	this repository	
+stored	data/loci/dna/OZ409163.1_37551395_37690917.fa.gz	12585	this repository	
+stored	data/loci/dna/OZ409164.1_38749172_38911802.fa.gz	15049	this repository	
+stored	data/loci/dna/OZ454598.1_23929655_24252568.fa.gz	17899	this repository	
+stored	data/loci/dna/OZ454598.1_24564743_24885821.fa.gz	18666	this repository	
+stored	data/loci/dna/OZ454619.1_21642226_22151857.fa.gz	23894	this repository	
+stored	data/loci/dna/OZ555857.1_39104498_39235303.fa.gz	23204	this repository	
+stored	data/loci/dna/OZ555879.1_38795073_38920715.fa.gz	22176	this repository	
+stored	data/loci/dna/OZ556498.1_18518463_18644848.fa.gz	15214	this repository	
+stored	data/loci/dna/OZ556881.1_5553856_5791438.fa.gz	21696	this repository	
+stored	data/loci/dna/OZ556884.1_202861781_203184078.fa.gz	97810	this repository	
+stored	data/loci/dna/OZ557014.1_199763032_200086545.fa.gz	98083	this repository	
+stored	data/loci/dna/OZ558153.1_28529236_28672169.fa.gz	12224	this repository	
+stored	data/loci/dna/OZ578741.1_208069114_208384507.fa.gz	96256	this repository	
+stored	data/loci/dna/OZ578759.1_206413616_206725225.fa.gz	95194	this repository	
+stored	data/loci/dna/QALV01000002.1_34408_267874.fa.gz	6030	this repository	
+stored	data/loci/dna/SOYY01000010.1_4568675_4826915.fa.gz	79567	this repository	
+stored	data/loci/dna/VBQZ03000070.1_11492955_12038013.fa.gz	165461	this repository	
+stored	data/loci/dna/VCAZ01000094.1_265614_598857.fa.gz	101714	this repository	
+stored	data/loci/dna/VMED01000021.1_34310990_34561823.fa.gz	76835	this repository	
+stored	data/loci/dna/WHWB01034253.1_452059_779587.fa.gz	98589	this repository	
+stored	data/loci/dna_index.json	45002	this repository	
+stored	data/loci/specs.jsonl	3206959	this repository	
+stored	data/locus_checks.tsv	609555	this repository	
+stored	data/locus_dna_checks.tsv	125720	this repository	
+stored	data/manual/CP108798.1.fa.gz	2548519	this repository	
+stored	data/manual/DAOTDT01.fasta.gz	679880	this repository	
+stored	data/manual/KAI4551101_locus.fa.gz	21312	this repository	
+stored	data/ncbi_counts.tsv	365	this repository	
+stored	data/ncbi_protein_ge35992.tsv	76345	this repository	
+stored	data/ncbi_records_parsed.tsv	623527	this repository	
+stored	data/orthology_checks.tsv	157939	this repository	
+stored	data/period_flags.tsv	32845	this repository	
+stored	data/raw/fetch03.log	0	this repository	
+stored	data/raw/fetch05.log	5762	this repository	
+stored	data/raw/ncbi_gp.txt.gz	16594393	this repository	
+stored	data/raw/species_availability_cache.json	30413	this repository	
+stored	data/raw/taxonomy_cache.json	11391	this repository	
+stored	data/raw/uniparc_ge35992.json.gz	14651702	this repository	
+stored	data/raw/uniparc_xrefs.json.gz	19871	this repository	
+stored	data/raw/xm_gb_trunc.txt.gz	222995	this repository	
+stored	data/rnaseq_run_results.tar.gz	1447097	this repository	
+stored	data/rnaseq_runs.tsv	28740	this repository	
+stored	data/rnaseq_support.tsv	63979	this repository	
+stored	data/species_data_availability.tsv	9040	this repository	
+stored	data/stage0_loci.tsv	32977	this repository	
+stored	data/stage0_table.tsv	219257	this repository	
+stored	data/uniparc_ge35992.tsv	145958	this repository	
+stored	data/uniprotkb_ge35992.tsv	47644	this repository	
+stored	paper/supplementary/Table_S1_columns.tsv	1771	this repository	
+stored	paper/supplementary/Table_S1_leaderboard.tsv	96331	this repository	
+stored	proteomics/db/CP019384.1_cds_aa.fasta	921272	this repository	
+stored	proteomics/db/QAT16263.1.fasta	40338	this repository	
+stored	proteomics/db/WP_128698900.1.fasta	40334	this repository	
+stored	proteomics/results/authors_mzid_check.json	645	this repository	
+stored	proteomics/results/control_proteins.tsv	1384	this repository	
+stored	proteomics/results/coverage_map.tsv	1118	this repository	
+stored	proteomics/results/full6_giant_peptides.tsv	7636	this repository	
+stored	proteomics/results/full6_stdout.json	1942	this repository	
+stored	proteomics/results/full6_summary.json	1941	this repository	
+stored	proteomics/results/giant_peptides.tsv	12839	this repository	
+stored	proteomics/results/pride_files_PXD025008.json	23322	this repository	
+stored	proteomics/results/raw60_giant_peptides.tsv	7443	this repository	
+stored	proteomics/results/raw60_summary.json	3918	this repository	
+stored	proteomics/results/summary.json	8634	this repository	
+stored	proteomics/results/verify_extra.json	1330	this repository	
+stored	proteomics/results/verify_raw.json	823	this repository	
+stored	proteomics/search/run.out	4702	this repository	
+stored	proteomics/search/run_raw.out	21148	this repository	
+stored	proteomics/search/sage.log	4562	this repository	
+stored	proteomics/search/sage_config.json	902	this repository	
+stored	proteomics/search/sage_config_raw.json	949	this repository	
+stored	proteomics/search/sage_raw.log	17229	this repository	
+stored	proteomics/sycon/XP_065194412.1.fasta	50533	this repository	
+stored	proteomics/sycon/db/dropped_fragments.tsv	518	this repository	
+stored	proteomics/sycon/raw/Protein_Report_for_Sycon_newDB_mergeP_April_1123.xls	11422	this repository	
+stored	proteomics/sycon/raw/download.log	212	this repository	
+stored	proteomics/sycon/raw/files.txt	981	this repository	
+stored	proteomics/sycon/results/giant_peptides.tsv	55	this repository	
+stored	proteomics/sycon/results/summary.json	2037	this repository	
+stored	proteomics/sycon/search/run.out	5233	this repository	
+stored	proteomics/sycon/search/sage.log	3971	this repository	
+stored	proteomics/sycon/search/sage_config.json	914	this repository	
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/041/296/205/GCA_041296205.1_12B1_v1.1/GCA_041296205.1_12B1_v1.1_genomic.fna.gz		genome assembly, 93,538,723 bases (NCBI or ENA)	cloud/driver.py (bundle, Prymnesium_parvum_041296205.1)
+downloaded	SRR23517916	48102032078	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR16089377	3646443502	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR13175042	2641331581	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR18033826	3910582639	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR1296710	3318290019	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR2918059	2250385595	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR25683907	3006904578	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_genomic.fna.gz		genome assembly, 3,298,430,636 bases (NCBI or ENA)	cloud/driver.py (bundle, Homo_sapiens_000001405.40)
+downloaded	SRR22870348	3344866473	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR20672175	5830566718	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR030899	4616165427	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12625574	5442104852	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR31127718	2919373131	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/701/675/GCA_023701675.1_CAU_F1_maternal_1.0/GCA_023701675.1_CAU_F1_maternal_1.0_genomic.fna.gz		genome assembly, 2,970,496,992 bases (NCBI or ENA)	cloud/driver.py (bundle, Ovis_ammon_polii_x_Ovis_aries_023701675.1)
+downloaded	SRR19412708	4339329750	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/026/305/GCA_033026305.1_C_molitorella_v1.0/GCA_033026305.1_C_molitorella_v1.0_genomic.fna.gz		genome assembly, 1,033,411,071 bases (NCBI or ENA)	cloud/driver.py (bundle, Cirrhinus_molitorella_033026305.1)
+downloaded	SRR31547352	2829695232	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR38849136	3321931035	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	DRR850600	5920018016	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR31547351	3728756184	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR38849134	3183304487	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	DRR850601	5692092610	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/784/505/GCA_005784505.1_ASM578450v1/GCA_005784505.1_ASM578450v1_genomic.fna.gz		genome assembly, 570,806,968 bases (NCBI or ENA)	cloud/driver.py (bundle, Bagarius_yarrelli_005784505.1)
+downloaded	SRR5943894	3842507427	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR8367572	3090567708	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/019/385/GCF_964019385.1_ocSycCili1.1/GCF_964019385.1_ocSycCili1.1_genomic.fna.gz		genome assembly, 539,574,681 bases (NCBI or ENA)	cloud/driver.py (bundle, Sycon_ciliatum_964019385.1)
+downloaded	ERR12318596	4740049245	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR13472825	1979611746	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR7564493	2088041987	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR11617527	3129525193	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR466683	2836559080	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR466762	2738453671	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/963/422/355/GCF_963422355.1_ooCorCand1.1/GCF_963422355.1_ooCorCand1.1_genomic.fna.gz		genome assembly, 185,491,545 bases (NCBI or ENA)	cloud/driver.py (bundle, Corticium_candelabrum_963422355.1)
+downloaded	ERR14986693	4702532190	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR11814103	2744109526	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/963/675/165/GCF_963675165.1_odHalPani1.1/GCF_963675165.1_odHalPani1.1_genomic.fna.gz		genome assembly, 131,456,761 bases (NCBI or ENA)	cloud/driver.py (bundle, Halichondria_panicea_963675165.1)
+downloaded	ERR5383343	5900644905	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR12708751	5091845604	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR7507854	1425077527	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR40027405	4661315041	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/978/046/115/GCF_978046115.1_keSacKowa6.1/GCF_978046115.1_keSacKowa6.1_genomic.fna.gz		genome assembly, 895,420,700 bases (NCBI or ENA)	cloud/driver.py (bundle, Saccoglossus_kowalevskii_978046115.1)
+downloaded	ERR16910187	4865236200	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR16599541	528532571	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR16599516	411414451	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR16599457	392214463	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/046/866/305/GCF_046866305.1_ASM4686630v1/GCF_046866305.1_ASM4686630v1_genomic.fna.gz		genome assembly, 2,345,820,508 bases (NCBI or ENA)	cloud/driver.py (bundle, Octopus_bimaculoides_046866305.1)
+downloaded	SRR2047122	3932005251	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR7645418	493794896	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR33418569	1332759845	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR32191433	5983131836	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/447/785/GCF_001447785.1_Gekko_japonicus_V1.1/GCF_001447785.1_Gekko_japonicus_V1.1_genomic.fna.gz		genome assembly, 2,490,274,461 bases (NCBI or ENA)	cloud/driver.py (bundle, Gekko_japonicus_001447785.1)
+downloaded	SRR22574970	3731206323	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR23271846	5927757627	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	DRR851198	4359741942	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR23271859	2593747865	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/244/205/GCA_024244205.1_ASM2424420v1/GCA_024244205.1_ASM2424420v1_genomic.fna.gz		genome assembly, 2,536,903,991 bases (NCBI or ENA)	cloud/driver.py (bundle, Manis_pentadactyla_024244205.1)
+downloaded	SRR11306700	5529796072	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	DRR868313	2746806290	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR29468387	2415071871	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR11306701	5482639167	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/965/202/585/GCF_965202585.1_ktThaDemo2.hap1.1/GCF_965202585.1_ktThaDemo2.hap1.1_genomic.fna.gz		genome assembly, 801,799,274 bases (NCBI or ENA)	cloud/driver.py (bundle, Thalia_democratica_965202585.1)
+downloaded	ERR14075523	5849831036	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/230/445/GCA_000230445.1_HetGla_1.0/GCA_000230445.1_HetGla_1.0_genomic.fna.gz		genome assembly, 2,643,961,837 bases (NCBI or ENA)	cloud/driver.py (bundle, Heterocephalus_glaber_000230445.1)
+downloaded	SRR5517425	2109279101	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR6817642	3784211062	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR9291397	5124743459	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR35001519	5828766472	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/699/105/GCF_000699105.1_ASM69910v1/GCF_000699105.1_ASM69910v1_genomic.fna.gz		genome assembly, 1,216,617,519 bases (NCBI or ENA)	cloud/driver.py (bundle, Pygoscelis_adeliae_000699105.1)
+downloaded	SRR5253662	579830655	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10695049	3663455454	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10695050	3678716321	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/187/855/GCF_964187855.1_kmMyxGlut1.1/GCF_964187855.1_kmMyxGlut1.1_genomic.fna.gz		genome assembly, 3,057,504,053 bases (NCBI or ENA)	cloud/driver.py (bundle, Myxine_glutinosa_964187855.1)
+downloaded	SRR27189700	5474963058	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR12318582	4764207471	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR22512554	3281972971	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR27189702	2821550161	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/057/946/115/GCA_057946115.1_rPlaMeg1.hap1/GCA_057946115.1_rPlaMeg1.hap1_genomic.fna.gz		genome assembly, 2,209,042,750 bases (NCBI or ENA)	cloud/driver.py (bundle, Platysternon_megacephalum_057946115.1)
+downloaded	SRR23003491	3532515087	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR34722867	458243784	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR23003489	3134402014	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR34722846	419582076	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/965/140/295/GCF_965140295.1_rLepOli2.hap1/GCF_965140295.1_rLepOli2.hap1_genomic.fna.gz		genome assembly, 2,206,568,898 bases (NCBI or ENA)	cloud/driver.py (bundle, Lepidochelys_olivacea_965140295.1)
+downloaded	SRR12963747	2574696240	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR30543069	1265878885	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12963731	2475605182	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR30543071	1246676299	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/947/247/035/GCF_947247035.1_rVipUrs1.1/GCF_947247035.1_rVipUrs1.1_genomic.fna.gz		genome assembly, 1,625,023,540 bases (NCBI or ENA)	cloud/driver.py (bundle, Vipera_ursinii_947247035.1)
+downloaded	ERR10908602	2203480943	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/601/675/GCA_054601675.1_Prionailurus_bengalensis_iriomotensis_assembly02/GCA_054601675.1_Prionailurus_bengalensis_iriomotensis_assembly02_genomic.fna.gz		genome assembly, 2,384,619,579 bases (NCBI or ENA)	cloud/driver.py (bundle, Prionailurus_iriomotensis_054601675.1)
+downloaded	DRR584687	2887031373	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	DRR584691	2656411380	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	DRR584688	2669292902	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	DRR584690	2340864440	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/975/245/GCF_037975245.1_ASM3797524v1/GCF_037975245.1_ASM3797524v1_genomic.fna.gz		genome assembly, 671,660,014 bases (NCBI or ENA)	cloud/driver.py (bundle, Apostichopus_japonicus_037975245.1)
+downloaded	SRR8269390	5849027671	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR8801566	4691878289	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR1216681	3608830212	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR6251621	3132014365	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/122/565/GCF_026122565.2_CSIRO-AGI_Emac_v2/GCF_026122565.2_CSIRO-AGI_Emac_v2_genomic.fna.gz		genome assembly, 1,924,425,589 bases (NCBI or ENA)	cloud/driver.py (bundle, Emydura_macquarii_macquarii_026122565.2)
+downloaded	SRR29317042	3924757943	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR29317041	3631686886	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR29317039	3365434612	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR29317043	2992019105	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/056/242/155/GCA_056242155.1_Pteropus_pselaphon_assembly02/GCA_056242155.1_Pteropus_pselaphon_assembly02_genomic.fna.gz		genome assembly, 2,167,613,222 bases (NCBI or ENA)	cloud/driver.py (bundle, Pteropus_pselaphon_056242155.1)
+downloaded	DRR360862	3143655792	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/273/705/GCF_964273705.1_rNatHel1.hap1.1/GCF_964273705.1_rNatHel1.hap1.1_genomic.fna.gz		genome assembly, 1,777,516,490 bases (NCBI or ENA)	cloud/driver.py (bundle, Natrix_helvetica_964273705.1)
+downloaded	ERR14379132	4976943186	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/035/149/785/GCF_035149785.1_rCanAsp1.hap2/GCF_035149785.1_rCanAsp1.hap2_genomic.fna.gz		genome assembly, 1,530,810,380 bases (NCBI or ENA)	cloud/driver.py (bundle, Candoia_aspera_035149785.1)
+downloaded	SRR629646	5804987604	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/056/783/735/GCF_056783735.1_Ebu_testis_v1/GCF_056783735.1_Ebu_testis_v1_genomic.fna.gz		genome assembly, 1,996,294,366 bases (NCBI or ENA)	cloud/driver.py (bundle, Eptatretus_burgeri_056783735.1)
+downloaded	DRR707973	5039250602	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR22514654	3092764770	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR5234495	4094112958	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	DRR707978	4527583111	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/440/675/GCA_030440675.1_ASM3044067v1/GCA_030440675.1_ASM3044067v1_genomic.fna.gz		genome assembly, 1,609,777,135 bases (NCBI or ENA)	cloud/driver.py (bundle, Furcifer_pardalis_030440675.1)
+downloaded	SRR9298914	3254156444	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/901/765/095/GCF_901765095.2_aMicUni1.2/GCF_901765095.2_aMicUni1.2_genomic.fna.gz		genome assembly, 4,685,923,413 bases (NCBI or ENA)	cloud/driver.py (bundle, Microcaecilia_unicolor_901765095.2)
+downloaded	SRR5591423	4637441088	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR5591440	5107937353	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR5591425	4979643880	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR5591439	4823802077	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/119/915/GCA_004119915.2_ASM411991v2/GCA_004119915.2_ASM411991v2_genomic.fna.gz		genome assembly, 877,615,421 bases (NCBI or ENA)	cloud/driver.py (bundle, Collichthys_lucidus_004119915.2)
+downloaded	SRR13687135	3955217535	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR5381711	4416513557	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR3054795	3003640387	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR11060134	2831727036	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/902/459/505/GCF_902459505.2_aGeoSer1.2/GCF_902459505.2_aGeoSer1.2_genomic.fna.gz		genome assembly, 3,779,413,726 bases (NCBI or ENA)	cloud/driver.py (bundle, Geotrypetes_seraphini_902459505.2)
+downloaded	SRR5062016	2296552887	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/040/894/005/GCF_040894005.1_aEngPut4.maternal/GCF_040894005.1_aEngPut4.maternal_genomic.fna.gz		genome assembly, 2,158,203,323 bases (NCBI or ENA)	cloud/driver.py (bundle, Engystomops_pustulosus_040894005.1)
+downloaded	SRR11565164	2888430936	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10362872	4066256174	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR11583962	1306869977	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR11565165	2409933004	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/023/333/645/GCF_023333645.1_rSceOcc1.0.p/GCF_023333645.1_rSceOcc1.0.p_genomic.fna.gz		genome assembly, 2,856,339,201 bases (NCBI or ENA)	cloud/driver.py (bundle, Sceloporus_occidentalis_023333645.1)
+downloaded	SRR29377057	2824444887	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR6841720	2143252086	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR29377060	2740656123	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR29377058	3268318587	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/386/835/GCF_011386835.1_ASM1138683v2/GCF_011386835.1_ASM1138683v2_genomic.fna.gz		genome assembly, 2,372,089,908 bases (NCBI or ENA)	cloud/driver.py (bundle, Chrysemys_picta_bellii_011386835.1)
+downloaded	SRR19523438	1980973895	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR647703	5271725045	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR19523443	1419592654	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR647694	5240025396	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/021/028/975/GCF_021028975.2_MPM_Stown_v2.3/GCF_021028975.2_MPM_Stown_v2.3_genomic.fna.gz		genome assembly, 1,810,846,735 bases (NCBI or ENA)	cloud/driver.py (bundle, Sphaerodactylus_townsendi_021028975.2)
+downloaded	SRR15111496	3742011285	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/597/395/GCF_003597395.2_CheloAbing_2.0/GCF_003597395.2_CheloAbing_2.0_genomic.fna.gz		genome assembly, 2,256,485,154 bases (NCBI or ENA)	cloud/driver.py (bundle, Chelonoidis_abingdonii_003597395.2)
+downloaded	SRR6950600	3070420891	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR6299281	648042444	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/524/585/GCA_017524585.1_CAU_O.aries_1.0/GCA_017524585.1_CAU_O.aries_1.0_genomic.fna.gz		genome assembly, 2,653,843,355 bases (NCBI or ENA)	cloud/driver.py (bundle, Ovis_aries_017524585.1)
+downloaded	SRR6260350	3558842561	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR8731868	2864057011	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR8644991	5941291500	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12247890	5497813938	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/040/805/955/GCA_040805955.1_T2T-sheep1.0/GCA_040805955.1_T2T-sheep1.0_genomic.fna.gz		genome assembly, 2,853,626,077 bases (NCBI or ENA)	cloud/driver.py (bundle, Ovis_aries_040805955.1)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/905/171/775/GCF_905171775.1_aRanTem1.1/GCF_905171775.1_aRanTem1.1_genomic.fna.gz		genome assembly, 4,111,422,596 bases (NCBI or ENA)	cloud/driver.py (bundle, Rana_temporaria_905171775.1)
+downloaded	SRR7140896	5630421598	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR7251162	5004433850	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR11300562	2568371481	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR8149036	3190281638	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/140/285/GCA_965140285.1_rLepKem1.hap1/GCA_965140285.1_rLepKem1.hap1_genomic.fna.gz		genome assembly, 2,219,022,919 bases (NCBI or ENA)	cloud/driver.py (bundle, Lepidochelys_kempii_965140285.1)
+downloaded	SRR28144316	2883258796	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR28144317	2194610088	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR28144313	2091237106	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR28144315	1781883461	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/038/429/875/GCA_038429875.2_ASM3842987v2/GCA_038429875.2_ASM3842987v2_genomic.fna.gz		genome assembly, 1,223,830,793 bases (NCBI or ENA)	cloud/driver.py (bundle, Poecile_montanus_038429875.2)
+downloaded	SRR24965189	5833581645	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10852963	1701342787	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR24965191	5240839369	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR24965192	4951269552	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/893/015/GCF_037893015.1_bilby.v1.9.chrom.fasta/GCF_037893015.1_bilby.v1.9.chrom.fasta_genomic.fna.gz		genome assembly, 3,655,715,178 bases (NCBI or ENA)	cloud/driver.py (bundle, Macrotis_lagotis_037893015.1)
+downloaded	SRR27461674	5740077267	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/033/958/435/GCF_033958435.1_ASM3395843v1/GCF_033958435.1_ASM3395843v1_genomic.fna.gz		genome assembly, 2,180,333,506 bases (NCBI or ENA)	cloud/driver.py (bundle, Carettochelys_insculpta_033958435.1)
+downloaded	SRR26796060	5189964955	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR26796061	2648827689	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/059/756/535/GCF_059756535.1_ASM5975653v1/GCF_059756535.1_ASM5975653v1_genomic.fna.gz		genome assembly, 1,681,414,805 bases (NCBI or ENA)	cloud/driver.py (bundle, Pantherophis_guttatus_059756535.1)
+downloaded	SRR9596706	3006065376	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10360869	3837637429	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR6868484	3479697604	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR32343001	5999815800	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/152/275/GCA_965152275.1_rNatDep2.hap1/GCA_965152275.1_rNatDep2.hap1_genomic.fna.gz		genome assembly, 2,173,430,419 bases (NCBI or ENA)	cloud/driver.py (bundle, Natator_depressus_965152275.1)
+downloaded	SRR12335525	5978025143	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12335445	1624168277	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12335482	1535901380	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12335449	1368141949	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/140/295/GCA_965140295.1_rLepOli2.hap1/GCA_965140295.1_rLepOli2.hap1_genomic.fna.gz		genome assembly, 2,206,568,898 bases (NCBI or ENA)	cloud/driver.py (bundle, Lepidochelys_olivacea_965140295.1)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/194/155/GCF_964194155.1_sCetMax3.hap1.1/GCF_964194155.1_sCetMax3.hap1.1_genomic.fna.gz		genome assembly, 3,993,849,873 bases (NCBI or ENA)	cloud/driver.py (bundle, Cetorhinus_maximus_964194155.1)
+downloaded	ERR13132928	2257547170	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/027/579/735/GCF_027579735.1_aBomBom1.pri/GCF_027579735.1_aBomBom1.pri_genomic.fna.gz		genome assembly, 10,019,663,791 bases (NCBI or ENA)	cloud/driver.py (bundle, Bombina_bombina_027579735.1)
+downloaded	SRR11300592	4553252440	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR13736773	791161317	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR11300591	2040382056	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR13736769	261258870	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/819/885/GCF_009819885.2_bCatUst1.pri.v2/GCF_009819885.2_bCatUst1.pri.v2_genomic.fna.gz		genome assembly, 1,131,616,530 bases (NCBI or ENA)	cloud/driver.py (bundle, Catharus_ustulatus_009819885.2)
+downloaded	SRR24272130	5624553876	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR4340326	3194902256	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR24272164	5635442250	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR4340338	5790521630	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/161/935/GCF_016161935.1_ASM1616193v1/GCF_016161935.1_ASM1616193v1_genomic.fna.gz		genome assembly, 2,367,607,229 bases (NCBI or ENA)	cloud/driver.py (bundle, Mauremys_reevesii_016161935.1)
+downloaded	SRR955754	5207338765	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR31718979	4031760296	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR5483245	4914357133	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR25083062	3535455463	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/152/195/GCA_965152195.1_rNatDep2.hap2/GCA_965152195.1_rNatDep2.hap2_genomic.fna.gz		genome assembly, 2,130,756,730 bases (NCBI or ENA)	cloud/driver.py (bundle, Natator_depressus_965152195.1)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/032/444/005/GCF_032444005.1_aRanImi1.pri/GCF_032444005.1_aRanImi1.pri_genomic.fna.gz		genome assembly, 5,956,610,564 bases (NCBI or ENA)	cloud/driver.py (bundle, Ranitomeya_imitator_032444005.1)
+downloaded	ERR3169406	4749411809	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR29420394	5486397697	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR33606904	5367552010	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR34630721	4259292346	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/965/140/285/GCF_965140285.1_rLepKem1.hap1/GCF_965140285.1_rLepKem1.hap1_genomic.fna.gz		genome assembly, 2,219,022,919 bases (NCBI or ENA)	cloud/driver.py (bundle, Lepidochelys_kempii_965140285.1)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/140/255/GCA_965140255.1_rLepOli2.hap2/GCA_965140255.1_rLepOli2.hap2_genomic.fna.gz		genome assembly, 2,208,046,144 bases (NCBI or ENA)	cloud/driver.py (bundle, Lepidochelys_olivacea_965140255.1)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/036/426/135/GCA_036426135.1_mEquCab1.pat/GCA_036426135.1_mEquCab1.pat_genomic.fna.gz		genome assembly, 2,596,737,506 bases (NCBI or ENA)	cloud/driver.py (bundle, Equus_caballus_036426135.1)
+downloaded	ERR9828616	5661225384	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR14570694	4599679583	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR17599890	4319897260	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR30656243	5653954541	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/027/477/595/GCF_027477595.1_bHaeMex1.pri/GCF_027477595.1_bHaeMex1.pri_genomic.fna.gz		genome assembly, 1,148,233,018 bases (NCBI or ENA)	cloud/driver.py (bundle, Haemorhous_mexicanus_027477595.1)
+downloaded	SRR27975436	5157300828	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10526815	5610067035	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR24858377	536515760	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR35569300	2215187550	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/152/285/GCA_965152285.1_rEreImb1.hap2/GCA_965152285.1_rEreImb1.hap2_genomic.fna.gz		genome assembly, 2,224,324,466 bases (NCBI or ENA)	cloud/driver.py (bundle, Eretmochelys_imbricata_965152285.1)
+downloaded	SRR12540966	4690105502	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10286858	4573809736	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR5357800	4572227721	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12540970	3898675278	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/343/595/GCA_901343595.1_MONAX5/GCA_901343595.1_MONAX5_genomic.fna.gz		genome assembly, 2,626,060,708 bases (NCBI or ENA)	cloud/driver.py (bundle, Marmota_monax_901343595.1)
+downloaded	SRR28713075	4648680378	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR17216544	5579859563	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR1975725	5984169768	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR2137029	5639573054	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/295/495/GCF_051295495.1_rThaSir2_p1.2/GCF_051295495.1_rThaSir2_p1.2_genomic.fna.gz		genome assembly, 1,624,956,344 bases (NCBI or ENA)	cloud/driver.py (bundle, Thamnophis_sirtalis_051295495.1)
+downloaded	SRR805129	5372763929	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR6668169	3604871990	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR29276959	2944382065	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR869504	4675429899	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/040/937/935/GCF_040937935.1_aHypRig1.pri/GCF_040937935.1_aHypRig1.pri_genomic.fna.gz		genome assembly, 4,915,935,452 bases (NCBI or ENA)	cloud/driver.py (bundle, Hyperolius_riggenbachi_040937935.1)
+downloaded	SRR27929939	2795533376	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/140/235/GCA_965140235.1_rCarCar1.hap1/GCA_965140235.1_rCarCar1.hap1_genomic.fna.gz		genome assembly, 2,217,236,305 bases (NCBI or ENA)	cloud/driver.py (bundle, Caretta_caretta_965140235.1)
+downloaded	SRR12335473	3755484167	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12630879	5558961965	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR5288332	5975252669	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10032989	4723517214	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/043/375/GCF_037043375.1_Cpla_swu_hap1/GCF_037043375.1_Cpla_swu_hap1_genomic.fna.gz		genome assembly, 4,757,340,591 bases (NCBI or ENA)	cloud/driver.py (bundle, Chiloscyllium_plagiosum_037043375.1)
+downloaded	SRR26469071	3456645239	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR26534035	5500136453	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR26671420	3341880127	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR18297558	2590166484	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/176/455/GCA_019176455.1_IFAPA_SoseM_1/GCA_019176455.1_IFAPA_SoseM_1_genomic.fna.gz		genome assembly, 603,535,267 bases (NCBI or ENA)	cloud/driver.py (bundle, Solea_senegalensis_019176455.1)
+downloaded	SRR18693561	4102952058	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR18693670	3459661991	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR15284582	5027587818	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR3417239	5947051925	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/223/135/GCA_000223135.1_CriGri_1.0/GCA_000223135.1_CriGri_1.0_genomic.fna.gz		genome assembly, 2,399,786,748 bases (NCBI or ENA)	cloud/driver.py (bundle, Cricetulus_griseus_000223135.1)
+downloaded	SRR12442801	1622310184	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR12774961	2790387955	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR16729280	2629772689	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	ERR7417864	4894428561	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/880/755/GCA_002880755.3_Clint_PTRv2/GCA_002880755.3_Clint_PTRv2_genomic.fna.gz		genome assembly, 3,050,398,082 bases (NCBI or ENA)	cloud/driver.py (bundle, Pan_troglodytes_002880755.3)
+downloaded	SRR6900765	2076435741	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR11869016	2671144630	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR6706780	1462635785	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR976210	422232605	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/028/885/655/GCF_028885655.2_NHGRI_mPonAbe1-v2.1_pri/GCF_028885655.2_NHGRI_mPonAbe1-v2.1_pri_genomic.fna.gz		genome assembly, 3,259,870,029 bases (NCBI or ENA)	cloud/driver.py (bundle, Pongo_abelii_028885655.2)
+downloaded	SRR34180371	5872408416	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR6190020	1601503545	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR10393301	5997399753	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	SRR35901374	3994785203	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/880/775/GCA_002880775.3_Susie_PABv2/GCA_002880775.3_Susie_PABv2_genomic.fna.gz		genome assembly, 3,065,052,215 bases (NCBI or ENA)	cloud/driver.py (bundle, Pongo_abelii_002880775.3)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/140/295/GCA_965140295.1_rLepOli2.hap1/GCA_965140295.1_rLepOli2.hap1_genomic.fna.gz		genome assembly, 2,206,568,898 bases (NCBI or ENA)	cloud/driver.py (bundle_followup_rna, Lepidochelys_olivacea_965140295.1_extra)
+downloaded	SRR12963747	2574696240	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR30543069	1265878885	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR12963731	2475605182	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR30543071	1246676299	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/965/140/285/GCF_965140285.1_rLepKem1.hap1/GCF_965140285.1_rLepKem1.hap1_genomic.fna.gz		genome assembly, 2,219,022,919 bases (NCBI or ENA)	cloud/driver.py (bundle_followup_rna, Lepidochelys_kempii_965140285.1_extra)
+downloaded	SRR28144316	2883258796	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR28144317	2194610088	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR28144313	2091237106	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR28144315	1781883461	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/905/171/775/GCF_905171775.1_aRanTem1.1/GCF_905171775.1_aRanTem1.1_genomic.fna.gz		genome assembly, 4,111,422,596 bases (NCBI or ENA)	cloud/driver.py (bundle_followup_rna, Rana_temporaria_905171775.1_nosat)
+downloaded	SRR7140896	5630421598	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR7251162	5004433850	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR11300562	2568371481	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/901/765/095/GCF_901765095.2_aMicUni1.2/GCF_901765095.2_aMicUni1.2_genomic.fna.gz		genome assembly, 4,685,923,413 bases (NCBI or ENA)	cloud/driver.py (bundle_followup_rna, Microcaecilia_unicolor_901765095.2_nosat)
+downloaded	SRR5591423	4637441088	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/059/756/535/GCF_059756535.1_ASM5975653v1/GCF_059756535.1_ASM5975653v1_genomic.fna.gz		genome assembly, 1,681,414,805 bases (NCBI or ENA)	cloud/driver.py (bundle_followup_rna, Pantherophis_guttatus_059756535.1_nosat)
+downloaded	SRR9596706	3006065376	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR32343001	5999815800	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/176/455/GCA_019176455.1_IFAPA_SoseM_1/GCA_019176455.1_IFAPA_SoseM_1_genomic.fna.gz		genome assembly, 603,535,267 bases (NCBI or ENA)	cloud/driver.py (bundle_followup_rna, Solea_senegalensis_019176455.1_nosat)
+downloaded	SRR18693561	4102952058	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	SRR18693670	3459661991	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_followup_rna)
+downloaded	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_988276835.1?download=true&gzip=true		genome assembly, 633,902,253 bases (NCBI or ENA)	cloud/driver.py (bundle_rep_rna, Arctogadus_glacialis_988276835.1_rep)
+downloaded	ERR15744432	3077692390	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	ERR15744427	3077452262	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	ERR15744439	2748515434	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	ERR15744441	2953324826	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/813/345/GCA_903813345.2_Owenia_chromosome/GCA_903813345.2_Owenia_chromosome_genomic.fna.gz		genome assembly, 499,544,331 bases (NCBI or ENA)	cloud/driver.py (bundle_rep_rna, Owenia_fusiformis_903813345.2_rep)
+downloaded	SRR27206468	5197918427	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR19644662	4634269040	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR1222288	4675353526	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR27206469	5044386195	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/944/470/465/GCA_944470465.2_tdSchHaem2.2/GCA_944470465.2_tdSchHaem2.2_genomic.fna.gz		genome assembly, 431,589,308 bases (NCBI or ENA)	cloud/driver.py (bundle_rep_rna, Schistosoma_haematobium_944470465.2_rep)
+downloaded	ERR10016938	5728013577	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR7867975	4742822890	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR15400769	1758439965	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	ERR11178326	255448428	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/718/625/GCA_029718625.1_SKAU_1.1/GCA_029718625.1_SKAU_1.1_genomic.fna.gz		genome assembly, 1,503,294,022 bases (NCBI or ENA)	cloud/driver.py (bundle_rep_rna, Synaphobranchus_kaupii_029718625.1_rep)
+downloaded	SRR15082969	4781601786	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR15082975	3866755418	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR15082974	2665724883	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR15082973	1602007737	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR15082972	965136226	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/051/861/665/GCA_051861665.1_AOLI_1.1/GCA_051861665.1_AOLI_1.1_genomic.fna.gz		genome assembly, 1,234,233,490 bases (NCBI or ENA)	cloud/driver.py (bundle_rep_rna, Acnodon_oligacanthus_051861665.1_rep)
+downloaded	SRR24825408	4777640543	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR24825400	3553699430	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR24825409	3085284366	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR24825401	3020640715	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_982374505.1?download=true&gzip=true		genome assembly, 511,155,287 bases (NCBI or ENA)	cloud/driver.py (bundle_rep_rna, Gasterosteus_aculeatus_982374505.1_rep)
+downloaded	ERR17894432	5913011669	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR7057977	5210844840	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR9709255	5967825456	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR13272337	5070528363	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	SRR27754177	5753828498	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	ERR15672777	3697588941	ENA FASTQ (RNA-seq)	cloud/driver.py (bundle_rep_rna)
+downloaded	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_982374575.1?download=true&gzip=true		genome assembly, 511,155,287 bases (NCBI or ENA)	cloud/driver.py (bundle_rep_rna, Gasterosteus_aculeatus_982374575.1_rep)
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/045/207/455/GCA_045207455.1_ASM4520745v1/GCA_045207455.1_ASM4520745v1_genomic.fna.gz		assembly for the source-read check nocardia_NBC_00881_WSY60125	cloud/dna_check.py
+downloaded	SRR21428318	718208350	ENA FASTQ (illumina), source reads of nocardia_NBC_00881_WSY60125	cloud/dna_check.py
+downloaded	SRR21696620	592511142	ENA FASTQ (ont), source reads of nocardia_NBC_00881_WSY60125	cloud/dna_check.py
+downloaded	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/920/445/GCA_035920445.1_ASM3592044v1/GCA_035920445.1_ASM3592044v1_genomic.fna.gz		assembly for the source-read check nocardia_NBC_01730_WSG58785	cloud/dna_check.py
+downloaded	SRR21428551	795303554	ENA FASTQ (illumina), source reads of nocardia_NBC_01730_WSG58785	cloud/dna_check.py
+downloaded	SRR21563524	281824914	ENA FASTQ (ont), source reads of nocardia_NBC_01730_WSG58785	cloud/dna_check.py
+downloaded	https://ftp.ebi.ac.uk/pub/databases/ena/wgs/public/dao/DAOOUB01.fasta.gz		assembly for the source-read check omnitrophota_DAOOUB_HOW35280	cloud/dna_check.py
+downloaded	SRR4244739	7295660895	ENA FASTQ (illumina), source reads of omnitrophota_DAOOUB_HOW35280	cloud/dna_check.py
+downloaded	https://ftp.ebi.ac.uk/pub/databases/ena/wgs/public/dao/DAOPMG01.fasta.gz		assembly for the source-read check omnitrophota_DAOPMG_HPD84636	cloud/dna_check.py
+downloaded	SRR5007150	6988219669	ENA FASTQ (illumina), source reads of omnitrophota_DAOPMG_HPD84636	cloud/dna_check.py
+downloaded	https://ftp.ebi.ac.uk/pub/databases/ena/wgs/public/dao/DAOTDT01.fasta.gz		assembly for the source-read check omnitrophota_DAOTDT_HRZ03494	cloud/dna_check.py
+downloaded	SRR5007146	7701864293	ENA FASTQ (illumina), source reads of omnitrophota_DAOTDT_HRZ03494	cloud/dna_check.py
+downloaded	GCA_035920445.1		Nocardia sp. NBC_01730 genome for the misassembly controls	controls/dna/build_refs.py, run_controls.sh
+downloaded	SRR21428551		Illumina reads for the misassembly controls	controls/dna/build_refs.py, run_controls.sh
+downloaded	SRR21563524		nanopore reads for the misassembly controls	controls/dna/build_refs.py, run_controls.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_06.raw	269581670	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_03.raw	239420566	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_01.raw	236098752	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_06.raw	283847794	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.mzid.gz	190824631	PRIDE (RESULT)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_10.raw	259499912	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.mzid_Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.MGF	545082021	PRIDE (PEAK)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_05.raw	268013228	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_09.raw	245585540	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_03.raw	277345688	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_05.raw	267297412	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_08.raw	275046056	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_03.raw	238823386	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.mzid.gz	210985519	PRIDE (RESULT)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_08.raw	226960256	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_07.raw	286288182	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_04.raw	253950786	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_09.raw	226334186	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_02.raw	263272600	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.mzid_Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.MGF	475656890	PRIDE (PEAK)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_01.raw	223590938	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_10.raw	267598486	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_04.raw	256903124	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_03.raw	260928184	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_10.raw	273866562	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/OP3_AA_20170330_fw_rev_cont.fasta	97612964	PRIDE (FASTA)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_08.raw	272922206	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_10.raw	262423036	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_09.raw	220597160	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.mzid_Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.MGF	549260229	PRIDE (PEAK)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid_Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.MGF	404520407	PRIDE (PEAK)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_05.raw	271252136	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.mzid_Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.MGF	475601902	PRIDE (PEAK)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_04.raw	273829610	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_05.raw	291995714	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_07.raw	240168218	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_02.raw	221244108	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_03.raw	257772338	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.mzid_Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.MGF	431302334	PRIDE (PEAK)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_07.raw	279531382	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_06.raw	271216092	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_01.raw	231200566	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_09.raw	237091222	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_05.raw	231598868	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_07.raw	283651130	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_08.raw	275821894	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_04.raw	273521616	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.mzid.gz	192711333	PRIDE (RESULT)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_01.raw	233589794	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_10.raw	287092504	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_09.raw	245043218	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid.gz	161499618	PRIDE (RESULT)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_08.raw	270131006	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160209_OV3_P5_SK_JHa_373-Pe3_05.raw	254780414	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.mzid.gz	213773486	PRIDE (RESULT)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_07.raw	269353832	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_04.raw	275084468	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_02.raw	246083112	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_02.raw	224158288	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_03.raw	251154602	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_04.raw	269944288	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.mzid.gz	175846373	PRIDE (RESULT)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_09.raw	257735166	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_01.raw	201796356	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160211_OV3_P5_SK_JHa_373-Pe2_06.raw	281238190	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_02.raw	248401600	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_08.raw	255532260	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_01.raw	214448116	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160215_OV3_P5_SK_JHa_372-Pe3_06.raw	281665056	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160212_OV3_P5_SK_JHa_373-Pe1_02.raw	228443610	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_10.raw	262187068	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160214_OV3_P5_SK_JHa_372-Pe2_07.raw	247828612	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD025008/160213_OV3_P5_SK_JHa_372-Pe1_06.raw	233686096	PRIDE (RAW)	proteomics/run_download.sh, run_download_raw.sh
+downloaded	PXD060105/GW1999_1_2804.raw	608262171	PRIDE	proteomics/sycon/run_download.sh
+downloaded	PXD060105/GW1999_P_INSOL.raw	713104174	PRIDE	proteomics/sycon/run_download.sh
+downloaded	PXD060105/GW1999_3_2804.raw	732699913	PRIDE	proteomics/sycon/run_download.sh
+downloaded	PXD060105/Sponge_Sycon_2023_HBWS01_CDS.fasta	29277567	PRIDE	proteomics/sycon/run_download.sh
+downloaded	PXD060105/F014903.dat	514916312	PRIDE	proteomics/sycon/run_download.sh
+downloaded	PXD060105/Protein_Report_for_Sycon_newDB_mergeP_April_1123.xls	11422	PRIDE	proteomics/sycon/run_download.sh
+downloaded	PXD060105/GW1999_2_2804.raw	755583581	PRIDE	proteomics/sycon/run_download.sh
+downloaded	PXD060105/GW1999_INSOL_P_1_10.raw	670470474	PRIDE	proteomics/sycon/run_download.sh
+local-only	data/loci/		locus DNA regions and assemblies fetched by scripts/ (Stage 1, DNA checks)	git-ignored
+local-only	data/refdb/		UniProtKB reference set for DIAMOND (Stage 1 orthology), rebuilt by scripts/	git-ignored
+local-only	data/fasta/*.fasta		uncompressed copies of the stored .fasta.gz files	git-ignored
+local-only	cloud_out/		results synced from the cloud box; a full copy is stored as data/rnaseq_run_results.tar.gz	git-ignored
+local-only	controls/dna/reads/, controls/dna/work/, controls/dna/refs/*.fa.gz		control reads, alignments, edited genomes	git-ignored
+local-only	proteomics/raw/, proteomics/raw_thermo/, proteomics/mzml/		PXD025008 peak lists, RAW files, converted mzML	git-ignored
+local-only	proteomics/sycon/raw/*.raw, proteomics/sycon/mzml/		PXD060105 RAW files and mzML	git-ignored
+local-only	proteomics/search/out*/, proteomics/sycon/search/out/		Sage output (results.sage.tsv, 0.1-0.3 GB each)	git-ignored
+local-only	proteomics/tools/		Sage and ThermoRawFileParser release binaries (not redistributed)	git-ignored

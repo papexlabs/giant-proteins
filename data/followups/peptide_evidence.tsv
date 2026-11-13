@@ -1,0 +1,3 @@
+accession	dataset	unique_peptides	unique_psms	fifths_with_unique_peptides	first_peptide_start	last_peptide_end	source
+WP_128698900.1	PRIDE PXD025008	182	1505	2	292	15840	proteomics/results/raw60_summary.json + verify_raw.json (Sage 0.14.7 search of all 60 RAW files, 1 % FDR at PSM, peptide and protein level; positions on WP_128698900.1; the earlier search of the deposited peak lists gave 186 peptides, last end 16957: full6_summary.json)
+QAT16263.1	PRIDE PXD025008	182	1505	2	292	15840	proteomics/results/raw60_summary.json + verify_raw.json (Sage 0.14.7 search of all 60 RAW files, 1 % FDR at PSM, peptide and protein level; positions on WP_128698900.1; the earlier search of the deposited peak lists gave 186 peptides, last end 16957: full6_summary.json)

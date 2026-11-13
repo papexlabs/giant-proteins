@@ -1,0 +1,16 @@
+{
+ "job_id": "ctl_b_collapse_ill",
+ "assembly_path": "controls/dna/refs/modified.fa.gz",
+ "contig": "CP109162.1",
+ "gene_start": 40001,
+ "gene_end": 150000,
+ "strand": "+",
+ "illumina": [
+  "controls/dna/reads/SRR21428551_1.fastq.gz",
+  "controls/dna/reads/SRR21428551_2.fastq.gz"
+ ],
+ "illumina_expected_reads": 15565314,
+ "ont": [],
+ "ont_expected_reads": 36579,
+ "truth": "misassembly: a two-copy 4.55-kb repeat collapsed to one copy (reads of both copies pile here)"
+}

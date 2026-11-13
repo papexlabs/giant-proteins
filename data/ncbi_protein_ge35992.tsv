@@ -1,0 +1,473 @@
+uid	accession	category	length	taxid	organism	title	sourcedb	createdate	updatedate	status	replacedby	moltype	completeness	genome
+1807448926	QHX71256.1	INSDC	187500			Sequence 105 from patent US 10428137	insd	2020/02/10	2020/02/10			aa		
+1807448918	QHX71248.1	INSDC	187500			Sequence 97 from patent US 10428137	insd	2020/02/10	2020/02/10			aa		
+2251137970	KAI4551101.1	INSDC	98182	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJG53_000356 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		
+2303789234	CAH8821467.1	INSDC	95356	157070	Trichobilharzia szidati	unnamed protein product, partial [Trichobilharzia szidati]	insd	2022/09/09	2022/09/14			aa	no-right	
+1616573526	QCB79803.1	INSDC	92896			Sequence 29 from patent US 10246721	insd	2019/04/16	2019/04/16			aa		
+1256792570	ATK14334.1	INSDC	92896			Sequence 29 from patent US 9562081	insd	2017/10/13	2017/10/13			aa		
+2847663068	CAM0512439.1	INSDC	91906	6192	Fasciola hepatica	unnamed protein product [Fasciola hepatica]	insd	2024/08/24	2024/11/06			aa		
+2251147418	KAI4559938.1	INSDC	88433	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_012176 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		chromosome
+3260514800	CAR0409254.1	INSDC	83180	69293	Gasterosteus aculeatus	unnamed protein product [Gasterosteus aculeatus]	insd	2026/04/01	2026/04/02			aa		
+3393204776	CAR9536049.1	INSDC	75805	8063	Merluccius merluccius	unnamed protein product [Merluccius merluccius]	insd	2026/09/13	2026/09/14			aa		chromosome
+1391415251	PWL95011.1	INSDC	74488	1898207	Clostridiales bacterium	MAG: hypothetical protein DBY08_01055 [Clostridiales bacterium]	insd	2018/05/23	2018/05/23			aa	complete	
+1391413413	PWL93229.1	INSDC	74074	1898207	Clostridiales bacterium	MAG: hypothetical protein DBY08_05850, partial [Clostridiales bacterium]	insd	2018/05/23	2018/05/23			aa	no-right	
+2847663069	CAM0512440.1	INSDC	66665	6192	Fasciola hepatica	unnamed protein product [Fasciola hepatica]	insd	2024/08/24	2024/11/06			aa		
+2560052641	WKA06629.1	INSDC	66180	29760	Vitis vinifera	hypothetical protein VitviT2T_024522 [Vitis vinifera]	insd	2023/08/09	2023/08/09			aa		chromosome
+3040248254	KAL8597380.1	INSDC	65964	51631	Nucella lapillus	hypothetical protein ACOMHN_056143 [Nucella lapillus]	insd	2025/08/11	2025/08/11			aa		
+2847663077	CAM0512448.1	INSDC	64540	6192	Fasciola hepatica	unnamed protein product [Fasciola hepatica]	insd	2024/08/24	2024/11/06			aa		
+2251144438	KAI4557105.1	INSDC	60592	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_013784 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		chromosome
+1145478458	AQN39920.1	INSDC	60183			Sequence 1069 from patent US 9399763	insd	2017/02/12	2017/02/12			aa		
+756646837	AJM37333.1	INSDC	60183			Sequence 1069 from patent US 8785162	insd	2015/02/12	2015/02/12			aa		
+756395666	AJL30552.1	INSDC	60183			Sequence 1069 from patent US 8709772	insd	2015/02/12	2015/02/12			aa		
+2597634577	KAK2904762.1	INSDC	59714	172907	Cirrhinus molitorella	hypothetical protein Q8A67_006561 [Cirrhinus molitorella]	insd	2023/10/24	2023/10/24			aa		chromosome
+2861742774	WP_406270362.1	RefSeq-WP	59275	2975995	Nocardia sp. NBC_00881	GNAT family N-acetyltransferase [Nocardia sp. NBC_00881]	refseq	2024/11/25	2026/04/06			aa	complete	
+2655418628	WSY60125.1	INSDC	59275	2975995	Nocardia sp. NBC_00881	GNAT family N-acetyltransferase [Nocardia sp. NBC_00881]	insd	2024/01/23	2024/01/23			aa	complete	chromosome
+2251157295	KAI4569145.1	INSDC	56282	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_006439 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		chromosome
+3028410661	WP_437244732.1	RefSeq-WP	55519	477	Moraxella lacunata	hypothetical protein, partial [Moraxella lacunata]	refseq	2025/07/23	2025/07/23			aa	no-ends	
+1709657704	TSR51413.1	INSDC	54498	175774	Bagarius yarrelli	Titin [Bagarius yarrelli]	insd	2019/07/29	2019/07/29			aa	complete	
+2847663057	CAM0512428.1	INSDC	51859	6192	Fasciola hepatica	unnamed protein product [Fasciola hepatica]	insd	2024/08/24	2024/11/06			aa		
+2661345020	WP_327112628.1	RefSeq-WP	51778	2975998	Nocardia sp. NBC_01730	alpha/beta fold hydrolase [Nocardia sp. NBC_01730]	refseq	2024/01/26	2026/03/14			aa	complete	
+2652891470	WSG58785.1	INSDC	51778	2975998	Nocardia sp. NBC_01730	alpha/beta fold hydrolase [Nocardia sp. NBC_01730]	insd	2024/01/22	2024/01/22			aa	complete	chromosome
+2251152771	KAI4565070.1	INSDC	51741	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_009413 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		chromosome
+3260586406	CAR0409140.1	INSDC	51658	69293	Gasterosteus aculeatus	unnamed protein product [Gasterosteus aculeatus]	insd	2026/04/01	2026/04/02			aa		
+3036324624	KAL7845143.1	INSDC	51481	446776	Acnodon oligacanthus	hypothetical protein AOLI_G00233350 [Acnodon oligacanthus]	insd	2025/08/05	2025/08/05			aa		chromosome
+2484272466	KAJ8332361.1	INSDC	51285	118154	Synaphobranchus kaupii	hypothetical protein SKAU_G00426540 [Synaphobranchus kaupii]	insd	2023/04/12	2023/04/12			aa		
+2732900793	XP_065194412.1	RefSeq-XP	50516	27933	Sycon ciliatum	uncharacterized protein LOC135825719 [Sycon ciliatum]	refseq	2024/05/15	2024/05/15			aa	complete	genomic
+2759246538	WP_357176029.1	RefSeq-WP	50390	3155650	Nocardia sp. NPDC049190	alpha/beta fold hydrolase [Nocardia sp. NPDC049190]	refseq	2024/07/13	2026/04/03			aa	complete	
+2664244894	XP_062518523.1	RefSeq-XP	49499	121492	Corticium candelabrum	uncharacterized protein LOC134193701 [Corticium candelabrum]	refseq	2024/01/29	2024/01/29			aa	complete	genomic
+1145478460	AQN39922.1	INSDC	49105			Sequence 1071 from patent US 9399763	insd	2017/02/12	2017/02/12			aa		
+756646839	AJM37335.1	INSDC	49105			Sequence 1071 from patent US 8785162	insd	2015/02/12	2015/02/12			aa		
+756395668	AJL30554.1	INSDC	49105			Sequence 1071 from patent US 8709772	insd	2015/02/12	2015/02/12			aa		
+3260586408	CAR0409152.1	INSDC	48977	69293	Gasterosteus aculeatus	unnamed protein product [Gasterosteus aculeatus]	insd	2026/04/01	2026/04/02			aa		
+2251139993	KAI4552952.1	INSDC	48746	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_016246 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		chromosome
+2251137940	KAI4551092.1	INSDC	47538	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJG53_000398 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		
+2890797415	WP_412012550.1	RefSeq-WP	46734	3392119	Nocardia arseniciresistens	LacI family DNA-binding transcriptional regulator [Nocardia arseniciresistens]	refseq	2025/01/21	2026/04/10			aa	complete	
+2272729187	CAH0927406.1	INSDC	46359	27933	Sycon ciliatum	hypothetical protein, partial [Sycon ciliatum]	insd	2022/06/30	2022/07/07			aa	no-ends	
+2107742990	UCB56787.1	INSDC	45376	2035772	Candidatus Omnitrophota bacterium	MAG: tetratricopeptide repeat protein [Candidatus Omnitrophota bacterium]	insd	2021/10/07	2021/10/07			aa	complete	chromosome
+1736291532	KAA0715513.1	INSDC	45354	1572043	Triplophysa tibetana	Titin [Triplophysa tibetana]	insd	2019/09/10	2019/09/10			aa		chromosome
+2812862123	KAL2083670.1	INSDC	45317	363190	Coilia grayii	hypothetical protein ACEWY4_021443 [Coilia grayii]	insd	2024/10/02	2024/10/07			aa		chromosome
+2787537313	KAL1508129.1	INSDC	45212	97485	Prymnesium parvum	PKZILLA-1 giant polyketide synthase [Prymnesium parvum]	insd	2024/08/15	2024/08/15			aa		chromosome
+2251143105	KAI4555775.1	INSDC	45005	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_014398 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		chromosome
+2847663082	CAM0512344.1	INSDC	44697	6192	Fasciola hepatica	unnamed protein product [Fasciola hepatica]	insd	2024/08/24	2024/11/06			aa		
+3130328504	YCB02351.1	INSDC	44468	256737	Latrodectus hesperus	aggregate spidroin, partial [Latrodectus hesperus]	insd	2025/12/17	2025/12/17			aa	no-right	genomic
+2301917393	CAH8664242.1	INSDC	43775	6185	Schistosoma haematobium	unnamed protein product [Schistosoma haematobium]	insd	2022/09/09	2022/09/14			aa		
+2301917392	CAH8664230.1	INSDC	43532	6185	Schistosoma haematobium	unnamed protein product [Schistosoma haematobium]	insd	2022/09/09	2022/09/14			aa		
+2759339206	WP_357266140.1	RefSeq-WP	43074	3154697	Nocardia sp. NPDC023852	alpha/beta fold hydrolase [Nocardia sp. NPDC023852]	refseq	2024/07/13	2026/03/22			aa	complete	
+3395491889	CAR9942894.1	INSDC	43065	394696	Sebastes mentella	unnamed protein product [Sebastes mentella]	insd	2026/09/15	2026/09/16			aa		chromosome
+2767978785	WP_364959628.1	RefSeq-WP	43007	3155681	Nocardia sp. NPDC052254	helix-turn-helix domain-containing protein [Nocardia sp. NPDC052254]	refseq	2024/07/14	2026/04/10			aa	complete	
+2846956479	WP_397047094.1	RefSeq-WP	42052	3364316	Nocardia sp. NPDC049526	HpcH/HpaI aldolase/citrate lyase family protein [Nocardia sp. NPDC049526]	refseq	2024/11/07	2026/03/22			aa	complete	
+2251137972	KAI4551103.1	INSDC	41935	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJG53_000358 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		
+2847663066	CAM0512437.1	INSDC	41905	6192	Fasciola hepatica	unnamed protein product [Fasciola hepatica]	insd	2024/08/24	2024/11/06			aa		
+2719050616	XP_064389544.1	RefSeq-XP	41592	6063	Halichondria panicea	uncharacterized protein LOC135337542 [Halichondria panicea]	refseq	2024/04/18	2024/04/18			aa	complete	genomic
+3069831811	YAV49658.1	INSDC	41116	32630	synthetic construct	Sequence 935 from patent US 12180485 B2	insd	2025/09/30	2025/09/30			aa		
+2561883448	WLO41820.1	INSDC	41116			Sequence 935 from patent US 11572565	insd	2023/08/11	2023/08/11			aa		
+2759338761	WP_357265723.1	RefSeq-WP	41091	3154697	Nocardia sp. NPDC023852	glycerophosphodiester phosphodiesterase family protein [Nocardia sp. NPDC023852]	refseq	2024/07/13	2026/04/11			aa	complete	
+1892946696	WP_185063161.1	RefSeq-WP	40920	648755	Actinospineispora eucalypti	rhomboid family intramembrane serine protease [Actinospineispora eucalypti]	refseq	2020/08/17	2026/03/15			aa	complete	
+2718473068	GAA5172730.1	INSDC	40903	648755	Actinospineispora eucalypti	hypothetical protein GCM10023321_72990 [Actinospineispora eucalypti]	insd	2024/04/16	2024/04/16			aa		
+3130976814	XP_077997457.1	RefSeq-XP	40863	1443217	Glandiceps talaboti	titin-like [Glandiceps talaboti]	refseq	2025/12/15	2025/12/15			aa	complete	genomic
+2663541086	WP_328395556.1	RefSeq-WP	40805	2975991	Nocardia sp. NBC_00416	M3 family metallopeptidase [Nocardia sp. NBC_00416]	refseq	2024/01/28	2026/02/28			aa	complete	
+2658608373	WUI33855.1	INSDC	40805	2975991	Nocardia sp. NBC_00416	M3 family metallopeptidase [Nocardia sp. NBC_00416]	insd	2024/01/25	2024/01/25			aa	complete	chromosome
+3152310182	XP_078632839.1	RefSeq-XP	40334	7769	Myxine glutinosa	titin [Myxine glutinosa]	refseq	2026/01/28	2026/01/28			aa	complete	genomic
+3381096790	KAO2397898.1	INSDC	40151	55544	Platysternon megacephalum	titin [Platysternon megacephalum]	insd	2026/08/25	2026/08/25			aa	complete	chromosome
+3260586405	CAR0409134.1	INSDC	40014	69293	Gasterosteus aculeatus	unnamed protein product, partial [Gasterosteus aculeatus]	insd	2026/04/01	2026/04/02			aa	no-right	
+1562260036	WP_128698900.1	RefSeq-WP	39686	1930593	Candidatus Velamenicoccus archaeovorus	glycogen synthase GlgA [Candidatus Velamenicoccus archaeovorus]	refseq	2019/01/26	2026/10/05			aa	complete	
+1560991543	QAT16263.1	INSDC	39677	1930593	Candidatus Velamenicoccus archaeovorus	very large multi-enzyme surface protein [Candidatus Velamenicoccus archaeovorus]	insd	2019/01/22	2022/02/17			aa	complete	chromosome
+3345903537	XP_084498969.1	RefSeq-XP	39588	27788	Lepidochelys olivacea	titin [Lepidochelys olivacea]	refseq	2026/06/10	2026/06/10			aa	complete	genomic
+1986277318	WP_203660675.1	RefSeq-WP	39571	519421	Actinocatenispora rupis	DUF6528 family protein [Actinocatenispora rupis]	refseq	2021/02/15	2025/03/14			aa	complete	
+2251140009	KAI4552968.1	INSDC	39546	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_016262, partial [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa	no-left	chromosome
+3002542249	WP_433635445.1	RefSeq-WP	39399	3239974	Nocardia sp. CA-120079	LacI family DNA-binding transcriptional regulator [Nocardia sp. CA-120079]	refseq	2025/06/19	2026/03/04			aa	complete	
+3000125969	XVX30633.1	INSDC	39399	3239974	Nocardia sp. CA-120079	LacI family DNA-binding transcriptional regulator [Nocardia sp. CA-120079]	insd	2025/06/17	2025/06/17			aa	complete	chromosome
+2682713952	GAA4215161.1	INSDC	39376	519421	Actinocatenispora rupis	hypothetical protein GCM10022220_43190 [Actinocatenispora rupis]	insd	2024/02/01	2024/02/01			aa		
+1967697077	GID13551.1	INSDC	39376	519421	Actinocatenispora rupis	hypothetical protein Aru02nite_44400 [Actinocatenispora rupis]	insd	2021/01/29	2023/08/30			aa		
+3117390825	KAM3850998.1	INSDC	39205	246179	Vipera latastei	titin [Vipera latastei]	insd	2025/11/26	2025/11/26			aa	complete	chromosome
+2847663055	CAM0512426.1	INSDC	39183	6192	Fasciola hepatica	unnamed protein product [Fasciola hepatica]	insd	2024/08/24	2024/11/06			aa		
+3342909121	XP_083224473.1	RefSeq-XP	39164	103942	Vipera ursinii	titin [Vipera ursinii]	refseq	2026/06/09	2026/06/09			aa	complete	genomic
+2997593727	GAB5575788.1	INSDC	39099	37030	Prionailurus iriomotensis	titin isoform X26 [Prionailurus iriomotensis]	insd	2025/06/12	2025/06/12			aa		
+3248567118	XP_081196487.1	RefSeq-XP	39043	31155	Vipera berus	titin [Vipera berus]	refseq	2026/03/17	2026/03/17			aa	complete	genomic
+2924747199	XP_071822702.1	RefSeq-XP	39031	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747197	XP_071822701.1	RefSeq-XP	39031	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222299	XP_067405209.1	RefSeq-XP	39031	1129001	Emydura macquarii macquarii	titin isoform X1 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222305	XP_067405212.1	RefSeq-XP	39029	1129001	Emydura macquarii macquarii	titin isoform X4 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222303	XP_067405211.1	RefSeq-XP	39029	1129001	Emydura macquarii macquarii	titin isoform X3 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222301	XP_067405210.1	RefSeq-XP	39029	1129001	Emydura macquarii macquarii	titin isoform X2 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747201	XP_071822703.1	RefSeq-XP	39020	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222307	XP_067405213.1	RefSeq-XP	39012	1129001	Emydura macquarii macquarii	titin isoform X5 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222311	XP_067405215.1	RefSeq-XP	39006	1129001	Emydura macquarii macquarii	titin isoform X7 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222309	XP_067405214.1	RefSeq-XP	39006	1129001	Emydura macquarii macquarii	titin isoform X6 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222317	XP_067405218.1	RefSeq-XP	39004	1129001	Emydura macquarii macquarii	titin isoform X10 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222315	XP_067405217.1	RefSeq-XP	39004	1129001	Emydura macquarii macquarii	titin isoform X9 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222313	XP_067405216.1	RefSeq-XP	39004	1129001	Emydura macquarii macquarii	titin isoform X8 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222325	XP_067405223.1	RefSeq-XP	39003	1129001	Emydura macquarii macquarii	titin isoform X14 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222323	XP_067405222.1	RefSeq-XP	39003	1129001	Emydura macquarii macquarii	titin isoform X13 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222321	XP_067405220.1	RefSeq-XP	39003	1129001	Emydura macquarii macquarii	titin isoform X12 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222319	XP_067405219.1	RefSeq-XP	39003	1129001	Emydura macquarii macquarii	titin isoform X11 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747203	XP_071822704.1	RefSeq-XP	38993	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747205	XP_071822705.1	RefSeq-XP	38991	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222327	XP_067405224.1	RefSeq-XP	38985	1129001	Emydura macquarii macquarii	titin isoform X15 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222329	XP_067405225.1	RefSeq-XP	38979	1129001	Emydura macquarii macquarii	titin isoform X16 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222333	XP_067405227.1	RefSeq-XP	38978	1129001	Emydura macquarii macquarii	titin isoform X18 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222331	XP_067405226.1	RefSeq-XP	38978	1129001	Emydura macquarii macquarii	titin isoform X17 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222335	XP_067405228.1	RefSeq-XP	38976	1129001	Emydura macquarii macquarii	titin isoform X19 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747207	XP_071822707.1	RefSeq-XP	38975	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747209	XP_071822708.1	RefSeq-XP	38973	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222337	XP_067405229.1	RefSeq-XP	38973	1129001	Emydura macquarii macquarii	titin isoform X20 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222339	XP_067405230.1	RefSeq-XP	38972	1129001	Emydura macquarii macquarii	titin isoform X21 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747211	XP_071822709.1	RefSeq-XP	38970	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222341	XP_067405231.1	RefSeq-XP	38967	1129001	Emydura macquarii macquarii	titin isoform X22 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222343	XP_067405232.1	RefSeq-XP	38951	1129001	Emydura macquarii macquarii	titin isoform X23 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747213	XP_071822710.1	RefSeq-XP	38947	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222345	XP_067405233.1	RefSeq-XP	38945	1129001	Emydura macquarii macquarii	titin isoform X24 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222347	XP_067405234.1	RefSeq-XP	38944	1129001	Emydura macquarii macquarii	titin isoform X25 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747215	XP_071822711.1	RefSeq-XP	38937	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747241	XP_071822726.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747239	XP_071822725.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747237	XP_071822724.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747235	XP_071822722.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747233	XP_071822721.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747231	XP_071822720.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747229	XP_071822719.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747227	XP_071822718.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747225	XP_071822716.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747223	XP_071822715.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747221	XP_071822714.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747219	XP_071822713.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747217	XP_071822712.1	RefSeq-XP	38931	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747243	XP_071822727.1	RefSeq-XP	38930	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222349	XP_067405235.1	RefSeq-XP	38922	1129001	Emydura macquarii macquarii	titin isoform X26 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222351	XP_067405236.1	RefSeq-XP	38920	1129001	Emydura macquarii macquarii	titin isoform X27 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222353	XP_067405238.1	RefSeq-XP	38906	1129001	Emydura macquarii macquarii	titin isoform X28 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747245	XP_071822728.1	RefSeq-XP	38905	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222355	XP_067405239.1	RefSeq-XP	38884	1129001	Emydura macquarii macquarii	titin isoform X29 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+3136467389	GAB9674000.1	INSDC	38882	1496133	Pteropus pselaphon	Titin [Pteropus pselaphon]	insd	2025/12/25	2025/12/25			aa		
+2791222357	XP_067405240.1	RefSeq-XP	38869	1129001	Emydura macquarii macquarii	titin isoform X30 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+3269459487	XP_081812424.1	RefSeq-XP	38856	2025560	Natrix helvetica	titin [Natrix helvetica]	refseq	2026/04/15	2026/04/15			aa	complete	genomic
+2791222359	XP_067405241.1	RefSeq-XP	38856	1129001	Emydura macquarii macquarii	titin isoform X31 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747249	XP_071822731.1	RefSeq-XP	38854	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747247	XP_071822730.1	RefSeq-XP	38854	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222361	XP_067405242.1	RefSeq-XP	38852	1129001	Emydura macquarii macquarii	titin isoform X32 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747259	XP_071822736.1	RefSeq-XP	38831	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747257	XP_071822735.1	RefSeq-XP	38831	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747255	XP_071822734.1	RefSeq-XP	38831	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747253	XP_071822733.1	RefSeq-XP	38831	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747251	XP_071822732.1	RefSeq-XP	38831	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747261	XP_071822737.1	RefSeq-XP	38829	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222363	XP_067405243.1	RefSeq-XP	38816	1129001	Emydura macquarii macquarii	titin isoform X33 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222365	XP_067405244.1	RefSeq-XP	38815	1129001	Emydura macquarii macquarii	titin isoform X34 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+3356020994	XP_085351973.1	RefSeq-XP	38813	10224	Saccoglossus kowalevskii	titin [Saccoglossus kowalevskii]	refseq	2026/07/07	2026/07/07			aa	complete	genomic
+2791222367	XP_067405245.1	RefSeq-XP	38788	1129001	Emydura macquarii macquarii	titin isoform X35 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2817618134	WP_379215411.1	RefSeq-WP	38772	3345402	Nocardia sp. NPDC127579	glycerophosphodiester phosphodiesterase family protein [Nocardia sp. NPDC127579]	refseq	2024/10/11	2026/03/19			aa	complete	
+2791222369	XP_067405246.1	RefSeq-XP	38760	1129001	Emydura macquarii macquarii	titin isoform X36 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222371	XP_067405247.1	RefSeq-XP	38734	1129001	Emydura macquarii macquarii	titin isoform X37 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222373	XP_067405248.1	RefSeq-XP	38733	1129001	Emydura macquarii macquarii	titin isoform X38 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222375	XP_067405249.1	RefSeq-XP	38732	1129001	Emydura macquarii macquarii	titin isoform X39 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747265	XP_071822739.1	RefSeq-XP	38731	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747263	XP_071822738.1	RefSeq-XP	38731	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747267	XP_071822741.1	RefSeq-XP	38730	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222377	XP_067405250.1	RefSeq-XP	38708	1129001	Emydura macquarii macquarii	titin isoform X40 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222381	XP_067405252.1	RefSeq-XP	38705	1129001	Emydura macquarii macquarii	titin isoform X42 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222379	XP_067405251.1	RefSeq-XP	38705	1129001	Emydura macquarii macquarii	titin isoform X41 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+3154352091	KAM9123075.1	INSDC	38686	260642	Pangshura tecta	titin [Pangshura tecta]	insd	2026/01/29	2026/01/29			aa	complete	chromosome
+3411795391	XP_089194185.1	RefSeq-XP	38676	37653	Octopus bimaculoides	uncharacterized protein LOC106877301 [Octopus bimaculoides]	refseq	2026/10/14	2026/10/14			aa	complete	genomic
+2924747269	XP_071822742.1	RefSeq-XP	38659	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222383	XP_067405253.1	RefSeq-XP	38659	1129001	Emydura macquarii macquarii	titin isoform X43 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222385	XP_067405254.1	RefSeq-XP	38651	1129001	Emydura macquarii macquarii	titin isoform X44 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+3392556191	CAR9408907.1	INSDC	38645	8058	Merlangius merlangus	unnamed protein product [Merlangius merlangus]	insd	2026/09/11	2026/09/12			aa		chromosome
+2924747273	XP_071822744.1	RefSeq-XP	38631	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747271	XP_071822743.1	RefSeq-XP	38631	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222387	XP_067405255.1	RefSeq-XP	38631	1129001	Emydura macquarii macquarii	titin isoform X45 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747275	XP_071822745.1	RefSeq-XP	38630	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2791222389	XP_067405256.1	RefSeq-XP	38605	1129001	Emydura macquarii macquarii	titin isoform X46 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222391	XP_067405257.1	RefSeq-XP	38599	1129001	Emydura macquarii macquarii	titin isoform X47 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2791222393	XP_067405258.1	RefSeq-XP	38577	1129001	Emydura macquarii macquarii	titin isoform X48 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2924747277	XP_071822746.1	RefSeq-XP	38565	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747279	XP_071822747.1	RefSeq-XP	38551	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747285	XP_071822750.1	RefSeq-XP	38531	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747283	XP_071822749.1	RefSeq-XP	38531	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2924747281	XP_071822748.1	RefSeq-XP	38531	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2679122551	XP_063161488.1	RefSeq-XP	38521	51853	Candoia aspera	titin [Candoia aspera]	refseq	2024/02/22	2024/02/22			aa	complete	genomic
+3364086805	XP_085706711.1	RefSeq-XP	38490	7764	Eptatretus burgeri	titin [Eptatretus burgeri]	refseq	2026/07/20	2026/07/20			aa	complete	genomic
+3393416044	CAR9444729.1	INSDC	38458	185735	Arctogadus glacialis	unnamed protein product [Arctogadus glacialis]	insd	2026/09/12	2026/09/13			aa		chromosome
+3341359085	YEX71550.1	INSDC	38430	187939	Furcifer pardalis	titin [Furcifer pardalis]	insd	2026/06/04	2026/06/04			aa	complete	chromosome
+2924747287	XP_071822751.1	RefSeq-XP	38408	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+1712978686	XP_029981348.1	RefSeq-XP	38182	375764	Sphaeramia orbicularis	LOW QUALITY PROTEIN: titin-like [Sphaeramia orbicularis]	refseq	2019/07/31	2025/07/16			aa	complete	genomic
+1717017839	XP_030066708.1	RefSeq-XP	38163	1415580	Microcaecilia unicolor	titin [Microcaecilia unicolor]	refseq	2019/08/03	2026/02/06			aa	complete	genomic
+1635550090	TKS66768.1	INSDC	38162	240159	Collichthys lucidus	Titin [Collichthys lucidus]	insd	2019/05/09	2019/05/09			aa	complete	chromosome
+975107563	XP_015269234.1	RefSeq-XP	38105	146911	Gekko japonicus	PREDICTED: LOW QUALITY PROTEIN: titin [Gekko japonicus]	refseq	2016/01/20	2016/01/20			aa	complete	genomic
+1835599181	XP_033802948.1	RefSeq-XP	38067	260995	Geotrypetes seraphini	titin isoform X1 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2929510362	XP_071978768.1	RefSeq-XP	38028	76066	Engystomops pustulosus	titin [Engystomops pustulosus]	refseq	2025/03/14	2025/03/14			aa	complete	genomic
+2462410544	KAJ7412326.1	INSDC	37930	1566151	Willisornis vidua	hypothetical protein WISP_97314 [Willisornis vidua]	insd	2023/03/20	2023/03/20			aa		genomic
+2270470090	KAI5187665.1	INSDC	37904	143292	Manis pentadactyla	Titin [Manis pentadactyla]	insd	2022/07/13	2022/07/13			aa		
+3412248666	XP_089379146.1	RefSeq-XP	37868	8519	Sceloporus occidentalis	titin [Sceloporus occidentalis]	refseq	2026/10/15	2026/10/15			aa	complete	genomic
+2207868015	CAH1773861.1	INSDC	37788	6347	Owenia fusiformis	unnamed protein product [Owenia fusiformis]	insd	2022/03/04	2022/06/27			aa		
+2451715731	XP_053900404.1	RefSeq-XP	37775	2991368	Malaclemys terrapin pileata	titin [Malaclemys terrapin pileata]	refseq	2023/03/06	2023/03/06			aa	complete	chromosome
+2739627031	XP_065416876.1	RefSeq-XP	37768	8478	Chrysemys picta bellii	titin isoform X1 [Chrysemys picta bellii]	refseq	2024/06/05	2024/06/05			aa	complete	genomic
+3326960382	KAN6777963.1	INSDC	37732	1041117	Myuchelys georgesi	titin [Myuchelys georgesi]	insd	2026/05/06	2026/05/06			aa	complete	chromosome
+2791222395	XP_067405259.1	RefSeq-XP	37729	1129001	Emydura macquarii macquarii	titin isoform X49 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2247574913	XP_048340426.1	RefSeq-XP	37707	933632	Sphaerodactylus townsendi	LOW QUALITY PROTEIN: titin [Sphaerodactylus townsendi]	refseq	2022/06/02	2022/06/02			aa	complete	chromosome
+3046666252	WP_442023304.1	RefSeq-WP	37661	3233022	Nocardia sp. 2YAB30	alpha/beta hydrolase [Nocardia sp. 2YAB30]	refseq	2025/08/21	2025/08/21			aa	complete	
+1835599183	XP_033802949.1	RefSeq-XP	37641	260995	Geotrypetes seraphini	titin isoform X2 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2636953596	XP_061464309.1	RefSeq-XP	37630	261503	Rhineura floridana	titin isoform X1 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953598	XP_061464310.1	RefSeq-XP	37628	261503	Rhineura floridana	titin isoform X2 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+3019015404	XP_074925927.1	RefSeq-XP	37612	106734	Chelonoidis abingdonii	titin [Chelonoidis abingdonii]	refseq	2025/07/08	2025/07/08			aa	complete	genomic
+2636953600	XP_061464311.1	RefSeq-XP	37610	261503	Rhineura floridana	titin isoform X3 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953602	XP_061464312.1	RefSeq-XP	37606	261503	Rhineura floridana	titin isoform X4 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2791222397	XP_067405260.1	RefSeq-XP	37604	1129001	Emydura macquarii macquarii	titin isoform X50 [Emydura macquarii macquarii]	refseq	2024/08/23	2024/08/23			aa	complete	genomic
+2636953604	XP_061464313.1	RefSeq-XP	37604	261503	Rhineura floridana	titin isoform X5 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953610	XP_061464316.1	RefSeq-XP	37602	261503	Rhineura floridana	titin isoform X8 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953608	XP_061464315.1	RefSeq-XP	37602	261503	Rhineura floridana	titin isoform X7 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953606	XP_061464314.1	RefSeq-XP	37602	261503	Rhineura floridana	titin isoform X6 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953612	XP_061464317.1	RefSeq-XP	37595	261503	Rhineura floridana	titin isoform X9 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953614	XP_061464318.1	RefSeq-XP	37574	261503	Rhineura floridana	titin isoform X10 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953616	XP_061464319.1	RefSeq-XP	37567	261503	Rhineura floridana	titin isoform X11 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1835599185	XP_033802950.1	RefSeq-XP	37560	260995	Geotrypetes seraphini	titin isoform X3 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2924747289	XP_071822752.1	RefSeq-XP	37542	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+1835599187	XP_033802951.1	RefSeq-XP	37537	260995	Geotrypetes seraphini	titin isoform X4 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2636953622	XP_061464322.1	RefSeq-XP	37534	261503	Rhineura floridana	titin isoform X14 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953620	XP_061464321.1	RefSeq-XP	37534	261503	Rhineura floridana	titin isoform X13 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+2636953618	XP_061464320.1	RefSeq-XP	37534	261503	Rhineura floridana	titin isoform X12 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1835599189	XP_033802952.1	RefSeq-XP	37532	260995	Geotrypetes seraphini	titin isoform X5 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2636953624	XP_061464324.1	RefSeq-XP	37524	261503	Rhineura floridana	titin isoform X15 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1835599191	XP_033802953.1	RefSeq-XP	37510	260995	Geotrypetes seraphini	titin isoform X6 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+1835599193	XP_033802954.1	RefSeq-XP	37482	260995	Geotrypetes seraphini	titin isoform X7 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2861746492	WP_406274080.1	RefSeq-WP	37431	2975995	Nocardia sp. NBC_00881	ElyC/SanA/YdcF family protein [Nocardia sp. NBC_00881]	refseq	2024/11/25	2026/03/23			aa	complete	
+2655419961	WSY61458.1	INSDC	37431	2975995	Nocardia sp. NBC_00881	YdcF family protein [Nocardia sp. NBC_00881]	insd	2024/01/23	2024/01/23			aa	complete	chromosome
+2636953626	XP_061464325.1	RefSeq-XP	37425	261503	Rhineura floridana	titin isoform X16 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1974157865	XP_039195311.1	RefSeq-XP	37403	88082	Crotalus tigris	titin isoform X1 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+3137961571	KAM6348687.1	INSDC	37401	28689	Alca torda	LOW QUALITY PROTEIN: titin [Alca torda]	insd	2026/01/02	2026/01/02			aa	complete	chromosome
+1974157867	XP_039195312.1	RefSeq-XP	37400	88082	Crotalus tigris	titin isoform X2 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+2636953628	XP_061464326.1	RefSeq-XP	37397	261503	Rhineura floridana	titin isoform X17 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1974157869	XP_039195313.1	RefSeq-XP	37387	88082	Crotalus tigris	titin isoform X3 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157885	XP_039195321.1	RefSeq-XP	37381	88082	Crotalus tigris	titin isoform X11 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157883	XP_039195320.1	RefSeq-XP	37381	88082	Crotalus tigris	titin isoform X10 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157881	XP_039195319.1	RefSeq-XP	37381	88082	Crotalus tigris	titin isoform X9 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157879	XP_039195318.1	RefSeq-XP	37381	88082	Crotalus tigris	titin isoform X8 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157877	XP_039195317.1	RefSeq-XP	37381	88082	Crotalus tigris	titin isoform X7 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157875	XP_039195316.1	RefSeq-XP	37381	88082	Crotalus tigris	titin isoform X6 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157873	XP_039195315.1	RefSeq-XP	37381	88082	Crotalus tigris	titin isoform X5 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157871	XP_039195314.1	RefSeq-XP	37381	88082	Crotalus tigris	titin isoform X4 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157905	XP_039195332.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X21 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157903	XP_039195330.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X20 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157901	XP_039195329.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X19 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157899	XP_039195328.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X18 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157897	XP_039195327.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X17 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157895	XP_039195326.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X16 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157893	XP_039195325.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X15 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157891	XP_039195324.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X14 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157889	XP_039195323.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X13 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157887	XP_039195322.1	RefSeq-XP	37378	88082	Crotalus tigris	titin isoform X12 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157909	XP_039195334.1	RefSeq-XP	37376	88082	Crotalus tigris	titin isoform X23 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157907	XP_039195333.1	RefSeq-XP	37376	88082	Crotalus tigris	titin isoform X22 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157911	XP_039195335.1	RefSeq-XP	37375	88082	Crotalus tigris	titin isoform X24 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157913	XP_039195336.1	RefSeq-XP	37374	88082	Crotalus tigris	titin isoform X25 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+3333071459	KAN7820843.1	INSDC	37372	344064	Poephila acuticauda hecki	Titin isoform E [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+1974157915	XP_039195337.1	RefSeq-XP	37372	88082	Crotalus tigris	titin isoform X26 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+2636953630	XP_061464327.1	RefSeq-XP	37371	261503	Rhineura floridana	titin isoform X18 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1974157917	XP_039195338.1	RefSeq-XP	37368	88082	Crotalus tigris	titin isoform X27 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+2853523503	XP_069792334.1	RefSeq-XP	37359	1343680	Narcine bancroftii	LOW QUALITY PROTEIN: titin-like [Narcine bancroftii]	refseq	2024/11/18	2024/11/18			aa	complete	genomic
+1974157919	XP_039195339.1	RefSeq-XP	37359	88082	Crotalus tigris	titin isoform X28 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157921	XP_039195340.1	RefSeq-XP	37357	88082	Crotalus tigris	titin isoform X29 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157937	XP_039195348.1	RefSeq-XP	37356	88082	Crotalus tigris	titin isoform X37 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157935	XP_039195347.1	RefSeq-XP	37356	88082	Crotalus tigris	titin isoform X36 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157933	XP_039195346.1	RefSeq-XP	37356	88082	Crotalus tigris	titin isoform X35 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157931	XP_039195345.1	RefSeq-XP	37356	88082	Crotalus tigris	titin isoform X34 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157929	XP_039195344.1	RefSeq-XP	37356	88082	Crotalus tigris	titin isoform X33 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157927	XP_039195343.1	RefSeq-XP	37356	88082	Crotalus tigris	titin isoform X32 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157925	XP_039195342.1	RefSeq-XP	37356	88082	Crotalus tigris	titin isoform X31 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157923	XP_039195341.1	RefSeq-XP	37356	88082	Crotalus tigris	titin isoform X30 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157939	XP_039195349.1	RefSeq-XP	37355	88082	Crotalus tigris	titin isoform X38 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157941	XP_039195350.1	RefSeq-XP	37349	88082	Crotalus tigris	titin isoform X39 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157943	XP_039195351.1	RefSeq-XP	37340	88082	Crotalus tigris	titin isoform X40 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+3139518802	KAM7153945.1	INSDC	37336	3026461	Macrochelys suwanniensis	titin [Macrochelys suwanniensis]	insd	2026/01/07	2026/01/07			aa	complete	chromosome
+2251136959	KAI4550367.1	INSDC	37336	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_019093 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		chromosome
+2015241448	KAG5213687.1	INSDC	37314	9940	Ovis aries	hypothetical protein JEQ12_009473 [Ovis aries]	insd	2021/03/22	2021/03/22			aa		chromosome
+1974157945	XP_039195352.1	RefSeq-XP	37308	88082	Crotalus tigris	titin isoform X41 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157947	XP_039195353.1	RefSeq-XP	37279	88082	Crotalus tigris	titin isoform X42 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+1974157963	XP_039195362.1	RefSeq-XP	37257	88082	Crotalus tigris	titin isoform X50 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+2777352114	XDC51613.1	INSDC	37248	9940	Ovis aries	hypothetical protein R6Z07M_002795 [Ovis aries]	insd	2024/07/24	2024/07/24			aa	complete	chromosome
+2775157600	XDA72527.1	INSDC	37248	9940	Ovis aries	hypothetical protein R6Z07_002851 [Ovis aries]	insd	2024/07/22	2024/07/22			aa		chromosome
+1974157949	XP_039195354.1	RefSeq-XP	37237	88082	Crotalus tigris	titin isoform X43 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+2017885024	XP_040214433.1	RefSeq-XP	37231	8407	Rana temporaria	LOW QUALITY PROTEIN: titin [Rana temporaria]	refseq	2021/03/25	2021/03/25			aa	complete	chromosome
+1835599195	XP_033802955.1	RefSeq-XP	37198	260995	Geotrypetes seraphini	titin isoform X8 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+3333071458	KAN7820842.1	INSDC	37188	344064	Poephila acuticauda hecki	Titin isoform A [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+2566860511	KAK1411600.1	INSDC	37183	13708	Tagetes erecta	hypothetical protein QVD17_38155 [Tagetes erecta]	insd	2023/08/22	2023/08/22			aa		chromosome
+3333071455	KAN7820839.1	INSDC	37176	344064	Poephila acuticauda hecki	Titin isoform A [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+1835599197	XP_033802956.1	RefSeq-XP	37176	260995	Geotrypetes seraphini	titin isoform X9 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+1835599199	XP_033802957.1	RefSeq-XP	37170	260995	Geotrypetes seraphini	titin isoform X10 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+3333071452	KAN7820836.1	INSDC	37164	344064	Poephila acuticauda hecki	Titin isoform A [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+3333071454	KAN7820838.1	INSDC	37159	344064	Poephila acuticauda hecki	Titin isoform A [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+3333071453	KAN7820837.1	INSDC	37158	344064	Poephila acuticauda hecki	Titin isoform B [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+1835599201	XP_033802958.1	RefSeq-XP	37148	260995	Geotrypetes seraphini	titin isoform X11 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2911439794	CAM4536708.1	INSDC	37143	8472	Lepidochelys kempii	unnamed protein product [Lepidochelys kempii]	insd	2025/02/12	2025/02/13			aa		
+2636953632	XP_061464328.1	RefSeq-XP	37143	261503	Rhineura floridana	titin isoform X19 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1835599203	XP_033802959.1	RefSeq-XP	37142	260995	Geotrypetes seraphini	titin isoform X12 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+3333071456	KAN7820840.1	INSDC	37133	344064	Poephila acuticauda hecki	Titin isoform A [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+3333071457	KAN7820841.1	INSDC	37131	344064	Poephila acuticauda hecki	Titin isoform A [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+1835599205	XP_033802960.1	RefSeq-XP	37120	260995	Geotrypetes seraphini	titin isoform X13 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2636953634	XP_061464329.1	RefSeq-XP	37119	261503	Rhineura floridana	titin isoform X20 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1835599207	XP_033802961.1	RefSeq-XP	37114	260995	Geotrypetes seraphini	titin isoform X14 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+1835599209	XP_033802962.1	RefSeq-XP	37092	260995	Geotrypetes seraphini	titin isoform X15 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+3381251471	KAO2547375.1	INSDC	37091	48895	Poecile montanus	titin [Poecile montanus]	insd	2026/08/25	2026/08/25			aa	complete	chromosome
+2956591496	WP_423697738.1	RefSeq-WP	37087	248551	Nocardia testacea	amidohydrolase [Nocardia testacea]	refseq	2025/04/15	2025/04/22			aa	complete	
+3333071451	KAN7820835.1	INSDC	37072	344064	Poephila acuticauda hecki	Titin isoform A [Poephila acuticauda hecki]	insd	2026/05/15	2026/05/15			aa		chromosome
+2636953636	XP_061464330.1	RefSeq-XP	37065	261503	Rhineura floridana	titin isoform X21 [Rhineura floridana]	refseq	2023/12/18	2023/12/18			aa	complete	genomic
+1835599211	XP_033802963.1	RefSeq-XP	37064	260995	Geotrypetes seraphini	titin isoform X16 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+2990384107	XP_074068859.1	RefSeq-XP	37042	92651	Macrotis lagotis	titin [Macrotis lagotis]	refseq	2025/06/03	2025/06/03			aa	complete	genomic
+3013162706	XP_074856878.1	RefSeq-XP	37008	44489	Carettochelys insculpta	titin isoform X1 [Carettochelys insculpta]	refseq	2025/07/03	2025/07/03			aa	complete	genomic
+2911495074	CAM4536479.1	INSDC	37008	8472	Lepidochelys kempii	unnamed protein product [Lepidochelys kempii]	insd	2025/02/12	2025/02/13			aa		
+1159651731	OPJ80120.1	INSDC	36991	372326	Patagioenas fasciata monilis	titin isoform E [Patagioenas fasciata monilis]	insd	2017/03/15	2017/03/15			aa		
+2924747291	XP_071822753.1	RefSeq-XP	36946	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+3139692659	KAM7247103.1	INSDC	36943	72542	Capra ibex	hypothetical protein CapIbe_001056 [Capra ibex]	insd	2026/01/07	2026/01/07			aa		chromosome
+3280351479	XP_082808736.1	RefSeq-XP	36927	34761	Thalia democratica	uncharacterized protein LOC145845187 [Thalia democratica]	refseq	2026/04/24	2026/04/24			aa	complete	genomic
+3385611765	XP_087738184.1	RefSeq-XP	36924	94885	Pantherophis guttatus	titin [Pantherophis guttatus]	refseq	2026/09/01	2026/09/01			aa	complete	genomic
+3392742314	CAR9407816.1	INSDC	36923	8058	Merlangius merlangus	unnamed protein product [Merlangius merlangus]	insd	2026/09/11	2026/09/12			aa		chromosome
+3273102102	XP_082322286.1	RefSeq-XP	36900	9770	Balaenoptera physalus	titin [Balaenoptera physalus]	refseq	2026/04/16	2026/04/16			aa	complete	genomic
+1835599213	XP_033802964.1	RefSeq-XP	36887	260995	Geotrypetes seraphini	titin isoform X17 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+3419730633	XP_089636042.1	RefSeq-XP	36880	13735	Pelodiscus sinensis	titin isoform X1 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730635	XP_089636043.1	RefSeq-XP	36879	13735	Pelodiscus sinensis	titin isoform X2 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730637	XP_089636044.1	RefSeq-XP	36876	13735	Pelodiscus sinensis	titin isoform X3 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730639	XP_089636045.1	RefSeq-XP	36863	13735	Pelodiscus sinensis	titin isoform X4 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730645	XP_089636048.1	RefSeq-XP	36854	13735	Pelodiscus sinensis	titin isoform X7 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730643	XP_089636047.1	RefSeq-XP	36854	13735	Pelodiscus sinensis	titin isoform X6 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730641	XP_089636046.1	RefSeq-XP	36854	13735	Pelodiscus sinensis	titin isoform X5 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730647	XP_089636049.1	RefSeq-XP	36853	13735	Pelodiscus sinensis	titin isoform X8 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730653	XP_089636052.1	RefSeq-XP	36852	13735	Pelodiscus sinensis	titin isoform X11 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730651	XP_089636051.1	RefSeq-XP	36852	13735	Pelodiscus sinensis	titin isoform X10 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730649	XP_089636050.1	RefSeq-XP	36852	13735	Pelodiscus sinensis	titin isoform X9 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730655	XP_089636053.1	RefSeq-XP	36848	13735	Pelodiscus sinensis	titin isoform X12 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730657	XP_089636054.1	RefSeq-XP	36847	13735	Pelodiscus sinensis	titin isoform X13 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730659	XP_089636055.1	RefSeq-XP	36845	13735	Pelodiscus sinensis	titin isoform X14 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730661	XP_089636056.1	RefSeq-XP	36841	13735	Pelodiscus sinensis	titin isoform X15 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730663	XP_089636057.1	RefSeq-XP	36835	13735	Pelodiscus sinensis	titin isoform X16 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730665	XP_089636058.1	RefSeq-XP	36834	13735	Pelodiscus sinensis	titin isoform X17 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2913427902	CAM5094532.1	INSDC	36831	27790	Natator depressus	unnamed protein product [Natator depressus]	insd	2025/02/15	2025/02/16			aa		
+3419730667	XP_089636059.1	RefSeq-XP	36830	13735	Pelodiscus sinensis	titin isoform X18 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730669	XP_089636060.1	RefSeq-XP	36828	13735	Pelodiscus sinensis	titin isoform X19 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730671	XP_089636061.1	RefSeq-XP	36824	13735	Pelodiscus sinensis	titin isoform X20 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730673	XP_089636062.1	RefSeq-XP	36821	13735	Pelodiscus sinensis	titin isoform X21 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730675	XP_089636063.1	RefSeq-XP	36816	13735	Pelodiscus sinensis	titin isoform X22 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2911391762	CAM4616941.1	INSDC	36806	27788	Lepidochelys olivacea	unnamed protein product [Lepidochelys olivacea]	insd	2025/02/12	2025/02/13			aa		
+2484272467	KAJ8332362.1	INSDC	36798	118154	Synaphobranchus kaupii	hypothetical protein SKAU_G00426550 [Synaphobranchus kaupii]	insd	2023/04/12	2023/04/12			aa		
+1835599215	XP_033802965.1	RefSeq-XP	36794	260995	Geotrypetes seraphini	titin isoform X18 [Geotrypetes seraphini]	refseq	2020/04/28	2026/03/05			aa	complete	genomic
+3419730679	XP_089636066.1	RefSeq-XP	36793	13735	Pelodiscus sinensis	titin isoform X24 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730677	XP_089636065.1	RefSeq-XP	36793	13735	Pelodiscus sinensis	titin isoform X23 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3140317530	XP_078408136.1	RefSeq-XP	36793	57982	Cetorhinus maximus	titin isoform X50 [Cetorhinus maximus]	refseq	2026/01/09	2026/01/09			aa	complete	genomic
+3419730681	XP_089636067.1	RefSeq-XP	36792	13735	Pelodiscus sinensis	titin isoform X25 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730683	XP_089636068.1	RefSeq-XP	36789	13735	Pelodiscus sinensis	titin isoform X26 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730685	XP_089636069.1	RefSeq-XP	36769	13735	Pelodiscus sinensis	titin isoform X27 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2251147414	KAI4559934.1	INSDC	36768	2918886	Ovis ammon polii x Ovis aries	hypothetical protein MJT46_012172 [Ovis ammon polii x Ovis aries]	insd	2022/06/10	2022/06/10			aa		chromosome
+3419730687	XP_089636070.1	RefSeq-XP	36755	13735	Pelodiscus sinensis	titin isoform X28 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730689	XP_089636071.1	RefSeq-XP	36741	13735	Pelodiscus sinensis	titin isoform X29 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730691	XP_089636072.1	RefSeq-XP	36714	13735	Pelodiscus sinensis	titin isoform X30 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2924747293	XP_071822754.1	RefSeq-XP	36696	307972	Apostichopus japonicus	uncharacterized protein [Apostichopus japonicus]	refseq	2025/03/07	2025/03/07			aa	complete	genomic
+2031698346	XP_041057455.1	RefSeq-XP	36688	13397	Carcharodon carcharias	titin [Carcharodon carcharias]	refseq	2021/05/03	2021/05/03			aa	complete	chromosome
+3419730693	XP_089636073.1	RefSeq-XP	36680	13735	Pelodiscus sinensis	titin isoform X31 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2445190551	XP_053568820.1	RefSeq-XP	36669	8345	Bombina bombina	LOW QUALITY PROTEIN: titin [Bombina bombina]	refseq	2023/02/16	2023/03/04			aa	complete	chromosome
+3419730695	XP_089636074.1	RefSeq-XP	36654	13735	Pelodiscus sinensis	titin isoform X32 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730697	XP_089636076.1	RefSeq-XP	36653	13735	Pelodiscus sinensis	titin isoform X33 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+1159651729	OPJ80118.1	INSDC	36650	372326	Patagioenas fasciata monilis	titin isoform C [Patagioenas fasciata monilis]	insd	2017/03/15	2017/03/15			aa		
+2759141804	WP_357074110.1	RefSeq-WP	36629	3155273	Nocardia sp. NPDC049220	alpha/beta fold hydrolase [Nocardia sp. NPDC049220]	refseq	2024/07/13	2026/03/22			aa	complete	
+1159651727	OPJ80116.1	INSDC	36624	372326	Patagioenas fasciata monilis	titin isoform A [Patagioenas fasciata monilis]	insd	2017/03/15	2017/03/15			aa		
+1159651728	OPJ80117.1	INSDC	36623	372326	Patagioenas fasciata monilis	titin isoform B [Patagioenas fasciata monilis]	insd	2017/03/15	2017/03/15			aa		
+2074003240	XP_042635384.1	RefSeq-XP	36619	91951	Catharus ustulatus	LOW QUALITY PROTEIN: titin [Catharus ustulatus]	refseq	2021/07/28	2021/07/28			aa	complete	chromosome
+2661346436	WP_327114044.1	RefSeq-WP	36587	2975998	Nocardia sp. NBC_01730	LacI family DNA-binding transcriptional regulator [Nocardia sp. NBC_01730]	refseq	2024/01/26	2026/03/14			aa	complete	
+2652892184	WSG59499.1	INSDC	36587	2975998	Nocardia sp. NBC_01730	LacI family DNA-binding transcriptional regulator [Nocardia sp. NBC_01730]	insd	2024/01/22	2024/01/22			aa	complete	chromosome
+2312258561	XP_050772699.1	RefSeq-XP	36562	286002	Gopherus flavomarginatus	titin isoform X1 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+1729093465	XP_030435962.1	RefSeq-XP	36556	1825980	Gopherus evgoodei	LOW QUALITY PROTEIN: titin [Gopherus evgoodei]	refseq	2019/08/24	2019/08/24			aa	complete	chromosome
+2312258565	XP_050772701.1	RefSeq-XP	36538	286002	Gopherus flavomarginatus	titin isoform X3 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258563	XP_050772700.1	RefSeq-XP	36538	286002	Gopherus flavomarginatus	titin isoform X2 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+1159651730	OPJ80119.1	INSDC	36537	372326	Patagioenas fasciata monilis	titin isoform D [Patagioenas fasciata monilis]	insd	2017/03/15	2017/03/15			aa		
+2312258567	XP_050772702.1	RefSeq-XP	36536	286002	Gopherus flavomarginatus	titin isoform X4 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258569	XP_050772704.1	RefSeq-XP	36535	286002	Gopherus flavomarginatus	titin isoform X5 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258583	XP_050772711.1	RefSeq-XP	36534	286002	Gopherus flavomarginatus	titin isoform X12 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258581	XP_050772710.1	RefSeq-XP	36534	286002	Gopherus flavomarginatus	titin isoform X11 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258579	XP_050772709.1	RefSeq-XP	36534	286002	Gopherus flavomarginatus	titin isoform X10 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258577	XP_050772708.1	RefSeq-XP	36534	286002	Gopherus flavomarginatus	titin isoform X9 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258575	XP_050772707.1	RefSeq-XP	36534	286002	Gopherus flavomarginatus	titin isoform X8 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258573	XP_050772706.1	RefSeq-XP	36534	286002	Gopherus flavomarginatus	titin isoform X7 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258571	XP_050772705.1	RefSeq-XP	36534	286002	Gopherus flavomarginatus	titin isoform X6 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+1985420248	XP_039350638.1	RefSeq-XP	36529	260615	Mauremys reevesii	titin [Mauremys reevesii]	refseq	2021/02/13	2021/02/13			aa	complete	chromosome
+2312258587	XP_050772713.1	RefSeq-XP	36527	286002	Gopherus flavomarginatus	titin isoform X14 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258585	XP_050772712.1	RefSeq-XP	36527	286002	Gopherus flavomarginatus	titin isoform X13 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258589	XP_050772715.1	RefSeq-XP	36507	286002	Gopherus flavomarginatus	titin isoform X15 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+351699983	EHB02902.1	INSDC	36507	10181	Heterocephalus glaber	Titin [Heterocephalus glaber]	insd	2011/10/14	2015/03/14			aa		genomic
+2312258595	XP_050772718.1	RefSeq-XP	36506	286002	Gopherus flavomarginatus	titin isoform X18 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258593	XP_050772717.1	RefSeq-XP	36506	286002	Gopherus flavomarginatus	titin isoform X17 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258591	XP_050772716.1	RefSeq-XP	36506	286002	Gopherus flavomarginatus	titin isoform X16 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730699	XP_089636077.1	RefSeq-XP	36505	13735	Pelodiscus sinensis	titin isoform X34 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2930912041	CAM9590860.1	INSDC	36500	3082113	Rangifer tarandus platyrhynchus	unnamed protein product [Rangifer tarandus platyrhynchus]	insd	2023/05/12	2025/03/18			aa		
+2913348252	CAM5089473.1	INSDC	36491	27790	Natator depressus	unnamed protein product [Natator depressus]	insd	2025/02/15	2025/02/16			aa		
+2851967289	XP_069591654.1	RefSeq-XP	36486	111125	Ranitomeya imitator	titin [Ranitomeya imitator]	refseq	2024/11/15	2024/11/15			aa	complete	genomic
+690425362	XP_009331438.1	RefSeq-XP	36484	9238	Pygoscelis adeliae	PREDICTED: LOW QUALITY PROTEIN: titin [Pygoscelis adeliae]	refseq	2014/09/26	2014/09/26			aa	complete	genomic
+2312258597	XP_050772719.1	RefSeq-XP	36480	286002	Gopherus flavomarginatus	titin isoform X19 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730701	XP_089636078.1	RefSeq-XP	36479	13735	Pelodiscus sinensis	titin isoform X35 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258599	XP_050772720.1	RefSeq-XP	36478	286002	Gopherus flavomarginatus	titin isoform X20 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258604	XP_050772722.1	RefSeq-XP	36457	286002	Gopherus flavomarginatus	titin isoform X22 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258602	XP_050772721.1	RefSeq-XP	36457	286002	Gopherus flavomarginatus	titin isoform X21 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258609	XP_050772724.1	RefSeq-XP	36450	286002	Gopherus flavomarginatus	titin isoform X24 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258606	XP_050772723.1	RefSeq-XP	36450	286002	Gopherus flavomarginatus	titin isoform X23 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730703	XP_089636079.1	RefSeq-XP	36449	13735	Pelodiscus sinensis	titin isoform X36 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258611	XP_050772726.1	RefSeq-XP	36441	286002	Gopherus flavomarginatus	titin isoform X25 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730705	XP_089636080.1	RefSeq-XP	36423	13735	Pelodiscus sinensis	titin isoform X37 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258613	XP_050772727.1	RefSeq-XP	36422	286002	Gopherus flavomarginatus	titin isoform X26 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+1117381615	XP_019378405.1	RefSeq-XP	36421	94835	Gavialis gangeticus	PREDICTED: titin [Gavialis gangeticus]	refseq	2016/12/16	2016/12/16			aa	complete	genomic
+3420256970	CAS4028103.1	INSDC	36420	2563697	Natrix natrix natrix	unnamed protein product [Natrix natrix natrix]	insd	2026/10/29	2026/10/30			aa		chromosome
+2312258616	XP_050772728.1	RefSeq-XP	36415	286002	Gopherus flavomarginatus	titin isoform X27 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258619	XP_050772729.1	RefSeq-XP	36409	286002	Gopherus flavomarginatus	titin isoform X28 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258623	XP_050772730.1	RefSeq-XP	36404	286002	Gopherus flavomarginatus	titin isoform X29 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730707	XP_089636081.1	RefSeq-XP	36395	13735	Pelodiscus sinensis	titin isoform X38 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258625	XP_050772731.1	RefSeq-XP	36394	286002	Gopherus flavomarginatus	titin isoform X30 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258627	XP_050772732.1	RefSeq-XP	36381	286002	Gopherus flavomarginatus	titin isoform X31 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258629	XP_050772733.1	RefSeq-XP	36380	286002	Gopherus flavomarginatus	titin isoform X32 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730709	XP_089636082.1	RefSeq-XP	36369	13735	Pelodiscus sinensis	titin isoform X39 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258631	XP_050772734.1	RefSeq-XP	36368	286002	Gopherus flavomarginatus	titin isoform X33 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730711	XP_089636083.1	RefSeq-XP	36364	13735	Pelodiscus sinensis	titin isoform X40 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2076565869	KAG8520333.1	INSDC	36362	202257	Galemys pyrenaicus	LOW QUALITY PROTEIN: Titin [Galemys pyrenaicus]	insd	2021/08/05	2021/08/05			aa		
+3420211163	CAS4027104.1	INSDC	36361	2563697	Natrix natrix natrix	unnamed protein product [Natrix natrix natrix]	insd	2026/10/29	2026/10/30			aa		chromosome
+2739627033	XP_065416877.1	RefSeq-XP	36360	8478	Chrysemys picta bellii	titin isoform X2 [Chrysemys picta bellii]	refseq	2024/06/05	2024/06/05			aa	complete	genomic
+2312258633	XP_050772735.1	RefSeq-XP	36345	286002	Gopherus flavomarginatus	titin isoform X34 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730713	XP_089636084.1	RefSeq-XP	36343	13735	Pelodiscus sinensis	titin isoform X41 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730715	XP_089636085.1	RefSeq-XP	36341	13735	Pelodiscus sinensis	titin isoform X42 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3419730717	XP_089636087.1	RefSeq-XP	36331	13735	Pelodiscus sinensis	titin isoform X43 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258635	XP_050772736.1	RefSeq-XP	36324	286002	Gopherus flavomarginatus	titin isoform X35 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730719	XP_089636088.1	RefSeq-XP	36315	13735	Pelodiscus sinensis	titin isoform X44 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258639	XP_050772738.1	RefSeq-XP	36310	286002	Gopherus flavomarginatus	titin isoform X37 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258637	XP_050772737.1	RefSeq-XP	36310	286002	Gopherus flavomarginatus	titin isoform X36 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730721	XP_089636089.1	RefSeq-XP	36305	13735	Pelodiscus sinensis	titin isoform X45 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258641	XP_050772739.1	RefSeq-XP	36303	286002	Gopherus flavomarginatus	titin isoform X38 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258643	XP_050772740.1	RefSeq-XP	36298	286002	Gopherus flavomarginatus	titin isoform X39 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730723	XP_089636090.1	RefSeq-XP	36277	13735	Pelodiscus sinensis	titin isoform X46 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+3157852850	XP_078704114.1	RefSeq-XP	36274	8472	Lepidochelys kempii	titin [Lepidochelys kempii]	refseq	2026/01/30	2026/01/30			aa	complete	genomic
+2911343277	CAM4630209.1	INSDC	36268	27788	Lepidochelys olivacea	unnamed protein product [Lepidochelys olivacea]	insd	2025/02/12	2025/02/13			aa		
+2312258645	XP_050772742.1	RefSeq-XP	36268	286002	Gopherus flavomarginatus	titin isoform X40 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730725	XP_089636091.1	RefSeq-XP	36252	13735	Pelodiscus sinensis	titin isoform X47 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258651	XP_050772745.1	RefSeq-XP	36251	286002	Gopherus flavomarginatus	titin isoform X43 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258649	XP_050772744.1	RefSeq-XP	36251	286002	Gopherus flavomarginatus	titin isoform X42 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258647	XP_050772743.1	RefSeq-XP	36251	286002	Gopherus flavomarginatus	titin isoform X41 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3381167762	KAO2468769.1	INSDC	36247	9796	Equus caballus	LOW QUALITY PROTEIN: titin [Equus caballus]	insd	2026/08/25	2026/08/25			aa	complete	chromosome
+2312258653	XP_050772746.1	RefSeq-XP	36233	286002	Gopherus flavomarginatus	titin isoform X44 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+3419730727	XP_089636092.1	RefSeq-XP	36224	13735	Pelodiscus sinensis	titin isoform X48 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2312258661	XP_050772750.1	RefSeq-XP	36223	286002	Gopherus flavomarginatus	titin isoform X48 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258659	XP_050772749.1	RefSeq-XP	36223	286002	Gopherus flavomarginatus	titin isoform X47 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258657	XP_050772748.1	RefSeq-XP	36223	286002	Gopherus flavomarginatus	titin isoform X46 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258655	XP_050772747.1	RefSeq-XP	36223	286002	Gopherus flavomarginatus	titin isoform X45 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2586350652	XP_059708286.1	RefSeq-XP	36214	30427	Haemorhous mexicanus	titin [Haemorhous mexicanus]	refseq	2023/10/01	2023/10/01			aa	complete	genomic
+2312258665	XP_050772753.1	RefSeq-XP	36198	286002	Gopherus flavomarginatus	titin isoform X50 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2312258663	XP_050772751.1	RefSeq-XP	36198	286002	Gopherus flavomarginatus	titin isoform X49 [Gopherus flavomarginatus]	refseq	2022/10/02	2023/02/26			aa	complete	chromosome
+2913399638	CAM5147486.1	INSDC	36183	27787	Eretmochelys imbricata	unnamed protein product [Eretmochelys imbricata]	insd	2025/02/15	2025/02/16			aa		
+2706782785	XP_064022154.1	RefSeq-XP	36174	488313	Pogoniulus pusillus	LOW QUALITY PROTEIN: titin [Pogoniulus pusillus]	refseq	2024/03/31	2024/03/31			aa	complete	genomic
+3393426266	CAR9679312.1	INSDC	36169	201445	Coronella austriaca	unnamed protein product [Coronella austriaca]	insd	2026/09/14	2026/09/15			aa		chromosome
+1740116878	VTJ65423.1	INSDC	36136	9995	Marmota monax	Hypothetical predicted protein [Marmota monax]	insd	2019/09/06	2019/09/06			aa		
+1974157951	XP_039195355.1	RefSeq-XP	36133	88082	Crotalus tigris	titin isoform X44 [Crotalus tigris]	refseq	2021/02/05	2021/02/05			aa	complete	genomic
+3382452086	XP_087561718.1	RefSeq-XP	36122	35019	Thamnophis sirtalis	titin [Thamnophis sirtalis]	refseq	2026/08/26	2026/08/26			aa	complete	genomic
+2801460748	XP_068103475.1	RefSeq-XP	36097	752182	Hyperolius riggenbachi	titin [Hyperolius riggenbachi]	refseq	2024/09/10	2024/09/10			aa	complete	genomic
+3138074319	KAM6461435.1	INSDC	36094	283338	Liasis olivaceus	titin [Liasis olivaceus]	insd	2026/01/02	2026/01/02			aa	complete	chromosome
+2911319203	CAM4632270.1	INSDC	36086	8467	Caretta caretta	unnamed protein product [Caretta caretta]	insd	2025/02/12	2025/02/13			aa		
+3393209175	CAR9519500.1	INSDC	36081	201445	Coronella austriaca	unnamed protein product [Coronella austriaca]	insd	2026/09/13	2026/09/14			aa		chromosome
+3385629774	XP_087845101.1	RefSeq-XP	36067	36176	Chiloscyllium plagiosum	titin isoform X1 [Chiloscyllium plagiosum]	refseq	2026/09/01	2026/09/01			aa	complete	genomic
+3419730729	XP_089636093.1	RefSeq-XP	36061	13735	Pelodiscus sinensis	titin isoform X49 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+2064991166	KAG7502825.1	INSDC	36057	28829	Solea senegalensis	titin-like isoform X2 [Solea senegalensis]	insd	2021/07/08	2021/07/08			aa		chromosome
+3419730731	XP_089636094.1	RefSeq-XP	36035	13735	Pelodiscus sinensis	titin isoform X50 [Pelodiscus sinensis]	refseq	2026/10/29	2026/10/29			aa	complete	genomic
+344252502	EGW08606.1	INSDC	36026	10029	Cricetulus griseus	Titin [Cricetulus griseus]	insd	2011/08/25	2015/03/14			aa		genomic
+1331827211	PNI86607.1	INSDC	35997	9598	Pan troglodytes	TTN isoform 2 [Pan troglodytes]	insd	2018/01/19	2018/01/19			aa		
+2694575805	XP_063568970.1	RefSeq-XP	35994	9601	Pongo abelii	titin [Pongo abelii]	refseq	2024/03/06	2026/05/12			aa	complete	genomic
+1331912098	PNJ60112.1	INSDC	35993	9601	Pongo abelii	LOW QUALITY PROTEIN: TTN isoform 3 [Pongo abelii]	insd	2018/01/19	2018/01/19			aa		

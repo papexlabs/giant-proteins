@@ -1,0 +1,15 @@
+column	description
+rank	Rank by length among graded loci (grades A-D); empty for excluded rows (grade X).
+accession	Representative record: the longest live model of the locus (NCBI Protein, UniProtKB or UniParc UPI accession).
+organism	Organism as given by the record.
+superkingdom	Eukaryota, Bacteria or Archaea (NCBI taxonomy).
+length_aa	Length of the representative sequence in amino acids.
+grade	Final grade after all stages: A supported full-length model; B supported in parts; C no contradiction and no support line; D contradicted by at least one check; X excluded (synthetic or patent, partial, or no live record).
+grade_stage1	Grade after the sequence and locus checks only (Stage 1), before RNA-seq and source-read evidence.
+best_grade_other_models_at_locus	Best grade among all models merged into this row (isoforms, copies, duplicate records).
+same_gene_other_assemblies	Near-identical copies of the gene in other assemblies (support line S2), merged into this row.
+same_gene_other_records	Other records of the same gene in the same organism (haplotypes, GenBank and RefSeq versions, isoforms; >= 90 % shared 10-mers), merged into this row and not counted as independent support.
+databases	Databases holding the representative sequence.
+evidence	One-line summary of the checks that decided the grade: contradiction rule (D1-D5), support lines (S1-S4, S6 peptides), RNA-seq intron support, source-read verdicts per assembly, peptide evidence.
+still_missing	Evidence that would be needed to raise or confirm the grade, including whether PRIDE lists projects for the species (keyword match only; PXD025008 and PXD060105 were reanalysed).
+locus_key	Locus identifier: NCBI GeneID, contig region, MD5 of a sequence without locus, or 'copies:' for merged copy sets.

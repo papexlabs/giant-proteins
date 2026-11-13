@@ -1,0 +1,98 @@
+{
+ "spectra_searched_ms2": 131021,
+ "psms_reported": 15778,
+ "target_psms_q01": 272,
+ "target_peptides_q01": 0,
+ "target_proteins_q01": 0,
+ "giant": {
+  "length": 50516,
+  "peptides_q01": 0,
+  "unique_peptides_q01": 0,
+  "psms_q01": 0,
+  "coverage_by_unique_frac": 0.0,
+  "protein_q": 0.41106242,
+  "fifths_with_unique_peptides": 0,
+  "first_unique_start": null,
+  "last_unique_start": null
+ },
+ "controls_giant_copies": {
+  "CTRLREV_giant": {
+   "psms_q01": 0,
+   "best_protein_q": 0.35475925
+  },
+  "CTRLSHUF_giant": {
+   "psms_q01": 0,
+   "best_protein_q": 0.07360094
+  }
+ },
+ "comparison_proteins": {
+  "CAH0794662": {
+   "length": 361,
+   "peptides_q01": 0,
+   "unique_peptides_q01": 0,
+   "psms_q01": 0,
+   "coverage_by_unique_frac": 0.0,
+   "protein_q": 0.02389233
+  },
+  "CAH0809064": {
+   "length": 840,
+   "peptides_q01": 0,
+   "unique_peptides_q01": 0,
+   "psms_q01": 0,
+   "coverage_by_unique_frac": 0.0,
+   "protein_q": 0.02389233
+  },
+  "CAH0788721": {
+   "length": 448,
+   "peptides_q01": 0,
+   "unique_peptides_q01": 0,
+   "psms_q01": 0,
+   "coverage_by_unique_frac": 0.0,
+   "protein_q": 0.02389233
+  }
+ },
+ "authors_reported_proteins": 37,
+ "database_entries_authors": 99773,
+ "database_entries_searched": 99770,
+ "raw_files": 5,
+ "authors_proteins_found_q01": 0,
+ "min_peptide_q_any_target": 0.01758482,
+ "min_protein_q_any_target": 0.02389233,
+ "spectrum_level": {
+  "target_psms": 272,
+  "target_peptides": 88,
+  "giant": {
+   "psms_spectrum_q01": 0,
+   "peptides_spectrum_q01": 0,
+   "psms_any_q": 17
+  },
+  "CTRLREV_giant": {
+   "psms_spectrum_q01": 0,
+   "peptides_spectrum_q01": 0,
+   "psms_any_q": 27
+  },
+  "CTRLSHUF_giant": {
+   "psms_spectrum_q01": 0,
+   "peptides_spectrum_q01": 0,
+   "psms_any_q": 15
+  },
+  "comparison_proteins": {
+   "CAH0794662": {
+    "psms_spectrum_q01": 30,
+    "peptides_spectrum_q01": 11,
+    "psms_any_q": 87
+   },
+   "CAH0809064": {
+    "psms_spectrum_q01": 9,
+    "peptides_spectrum_q01": 1,
+    "psms_any_q": 19
+   },
+   "CAH0788721": {
+    "psms_spectrum_q01": 37,
+    "peptides_spectrum_q01": 3,
+    "psms_any_q": 65
+   }
+  },
+  "authors_proteins_with_psm": 31
+ }
+}

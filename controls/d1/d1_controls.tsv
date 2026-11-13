@@ -1,0 +1,177 @@
+accession	groups	length	protein_name	organism	existence	fragment	period_aa	period_identity	rep25	panel_cov	uniparc_pfam_cov	domain_cov	D1	D2	D3	d1_trigger_without_domain_guard	cds_protein_id	cds_translation_identity	fickett_noncoding_frac	fickett_median	n_other_frames_open	min_stops_per_kcodon_other_frames
+A2ASS6	G4 long proteins	35213	Titin	Mus musculus	1: Evidence at protein level	False	1082	0.119	0.011	0.766		0.766	False	False	False	False						
+Q8WZ42	G4 long proteins	34350	Titin	Homo sapiens	1: Evidence at protein level	False	1082	0.114	0.002	0.785		0.785	False	False	False	False						
+G4SLH0	G4 long proteins	18562	Titin homolog	Caenorhabditis elegans	1: Evidence at protein level	False	39	0.173	0.232	0.262		0.262	False	False	False	False	AAN61517.1	0.998	0.005	1.089	0	22.82
+Q9I7U4	G4 long proteins	18141	Titin	Drosophila melanogaster	1: Evidence at protein level	False	213	0.178	0.111	0.294		0.294	False	False	False	False						
+A0A0S6XHH0	G4 long proteins	15639	FR901469 synthetase	Dothideomycetidae sp. (strain 11243)	1: Evidence at protein level	False	1086	0.093	0.0	0.781		0.781	False	False	False	False	GAM84991.1	1.0	0.006	1.147	0	21.16
+Q09164	G4 long proteins	15281	Cyclosporin synthetase simA	Tolypocladium inflatum	1: Evidence at protein level	False	1497	0.116	0.018	0.657		0.657	False	False	False	False	CAA82227.1	1.0	0.007	1.205	0	21.33
+Q8WXI7	G2 mucins; G4 long proteins	14507	Mucin-16	Homo sapiens	1: Evidence at protein level	False	156	0.172	0.03	0.0		0.0	False	False	False	False						
+Q9H195	G2 mucins; G4 long proteins	13477	Mucin-3B	Homo sapiens	1: Evidence at protein level	False	17	0.481	0.339	0.0		0.0	False	False	False	False						
+Q09165	G4 long proteins	13084	Mesocentin	Caenorhabditis elegans	1: Evidence at protein level	False	145	0.296	0.353	0.11		0.11	False	False	False	False						
+A0A348AXX4	G4 long proteins	13041	Nonribosomal peptide synthetase kk1B	Curvularia clavata	1: Evidence at protein level	False	1486	0.121	0.145	0.679		0.679	False	False	False	False	BBC83957.1	1.0	0.0	1.139	0	26.45
+M9MRD1	G4 long proteins	12345	Muscle-specific protein 300 kDa	Drosophila melanogaster	1: Evidence at protein level	False	445	0.094	0.0	0.076		0.076	False	False	False	False	ADV36944.1	1.0	0.0	1.209	0	17.17
+I1SAJ7	G4 long proteins	11197	Nonribosomal peptide synthetase 5	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	1: Evidence at protein level	False	1218	0.086	0.0	0.723		0.723	False	False	False	False	CEF87111.1	1.0	0.009	1.103	0	29.83
+C6KTB7	G4 long proteins	10287	Putative E3 ubiquitin-protein ligase protein PFF1365c	Plasmodium falciparum (isolate 3D7)	1: Evidence at protein level	False	3	0.12	0.007	0.007		0.007	False	False	False	False	CAG25094.1	1.0	0.108	0.972	0	50.26
+Q8I3Z1	G4 long proteins	10061	MATH and LRR domain-containing protein PFE0570w	Plasmodium falciparum (isolate 3D7)	1: Evidence at protein level	False	9	0.139	0.004	0.0		0.0	False	False	False	False	CAD51479.1	1.0	0.05	1.023	0	41.55
+Q8NWQ6	G4 long proteins	9904	Extracellular matrix-binding protein ebh	Staphylococcus aureus (strain MW2)	1: Evidence at protein level	False	126	0.225	0.018	0.0		0.0	False	False	False	False	BAB95189.1	1.0	0.0	1.054	0	46.04
+Q2FYJ6	G4 long proteins	9535	Extracellular matrix-binding protein ebh	Staphylococcus aureus (strain NCTC 8325 / PS 47)	1: Evidence at protein level	False	126	0.237	0.03	0.0		0.0	False	False	False	False	ABD30536.1	1.0	0.0	1.055	0	45.31
+Q5HPA2	G4 long proteins	9439	Extracellular matrix-binding protein ebh	Staphylococcus epidermidis (strain ATCC 35984 / DSM 28319 / BCRC 17069 / CCUG 31568 / BM 3577 / RP62A)	1: Evidence at protein level	False	755	0.17	0.0	0.0		0.0	False	False	False	False						
+W6RTA4	G4 long proteins	8922	Protein clarinet	Caenorhabditis elegans	1: Evidence at protein level	False	94	0.332	0.374	0.0		0.0	False	False	False	False						
+A2AAJ9	G4 long proteins	8886	Obscurin	Mus musculus	1: Evidence at protein level	False	92	0.199	0.168	0.67		0.67	False	False	False	False						
+Q6ZWR6	G4 long proteins	8799	Nesprin-1	Mus musculus	1: Evidence at protein level	False	790	0.105	0.0	0.155		0.155	False	False	False	False						
+Q8NF91	G4 long proteins	8797	Nesprin-1	Homo sapiens	1: Evidence at protein level	False	1324	0.098	0.0	0.154		0.154	False	False	False	False						
+Q9N4M4	G4 long proteins	8545	Nuclear anchorage protein 1	Caenorhabditis elegans	1: Evidence at protein level	False	903	0.483	0.633	0.025		0.025	False	False	False	False	DAA04553.1	1.0	0.0	1.168	0	23.87
+P20929	G4 long proteins	8525	Nebulin	Homo sapiens	1: Evidence at protein level	False	486	0.35	0.28	0.448		0.448	False	False	False	False						
+Q7Z5P9	G2 mucins; G4 long proteins	8384	Mucin-19	Homo sapiens	1: Evidence at protein level	False	10	0.316	0.126	0.0		0.0	False	False	False	False	AEM63682.1	1.0	0.012	1.166	0	9.54
+O01761	G4 long proteins	8081	Muscle M-line assembly protein unc-89	Caenorhabditis elegans	1: Evidence at protein level	False	98	0.113	0.0	0.672		0.672	False	False	False	False						
+A0A8B0M728	G4 long proteins	8044	Nonribosomal peptide synthetase isdA	Amphichorda felina	1: Evidence at protein level	False	1478	0.095	0.0	0.68		0.68	False	False	False	False	QTW21130.1	1.0	0.0	1.122	0	26.6
+A0A8B0M9X4	G4 long proteins	8002	Nonribosomal peptide synthetase detxA	Amphichorda felina	1: Evidence at protein level	False	1079	0.097	0.0	0.679		0.679	False	False	False	False	QTW21125.1	1.0	0.0	1.185	0	26.37
+Q5VST9	G4 long proteins	7968	Obscurin	Homo sapiens	1: Evidence at protein level	False	92	0.155	0.035	0.655		0.655	False	False	False	False						
+E9FCP4	G4 long proteins	7913	Nonribosomal peptide synthetase dtxS1	Metarhizium robertsii (strain ARSEF 23 / ATCC MYA-3075)	1: Evidence at protein level	False	1422	0.089	0.0	0.685		0.685	False	False	False	False	EFY94500.2	1.0	0.013	1.108	0	23.12
+B8NY88	G4 long proteins	7763	Nonribosomal peptide synthetase agiA	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	1: Evidence at protein level	False	1013	0.089	0.0	0.736		0.736	False	False	False	False	EED45174.1	1.0	0.039	0.995	0	29.63
+P9WER8	G4 long proteins	7760	Malpinin synthetase	Mortierella alpina	1: Evidence at protein level	False	1080	0.227	0.04	0.852		0.852	False	False	False	False	UUB73712.1	1.0	0.013	1.144	0	15.2
+I1RF49	G4 long proteins	7639	Nonribosomal peptide synthetase 4	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	1: Evidence at protein level	False	1537	0.103	0.0	0.785		0.785	False	False	False	False	CEF74592.1	1.0	0.026	1.041	0	29.19
+A0A7J6KC99	G4 long proteins	7603	Cysteine repeat modular protein B	Toxoplasma gondii	1: Evidence at protein level	False	1991	0.09	0.0	0.0		0.0	False	False	False	False	KAF4644594.1	1.0	0.079	0.949	0	20.38
+Q03001	G4 long proteins	7570	Dystonin	Homo sapiens	1: Evidence at protein level	False	109	0.098	0.0	0.33		0.33	False	False	False	False						
+E0D202	G4 long proteins	7481	Polyketide synthase GfsA	Streptomyces halstedii	1: Evidence at protein level	False	1510	0.143	0.11	0.625		0.625	False	False	False	False	BAJ16467.2	1.0	0.0	1.269	1	1.87
+A0A8B0M7B9	G4 long proteins	7398	Nonribosomal peptide synthetase isrA	Amphichorda felina	1: Evidence at protein level	False	1852	0.093	0.0	0.702		0.702	False	False	False	False	QTW21132.1	1.0	0.041	1.086	0	21.49
+Q91ZU6	G4 long proteins	7393	Dystonin	Mus musculus	1: Evidence at protein level	False	221	0.098	0.0	0.324		0.324	False	False	False	False						
+Q9UPN3	G4 long proteins	7388	Microtubule-actin cross-linking factor 1, isoforms 1/2/3/4/5	Homo sapiens	1: Evidence at protein level	False	109	0.111	0.0	0.337		0.337	False	False	False	False						
+Q9QXZ0	G4 long proteins	7354	Microtubule-actin cross-linking factor 1, isoforms 1/2/3/4	Mus musculus	1: Evidence at protein level	False	617	0.096	0.0	0.339		0.339	False	False	False	False						
+B3EWZ6	G4 long proteins	7311	MAM and LDL-receptor class A domain-containing protein 2	Acropora millepora	1: Evidence at protein level	True	1715	0.099	0.0	0.047		0.047	False	False	False	False						
+K0E4D7	G4 long proteins	7260	Nonribosomal peptide synthetase ecdA	Aspergillus pachycristata (strain ATCC 58397 / KCTC 6058 / NRRL 11440 / A42355)	1: Evidence at protein level	False	1104	0.097	0.0	0.758		0.758	False	False	False	False	AFT91378.1	1.0	0.028	1.093	0	28.51
+S3DQP3	G4 long proteins	7192	Nonribosomal peptide synthetase gloA	Glarea lozoyensis (strain ATCC 20868 / MF5171)	1: Evidence at protein level	False	1091	0.099	0.0	0.754		0.754	False	False	False	False	EPE34341.1	1.0	0.07	1.01	0	39.2
+P0C6X2	G4 long proteins	7182	Replicase polyprotein 1ab	Human coronavirus HKU1 (isolate N1)	1: Evidence at protein level	False	30	0.095	0.02	0.0		0.0	False	False	False	False	AAT98578.1	1.0	0.0	1.05	0	54.16
+P0C6Y0	G4 long proteins	7180	Replicase polyprotein 1ab	Murine coronavirus (strain JHM)	1: Evidence at protein level	False	1147	0.085	0.0	0.0		0.0	False	False	False	False						
+P0C6X9	G4 long proteins	7176	Replicase polyprotein 1ab	Murine coronavirus (strain A59)	1: Evidence at protein level	False	518	0.088	0.0	0.0		0.0	False	False	False	False						
+Q23551	G4 long proteins	7158	Twitchin	Caenorhabditis elegans	1: Evidence at protein level	False	294	0.119	0.0	0.78		0.78	False	False	False	False	CAA98065.2	1.0	0.014	1.073	0	16.62
+P0C6W3	G4 long proteins	7119	Replicase polyprotein 1ab	Bat coronavirus HKU4	1: Evidence at protein level	False	510	0.09	0.0	0.0		0.0	False	False	False	False	ABN10838.1	1.0	0.056	1.027	0	48.04
+P0DTD1	G4 long proteins	7096	Replicase polyprotein 1ab	Severe acute respiratory syndrome coronavirus 2	1: Evidence at protein level	False	710	0.091	0.0	0.0		0.0	False	False	False	False	QHD43415.1	1.0	0.043	1.01	0	49.04
+P0C6X6	G4 long proteins	7095	Replicase polyprotein 1ab	Human coronavirus OC43	1: Evidence at protein level	False	1806	0.098	0.0	0.0		0.0	False	False	False	False	AAR01012.1	0.994	0.014	1.077	0	38.19
+Q8NDH2	G4 long proteins	7081	Leucine-rich repeat transmembrane protein 3	Homo sapiens	1: Evidence at protein level	False	1535	0.096	0.0	0.0		0.0	False	False	False	False						
+K9N7C7	G4 long proteins	7078	Replicase polyprotein 1ab	Middle East respiratory syndrome-related coronavirus (isolate United Kingdom/H123990006/2012)	1: Evidence at protein level	False	1867	0.091	0.0	0.0		0.0	False	False	False	False	AFY13306.1	1.0	0.029	1.05	0	40.12
+P0C6X7	G4 long proteins	7073	Replicase polyprotein 1ab	Severe acute respiratory syndrome coronavirus	1: Evidence at protein level	False	1709	0.087	0.0	0.0		0.0	False	False	False	False	AAP13442.1	1.0	0.057	1.017	0	46.08
+A2ARZ3	G4 long proteins	6995	Fibrous sheath-interacting protein 2	Mus musculus	1: Evidence at protein level	False	477	0.098	0.0	0.0		0.0	False	False	False	False						
+P0C6W5	G4 long proteins	6930	Replicase polyprotein 1ab	Bat coronavirus HKU9	1: Evidence at protein level	False	1520	0.091	0.0	0.0		0.0	False	False	False	False	ABN10910.1	1.0	0.101	1.049	0	46.75
+Q5CZC0	G4 long proteins	6907	Fibrous sheath-interacting protein 2	Homo sapiens	1: Evidence at protein level	False	7	0.097	0.0	0.0		0.0	False	False	False	False						
+Q8WXH0	G4 long proteins	6885	Nesprin-2	Homo sapiens	1: Evidence at protein level	False	390	0.101	0.0	0.078		0.078	False	False	False	False						
+Q6ZWQ0	G4 long proteins	6874	Nesprin-2	Mus musculus	1: Evidence at protein level	False	337	0.103	0.0	0.063		0.063	False	False	False	False						
+Q008X6	G4 long proteins	6872	Replicase polyprotein 1ab	White bream virus (isolate Blicca bjoerkna L./Germany/DF24/00)	1: Evidence at protein level	False	464	0.093	0.0	0.013		0.013	False	False	False	False	ABI97394.1	1.0	0.074	0.977	0	36.09
+P0C6V7	G4 long proteins	6857	Replicase polyprotein 1ab	Berne virus	1: Evidence at protein level	False	16	0.089	0.0	0.0		0.0	False	False	False	False						
+P0C6Y4	G4 long proteins	6781	Replicase polyprotein 1ab	Porcine epidemic diarrhea virus (strain CV777)	1: Evidence at protein level	False	688	0.091	0.0	0.0		0.0	False	False	False	False						
+P0C6X1	G4 long proteins	6758	Replicase polyprotein 1ab	Human coronavirus 229E	1: Evidence at protein level	False	1781	0.086	0.0	0.0		0.0	False	False	False	False	AAG48591.1	1.0	0.03	1.04	0	34.18
+C6KTD2	G4 long proteins	6753	Putative histone-lysine N-methyltransferase 1	Plasmodium falciparum (isolate 3D7)	1: Evidence at protein level	False	1895	0.134	0.02	0.0		0.0	False	False	False	False	CAG25109.2	1.0	0.03	1.058	0	40.28
+P0C6X5	G4 long proteins	6729	Replicase polyprotein 1ab	Human coronavirus NL63	1: Evidence at protein level	False	7	0.084	0.0	0.0		0.0	False	False	False	False	AAS58176.2	1.0	0.015	1.064	0	42.65
+Q931R6	G4 long proteins	6713	Extracellular matrix-binding protein EbhA	Staphylococcus aureus (strain Mu50 / ATCC 700699)	1: Evidence at protein level	False	126	0.388	0.046	0.0		0.0	False	False	False	False	BAB57596.1	1.0	0.0	1.055	0	44.54
+Q98VG9	G4 long proteins	6709	Replicase polyprotein 1ab	Feline coronavirus (strain FIPV WSU-79/1146)	1: Evidence at protein level	False	389	0.09	0.0	0.0		0.0	False	False	False	False						
+P0C6Y5	G4 long proteins	6684	Replicase polyprotein 1ab	Porcine transmissible gastroenteritis coronavirus (strain Purdue)	1: Evidence at protein level	False	1160	0.085	0.0	0.0		0.0	False	False	False	False						
+S8GH32	G4 long proteins	6668	Centrosome-associated protein CEP250	Toxoplasma gondii (strain ATCC 50611 / Me49)	1: Evidence at protein level	False	1704	0.139	0.0	0.0		0.0	False	False	False	False	EPT31185.1	1.0	0.03	1.166	0	6.9
+P0C6Y3	G4 long proteins	6631	Replicase polyprotein 1ab	Avian infectious bronchitis virus (strain M41)	1: Evidence at protein level	False	1990	0.087	0.0	0.0		0.0	False	False	False	False						
+P0C6Y1	G4 long proteins	6629	Replicase polyprotein 1ab	Avian infectious bronchitis virus (strain Beaudette)	1: Evidence at protein level	False	1778	0.092	0.0	0.0		0.0	False	False	False	False						
+Q8R0W0	G4 long proteins	6548	Epiplakin	Mus musculus	1: Evidence at protein level	False	515	0.652	0.671	0.213		0.213	False	False	False	True	AAP70316.1	0.999	0.0	1.179	0	12.98
+O30409	G4 long proteins	6486	Tyrocidine synthase 3	Brevibacillus parabrevis	1: Evidence at protein level	False	1035	0.157	0.0	0.889		0.889	False	False	False	False	AAC45930.1	1.0	0.0	1.2	1	4.78
+O68008	G4 long proteins	6359	Bacitracin synthase 3	Bacillus licheniformis	1: Evidence at protein level	False	1032	0.106	0.0	0.902		0.902	False	False	False	False	AAC06348.1	1.0	0.032	1.102	0	29.09
+K7YP04	G1b complete spidroins	6332	Aciniform spidroin 1	Latrodectus hesperus	1: Evidence at protein level	False	376	0.882	0.938	0.0		0.0	True	False	False	True	AFX83557.1	1.0	0.0	1.112	0	21.32
+Q8WXG9	G4 long proteins	6306	Adhesion G protein-coupled receptor V1	Homo sapiens	1: Evidence at protein level	False	1946	0.1	0.0	0.025		0.025	False	False	False	False						
+Q8VHN7	G4 long proteins	6298	Adhesion G protein-coupled receptor V1	Mus musculus	1: Evidence at protein level	False	1797	0.096	0.0	0.025		0.025	False	False	False	False	AAL30812.1	1.0	0.048	1.022	0	30.96
+Q4WT66	G4 long proteins	6269	Nonribosomal peptide synthetase 1	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	1: Evidence at protein level	False	838	0.095	0.0	0.721		0.721	False	False	False	False	EAL90366.1	1.0	0.065	1.038	0	28.23
+Q09666	G4 long proteins	5890	Neuroblast differentiation-associated protein AHNAK	Homo sapiens	1: Evidence at protein level	False	128	0.426	0.425	0.0		0.0	False	False	False	False						
+Q8IVF2	G4 long proteins	5795	Protein AHNAK2	Homo sapiens	1: Evidence at protein level	False	165	0.586	0.409	0.0		0.0	False	False	False	False						
+Q9HC84	G2 mucins; G4 long proteins	5762	Mucin-5B	Homo sapiens	1: Evidence at protein level	False	1257	0.342	0.45	0.0		0.0	False	False	False	False						
+P98088	G2 mucins; G4 long proteins	5654	Mucin-5AC	Homo sapiens	1: Evidence at protein level	False	32	0.25	0.368	0.0		0.0	False	False	False	False						
+Q96RW7	G4 long proteins	5635	Hemicentin-1	Homo sapiens	1: Evidence at protein level	False	91	0.111	0.0	0.745		0.745	False	False	False	False						
+D3YXG0	G4 long proteins	5634	Hemicentin-1	Mus musculus	1: Evidence at protein level	False	91	0.119	0.0	0.747		0.747	False	False	False	False						
+Q9NU22	G4 long proteins	5596	Midasin	Homo sapiens	1: Evidence at protein level	False	1909	0.099	0.0	0.008		0.008	False	False	False	False	AAM77722.1	1.0	0.109	1.024	0	33.6
+Q6PDK2	G4 long proteins	5588	Histone-lysine N-methyltransferase 2D	Mus musculus	1: Evidence at protein level	False	9	0.154	0.014	0.0		0.0	False	False	False	False						
+E0D203	G4 long proteins	5571	Polyketide synthase GfsB	Streptomyces halstedii	1: Evidence at protein level	False	1579	0.152	0.011	0.6		0.6	False	False	False	False	BAJ16468.1	1.0	0.0	1.287	1	2.51
+Q8SX83	G4 long proteins	5560	Protein split ends	Drosophila melanogaster	1: Evidence at protein level	False	2	0.135	0.0	0.0		0.0	False	False	False	False						
+P0DUV4	G4 long proteins	5541	Malpibaldin synthetase	Mortierella alpina	1: Evidence at protein level	False	1079	0.262	0.162	0.846		0.846	False	False	False	False	QOW41314.1	1.0	0.0	1.186	0	22.37
+Q4X212	G4 long proteins	5538	Leashin	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	1: Evidence at protein level	False	1	0.114	0.0	0.0		0.0	False	False	False	False	EAL93103.1	1.0	0.018	1.161	0	23.29
+O14686	G4 long proteins	5537	Histone-lysine N-methyltransferase 2D	Homo sapiens	1: Evidence at protein level	False	9	0.142	0.011	0.0		0.0	False	False	False	False						
+P0DUV3	G4 long proteins	5532	Malpicyclin synthetase	Mortierella alpina	1: Evidence at protein level	False	1074	0.174	0.068	0.848		0.848	False	False	False	False	QOW41315.1	1.0	0.0	1.202	0	19.52
+Q9W596	G4 long proteins	5495	Microtubule-associated protein futsch	Drosophila melanogaster	1: Evidence at protein level	False	37	0.241	0.164	0.0		0.0	False	False	False	False	ABW09325.1	1.0	0.0	1.161	0	10.56
+O31782	G4 long proteins	5488	Polyketide synthase PksN	Bacillus subtilis (strain 168)	1: Evidence at protein level	False	1501	0.121	0.0	0.591		0.591	False	False	False	False	CAB13604.3	1.0	0.074	0.98	0	36.07
+Q9UKN1	G2 mucins; G4 long proteins	5478	Mucin-12	Homo sapiens	1: Evidence at protein level	False	1557	0.499	0.726	0.0		0.0	False	False	False	False						
+D3ZHV2	G4 long proteins	5430	Microtubule-actin cross-linking factor 1	Rattus norvegicus	1: Evidence at protein level	False	10	0.11	0.0	0.408		0.408	False	False	False	False						
+Q99102	G2 mucins; G4 long proteins	5412	Mucin-4	Homo sapiens	1: Evidence at protein level	False	32	0.507	0.42	0.0		0.0	False	False	False	False						
+Q9Y6R7	G4 long proteins	5405	IgGFc-binding protein	Homo sapiens	1: Evidence at protein level	False	1201	0.609	0.636	0.0		0.0	True	False	False	True	BAA19526.1	0.997	0.0	1.094	0	9.25
+A0A1P8AUY4	G4 long proteins	5400	Midasin	Arabidopsis thaliana	1: Evidence at protein level	False	1923	0.095	0.0	0.0		0.0	False	False	False	False						
+O88799	G4 long proteins	5376	Zonadhesin	Mus musculus	1: Evidence at protein level	False	120	0.282	0.076	0.0		0.0	False	False	False	False	AAC26680.1	1.0	0.019	1.06	0	10.23
+Q9VLT5	G4 long proteins	5322	Protein purity of essence	Drosophila melanogaster	1: Evidence at protein level	False	1888	0.096	0.0	0.0		0.0	False	False	False	False	AAD20450.1	0.998	0.019	0.978	0	35.33
+Q02817	G2 mucins; G4 long proteins	5289	Mucin-2	Homo sapiens	1: Evidence at protein level	False	23	0.457	0.438	0.0		0.0	False	False	False	False						
+P05790	G1 silk (Swiss-Prot); G4 long proteins	5263	Fibroin heavy chain	Bombyx mori	1: Evidence at protein level	False	6	0.752	0.914	0.0		0.0	True	False	False	True						
+Q8IID4	G4 long proteins	5251	Dynein heavy chain-like protein 2	Plasmodium falciparum (isolate 3D7)	1: Evidence at protein level	False	40	0.114	0.02	0.423		0.423	False	False	False	False	CZT98891.1	1.0	0.058	0.961	0	35.61
+Q9NB71	G4 long proteins	5233	E3 ubiquitin-protein ligase highwire	Drosophila melanogaster	1: Evidence at protein level	False	1910	0.097	0.0	0.0		0.0	False	False	False	False	AAF76150.1	0.999	0.058	1.047	0	19.68
+Q01886	G4 long proteins	5218	HC-toxin synthetase	Cochliobolus carbonum	1: Evidence at protein level	False	1647	0.096	0.0	0.674		0.674	False	False	False	False	AAA33023.2	1.0	0.135	0.994	0	32.39
+Q63HN8	G4 long proteins	5207	E3 ubiquitin-protein ligase RNF213	Homo sapiens	1: Evidence at protein level	False	1965	0.097	0.0	0.0		0.0	False	False	False	False						
+P0DPF2	G4 long proteins	5207	NBPF family member NBPF20	Homo sapiens	1: Evidence at protein level	False	732	0.956	0.98	0.0		0.0	True	False	False	True						
+A0A2S3R7M0	G4 long proteins	5206	Multifunctional-autoprocessing repeats-in-toxin	Vibrio vulnificus	1: Evidence at protein level	False	38	0.12	0.0	0.0		0.0	False	False	False	False	POB49698.1	1.0	0.0	1.182	0	27.08
+O75445	G4 long proteins	5202	Usherin	Homo sapiens	1: Evidence at protein level	False	98	0.096	0.0	0.349		0.349	False	False	False	False	AAS47698.1	1.0	0.192	0.868	0	36.13
+Q2TL32	G4 long proteins	5194	E3 ubiquitin-protein ligase UBR4	Rattus norvegicus	1: Evidence at protein level	False	1004	0.098	0.0	0.0		0.0	False	False	False	False	AAX45146.1	0.999	0.0	1.169	0	22.14
+Q2QI47	G4 long proteins	5193	Usherin	Mus musculus	1: Evidence at protein level	False	1797	0.095	0.0	0.298		0.298	False	False	False	False	AAZ23164.1	0.999	0.176	0.843	0	27.34
+Q5T4S7	G4 long proteins	5183	E3 ubiquitin-protein ligase UBR4	Homo sapiens	1: Evidence at protein level	False	1988	0.103	0.0	0.0		0.0	False	False	False	False						
+A2AN08	G4 long proteins	5180	E3 ubiquitin-protein ligase UBR4	Mus musculus	1: Evidence at protein level	False	288	0.11	0.0	0.0		0.0	False	False	False	False						
+Q70LM6	G4 long proteins	5162	Linear gramicidin synthase subunit B	Brevibacillus parabrevis	1: Evidence at protein level	False	1060	0.102	0.0	0.898		0.898	False	False	False	False	CAD92850.1	1.0	0.0	1.174	1	3.49
+Q80W93	G4 long proteins	5154	Axonemal central pair apparatus protein HYDIN	Mus musculus	1: Evidence at protein level	False	1183	0.092	0.0	0.0		0.0	False	False	False	False						
+E9Q555	G4 long proteins	5148	E3 ubiquitin-protein ligase RNF213	Mus musculus	1: Evidence at protein level	False	1673	0.097	0.0	0.0		0.0	False	False	False	False						
+P33450	G4 long proteins	5147	Cadherin-related tumor suppressor	Drosophila melanogaster	1: Evidence at protein level	False	421	0.098	0.0	0.614		0.614	False	False	False	False	AAA28530.1	0.996	0.078	1.181	0	17.09
+B3EWZ5	G4 long proteins	5145	MAM and LDL-receptor class A domain-containing protein 1	Acropora millepora	1: Evidence at protein level	True	1489	0.103	0.0	0.022		0.022	False	False	False	False						
+Q9Y6V0	G4 long proteins	5142	Protein piccolo	Homo sapiens	1: Evidence at protein level	False	10	0.128	0.0	0.0		0.0	False	False	False	False						
+Q24498	G4 long proteins	5127	Ryanodine receptor	Drosophila melanogaster	1: Evidence at protein level	False	1864	0.101	0.0	0.07		0.07	False	False	False	False	AAF59036.2	1.0	0.0	1.231	0	12.48
+Q8K3K1	G4 long proteins	5125	Usherin	Rattus norvegicus	1: Evidence at protein level	False	30	0.092	0.0	0.302		0.302	False	False	False	False						
+Q4G0P3	G4 long proteins	5121	Axonemal central pair apparatus protein HYDIN	Homo sapiens	1: Evidence at protein level	False	1975	0.107	0.0	0.0		0.0	False	False	False	False						
+A0A1L9U7P9	G4 long proteins	5112	Malformin synthetase mlfA	Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946)	1: Evidence at protein level	False	1199	0.104	0.0	0.743		0.743	False	False	False	False	OJJ67652.1	1.0	0.02	1.039	0	26.4
+A0A319BQC1	G4 long proteins	5104	Malformin synthetase mlfA	Aspergillus vadensis (strain CBS 113365 / IMI 142717 / IBT 24658)	1: Evidence at protein level	False	1379	0.101	0.0	0.74		0.74	False	False	False	False	PYH67913.1	1.0	0.039	1.028	0	27.23
+G7XQ31	G4 long proteins	5101	Malformin synthetase mlfA	Aspergillus kawachii (strain NBRC 4308)	1: Evidence at protein level	False	1738	0.104	0.0	0.72		0.72	False	False	False	False	GAA89168.1	1.0	0.02	1.036	0	27.84
+A2AJ76	G4 long proteins	5100	Hemicentin-2	Mus musculus	1: Evidence at protein level	False	1542	0.106	0.0	0.726		0.726	False	False	False	False						
+A0A319DV72	G4 long proteins	5099	Malformin synthetase mlfA	Aspergillus sclerotiicarbonarius (strain CBS 121057 / IBT 28362)	1: Evidence at protein level	False	1678	0.1	0.0	0.705		0.705	False	False	False	False	PYI01631.1	1.0	0.0	1.096	0	24.12
+Q9SRU2	G4 long proteins	5098	Auxin transport protein BIG	Arabidopsis thaliana	1: Evidence at protein level	False	1739	0.11	0.0	0.0		0.0	False	False	False	False	AEE73785.1	1.0	0.1	0.912	0	35.5
+A0A395I3F8	G4 long proteins	5098	Malformin synthetase mlfA	Aspergillus homomorphus (strain CBS 101889)	1: Evidence at protein level	False	1122	0.113	0.0	0.738		0.738	False	False	False	False	RAL14731.1	1.0	0.02	1.05	0	24.51
+P58107	G4 long proteins	5088	Epiplakin	Homo sapiens	1: Evidence at protein level	False	1601	0.295	0.594	0.279		0.279	False	False	False	False						
+F8RL29	G4 long proteins	5088	Replicase polyprotein 1ab	Alphamesonivirus 1 (isolate Aedes harrisoni/Cote d'Ivoire/C79/2004)	1: Evidence at protein level	False	1732	0.104	0.0	0.0		0.0	False	False	False	False	AEH26445.1	1.0	0.12	0.936	0	53.85
+Q9JKS6	G4 long proteins	5085	Protein piccolo	Rattus norvegicus	1: Evidence at protein level	False	38	0.117	0.0	0.0		0.0	False	False	False	False	AAF63196.1	1.0	0.06	1.054	0	36.38
+Q70LM4	G4 long proteins	5085	Linear gramicidin synthase subunit D	Brevibacillus parabrevis	1: Evidence at protein level	False	1055	0.115	0.0	0.823		0.823	False	False	False	False	CAD92852.1	1.0	0.0	1.19	1	4.33
+S0DLP2	G4 long proteins	5084	Apicidin F synthase	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	1: Evidence at protein level	False	1053	0.101	0.0	0.725		0.725	False	False	False	False	CCT63360.1	1.0	0.18	1.004	0	31.67
+A0A1M3T4K3	G4 long proteins	5082	Malformin synthetase mlfA	Aspergillus luchuensis (strain CBS 106.47)	1: Evidence at protein level	False	1998	0.109	0.0	0.721		0.721	False	False	False	False	OJZ81665.1	1.0	0.04	1.028	0	27.74
+Q8NDA2	G4 long proteins	5079	Hemicentin-2	Homo sapiens	1: Evidence at protein level	False	922	0.114	0.0	0.743		0.743	False	False	False	False						
+A0A1L9NGU5	G4 long proteins	5073	Malformin synthetase mlfA	Aspergillus tubingensis (strain CBS 134.48)	1: Evidence at protein level	False	1092	0.102	0.0	0.746		0.746	False	False	False	False	OJI88518.1	1.0	0.02	1.078	0	27.79
+Q9QYX7	G4 long proteins	5068	Protein piccolo	Mus musculus	1: Evidence at protein level	False	10	0.119	0.008	0.0		0.0	False	False	False	False						
+A0A319A6V2	G4 long proteins	5068	Malformin synthetase mlfA	Aspergillus niger (strain CBS 101883 / CECT 20581 / IBT 22031)	1: Evidence at protein level	False	1808	0.101	0.0	0.745		0.745	False	False	False	False	PYH55689.1	1.0	0.02	1.04	0	28.21
+Q8IBG1	G4 long proteins	5065	Dynein heavy chain-like protein 1	Plasmodium falciparum (isolate 3D7)	1: Evidence at protein level	False	1065	0.105	0.0	0.429		0.429	False	False	False	False	CZT62681.1	1.0	0.12	0.88	0	34.35
+Q86UQ4	G4 long proteins	5058	ATP-binding cassette sub-family A member 13	Homo sapiens	1: Evidence at protein level	False	1518	0.101	0.0	0.0		0.0	False	False	False	False	AAP13576.1	0.999	0.34	0.924	0	35.98
+A2QYX4	G4 long proteins	5054	Malformin synthetase mlfA	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	1: Evidence at protein level	False	1808	0.101	0.0	0.745		0.745	False	False	False	False	CAK41123.1	1.0	0.02	1.04	0	28.29
+A0A317VEE1	G4 long proteins	5044	Malformin synthetase mlfA	Aspergillus eucalypticola (strain CBS 122712 / IBT 29274)	1: Evidence at protein level	False	1543	0.106	0.0	0.747		0.747	False	False	False	False	PWY71312.1	1.0	0.04	1.062	0	29.93
+P40806	G4 long proteins	5043	Polyketide synthase PksJ	Bacillus subtilis (strain 168)	1: Evidence at protein level	False	756	0.096	0.011	0.641		0.641	False	False	False	False	CAB13589.3	1.0	0.04	1.011	0	36.88
+P21817	G4 long proteins	5038	Ryanodine receptor 1	Homo sapiens	1: Evidence at protein level	False	1632	0.099	0.0	0.071		0.071	False	False	False	False						
+P11716	G4 long proteins	5037	Ryanodine receptor 1	Oryctolagus cuniculus	1: Evidence at protein level	False	1300	0.101	0.0	0.071		0.071	False	False	False	False	CAA33279.1	1.0	0.0	1.261	1	4.37
+E9PZQ0	G4 long proteins	5035	Ryanodine receptor 1	Mus musculus	1: Evidence at protein level	False	1983	0.103	0.0	0.071		0.071	False	False	False	False						
+F1LMY4	G4 long proteins	5035	Ryanodine receptor 1	Rattus norvegicus	1: Evidence at protein level	False	1	0.1	0.0	0.071		0.071	False	False	False	False						
+P16960	G4 long proteins	5035	Ryanodine receptor 1	Sus scrofa	1: Evidence at protein level	False	4	0.104	0.0	0.071		0.071	False	False	False	False						
+Q5SSE9	G4 long proteins	5034	ATP-binding cassette sub-family A member 13	Mus musculus	1: Evidence at protein level	False	462	0.099	0.0	0.0		0.0	False	False	False	False						
+Q2LD37	G4 long proteins	5005	Bridge-like lipid transfer protein family member 1	Homo sapiens	1: Evidence at protein level	False	1428	0.1	0.0	0.0		0.0	False	False	False	False	ABC59821.1	0.999	0.04	0.996	0	41.96
+A2AAE1	G4 long proteins	5005	Bridge-like lipid transfer protein family member 1	Mus musculus	1: Evidence at protein level	False	1428	0.104	0.0	0.0		0.0	False	False	False	False						
+A0A0H2URK1	G3 bacterial adhesins	4776	Pneumococcal serine-rich repeat protein	Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)	1: Evidence at protein level	False	16	0.851	0.904	0.0		0.0	True	False	False	True	AAK75846.1	1.0	0.0	1.324	1	3.14
+Q80Z19	G2 mucins	4576	Mucin-2	Mus musculus	1: Evidence at protein level	False	8	0.343	0.283	0.0		0.0	False	False	False	False						
+Q685J3	G2 mucins	4493	Mucin-17	Homo sapiens	1: Evidence at protein level	False	59	0.565	0.166	0.0		0.0	False	False	False	False	CAE54435.1	0.999	0.0	1.267	0	11.57
+A0A8X6WH47	G1b complete spidroins	3702	Major ampullate spidroin 2A variant 2	Trichonephila clavipes	1: Evidence at protein level	False	5	0.367	0.723	0.0		0.0	False	False	False	False	GFY34690.1	1.0	0.0	1.256	1	4.86
+A8AZP4	G3 bacterial adhesins	3646	Platelet adherence protein A	Streptococcus gordonii (strain Challis / ATCC 35105 / BCRC 15272 / CH1 / DL1 / V288)	1: Evidence at protein level	False	756	0.169	0.106	0.0		0.0	False	False	False	False	ABV10352.1	1.0	0.0	1.083	0	24.95
+K7ZP88	G3 bacterial adhesins	3630	Trimeric autotransporter adhesin AtaA	Acinetobacter sp. (strain Tol 5)	1: Evidence at protein level	False	201	0.253	0.631	0.0		0.0	False	False	False	False	BAM68255.1	1.0	0.0	1.16	0	24.52
+A0A0H3GGE2	G3 bacterial adhesins	3420	Adhesin BmaC autotransporter	Brucella suis biovar 1 (strain 1330)	1: Evidence at protein level	False	1616	0.147	0.0	0.0		0.0	False	False	False	False	AAN34307.1	1.0	0.0	1.242	0	12.28
+Q02505	G2 mucins	3323	Mucin-3A	Homo sapiens	1: Evidence at protein level	False	753	0.274	0.152	0.0		0.0	False	False	False	False						
+A0A2R2YSJ7	G1b complete spidroins	3153	Tubuliform spidroin 1	Argiope argentata	1: Evidence at protein level	False	180	0.901	0.885	0.0		0.0	True	False	False	True	ATW75951.1	1.0	0.0	1.186	0	17.13
+Q3YL96	G3 bacterial adhesins	3132	Toxin CdiA	Escherichia coli	1: Evidence at protein level	False	1209	0.142	0.0	0.0		0.0	False	False	False	False	AAZ57198.1	1.0	0.0	1.182	0	14.36
+A6YIY1	G1b complete spidroins	3129	Major ampullate spidroin 1	Latrodectus hesperus	1: Evidence at protein level	False	35	0.532	0.882	0.0		0.0	True	False	False	True	ABR68856.1	1.0	0.0	1.24	1	3.84
+Q5MWV9	G3 bacterial adhesins	3082	Autotransporter adhesin BadA	Bartonella henselae	1: Evidence at protein level	False	1447	0.235	0.538	0.0		0.0	False	False	False	False	AAT69970.2	1.0	0.0	1.188	0	31.14
+Q939N5	G3 bacterial adhesins	3072	Platelet binding protein GspB	Streptococcus gordonii	1: Evidence at protein level	False	36	0.756	0.733	0.0		0.0	True	False	False	True	AAL13053.1	1.0	0.0	1.291	0	9.77
+A1C3L3	G3 bacterial adhesins	2587	Fap1 adhesin	Streptococcus parasanguinis	1: Evidence at protein level	False	12	0.793	0.775	0.0		0.0	True	False	False	True	ABL73998.1	1.0	0.0	1.189	0	6.57
+Q6W4X9	G2 mucins	2439	Mucin-6	Homo sapiens	1: Evidence at protein level	False	169	0.2	0.068	0.0		0.0	False	False	False	False						
+Q63661	G2 mucins	2344	Mucin-4	Rattus norvegicus	1: Evidence at protein level	False	210	0.151	0.213	0.0		0.0	False	False	False	False						
+P76347	G3 bacterial adhesins	2339	Inverse autotransporter adhesin YeeJ	Escherichia coli (strain K12)	1: Evidence at protein level	False	518	0.138	0.0	0.0		0.0	False	False	False	False						
+Q8NUJ3	G3 bacterial adhesins	2275	Serine-rich adhesin for platelets	Staphylococcus aureus (strain MW2)	1: Evidence at protein level	False	36	0.391	0.0	0.0		0.0	False	False	False	False	BAB96440.1	1.0	0.0	1.128	0	16.7
+Q2FUW1	G3 bacterial adhesins	2271	Serine-rich adhesin for platelets	Staphylococcus aureus (strain NCTC 8325 / PS 47)	1: Evidence at protein level	False	70	0.39	0.0	0.0		0.0	False	False	False	False	ABD31977.1	1.0	0.0	1.128	0	17.61
+Q7A362	G3 bacterial adhesins	2271	Serine-rich adhesin for platelets	Staphylococcus aureus (strain N315)	1: Evidence at protein level	False	70	0.39	0.0	0.0		0.0	False	False	False	False	BAB43752.1	1.0	0.0	1.128	0	17.17
+A8AWU7	G3 bacterial adhesins	2178	Streptococcal hemagglutinin	Streptococcus gordonii (strain Challis / ATCC 35105 / BCRC 15272 / CH1 / DL1 / V288)	1: Evidence at protein level	False	36	0.745	0.653	0.0		0.0	True	False	False	True	ABV10391.1	1.0	0.0	1.236	0	12.4
+Q98UI9	G2 mucins	2108	Mucin-5B	Gallus gallus	1: Evidence at protein level	False	566	0.131	0.0	0.0		0.0	False	False	False	False	BAB21488.1	1.0	0.143	0.935	0	21.34
+Q60997	G2 mucins	2085	Scavenger receptor cysteine-rich domain-containing protein DMBT1	Mus musculus	1: Evidence at protein level	False	139	0.324	0.567	0.0		0.0	False	False	False	False						
+P07856	G1 silk (Swiss-Prot)	1186	Sericin 1	Bombyx mori	1: Evidence at protein level	False	38	0.409	0.291	0.0		0.0	False	False	False	False						
+P19837	G1 silk (Swiss-Prot)	748	Spidroin-1	Trichonephila clavipes	1: Evidence at protein level	True	328	0.467	0.706	0.0		0.0	False	False	False	False	AAA29380.2	0.997	0.0	1.24	0	8.02

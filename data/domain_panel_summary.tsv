@@ -1,0 +1,553 @@
+md5	length	panel_hits	panel_cov_frac	class_counts	panel_class	class_order
+51bc8540009a0e898c9a225375c23486	187500	0	0.000		no panel hit	
+87a7dcf603f1aaa7e3dd4d5312ccceec	187500	0	0.000		no panel hit	
+85d8ba50f72a8e22e15f8650ee7dfaa6	179598	0	0.000		no panel hit	
+695a4e33ef21fc2d0c9dac6aa471db5f	98182	0	0.000		no panel hit	
+c4c1d19275fe7dc09a6394c5758e74b2	97333	0	0.000		no panel hit	
+e4270f2efb4364fb034170795e58227a	95356	0	0.000		no panel hit	
+104b1ef130f16a28daaa45a30298ea45	92896	0	0.000		no panel hit	
+678b1e956e59f80b586d3fbe8e51b2fc	91906	0	0.000		no panel hit	
+a379747c3687b3b5dfad5ac89a316ea2	88433	0	0.000		no panel hit	
+2c2508a2d8bec0c19a254f7cdc0228a4	85803	9	0.012	SecA:4;TPR:4;MT:1	mixed/other:SecA,TPR,MT	MT*1>SecA*4>TPR*4
+221350af775bb75d5b9b9e11db03bc64	85803	9	0.012	SecA:4;TPR:4;MT:1	mixed/other:SecA,TPR,MT	MT*1>SecA*4>TPR*4
+f92d2bac83f2b8989f7ff24afee7e023	85803	9	0.012	SecA:4;TPR:4;MT:1	mixed/other:SecA,TPR,MT	MT*1>SecA*4>TPR*4
+dd7047e778b5b3e0c0aa948a282340d9	83180	0	0.000		no panel hit	
+36b9df7f923214e015138892d9f2434f	75805	0	0.000		no panel hit	
+c10b40e36e6af657e8cde44b96f6ced3	74488	0	0.000		no panel hit	
+277c325abaefb64c0d17161350482d4b	74074	0	0.000		no panel hit	
+717221ad9445e26fa18528a638664c8e	66665	0	0.000		no panel hit	
+a58e0123848871d2f1640683735296bb	66581	0	0.000		no panel hit	
+0db6e3462d385118a45096f08fc948b6	66180	0	0.000		no panel hit	
+a1b904258bdff5b54a9b92dc8b8558c4	65964	0	0.000		no panel hit	
+1bf3d8483b2bf6a2d261a4ac75c04c5d	64540	0	0.000		no panel hit	
+fd5748a77fb225f8bedd417211c1d5c4	63065	0	0.000		no panel hit	
+de7ad3a8f74e2fbea6b1fb679740bdab	62845	15	0.014	adhesin:15	bacterial-adhesin-repeat	adhesin*15
+2fc994358786eba3fda85f2a007cdf19	61844	0	0.000		no panel hit	
+10266f8959daef14848e152ccfa13582	61632	0	0.000		no panel hit	
+f83a0a947f9e4eca2916c88b52ee8c96	60592	0	0.000		no panel hit	
+7e282ddce060690ac222dd7521339e27	60183	0	0.000		no panel hit	
+cc19a790d55aec6ce8317d807716a357	59955	0	0.000		no panel hit	
+82617a0565b0fe1e6bcbdc540e73b95d	59714	671	0.761	Ig/FN3:668;kinase:2;titin:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*1>Ig/FN3*340>kinase*1>Ig/FN3*304>kinase*1>Ig/FN3*20
+be4305dbde95f65b2538c69a1d33a7af	59275	0	0.000		no panel hit	
+292403542a8837bc5a9e7faa762dbc40	57995	1	0.006	kinase:1	mixed/other:kinase	kinase*1
+7b6f4c12ab6113bb9eb5085eae2108f1	57976	1	0.008	SecA:1	mixed/other:SecA	SecA*1
+10614057f93097b2161fa67ce2150d10	57421	11	0.005	TPR:9;MT:2	mixed/other:TPR,MT	TPR*9>MT*2
+df3d50023e9def68f7b1e1d20cefd5cf	57085	3	0.003	TPR:2;MT:1	mixed/other:TPR,MT	TPR*2>MT*1
+6466bca51844f1dc1cf3b3f45a98d380	56282	0	0.000		no panel hit	
+0cc061599f80beb65209829f6cafc6e6	55519	0	0.000		no panel hit	
+c0c877347fa6405d57606b6a7f0dd63c	54848	0	0.000		no panel hit	
+d3d78009c4947f7c785f488859a68954	54498	599	0.753	Ig/FN3:596;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*6>titin*2>Ig/FN3*339>kinase*1>Ig/FN3*251
+12d6f196038652be6468bf6d5a94062a	52507	1	0.002	MT:1	mixed/other:MT	MT*1
+2cee0501f50996a57f18ec18f9fc8378	51859	0	0.000		no panel hit	
+b0f359b588c9449304124e6a37d8bc1a	51778	0	0.000		no panel hit	
+93ab2f5b57c2246c5f40bfaad07573c6	51741	0	0.000		no panel hit	
+afe35f8bb20b9afc5decbed3502a903f	51658	0	0.000		no panel hit	
+277e1cb86f29be676f7593a849af5a1c	51481	0	0.000		no panel hit	
+2627087be1bda1ec45b993ad99b5220b	51285	0	0.000		no panel hit	
+11689c02039a4f6834672fbe99d60b80	50516	0	0.000		no panel hit	
+accf4502b88c710d510bcb3aa2567753	50390	0	0.000		no panel hit	
+22c3e98054795e71ac0693ffaa6480eb	49499	0	0.000		no panel hit	
+261335f295db4cc86a45b106b9dedef8	49105	0	0.000		no panel hit	
+b919e7aff1ca811dc53c3ea9dd0af207	48977	0	0.000		no panel hit	
+5af659ee3049829e405d83efe292f4b7	48896	0	0.000		no panel hit	
+40fd7dcf4c3b18f89bf0358026f709ca	48799	0	0.000		no panel hit	
+641953b3d6425d8d88e1b968ead66bc6	48778	0	0.000		no panel hit	
+04c7032c02146fe634e22ddaadfa35fb	48746	0	0.000		no panel hit	
+54dfc28b4d3cb8878f89f617f36e9c8b	48520	0	0.000		no panel hit	
+c92363eab3199b8523fac1c39d1e04f0	47583	2	0.002	MT:2	mixed/other:MT	MT*2
+3814f50f19c88190158022fdd28be2ff	47538	0	0.000		no panel hit	
+0a9e1026f764a19b95f295101f42caaf	47377	0	0.000		no panel hit	
+2ea240d0bdbe806f6135b8975b4bca24	47242	0	0.000		no panel hit	
+77ff2ca08809633cbda1e07b382a20de	47109	13	0.023	MT:9;SecA:3;WD40:1	mixed/other:MT,SecA,WD40	MT*7>SecA*3>MT*1>WD40*1>MT*1
+8a17275998e1b629b9b66eef6c84daee	47063	520	0.615	Ig/FN3:519;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*496>kinase*1>Ig/FN3*23
+b3c5cd31248f1c42789006d2933aa482	47023	0	0.000		no panel hit	
+d5a5bac92152666f3471ebfb0e6d26b8	46858	1	0.002	MT:1	mixed/other:MT	MT*1
+f243a0c2ebd4b9345b5e39e539104c87	46764	0	0.000		no panel hit	
+aaa0a6b930cbab3f319a39ef4c5358f5	46734	0	0.000		no panel hit	
+150827550d11b66f353fafae6dfd5f28	46359	0	0.000		no panel hit	
+b23e01bde4c4c81f0638930a95846e23	45989	0	0.000		no panel hit	
+e2c332ae94575baf9f125224aa6abc80	45887	0	0.000		no panel hit	
+1eaf7036f554044586d2b239170ee0ab	45376	9	0.015	TPR:6;SecA:2;MT:1	mixed/other:TPR,SecA,MT	MT*1>TPR*6>SecA*2
+df29097f0932569826d44acee37565ae	45354	454	0.784	Ig/FN3:452;kinase:2	Ig/FN3-repeat (titin-like)	Ig/FN3*192>kinase*1>Ig/FN3*242>kinase*1>Ig/FN3*18
+41fc2ee68a5bebe21053b82ea978df20	45317	0	0.000		no panel hit	
+5325633ba89e99f0127cae3b5627f8a1	45212	162	0.518	PKS:114;carrier:45;NRPS:2;MT:1	PKS+NRPS	NRPS*2>carrier*1>PKS*3>carrier*1>PKS*4>carrier*1>PKS*3>carrier*1>PKS*3>carrier*1>PKS*3>carrier*1>PKS*3>carrier*1>PKS*3>carrier*1>PKS*4>carrier*1>PKS*3>carrier*1>PKS*4>carrier*1>PKS*3>carrier*2>PKS*4>carrier*1>PKS*3>carrier*2>PKS*4>carrier*1>PKS*4>carrier*1>PKS*3>carrier*2>PKS*4>carrier*1>PKS*3>carri
+1b804abb68ef681e2b391cd20a0671d8	45192	0	0.000		no panel hit	
+b7a090a5eb51c1d71bc9eb0d1271d269	45005	0	0.000		no panel hit	
+dcd64b2caee63a3ad2576edd87a32af1	44969	2	0.006	PKS:1;kinase:1	mixed/other:PKS,kinase	PKS*1>kinase*1
+5722848bd9fdab7a0f6035a2adbd71b2	44784	0	0.000		no panel hit	
+606a3270f456696fe08bfe144fd4c556	44697	0	0.000		no panel hit	
+f11f5725cea0f5c260ecb016053f8c1a	44468	0	0.000		no panel hit	
+57a390b0f17a31ca5ff5b969bd0594b5	44129	5	0.018	MT:2;SecA:2;kinase:1	mixed/other:MT,SecA,kinase	kinase*1>MT*2>SecA*2
+104b59c9f2af3a545865ecaf65ab1214	43775	29	0.018	ankyrin:29	mixed/other:ankyrin	ankyrin*29
+19d885b921ebd5cfe2192a1d7635c9eb	43743	0	0.000		no panel hit	
+3e48f6f35720c31747970069d454362a	43532	29	0.018	ankyrin:29	mixed/other:ankyrin	ankyrin*29
+f816ad020bf283f47b7bf44eea0996c6	43527	5	0.018	kinase:3;MT:1;TPR:1	mixed/other:kinase,MT,TPR	MT*1>kinase*1>TPR*1>kinase*2
+bfe939369631a0409bb490e9bf652b2c	43164	0	0.000		no panel hit	
+6dda18619202db20426fb3e069e2da63	43074	0	0.000		no panel hit	
+4d51939cc6bb178593af99579b6104ff	43065	0	0.000		no panel hit	
+e6a1558b1756b30958e7d40661d09b98	43007	0	0.000		no panel hit	
+e990f9a3de940683afd0a4a39785bfb8	42803	0	0.000		no panel hit	
+e164151c8ad0cb54068a905a9c08779a	42674	0	0.000		no panel hit	
+3d13dbe8ba8a03e942ac50ac5942d3af	42417	0	0.000		no panel hit	
+2c51d54331619d9d15e53bbacf62384d	42323	8	0.011	adhesin:8	mixed/other:adhesin	adhesin*8
+5db1f3ed4867c6875ccee333a93bf0e3	42253	0	0.000		no panel hit	
+d203bb86e9373e5f70b3208221818e00	42052	0	0.000		no panel hit	
+1fbe3a631d068dac77d84ff704bc77dc	41965	0	0.000		no panel hit	
+169512ae74981e320ccf4105296fc309	41943	0	0.000		no panel hit	
+c0a2596e8da0a0da1342e1822cd07c40	41935	0	0.000		no panel hit	
+85b27a52b03e5f244689cfde01e975ac	41905	0	0.000		no panel hit	
+7715a4b8e687bd4146615de1c26c45e6	41592	0	0.000		no panel hit	
+db15d966639d83dbe6e35da71b71d6c7	41524	0	0.000		no panel hit	
+a1fd940a9f3402d8aaa4a7ad0b5db465	41508	0	0.000		no panel hit	
+ab677251e71237ae26d7f04cb3feee46	41394	0	0.000		no panel hit	
+fc5c1acd304e94fdf65e9b7892b3492d	41116	0	0.000		no panel hit	
+723093d95c31807aba62d0855e5521ab	41091	0	0.000		no panel hit	
+c7053c93da74f523a763717b187f060b	41052	0	0.000		no panel hit	
+4de09b156ef69ce8a110132f40a0ab84	40920	1	0.009	SecA:1	mixed/other:SecA	SecA*1
+ec5493073e109ab6e9051c16354ed46e	40903	1	0.009	SecA:1	mixed/other:SecA	SecA*1
+9ac8f7cbebfdeef3684633063e19029c	40863	502	0.683	Ig/FN3:496;spectrin:3;IQ:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*3>Ig/FN3*455>kinase*1>Ig/FN3*14>IQ*2>Ig/FN3*27
+a2c4362b407556c6136a39d4a244ab81	40805	0	0.000		no panel hit	
+87ebe6cd02eace43294a57bd212cb043	40792	0	0.000		no panel hit	
+d532139c2ad8935be5d6a4690af3aabe	40782	0	0.000		no panel hit	
+934a1d1f76df945e04127ed6a5306bae	40380	0	0.000		no panel hit	
+76d6d2627a2291da4e77159b31a33b26	40334	530	0.734	Ig/FN3:529;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*503>kinase*1>Ig/FN3*26
+307c8177071407c19e9340b1d9c43189	40199	0	0.000		no panel hit	
+e113d52b0f57d30af48ef4958436aa3f	40151	572	0.756	Ig/FN3:569;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*541>kinase*1>Ig/FN3*23
+3898f46a97b72e8032f290ff49fb056a	40014	0	0.000		no panel hit	
+7ac777c0b9012c9a65fa4dc09273f41f	39957	0	0.000		no panel hit	
+88e7c94d85d4c3ad517b3edeb25588e7	39851	0	0.000		no panel hit	
+e77b700dad7b1569668cfa8f57923ed9	39686	1	0.003	SecA:1	mixed/other:SecA	SecA*1
+554e220f319f2dcea9f7930fd09d9804	39677	1	0.003	SecA:1	mixed/other:SecA	SecA*1
+0f46cb44b9cdcca88fe73b917f9cfb56	39588	518	0.739	Ig/FN3:515;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*491>kinase*1>Ig/FN3*19
+7032f706c364bbb6afc12a0b80340d76	39571	0	0.000		no panel hit	
+fbf3c81b6374310855dbd984ed05088e	39546	0	0.000		no panel hit	
+c5a182933f363dedc681145eeab14abe	39399	0	0.000		no panel hit	
+9884d99a6cb2acb033028ccbd132b582	39376	0	0.000		no panel hit	
+faf79689dbd672d82707c434237fdfa9	39236	0	0.000		no panel hit	
+efcad2b95d6084c49d893a77b210749d	39205	471	0.691	Ig/FN3:468;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*445>kinase*1>Ig/FN3*19
+cb3c575e78fc49a5f3e0bbd571335e58	39183	0	0.000		no panel hit	
+b95b9405eecc84ae0489a0ac76e060e3	39164	466	0.692	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+67940ca66159a12d43a1aba0602cd9bd	39099	476	0.707	Ig/FN3:473;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*7>titin*2>Ig/FN3*446>kinase*1>Ig/FN3*20
+f69ce5062d0f418498dccec87a24b6c1	39043	472	0.694	Ig/FN3:469;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*446>kinase*1>Ig/FN3*19
+3c1720ce90289e0246ca261d8a4ee329	39031	443	0.480	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+0b67fb209c122fb9bc342a3073a89e55	39031	551	0.773	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+99de872f4efabdfcffeaaf4ab74425b7	39029	551	0.773	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+8fd7295cd804b4e8e109e20caa7a0eb4	39029	551	0.773	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+df54c30c41e4652c599964ca81e5034f	39029	551	0.773	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+c8f42fb1eb0247a90d88aa47b1515e96	39020	443	0.480	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+34a92c806019f37f71b4686ee67a75f9	39012	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+93fd63eee526af85ce7288daccffa689	39006	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+60041918aef3f3af027bfefaae29f29d	39006	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+7e67590da9c99c01fe94336c0c9e25b3	39004	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+36586f5b91d4652360d23f0ff80ae964	39004	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+b4c965d8093ebf3c8f4dd7ae69289b0f	39004	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+cfa26d36194d72cd0db17250caddf9be	39003	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+e5e7897698e2f482fda68b513196887b	39003	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+9005dddc816c222e79336dc9cb486a9c	39003	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+b18321c1a003e0ed9917e73a91e8b829	39003	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+f425bc1f61bc1e8dd2253e010a470ff3	38993	443	0.481	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+2f3e7a9ccd48a7fcbf5df67333b9f9da	38991	443	0.481	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+19b3c3bb534c13f521f6b647b1a0fc50	38985	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+49655a2cfccf37bd6d122f65787e1a7f	38979	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+af8663c9aae22285ff93fc054a9499ab	38979	0	0.000		no panel hit	
+c3e0a44abe5ad7706c89d5826ac3cdf0	38978	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+75376912e9af42b5d59084221c7e4fee	38978	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+f20c3cddd10d30308b03baeabe288119	38976	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+a41b7cbe2900cab6b82982d8df2374ca	38975	443	0.481	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+c14b9ee897eeb7410264bb70c3ed73e6	38973	443	0.481	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+ca6f4f04d8547d850031aad2b4f5183d	38973	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+c7b4b9bee6905b72c7192eae976111d1	38972	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+bc059ec2a232d9dbf50602172f458f0a	38970	443	0.481	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+7bd09a3a2dd6b857ab67e781d0e67ea6	38967	551	0.774	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+52a41e469db8597b14b26d12f1d06560	38951	551	0.775	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+9ad0b530a09bacd7318d87cb4dd244b9	38947	443	0.481	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+6aa30563af53516cf703b9402e7696a3	38945	551	0.775	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+a922daa9e99b7a22e11eef7e8dbf9340	38944	548	0.773	Ig/FN3:545;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*516>kinase*1>Ig/FN3*20
+edb580e500dac186d28e92afb007f76f	38937	443	0.481	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+a77673eae5d0b6f006a2cb172a23165d	38931	442	0.479	Ig/FN3:439;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*421>kinase*1>Ig/FN3*18
+2c7c1384b5f0c258180d7a275b39ce1d	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+c5b5e2ef6b2ed1eaa17fa91821a220fa	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+10d41cbca030637437649bf47b4075f1	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+33589a5d1c7a57eb2a9840f75010909b	38931	440	0.479	Ig/FN3:437;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*419>kinase*1>Ig/FN3*18
+8a85d4d1975185ac196b8d40ba1d1d00	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+6bdb0fdeb98dedc9b9103e16620af4b6	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+73e86c73a8125408e79e2877f6ebfdb5	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+9a021a0aac92e697fdb3b51485757092	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+7f37bf5789e21a05ed13c500f45abfbe	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+d1ba9024ea0bb2deeb4ac4ab1c3c0700	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+08eac674272fe6fe18058a0dc9475ce3	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+f9a35c6a1729127a154dff95550ab67a	38931	439	0.479	Ig/FN3:436;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*418>kinase*1>Ig/FN3*18
+902b6a49d6537e7e9b0e9bf080ce1526	38930	442	0.479	Ig/FN3:439;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*421>kinase*1>Ig/FN3*18
+630cc76f24856aba6dc5749c7e3cdf6d	38922	551	0.775	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+ea102394af2df86664599d02fe4d26c4	38920	551	0.775	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+285c6a3ddcd08ab1559f2603cbc4f2d3	38906	549	0.773	Ig/FN3:546;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*20
+854cea41a8156e0be05dc784062f6473	38905	443	0.482	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+d6eed88dd8c2ae82e13dad49992d18d9	38884	551	0.776	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+99cf610db4576dab7a47d0805f2e852e	38882	466	0.702	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*7>titin*2>Ig/FN3*437>kinase*1>Ig/FN3*19
+3777065ad4f43e20936674a0039dcf45	38869	551	0.776	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+2d510b7c527a846f1c13cf1b0fb6a560	38856	463	0.704	Ig/FN3:460;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*20
+4d2ce8e8aa2e6e73625a79682479ffdd	38856	551	0.777	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+29d22f21c4f035f6dbcc723026e3c503	38854	443	0.483	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+a105cb0c40d667fa4e213c38fc2ae75c	38854	442	0.480	Ig/FN3:439;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*421>kinase*1>Ig/FN3*18
+6bfa9da79156ab690dc27e77061cf893	38852	551	0.777	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+080e70d254499c024b1c090414138896	38831	435	0.478	Ig/FN3:432;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*414>kinase*1>Ig/FN3*18
+1656f6f60585f8d7896918cbb7743f7a	38831	437	0.478	Ig/FN3:434;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*416>kinase*1>Ig/FN3*18
+e09b50407d5b8f351bfc601f353e258e	38831	435	0.478	Ig/FN3:432;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*414>kinase*1>Ig/FN3*18
+913609adc5e3170c531a0dd8416bf0f6	38831	435	0.478	Ig/FN3:432;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*414>kinase*1>Ig/FN3*18
+6b1a1bfb8768c78b968b9b61ff706465	38831	435	0.478	Ig/FN3:432;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*414>kinase*1>Ig/FN3*18
+ecdd02f7af770b92808b0cf9a9850f53	38829	441	0.478	Ig/FN3:438;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*420>kinase*1>Ig/FN3*18
+76eb36ad59f5330915600f8297f3a9e6	38816	551	0.777	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+b0b626ff53207768d499ef76fa0de0db	38815	551	0.777	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+03b8b97b17d25c0b04683cda3ea8efc7	38813	477	0.682	Ig/FN3:462;IQ:11;kinase:4	Ig/FN3-repeat (titin-like)	Ig/FN3*116>IQ*1>Ig/FN3*5>IQ*1>Ig/FN3*5>IQ*1>Ig/FN3*5>IQ*1>Ig/FN3*6>IQ*1>Ig/FN3*6>IQ*1>Ig/FN3*227>kinase*1>Ig/FN3*11>IQ*4>Ig/FN3*25>kinase*1>Ig/FN3*26>kinase*1>Ig/FN3*7>IQ*1>Ig/FN3*23>kinase*1
+1680aa1aac5c7b65cc2ac800343e137d	38810	473	0.715	Ig/FN3:470;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*443>kinase*1>Ig/FN3*22
+fa85cf55cd95d515f04943f0212b12c1	38788	551	0.778	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+d3b648b3a093247d9c22794cbd02b23e	38779	476	0.709	Ig/FN3:473;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*7>titin*2>Ig/FN3*445>kinase*1>Ig/FN3*21
+4c13e183d4c418cd949f6acceff9633e	38772	0	0.000		no panel hit	
+c780e3891c5d283145166c04c6e622ed	38760	551	0.779	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+478380bd7d4a87e5de804a19f02d0d8f	38734	551	0.779	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+fe7016c7ac11e6da27ea18db855d99c0	38733	551	0.779	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+825b780c925c88856eb69adb39fe22b1	38732	551	0.779	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+b62defb230a603a812b98ce814a41aa3	38731	432	0.477	Ig/FN3:429;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*411>kinase*1>Ig/FN3*18
+16cb27a92c46d91c9416b97f822def8f	38731	431	0.477	Ig/FN3:428;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*410>kinase*1>Ig/FN3*18
+88eedd9bace6e5c8a2aa2a937e18dfa1	38730	433	0.477	Ig/FN3:430;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*412>kinase*1>Ig/FN3*18
+415f0b8ecdb1a652c2fb8ef149174bfc	38708	551	0.780	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+7ee09f6fa7bf0351635f25859d370f18	38705	551	0.780	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+ef5bc49347b7138c3e16e5080f852700	38705	551	0.780	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+632867a44f79213d50ec4c0b4bb02edc	38686	521	0.748	Ig/FN3:518;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*495>kinase*1>Ig/FN3*19
+648039d188780c72650135f9c9196e92	38676	306	0.493	Ig/FN3:304;spectrin:2	Ig/FN3-repeat	spectrin*2>Ig/FN3*304
+156a86269eba66d0acca47280b4df030	38659	443	0.485	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+d206805d3562537778d26ed35495e081	38659	551	0.781	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+7f52007cfa2976fd33ce36efc457c700	38651	551	0.781	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+ca3ea98f0a8e0fc88383135e1af21c57	38645	0	0.000		no panel hit	
+c5fbe96f375f70dc8a1c7bd46be3bb1c	38634	1	0.002	MT:1	mixed/other:MT	MT*1
+90e5b269e4c07cbcb4504403b25dc8dd	38631	427	0.476	Ig/FN3:424;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*406>kinase*1>Ig/FN3*18
+078acbdd98bb8857874b6cf3820ca2eb	38631	427	0.476	Ig/FN3:424;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*406>kinase*1>Ig/FN3*18
+d7508eff0c36efb68b9953e10b416e83	38631	551	0.781	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+309c8e2cac6f8d30a79f04c4caaa713d	38630	427	0.476	Ig/FN3:424;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*406>kinase*1>Ig/FN3*18
+56808de08b8ccf3008fec33850420cc5	38605	551	0.782	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+a89ddc48916bea3b8b35cd4e7ed5e5d2	38604	0	0.000		no panel hit	
+c19032711eb7a000711847dfa2688381	38599	551	0.782	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+93b2140bd9b8d4eb8217a22dcf7118e4	38577	551	0.782	Ig/FN3:548;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*20
+12264f6f24ca5f531894d6463217ef04	38565	435	0.479	Ig/FN3:432;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*414>kinase*1>Ig/FN3*18
+08330550974557b5401ce651e29cde11	38551	443	0.486	Ig/FN3:440;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*422>kinase*1>Ig/FN3*18
+e0a21896d66f1cfc44badd79b2671970	38531	423	0.474	Ig/FN3:420;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*402>kinase*1>Ig/FN3*18
+fcb3ba556e43d5f702782ac3bae43a4e	38531	427	0.474	Ig/FN3:424;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*406>kinase*1>Ig/FN3*18
+ed655e3ade9c320e7f65b315cc29ef1c	38531	423	0.474	Ig/FN3:420;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*402>kinase*1>Ig/FN3*18
+731de7c379f7d19b98a57921e4bfc772	38521	469	0.708	Ig/FN3:466;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*443>kinase*1>Ig/FN3*19
+aad73dadd1e9fc4fbeea80bc8e27b0d6	38516	471	0.714	Ig/FN3:469;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*1>titin*1>Ig/FN3*445>kinase*1>Ig/FN3*23
+6d4a56968c7483dc527be64fa25e0cd2	38490	520	0.775	Ig/FN3:519;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*497>kinase*1>Ig/FN3*22
+d8840aa29150137cbd52b9a6a6aee6aa	38458	0	0.000		no panel hit	
+6386de3e23d6c5dbf227987777cef424	38430	456	0.712	Ig/FN3:453;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*432>kinase*1>Ig/FN3*17
+a814d8e4ceb62df8d1f3a7762bec6aaa	38408	434	0.479	Ig/FN3:431;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*413>kinase*1>Ig/FN3*18
+b3010fd496e2d0990048bb48185e5f4f	38354	472	0.716	Ig/FN3:469;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*7>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*21
+81fa683e672e9bbc6df80820dfc79722	38329	1	0.006	kinase:1	mixed/other:kinase	kinase*1
+89a121630675e883543152ce6a048c0f	38280	459	0.718	Ig/FN3:456;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*3>titin*2>Ig/FN3*435>kinase*1>Ig/FN3*18
+9ebc66c255f26cc9301159989bb0484e	38279	500	0.744	Ig/FN3:497;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*3>titin*2>Ig/FN3*474>kinase*1>Ig/FN3*20
+2e80bb131d709c316ac70219f584023a	38182	393	0.657	Ig/FN3:391;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*1>Ig/FN3*373>kinase*1>Ig/FN3*14
+bdc24d4bd689aa00662c8d5b699e0d6e	38163	516	0.764	Ig/FN3:513;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*488>kinase*1>Ig/FN3*21
+fdd88087b1743a031e99d510ae2e0b09	38162	374	0.630	Ig/FN3:372;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*1>Ig/FN3*353>kinase*1>Ig/FN3*15
+47b802ccd53a1bd9a3a22f1df24e5180	38105	470	0.712	Ig/FN3:467;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*444>kinase*1>Ig/FN3*19
+25bad4976ec4b87d27b4685bc01cd551	38067	586	0.813	Ig/FN3:583;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*558>kinase*1>Ig/FN3*21
+b363c0551d0be5d8778e46323b3fd8e0	38028	480	0.726	Ig/FN3:477;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*454>kinase*1>Ig/FN3*19
+92be8368296534adc2c016a849268fb6	37930	469	0.713	Ig/FN3:466;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*6>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*20
+b7a0da099d181777f7921dda2061273f	37904	470	0.728	Ig/FN3:467;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*7>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*19
+515f964cdbdfd0c85a3a00f158364dec	37868	481	0.723	Ig/FN3:478;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*454>kinase*1>Ig/FN3*20
+1cac93019ca17fb9a9595d03a561bbae	37853	546	0.793	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*518>kinase*1>Ig/FN3*20
+a048a56b208e3b0e8b4c48c61f6a653e	37808	543	0.786	Ig/FN3:540;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*518>kinase*1>Ig/FN3*18
+5f6a0d0182117a90415e0ffa21bf0836	37788	1	0.001	EGF:1	mixed/other:EGF	EGF*1
+208809fc59ea850a182f7abf145bc1ce	37779	487	0.745	Ig/FN3:485;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*1>Ig/FN3*461>kinase*1>Ig/FN3*20
+616fb2d6c06e4a979359ec00c934c096	37777	458	0.717	Ig/FN3:455;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*7>titin*2>Ig/FN3*437>kinase*1>Ig/FN3*11
+ba8d18cc14904c4b04114f8c0d03fc03	37775	552	0.799	Ig/FN3:549;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*524>kinase*1>Ig/FN3*20
+021f45da8767cb96a61ea018d01a9759	37774	1	0.001	EGF:1	mixed/other:EGF	EGF*1
+9a6801f7fcf11931740e3f39d2cbebc4	37771	543	0.786	Ig/FN3:540;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*518>kinase*1>Ig/FN3*18
+9cddb93ef19cef6e2d869a084fa4770c	37768	543	0.792	Ig/FN3:540;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*515>kinase*1>Ig/FN3*20
+1908bf0efa5010de1011cc4756b1585a	37732	541	0.793	Ig/FN3:538;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*515>kinase*1>Ig/FN3*19
+3635c32f86f0d48088ac7e58a47a1893	37729	545	0.793	Ig/FN3:542;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*513>kinase*1>Ig/FN3*20
+e5700cd3ecb706239b42d4f1f67f6dbc	37708	476	0.730	Ig/FN3:473;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*445>kinase*1>Ig/FN3*23
+5a22bf83849fca2ef235763d8b95cd09	37707	458	0.721	Ig/FN3:455;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*3>titin*2>Ig/FN3*437>kinase*1>Ig/FN3*15
+afdec6472ce3449c52a1dacd75cb8ac0	37690	0	0.000		no panel hit	
+cc107c5db545d149af0fe916e55b7e64	37683	469	0.732	Ig/FN3:466;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*20
+170e8b04ad118f60795375234f5df472	37665	544	0.794	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*516>kinase*1>Ig/FN3*20
+9354df30c5c51ddfc53c348ae1549a06	37663	3	0.005	MT:3	mixed/other:MT	MT*3
+6f2cea119dcc459d1fe3dfbed32df428	37661	0	0.000		no panel hit	
+f38b1f8ff15b3aa6b43e2f6792fa9e5b	37646	0	0.000		no panel hit	
+d9f6c96c3c303bae20b5c5f148781de5	37641	586	0.822	Ig/FN3:583;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*558>kinase*1>Ig/FN3*21
+b17c510f22c491b4ebce4e349684f4cf	37630	591	0.821	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+ed6e6bf6e518486611eae168e3ffacd2	37628	591	0.821	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+32d5182361033dd05b17b20c22142e8f	37612	490	0.740	Ig/FN3:487;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*461>kinase*1>Ig/FN3*21
+29357657e66b3a5bd636626572ff382f	37610	591	0.822	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+73e47d24750ab71f1cd9e19cf27a8cb2	37606	591	0.822	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+348453a631a1fb227f226c2fe67c6356	37604	544	0.793	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*512>kinase*1>Ig/FN3*20
+4109f0df0b8dd6a3728c124a91e6ad29	37604	591	0.822	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+96d48e75f9c1fc40d529a7ec7f6d88dd	37602	591	0.822	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+8603571d45b3f21a2965e7bb884642ac	37602	591	0.822	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+77cdc7c3f2e2cc9939081257389b70ca	37602	591	0.822	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+80b1d5eaa5805d54f37ca53a143af1de	37595	591	0.822	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+ddb69f1c7951c68761f3512a2bb2d536	37574	591	0.823	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+47ab6ec265a48ce906838e429447fa69	37567	591	0.823	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+e83f6c0a3fb67e6c41486a719805e4d2	37560	586	0.824	Ig/FN3:583;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*558>kinase*1>Ig/FN3*21
+5934cecdf55ffaaba1daec8d169a93bd	37542	442	0.497	Ig/FN3:439;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*421>kinase*1>Ig/FN3*18
+029768473d1b34ffa0d4cc73426a4441	37537	586	0.825	Ig/FN3:583;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*558>kinase*1>Ig/FN3*21
+92fb9e2bd047f90952fbde9a0711cbbc	37534	588	0.821	Ig/FN3:585;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*562>kinase*1>Ig/FN3*19
+4ca68e45d3bab4b302fa916834b69b74	37534	588	0.821	Ig/FN3:585;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*562>kinase*1>Ig/FN3*19
+4e44feb02b0d90ab6f6e08f83c1fc732	37534	591	0.824	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+2d3055822106605e440474a5d7660792	37532	586	0.825	Ig/FN3:583;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*558>kinase*1>Ig/FN3*21
+a9ac5f76f6007710c76e8921158804d9	37524	591	0.824	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+266e09624f06c96204f260144f36d29e	37510	586	0.825	Ig/FN3:583;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*558>kinase*1>Ig/FN3*21
+af900952ef4d95f1a0720999e4dbbb85	37482	586	0.826	Ig/FN3:583;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*558>kinase*1>Ig/FN3*21
+bd28cc85d3a1c5a30454a9ecbe1dffc2	37431	0	0.000		no panel hit	
+bed9700f86728d3c50ab97f3074993c8	37425	591	0.826	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+6605bdcd6b8f9a6318c9afbd82d494c1	37403	455	0.714	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+11b1b9a85d963c951e9fa306bc9a5d66	37401	460	0.729	Ig/FN3:457;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*433>kinase*1>Ig/FN3*20
+c24329c495522daf6a5a1a826fd6570d	37400	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+9b7b9fd2019774c74f3f3e84fff6d3b8	37397	591	0.827	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+29f0ed8533f9a4d50608abd4be56403c	37387	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+67924a88bf2c5c82d7cf20a56e36010b	37381	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+5aa4021091d780e6de5cea9c4c1e4a0f	37381	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+c02c4886cdedc8e9a941ff45072b7f08	37381	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+457a80658ad6574a9a4532b8cf4c8c12	37381	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+30ee194c102eac41973127d0f9dfd6de	37381	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+785d579a0e29e61c2594cba24e48db33	37381	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+3fe720d554119cb29a55498e34af822f	37381	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+0d1be70461731051de2075c1e6754e1a	37381	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+32736510cfe5959e16d6528aa58b7ddc	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+2caa0d05242d2ec82788ff44c9db80b4	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+c450282398e17320786f5ccec9f97ff7	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+89fe88f2ace192daec806530f5889ac1	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+0fbb0c9e20e192353bc6b160903c5630	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+bc38f1e51743fb8c9c8cde27d80b758f	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+ce099d8fba03fd7fafcd552787dae58f	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+5e4a15cd99fe728191a7637f3747def8	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+0a1c0af127f26d5ec1cee0845de356d9	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+b96730ef942cec5bdd07b4165982994e	37378	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+a7a72fba8e899980e72efc54205c4d47	37376	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+f572795c499cbf47fdc2ebae4204ceba	37376	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+6c77ddb70b75f57cbcdb0ef278753f61	37375	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+ee0da6ff21c11481b608f99fc9564a39	37374	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+5822f00cf3e98b6b7d5bf9ce27241fd2	37372	466	0.728	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+c8c9f76a5d74eb3069008533a9dbeeaa	37372	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+c631b9fb3626e631e56d67dbe22166c2	37371	591	0.827	Ig/FN3:588;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*565>kinase*1>Ig/FN3*19
+ca8a09406771ce5d573631ac31233198	37368	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+decd3defff018bb492b3156c6747dd20	37363	465	0.735	Ig/FN3:462;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*8>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*18
+59a77aefb35f463916928e53e61ff1a5	37361	465	0.736	Ig/FN3:462;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*8>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*18
+507b624160e35ac585461e3f3cd93fc3	37359	497	0.774	Ig/FN3:495;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*1>Ig/FN3*468>kinase*1>Ig/FN3*22
+3c2f306cb1116f2a736422e0322978df	37359	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+815c2c3bfb9b793edd3a8bcc2e4ba462	37357	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+bf151e129fd83b989d76116ee8c58f98	37356	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+20ca76b36df8ec14087248429bb20d34	37356	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+b5d400e38d7331b5bcc8b14e96a67702	37356	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+622267140a0fe35f647edfed41887cd5	37356	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+7e99b3f59a618c66b0f4c498878fd21f	37356	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+ea1db417932a723df82f6c3b13c5070e	37356	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+8e6801ba4a5294b9d2b4f427953da558	37356	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+3df4f3bbb85c41386d4e8865ce7747e4	37356	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+c3038bc6302dd458e414a042e1b2a352	37355	455	0.715	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+e09028310645ac83354d883bfd5242ba	37349	455	0.716	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+053b49add97169bb64b05173af98d35b	37340	455	0.716	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+1cdf2aa6e27aa27805efb485ace24b81	37336	532	0.781	Ig/FN3:529;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*504>kinase*1>Ig/FN3*20
+5bc76c164e50c5b0f8aac042454ce7b7	37336	0	0.000		no panel hit	
+29184471ac02449b7a564c8f592fb1bf	37335	465	0.736	Ig/FN3:462;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*8>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*18
+f81b2706a62cbcb7eaf7086da852a6e0	37317	465	0.736	Ig/FN3:462;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*8>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*18
+11cb9d8d07c464ad8c3501e0950b8775	37314	467	0.727	Ig/FN3:464;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*7>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*21
+8d5476c503934793d9be25662f3e0b67	37308	455	0.716	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+9f9cfa364ee0795ae1d0a21a4700b4e3	37307	465	0.737	Ig/FN3:462;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*8>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*18
+2bec549fa4d8378a0c8136792dc01aae	37279	452	0.714	Ig/FN3:449;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*427>kinase*1>Ig/FN3*18
+7a73fd7d3fb6bbe520d8e4c1ccf49fcd	37272	465	0.737	Ig/FN3:462;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*8>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*18
+bdab576f62968a8387527cdcc6b9367b	37272	464	0.736	Ig/FN3:462;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*8>titin*1>Ig/FN3*436>kinase*1>Ig/FN3*18
+ca2b034ff3ccff930b8c39ae45a94a06	37257	452	0.715	Ig/FN3:449;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*427>kinase*1>Ig/FN3*18
+346936f0d28386464d5ef6308aff0477	37248	470	0.735	Ig/FN3:467;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*21
+cfd4c00b2de76f5e0295a16d50a34b47	37237	455	0.718	Ig/FN3:452;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*18
+7ca65138f11f211962c43d362842ef5a	37231	462	0.741	Ig/FN3:459;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*436>kinase*1>Ig/FN3*19
+529077d253a1a109a6bf0ee17583475c	37209	0	0.000		no panel hit	
+6d53862436ad88fe4ad4ad93fc981eaa	37198	587	0.832	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+3a778d8623faf99300a18660dd81a758	37188	466	0.731	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+891905e767a510b8fd7b389429dd4ccf	37183	0	0.000		no panel hit	
+87a96096209102bf30eb025dbd005e4e	37176	468	0.732	Ig/FN3:465;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*442>kinase*1>Ig/FN3*19
+0b027e26c2365435c32572f793029ed4	37176	587	0.833	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+93df41cf58069cc14c8e6db30825e483	37170	587	0.833	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+d03d6e9a76b13951835f550e3d5dbc8c	37164	467	0.732	Ig/FN3:464;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*19
+eb885cada8bd177497b91d431f8cb4eb	37159	466	0.732	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+431fe5752235e24bde18e412b5aab095	37158	466	0.732	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+ca2f28a70331508d0949b5aa0a3577a9	37148	587	0.833	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+a5bf8e27c1f387076ecb0c65c47df698	37143	539	0.802	Ig/FN3:536;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*512>kinase*1>Ig/FN3*19
+fc33bf2d762e1066b7fec7cf4ebec7c9	37143	592	0.832	Ig/FN3:589;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*566>kinase*1>Ig/FN3*19
+603f39c5ef9d4d30ec8f77755081358a	37142	587	0.834	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+f2d9099c1b22323aa94a43d70ea0d49c	37133	466	0.732	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+89fb1ac9833802550281c078d0e16721	37131	466	0.732	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+183412ac43256a34d413947647e1ee96	37120	587	0.834	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+59fbdff1cde1decf1974ce8bcc1cdadc	37119	592	0.833	Ig/FN3:589;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*566>kinase*1>Ig/FN3*19
+fba4b99aea73f384f7f3091f659ed9e8	37114	587	0.834	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+143bc4cbb2f707246712628b924ac905	37092	587	0.835	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+23b61a522318109a2834a849d537d74b	37091	476	0.738	Ig/FN3:473;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*450>kinase*1>Ig/FN3*19
+79b25245a4720f4b921257f6854efa29	37087	0	0.000		no panel hit	
+4208dbd8c2a22c9c8d4b761cac33a26e	37072	466	0.734	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+58e39c980baad70e38b337c8793c5feb	37065	592	0.834	Ig/FN3:589;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*566>kinase*1>Ig/FN3*19
+39dccd9704cf6dde98305c1a456f4869	37064	587	0.835	Ig/FN3:584;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*559>kinase*1>Ig/FN3*21
+9502f3f95ad65a074fb41bf1dce5ea61	37042	475	0.743	Ig/FN3:472;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*447>kinase*1>Ig/FN3*21
+e1582c9a91473445f39590d747dfa1b7	37008	546	0.813	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*520>kinase*1>Ig/FN3*18
+e547dbacbcd2947bc6319505a158bb52	37008	535	0.800	Ig/FN3:532;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*508>kinase*1>Ig/FN3*19
+6a519aa116b7f11a99acd5be7de48e52	36991	470	0.742	Ig/FN3:467;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*443>kinase*1>Ig/FN3*20
+b33dfb5638e9bdb7f7eb8ed4ca7937b8	36946	440	0.503	Ig/FN3:437;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*419>kinase*1>Ig/FN3*18
+8d9b7b2e3587d3f81bb38f08fef6c068	36943	469	0.739	Ig/FN3:466;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*21
+c9ac01a25a12a2f71792175d71060d3d	36927	343	0.742	Ig/FN3:342;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*333>kinase*1>Ig/FN3*9
+b47ac988cc0ce0fee5ef0f435ae052dd	36924	450	0.726	Ig/FN3:447;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*424>kinase*1>Ig/FN3*19
+987029f135524c8f3a9b11877d7aeb9a	36923	0	0.000		no panel hit	
+f9fec9ad4fcb9ff61bbe32258299b87f	36900	473	0.748	Ig/FN3:470;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*445>kinase*1>Ig/FN3*20
+120c73fcc5bfb4872dcf49c4a1afcc5d	36887	584	0.834	Ig/FN3:581;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*556>kinase*1>Ig/FN3*21
+67cde4efae6c4858efb4b7177e1314f5	36880	544	0.808	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+22b1bfe05fb7e1ce6dc694da182baca9	36879	544	0.808	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+420ab9b9e554df74d28ef18b963f420b	36876	544	0.808	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+bb9012f5158e6bbd460e42bc63e9c89c	36863	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+95375d5f29aadc6c041e7a660a32e522	36854	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+b7fe3d39b4d234db9cffd2c7385748e2	36854	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+eac43f8598e8806e4ecb5a46be7d1505	36854	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+6e05a984fcbc4f9b0a389db82968f12b	36853	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+0d0ad93c1f4610e8d6685c4f524ede61	36852	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+3073a4e56bb492a9ca7db03fe1f9af80	36852	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+9cf5fdb49781e99fa11a73f447c5767c	36852	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+c37b0bd30885484046bc0c77ffabed82	36848	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+cb5a3187a8bfd26975c4e5b1ed03f1cc	36847	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+b16d155e7dcc4ad90e24c2fcde887acd	36845	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+00daa48cd4c429253bc5f6ac3f4e457c	36841	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+b63c05a530b75bea7391b23702accf19	36835	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+ead41f1a93502f8e58a3e840438f5bd6	36834	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+c655b309964fb17dab2df60c4ccdd29a	36831	525	0.792	Ig/FN3:522;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*498>kinase*1>Ig/FN3*19
+4de6f50f6bce41a8d9c81a615ee836c6	36830	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+2eab61f345a3fa88fa369f5fb336b115	36828	544	0.809	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+44423eeebc86a3ed4b3c40f136fb047d	36824	544	0.810	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+c5a7b524b982c24b8722abc682c4a23b	36821	544	0.810	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+40da4a11b2c3d55b1b77080ddf3061d6	36816	544	0.810	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+60f91d340133fd9df8f11c044f279ce0	36806	523	0.797	Ig/FN3:520;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*495>kinase*1>Ig/FN3*20
+9662380a987baf844078b2417eec493e	36805	0	0.000		no panel hit	
+1512de3e5eba8189f1e00085e137f4b1	36798	0	0.000		no panel hit	
+5c3ef0231550d841f8d1cb5811aec613	36794	583	0.835	Ig/FN3:581;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*1>Ig/FN3*556>kinase*1>Ig/FN3*21
+782ae52b97c0b5d143d5dc51b99f3076	36793	543	0.809	Ig/FN3:541;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*1>Ig/FN3*519>kinase*1>Ig/FN3*18
+0ce792f4cfe47d9eba0357156756db8c	36793	540	0.808	Ig/FN3:537;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*515>kinase*1>Ig/FN3*18
+11152ddd36ccfc1a9b6034a0b640bb85	36793	474	0.758	Ig/FN3:471;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*7>titin*2>Ig/FN3*443>kinase*1>Ig/FN3*21
+441074faa6f7ca3962b091d03212443c	36792	544	0.810	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+9b8657f979d3a56656aa9ca3e285c020	36789	543	0.809	Ig/FN3:541;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*1>Ig/FN3*519>kinase*1>Ig/FN3*18
+c791c1d5da348561742c52913a01efa0	36789	466	0.739	Ig/FN3:463;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*19
+98c567ead8f1001a6127fad66a844ced	36769	544	0.811	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+b2691e2d54990de163b25fa7b5c22e8b	36768	0	0.000		no panel hit	
+7a10f233a0ca39640f431fec6231ca09	36762	543	0.811	Ig/FN3:540;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*518>kinase*1>Ig/FN3*18
+55744a39bda5e3421d852aca84896863	36755	542	0.809	Ig/FN3:539;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*18
+890f981a47ba59286d476bcdc7b6d7f9	36755	0	0.000		no panel hit	
+fd0eebebf77bcb5eb9ac92fac2cd4d89	36741	544	0.811	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+7949c5d9ea4080ed0818f646e3592cd7	36714	544	0.812	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+f6d04b0ffea9ae27b91a62581c41a0d4	36696	440	0.508	Ig/FN3:437;spectrin:2;kinase:1	Ig/FN3-repeat (titin-like)	spectrin*2>Ig/FN3*419>kinase*1>Ig/FN3*18
+b8a4965ae52076ba41301872e0dd331c	36688	475	0.760	Ig/FN3:472;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*9>titin*2>Ig/FN3*442>kinase*1>Ig/FN3*21
+5cd4dcc34a8f4602efe745d562e7c891	36680	544	0.813	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+e3c0049a58000e974482b3fddc1a1ddd	36675	0	0.000		no panel hit	
+1e7dba0c5f04adbc35e30fc89cee44cf	36669	469	0.747	Ig/FN3:466;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*442>kinase*1>Ig/FN3*20
+c70de7691754dd91ec184ff781877363	36654	544	0.813	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+80d8640c4480dd29fa44d44b0bd74a85	36653	544	0.813	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+2e329e7d8c14e2e18292b7b393f1bbb6	36650	468	0.744	Ig/FN3:465;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*20
+168c34403c92a1400121129afaaff0dc	36629	0	0.000		no panel hit	
+aa9f9203f03830274ffa19ad3aa98f35	36624	468	0.744	Ig/FN3:465;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*20
+9d3d2a57b59f5b6d0c7fa66eff14e3ca	36623	468	0.744	Ig/FN3:465;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*20
+d4f7a5c0d58dcf6aa3bec2d39689e4dc	36619	471	0.745	Ig/FN3:468;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*445>kinase*1>Ig/FN3*19
+9a0c92042eec73bac94bce6090b172c9	36587	0	0.000		no panel hit	
+e8cc6512116a6b1bbb414257a5320833	36562	546	0.808	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+dffd24dbc436ef1ea4acc0227b95f510	36556	546	0.808	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*516>kinase*1>Ig/FN3*22
+3c57fed317c2dddce586f38eac599d54	36538	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+3fe4909b9148ec50742223899a6b3fb1	36538	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+e711c4bc334d10f29c953d630b00d796	36537	465	0.743	Ig/FN3:462;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*438>kinase*1>Ig/FN3*20
+15c62a54e95e17318cea54c6229e30ee	36536	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+302849ae98c144015f426ba58e7589f1	36535	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+dd7c84bf646f7cb46c8c9c04cf33b8b6	36534	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+e13c71935e47aef261eee4c907e5d296	36534	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+d66f406bdea2f27dc00cca438d3be506	36534	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+4ae04ee543388119dbf970556fd367a6	36534	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+82b6601515caac736361cf99a7b8383e	36534	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+fa6eb2f4809caffb6c262091c1c18059	36534	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+cb4a4370188e7894532e0c0e3779a26d	36534	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+91a92e3166ec0d6171dc1f1c6f2da5a3	36529	554	0.812	Ig/FN3:551;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*526>kinase*1>Ig/FN3*20
+7d4aa646077cb9695953df503d2683b3	36527	546	0.809	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+490376453cbbbc17a99a0a6f2c6cdf9d	36507	546	0.810	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+8148cda27d073d6bb8ab8d828166bcd5	36507	470	0.745	Ig/FN3:468;titin:1;kinase:1	Ig/FN3-repeat (titin-like)	titin*1>Ig/FN3*446>kinase*1>Ig/FN3*22
+74498c994a54fd0b12144272942a763a	36506	546	0.810	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+b19fe5f21fec489efa2d7fe69c67cdfb	36506	546	0.810	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+c29e0a824fbd8377b9fc6fdb761e3f92	36506	546	0.810	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+945339add80db3779f9e2fa5c056fb6f	36505	544	0.817	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+fd498ee01b78f6d8c8f5f3c6874771bf	36505	0	0.000		no panel hit	
+8334dd477d5a871a22200acf0dfdcef4	36500	456	0.735	Ig/FN3:453;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*429>kinase*1>Ig/FN3*20
+e85a29afb89cef7661db8a2d614d7bc6	36491	526	0.799	Ig/FN3:523;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*498>kinase*1>Ig/FN3*20
+1e3a8f585f870e331a64ecb1bcbfd87d	36486	471	0.749	Ig/FN3:468;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*445>kinase*1>Ig/FN3*19
+c7c8234487e3b89a551a83ce706e5eab	36484	468	0.745	Ig/FN3:465;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*20
+3e7019884f0e6704b0687274c7305a5d	36483	0	0.000		no panel hit	
+d5767927274ecd3939eeb09cff83ad5a	36480	546	0.810	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+991fc38fa8fa8cfe8498620f6a8c5807	36479	544	0.817	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+a87edb1f52363b206a9447c378bea031	36478	546	0.810	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+44fd80113f89bffed36ca4f58627a6dc	36457	546	0.811	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+e1cf95f8c5834a32fa610d7b2035288f	36450	546	0.811	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+a8f95ba255e6db9120434eac46ffb593	36450	546	0.811	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+09f4659fd697e899b18afd46458650dd	36449	544	0.818	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+b09e3d4c420b81462267772e229bbc47	36444	472	0.746	Ig/FN3:469;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*444>kinase*1>Ig/FN3*21
+22726262d8c3f3216fd823c2c798d109	36441	546	0.811	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+d92b8666ba11d1812c6ebb637e952e0e	36423	544	0.818	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+4754ae3aa068e1819ddc44dbb6ad3987	36422	546	0.811	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+4997d4f781bbff705d172417bf87ed7e	36421	475	0.753	Ig/FN3:472;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*449>kinase*1>Ig/FN3*19
+b59322b743465968d04d87d91739f279	36420	447	0.735	Ig/FN3:444;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*420>kinase*1>Ig/FN3*20
+7c4dd273a1fbc768d332989188177b42	36419	471	0.749	Ig/FN3:468;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*445>kinase*1>Ig/FN3*19
+05e1499ebde240f3c64ce10f7273ed13	36415	546	0.812	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+7fef16a59239c6cf3af9113619ed87cd	36409	546	0.812	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+a0f8c5dfba98c59d1b062937e4efe4c1	36404	546	0.812	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+863f90465f5d1d1ce4479cd7722f1b3d	36395	544	0.819	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+ab7bd0a08b6cb105af9c745205bac0b6	36394	546	0.812	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+7d5db0623cbbb867b9bb12a2e1837e47	36381	546	0.812	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+cd4fd7f0da5d8dd03f65776fdb2da219	36380	546	0.812	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+0978652baa2f678202c3fd2157f51dde	36369	544	0.820	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+671b1b196aeaed99f06b3ed53f3d14a6	36368	546	0.813	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+4ad2811fa4b77ed99631a8c1b798baff	36364	544	0.820	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+4478045bbb7da176996c7350acb5db8b	36362	470	0.742	Ig/FN3:467;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*442>kinase*1>Ig/FN3*20
+d8ddfbaafdb175fc50d3223a178fa972	36361	447	0.737	Ig/FN3:444;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*420>kinase*1>Ig/FN3*20
+85cf46762fe1d610b93ff622b8b9571c	36360	546	0.823	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*21
+8e8c992eda5e567e257e9533d5eb66b6	36345	546	0.813	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+d74a4a4a27bc87df0069c56d3afcb5ea	36343	544	0.820	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+9cd530f51bbbc58e50907a9693832243	36341	544	0.820	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+5c4df30f94edac2e91911eb80bbc33f6	36331	544	0.821	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+fcbb42b83461334ca9f61e5bac958fbc	36329	453	0.745	Ig/FN3:450;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*10>titin*2>Ig/FN3*420>kinase*1>Ig/FN3*20
+14074451a0890f5a136f83c602bd889b	36327	0	0.000		no panel hit	
+a95dc0f9b9805fa0f18399252dea7d5e	36324	546	0.814	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+50a07a9f0f9fc33de8c1cde13e98db13	36315	544	0.821	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+80be8bc4b99c714ca66773b5963d9af0	36310	546	0.814	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+bc222fc85e3d23d17c56e7a634dc8fb7	36305	544	0.821	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+4baeb473370126ae50dbfa6452505440	36303	547	0.814	Ig/FN3:544;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*518>kinase*1>Ig/FN3*22
+c54a05001b3be7363bcfb30403a357f0	36300	472	0.752	Ig/FN3:469;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*444>kinase*1>Ig/FN3*21
+1274d53ae221abd62d2896f08e93c435	36298	546	0.814	Ig/FN3:543;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*517>kinase*1>Ig/FN3*22
+eda497bb4754e1ea177e24085bc23d59	36291	0	0.000		no panel hit	
+67c1182327101467923a53a6a4538a9d	36277	544	0.822	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+e6451172082a6d19cc627e5601fe3407	36274	453	0.746	Ig/FN3:450;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*10>titin*2>Ig/FN3*420>kinase*1>Ig/FN3*20
+f939ac9a1538406b1afe79b79f98ff62	36268	521	0.807	Ig/FN3:518;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*493>kinase*1>Ig/FN3*20
+d5e95b7885219b8b21ec0de1124d30ad	36268	547	0.815	Ig/FN3:544;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*518>kinase*1>Ig/FN3*22
+ba146e8915aabd0b0b56ca8548942939	36252	544	0.822	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+37ebf141616d493625aff1ab399d1494	36251	549	0.815	Ig/FN3:546;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*520>kinase*1>Ig/FN3*22
+f43f410d0e634a1c355c9b22d570e706	36251	549	0.815	Ig/FN3:546;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*520>kinase*1>Ig/FN3*22
+285cf87ee57626f21e7462505b15d083	36247	470	0.759	Ig/FN3:467;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*442>kinase*1>Ig/FN3*20
+a91270fa48e614b7e4a9ad532deeff01	36233	549	0.816	Ig/FN3:546;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*520>kinase*1>Ig/FN3*22
+160b60801b2e99c8c0bef9aa98a04779	36224	544	0.823	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+6a9855291e3ddd4f850ea48e8d3fbfd7	36223	549	0.816	Ig/FN3:546;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*520>kinase*1>Ig/FN3*22
+2a6a041222e32152ef430b50cee45595	36223	549	0.816	Ig/FN3:546;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*520>kinase*1>Ig/FN3*22
+b094e6287758fd2bb796bef24b95aaac	36214	470	0.751	Ig/FN3:467;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*444>kinase*1>Ig/FN3*19
+9440cb11d90b54169d0e99fd6df4c5b9	36198	549	0.816	Ig/FN3:546;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*520>kinase*1>Ig/FN3*22
+ffd09a9fb1a71ad4483b90893a09836b	36198	0	0.000		no panel hit	
+b7ebfa20eb5ffaa51a44617c8f413ffb	36183	524	0.813	Ig/FN3:521;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*498>kinase*1>Ig/FN3*18
+76751b0b4ff450b9c5c4d7d369e6e912	36174	479	0.759	Ig/FN3:476;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*452>kinase*1>Ig/FN3*20
+3e387e0d00c544e44aa1060d9e4521de	36169	447	0.741	Ig/FN3:444;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*421>kinase*1>Ig/FN3*19
+7c10caaf972e4e51a3f3a113a8d252a0	36136	469	0.757	Ig/FN3:466;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*21
+4222e577444ad64ef4d48f61f10b4046	36134	459	0.747	Ig/FN3:456;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*11
+71def9dc027eb0f2004bbe2507872127	36133	449	0.732	Ig/FN3:446;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*424>kinase*1>Ig/FN3*18
+19e430d2c4f639aff83380cb5e397ed4	36122	447	0.742	Ig/FN3:444;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*420>kinase*1>Ig/FN3*20
+c63dea22179c872ad85d18eb1c97d108	36097	467	0.759	Ig/FN3:464;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*441>kinase*1>Ig/FN3*19
+20fc012f9a20a0a87c613fe1875edddf	36094	456	0.748	Ig/FN3:453;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*430>kinase*1>Ig/FN3*19
+87f46ba1c9f60bd4cd791af0d944dea9	36086	521	0.813	Ig/FN3:518;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*493>kinase*1>Ig/FN3*20
+af26b47f6ba6e5b6c54104dfaceff75f	36081	447	0.742	Ig/FN3:444;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*421>kinase*1>Ig/FN3*19
+c0d9564412e00e260082562cfe2f8e9c	36067	498	0.792	Ig/FN3:495;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*3>titin*2>Ig/FN3*472>kinase*1>Ig/FN3*20
+ea5a26fcea9563071bc5de1c0c2f1839	36061	544	0.827	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+ac029da7c92758b7d8d969179e612a46	36057	365	0.671	Ig/FN3:364;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*349>kinase*1>Ig/FN3*15
+ac179c37a5bc05b5ef98ba6f46abda55	36035	544	0.827	Ig/FN3:541;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*519>kinase*1>Ig/FN3*18
+e9ed7f0d99d8318da4fe93f4604d88bd	36026	459	0.743	Ig/FN3:456;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*429>kinase*1>Ig/FN3*22
+3cde953321013bdd8d2bab00e79b69be	36008	474	0.761	Ig/FN3:471;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*4>titin*2>Ig/FN3*447>kinase*1>Ig/FN3*20
+f5a8f3d283accf38ba47bdb084af2199	35997	469	0.754	Ig/FN3:466;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*440>kinase*1>Ig/FN3*21
+78f8440e1349c8d3b0f6d7a06df2e367	35994	467	0.754	Ig/FN3:464;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*438>kinase*1>Ig/FN3*21
+e112023ec80cc7c6c32d660aef5e8974	35993	467	0.754	Ig/FN3:464;titin:2;kinase:1	Ig/FN3-repeat (titin-like)	Ig/FN3*5>titin*2>Ig/FN3*438>kinase*1>Ig/FN3*21

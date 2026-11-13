@@ -1,0 +1,1375 @@
+{
+ "v3": {
+  "a_deletion/ill": {
+   "truth": "misassembly: 10 kb of the genome missing (deletion misjoin at the junction)",
+   "final_verdict": "against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "caught",
+   "illumina_verdict": "against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": null,
+   "break_boundaries": [
+    4305001
+   ],
+   "clip_pileups_continuity_lost": 1,
+   "max_discordant_frac_window": 0.194,
+   "depth_ratio": 1.03,
+   "min_spanning_testable": 0,
+   "unplaceable_blocks": [
+    [
+     4338431,
+     4339090,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "a_deletion/illont": {
+   "truth": "misassembly: 10 kb of the genome missing (deletion misjoin at the junction)",
+   "final_verdict": "against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "caught",
+   "illumina_verdict": "against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": "against: 1 single-copy boundary(ies) with 0 spanning reads between well-covered windows; 2 clip pile-up(s) where physical coverage drops",
+   "break_boundaries": [
+    4305001
+   ],
+   "clip_pileups_continuity_lost": 1,
+   "max_discordant_frac_window": 0.194,
+   "depth_ratio": 1.03,
+   "min_spanning_testable": 0,
+   "unplaceable_blocks": [
+    [
+     4338431,
+     4339090,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": [
+    {
+     "start": 4338431,
+     "end": 4339090,
+     "ont_reads_spanning": 26
+    }
+   ],
+   "ont_clip_pileups_continuity_lost": 2,
+   "reads": [
+    15565314,
+    36579
+   ]
+  },
+  "b_collapse/ill": {
+   "truth": "misassembly: a two-copy 4.55-kb repeat collapsed to one copy (reads of both copies pile here)",
+   "final_verdict": "supported by the reads",
+   "outcome": "MISSED (passes)",
+   "illumina_verdict": "supported by the reads",
+   "ont_verdict": null,
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.07,
+   "depth_ratio": 0.98,
+   "min_spanning_testable": 207,
+   "unplaceable_blocks": [],
+   "window_repeat_blocks": [],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "b_collapse/illont": {
+   "truth": "misassembly: a two-copy 4.55-kb repeat collapsed to one copy (reads of both copies pile here)",
+   "final_verdict": "supported by the reads",
+   "outcome": "MISSED (passes)",
+   "illumina_verdict": "supported by the reads",
+   "ont_verdict": "supported by the reads",
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.07,
+   "depth_ratio": 0.98,
+   "min_spanning_testable": 207,
+   "unplaceable_blocks": [],
+   "window_repeat_blocks": [],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": [],
+   "ont_clip_pileups_continuity_lost": 0,
+   "reads": [
+    15565314,
+    36579
+   ]
+  },
+  "c_expansion/ill": {
+   "truth": "misassembly: a 5-kb unique segment present twice in tandem (extra copy not in the genome)",
+   "final_verdict": "supported outside 9.37 kb of repeat (no long reads to resolve it)",
+   "outcome": "not caught as a break; grade left unchanged",
+   "illumina_verdict": "supported by the reads [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": null,
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.016,
+   "depth_ratio": 1.09,
+   "min_spanning_testable": 205,
+   "unplaceable_blocks": [
+    [
+     5848321,
+     5852690,
+     0,
+     "counted"
+    ],
+    [
+     5853321,
+     5857690,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 5849001,
+     "end": 5857000,
+     "kb": 8.0,
+     "all_mapq_depth": 133.9
+    }
+   ],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "c_expansion/illont": {
+   "truth": "misassembly: a 5-kb unique segment present twice in tandem (extra copy not in the genome)",
+   "final_verdict": "supported outside 9.37 kb of repeat; long reads do not span it",
+   "outcome": "not caught as a break; grade left unchanged",
+   "illumina_verdict": "supported by the reads [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": "inconclusive: weakest single-copy boundary spanned by 0",
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.016,
+   "depth_ratio": 1.09,
+   "min_spanning_testable": 205,
+   "unplaceable_blocks": [
+    [
+     5848321,
+     5852690,
+     0,
+     "counted"
+    ],
+    [
+     5853321,
+     5857690,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 5849001,
+     "end": 5857000,
+     "kb": 8.0,
+     "all_mapq_depth": 133.9
+    }
+   ],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": [
+    {
+     "start": 5849001,
+     "end": 5857000,
+     "ont_reads_spanning": 0
+    },
+    {
+     "start": 5848321,
+     "end": 5852690,
+     "ont_reads_spanning": 0
+    },
+    {
+     "start": 5853321,
+     "end": 5857690,
+     "ont_reads_spanning": 0
+    }
+   ],
+   "ont_clip_pileups_continuity_lost": 0,
+   "reads": [
+    15565314,
+    36579
+   ]
+  },
+  "d_rrna_correct/ill": {
+   "truth": "correct assembly; contains one copy of a three-copy rRNA operon repeat",
+   "final_verdict": "supported outside 4.89 kb of repeat (no long reads to resolve it)",
+   "outcome": "correct, repeat left unresolved (grade unchanged)",
+   "illumina_verdict": "supported by the reads [4.0 kb in multi-copy block(s) that short reads cannot place; 4.26 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": null,
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.024,
+   "depth_ratio": 0.97,
+   "min_spanning_testable": 201,
+   "unplaceable_blocks": [
+    [
+     263541,
+     264760,
+     0,
+     "counted"
+    ],
+    [
+     265391,
+     268430,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 264001,
+     "end": 268000,
+     "kb": 4.0,
+     "all_mapq_depth": 316.5
+    }
+   ],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "d_rrna_correct/illont": {
+   "truth": "correct assembly; contains one copy of a three-copy rRNA operon repeat",
+   "final_verdict": "supported by the reads (short reads; the 4.89 kb repeat block(s) spanned by 13+ long reads)",
+   "outcome": "correct",
+   "illumina_verdict": "supported by the reads [4.0 kb in multi-copy block(s) that short reads cannot place; 4.26 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": "supported by the reads",
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.024,
+   "depth_ratio": 0.97,
+   "min_spanning_testable": 201,
+   "unplaceable_blocks": [
+    [
+     263541,
+     264760,
+     0,
+     "counted"
+    ],
+    [
+     265391,
+     268430,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 264001,
+     "end": 268000,
+     "kb": 4.0,
+     "all_mapq_depth": 316.5
+    }
+   ],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": [
+    {
+     "start": 264001,
+     "end": 268000,
+     "ont_reads_spanning": 13
+    },
+    {
+     "start": 263541,
+     "end": 264760,
+     "ont_reads_spanning": 18
+    },
+    {
+     "start": 265391,
+     "end": 268430,
+     "ont_reads_spanning": 16
+    }
+   ],
+   "ont_clip_pileups_continuity_lost": 0,
+   "reads": [
+    15565314,
+    36579
+   ]
+  },
+  "e_segdup_correct/ill": {
+   "truth": "correct assembly; contains a 13.8-kb segmental repeat (second copy at 2.94 Mb, reversed)",
+   "final_verdict": "inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "not confirmed (inconclusive; grade unchanged)",
+   "illumina_verdict": "inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": null,
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.014,
+   "depth_ratio": 1.04,
+   "min_spanning_testable": 49,
+   "unplaceable_blocks": [
+    [
+     6911391,
+     6911810,
+     0,
+     "counted"
+    ],
+    [
+     6912441,
+     6912740,
+     0,
+     "counted"
+    ],
+    [
+     6933481,
+     6937040,
+     0,
+     "counted"
+    ],
+    [
+     6937891,
+     6946650,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 6934001,
+     "end": 6946000,
+     "kb": 12.0,
+     "all_mapq_depth": 230.7
+    }
+   ],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "e_segdup_correct/illont": {
+   "truth": "correct assembly; contains a 13.8-kb segmental repeat (second copy at 2.94 Mb, reversed)",
+   "final_verdict": "inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "not confirmed (inconclusive; grade unchanged)",
+   "illumina_verdict": "inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": "supported by the reads",
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.014,
+   "depth_ratio": 1.04,
+   "min_spanning_testable": 49,
+   "unplaceable_blocks": [
+    [
+     6911391,
+     6911810,
+     0,
+     "counted"
+    ],
+    [
+     6912441,
+     6912740,
+     0,
+     "counted"
+    ],
+    [
+     6933481,
+     6937040,
+     0,
+     "counted"
+    ],
+    [
+     6937891,
+     6946650,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 6934001,
+     "end": 6946000,
+     "kb": 12.0,
+     "all_mapq_depth": 230.7
+    }
+   ],
+   "copy_number_blocks": null,
+   "ont_blocks_spanned": [
+    {
+     "start": 6934001,
+     "end": 6946000,
+     "ont_reads_spanning": 7
+    },
+    {
+     "start": 6911391,
+     "end": 6911810,
+     "ont_reads_spanning": 36
+    },
+    {
+     "start": 6912441,
+     "end": 6912740,
+     "ont_reads_spanning": 34
+    },
+    {
+     "start": 6933481,
+     "end": 6937040,
+     "ont_reads_spanning": 14
+    },
+    {
+     "start": 6937891,
+     "end": 6946650,
+     "ont_reads_spanning": 9
+    }
+   ],
+   "ont_clip_pileups_continuity_lost": 0,
+   "reads": [
+    15565314,
+    36579
+   ]
+  }
+ },
+ "v3.1": {
+  "a_deletion/ill": {
+   "truth": "misassembly: 10 kb of the genome missing (deletion misjoin at the junction)",
+   "final_verdict": "against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "caught",
+   "illumina_verdict": "against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": null,
+   "break_boundaries": [
+    4305001
+   ],
+   "clip_pileups_continuity_lost": 1,
+   "max_discordant_frac_window": 0.194,
+   "depth_ratio": 1.03,
+   "min_spanning_testable": 0,
+   "unplaceable_blocks": [
+    [
+     4338431,
+     4339090,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [],
+   "copy_number_blocks": [],
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "a_deletion/illont": {
+   "truth": "misassembly: 10 kb of the genome missing (deletion misjoin at the junction)",
+   "final_verdict": "against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "caught",
+   "illumina_verdict": "against: 1 single-copy boundary(ies) with 0 spanning pairs between well-covered windows; 1 clip pile-up(s) where physical coverage drops; discordant pairs up to 19% in a window [0.66 kb in 1 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": "against: 1 single-copy boundary(ies) with 0 spanning reads between well-covered windows; 2 clip pile-up(s) where physical coverage drops",
+   "break_boundaries": [
+    4305001
+   ],
+   "clip_pileups_continuity_lost": 1,
+   "max_discordant_frac_window": 0.194,
+   "depth_ratio": 1.03,
+   "min_spanning_testable": 0,
+   "unplaceable_blocks": [
+    [
+     4338431,
+     4339090,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [],
+   "copy_number_blocks": [],
+   "ont_blocks_spanned": [
+    {
+     "start": 4338431,
+     "end": 4339090,
+     "ont_reads_spanning": 26
+    }
+   ],
+   "ont_clip_pileups_continuity_lost": 2,
+   "reads": [
+    15565314,
+    36579
+   ]
+  },
+  "b_collapse/ill": {
+   "truth": "misassembly: a two-copy 4.55-kb repeat collapsed to one copy (reads of both copies pile here)",
+   "final_verdict": "against: copy-number anomaly (v3.1): 5 kb at 1.98x, excess copies (collapsed repeat?)",
+   "outcome": "caught",
+   "illumina_verdict": "against: copy-number anomaly (v3.1): 5 kb at 1.98x, excess copies (collapsed repeat?)",
+   "ont_verdict": null,
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.07,
+   "depth_ratio": 0.98,
+   "min_spanning_testable": 207,
+   "unplaceable_blocks": [],
+   "window_repeat_blocks": [],
+   "copy_number_blocks": [
+    {
+     "start": 90001,
+     "end": 95000,
+     "windows": 5,
+     "depth_ratio": 1.98,
+     "kind": "excess copies (collapsed repeat?)"
+    }
+   ],
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "b_collapse/illont": {
+   "truth": "misassembly: a two-copy 4.55-kb repeat collapsed to one copy (reads of both copies pile here)",
+   "final_verdict": "against: copy-number anomaly (v3.1): 5 kb at 1.98x, excess copies (collapsed repeat?)",
+   "outcome": "caught",
+   "illumina_verdict": "against: copy-number anomaly (v3.1): 5 kb at 1.98x, excess copies (collapsed repeat?)",
+   "ont_verdict": "supported by the reads",
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.07,
+   "depth_ratio": 0.98,
+   "min_spanning_testable": 207,
+   "unplaceable_blocks": [],
+   "window_repeat_blocks": [],
+   "copy_number_blocks": [
+    {
+     "start": 90001,
+     "end": 95000,
+     "windows": 5,
+     "depth_ratio": 1.98,
+     "kind": "excess copies (collapsed repeat?)"
+    }
+   ],
+   "ont_blocks_spanned": [],
+   "ont_clip_pileups_continuity_lost": 0,
+   "reads": [
+    15565314,
+    36579
+   ]
+  },
+  "c_expansion/ill": {
+   "truth": "misassembly: a 5-kb unique segment present twice in tandem (extra copy not in the genome)",
+   "final_verdict": "against: copy-number anomaly (v3.1): 10 kb at 0.49x, deficit (expanded or absent?) [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "caught",
+   "illumina_verdict": "against: copy-number anomaly (v3.1): 10 kb at 0.49x, deficit (expanded or absent?) [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": null,
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.016,
+   "depth_ratio": 1.09,
+   "min_spanning_testable": 205,
+   "unplaceable_blocks": [
+    [
+     5848321,
+     5852690,
+     0,
+     "counted"
+    ],
+    [
+     5853321,
+     5857690,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 5849001,
+     "end": 5857000,
+     "kb": 8.0,
+     "all_mapq_depth": 133.9,
+     "all_mapq_depth_ratio": 0.46
+    }
+   ],
+   "copy_number_blocks": [
+    {
+     "start": 5848001,
+     "end": 5858000,
+     "windows": 10,
+     "depth_ratio": 0.49,
+     "kind": "deficit (expanded or absent?)"
+    }
+   ],
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "c_expansion/illont": {
+   "truth": "misassembly: a 5-kb unique segment present twice in tandem (extra copy not in the genome)",
+   "final_verdict": "against: copy-number anomaly (v3.1): 10 kb at 0.49x, deficit (expanded or absent?) [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "caught",
+   "illumina_verdict": "against: copy-number anomaly (v3.1): 10 kb at 0.49x, deficit (expanded or absent?) [8.0 kb in multi-copy block(s) that short reads cannot place; 8.74 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": "inconclusive: weakest single-copy boundary spanned by 0",
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.016,
+   "depth_ratio": 1.09,
+   "min_spanning_testable": 205,
+   "unplaceable_blocks": [
+    [
+     5848321,
+     5852690,
+     0,
+     "counted"
+    ],
+    [
+     5853321,
+     5857690,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 5849001,
+     "end": 5857000,
+     "kb": 8.0,
+     "all_mapq_depth": 133.9,
+     "all_mapq_depth_ratio": 0.46
+    }
+   ],
+   "copy_number_blocks": [
+    {
+     "start": 5848001,
+     "end": 5858000,
+     "windows": 10,
+     "depth_ratio": 0.49,
+     "kind": "deficit (expanded or absent?)"
+    }
+   ],
+   "ont_blocks_spanned": [
+    {
+     "start": 5849001,
+     "end": 5857000,
+     "ont_reads_spanning": 0
+    },
+    {
+     "start": 5848321,
+     "end": 5852690,
+     "ont_reads_spanning": 0
+    },
+    {
+     "start": 5853321,
+     "end": 5857690,
+     "ont_reads_spanning": 0
+    }
+   ],
+   "ont_clip_pileups_continuity_lost": 0,
+   "reads": [
+    15565314,
+    36579
+   ]
+  },
+  "d_rrna_correct/ill": {
+   "truth": "correct assembly; contains one copy of a three-copy rRNA operon repeat",
+   "final_verdict": "supported outside 4.89 kb of repeat (no long reads to resolve it)",
+   "outcome": "correct, repeat left unresolved (grade unchanged)",
+   "illumina_verdict": "supported by the reads [4.0 kb in multi-copy block(s) that short reads cannot place; 4.26 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": null,
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.024,
+   "depth_ratio": 0.97,
+   "min_spanning_testable": 201,
+   "unplaceable_blocks": [
+    [
+     263541,
+     264760,
+     0,
+     "counted"
+    ],
+    [
+     265391,
+     268430,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 264001,
+     "end": 268000,
+     "kb": 4.0,
+     "all_mapq_depth": 316.5,
+     "all_mapq_depth_ratio": 1.23
+    }
+   ],
+   "copy_number_blocks": [],
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "d_rrna_correct/illont": {
+   "truth": "correct assembly; contains one copy of a three-copy rRNA operon repeat",
+   "final_verdict": "supported by the reads (short reads; the 4.89 kb repeat block(s) spanned by 13+ long reads)",
+   "outcome": "correct",
+   "illumina_verdict": "supported by the reads [4.0 kb in multi-copy block(s) that short reads cannot place; 4.26 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": "supported by the reads",
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.024,
+   "depth_ratio": 0.97,
+   "min_spanning_testable": 201,
+   "unplaceable_blocks": [
+    [
+     263541,
+     264760,
+     0,
+     "counted"
+    ],
+    [
+     265391,
+     268430,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 264001,
+     "end": 268000,
+     "kb": 4.0,
+     "all_mapq_depth": 316.5,
+     "all_mapq_depth_ratio": 1.23
+    }
+   ],
+   "copy_number_blocks": [],
+   "ont_blocks_spanned": [
+    {
+     "start": 264001,
+     "end": 268000,
+     "ont_reads_spanning": 13
+    },
+    {
+     "start": 263541,
+     "end": 264760,
+     "ont_reads_spanning": 18
+    },
+    {
+     "start": 265391,
+     "end": 268430,
+     "ont_reads_spanning": 16
+    }
+   ],
+   "ont_clip_pileups_continuity_lost": 0,
+   "reads": [
+    15565314,
+    36579
+   ]
+  },
+  "e_segdup_correct/ill": {
+   "truth": "correct assembly; contains a 13.8-kb segmental repeat (second copy at 2.94 Mb, reversed)",
+   "final_verdict": "inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "not confirmed (inconclusive; grade unchanged)",
+   "illumina_verdict": "inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": null,
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.014,
+   "depth_ratio": 1.04,
+   "min_spanning_testable": 49,
+   "unplaceable_blocks": [
+    [
+     6911391,
+     6911810,
+     0,
+     "counted"
+    ],
+    [
+     6912441,
+     6912740,
+     0,
+     "counted"
+    ],
+    [
+     6933481,
+     6937040,
+     0,
+     "counted"
+    ],
+    [
+     6937891,
+     6946650,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 6934001,
+     "end": 6946000,
+     "kb": 12.0,
+     "all_mapq_depth": 230.7,
+     "all_mapq_depth_ratio": 0.83
+    }
+   ],
+   "copy_number_blocks": [],
+   "ont_blocks_spanned": null,
+   "ont_clip_pileups_continuity_lost": null,
+   "reads": [
+    15565314,
+    null
+   ]
+  },
+  "e_segdup_correct/illont": {
+   "truth": "correct assembly; contains a 13.8-kb segmental repeat (second copy at 2.94 Mb, reversed)",
+   "final_verdict": "inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "outcome": "not confirmed (inconclusive; grade unchanged)",
+   "illumina_verdict": "inconclusive: only 98.7% of single-copy gene bases at depth >= 5 [12.0 kb in multi-copy block(s) that short reads cannot place; 13.04 kb in 4 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "ont_verdict": "supported by the reads",
+   "break_boundaries": [],
+   "clip_pileups_continuity_lost": 0,
+   "max_discordant_frac_window": 0.014,
+   "depth_ratio": 1.04,
+   "min_spanning_testable": 49,
+   "unplaceable_blocks": [
+    [
+     6911391,
+     6911810,
+     0,
+     "counted"
+    ],
+    [
+     6912441,
+     6912740,
+     0,
+     "counted"
+    ],
+    [
+     6933481,
+     6937040,
+     0,
+     "counted"
+    ],
+    [
+     6937891,
+     6946650,
+     0,
+     "counted"
+    ]
+   ],
+   "window_repeat_blocks": [
+    {
+     "start": 6934001,
+     "end": 6946000,
+     "kb": 12.0,
+     "all_mapq_depth": 230.7,
+     "all_mapq_depth_ratio": 0.83
+    }
+   ],
+   "copy_number_blocks": [],
+   "ont_blocks_spanned": [
+    {
+     "start": 6934001,
+     "end": 6946000,
+     "ont_reads_spanning": 7
+    },
+    {
+     "start": 6911391,
+     "end": 6911810,
+     "ont_reads_spanning": 36
+    },
+    {
+     "start": 6912441,
+     "end": 6912740,
+     "ont_reads_spanning": 34
+    },
+    {
+     "start": 6933481,
+     "end": 6937040,
+     "ont_reads_spanning": 14
+    },
+    {
+     "start": 6937891,
+     "end": 6946650,
+     "ont_reads_spanning": 9
+    }
+   ],
+   "ont_clip_pileups_continuity_lost": 0,
+   "reads": [
+    15565314,
+    36579
+   ]
+  }
+ },
+ "rejudged_real_v3.1": {
+  "nocardia_NBC_00881_WSY60125": {
+   "verdict_v3": "supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)",
+   "verdict_v3.1": "supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)",
+   "copy_number_blocks": [],
+   "reference_depth": 252.0,
+   "repeat_block_all_mapq_depth_ratio": [
+    [
+     6666124,
+     6666573,
+     0.95
+    ],
+    [
+     6668234,
+     6668883,
+     0.94
+    ]
+   ]
+  },
+  "nocardia_NBC_01730_WSG58785": {
+   "verdict_v3": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "verdict_v3.1": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "copy_number_blocks": [],
+   "reference_depth": 274.5,
+   "repeat_block_all_mapq_depth_ratio": [
+    [
+     6937723,
+     6946722,
+     0.84
+    ],
+    [
+     6937893,
+     6946652,
+     0.84
+    ]
+   ]
+  },
+  "omnitrophota_DAOOUB_HOW35280": {
+   "verdict_v3": "inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "verdict_v3.1": "inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "copy_number_blocks": [],
+   "reference_depth": 45.6,
+   "repeat_block_all_mapq_depth_ratio": [
+    [
+     530381,
+     531050,
+     0.95
+    ],
+    [
+     540751,
+     541420,
+     0.97
+    ]
+   ]
+  },
+  "omnitrophota_DAOPMG_HPD84636": {
+   "verdict_v3": "supported outside 1.3 kb of repeat (no long reads to resolve it)",
+   "verdict_v3.1": "supported outside 1.3 kb of repeat (no long reads to resolve it)",
+   "copy_number_blocks": [],
+   "reference_depth": 52.7,
+   "repeat_block_all_mapq_depth_ratio": [
+    [
+     1071861,
+     1072510,
+     0.97
+    ],
+    [
+     1082221,
+     1082870,
+     0.86
+    ]
+   ]
+  },
+  "omnitrophota_DAOTDT_HRZ03494": {
+   "verdict_v3": "supported outside 1.32 kb of repeat (no long reads to resolve it)",
+   "verdict_v3.1": "supported outside 1.32 kb of repeat (no long reads to resolve it)",
+   "copy_number_blocks": [],
+   "reference_depth": 40.2,
+   "repeat_block_all_mapq_depth_ratio": [
+    [
+     1073304,
+     1073963,
+     0.94
+    ],
+    [
+     1083664,
+     1084323,
+     0.88
+    ]
+   ]
+  }
+ },
+ "sensitivity": [
+  {
+   "setting": "default",
+   "job": "omnitrophota_DAOOUB_HOW35280",
+   "accession": "UPI002CD77A7D",
+   "final_verdict": "inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "default",
+   "job": "omnitrophota_DAOPMG_HPD84636",
+   "accession": "UPI002D0F8BFA",
+   "final_verdict": "supported outside 1.3 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "default",
+   "job": "omnitrophota_DAOTDT_HRZ03494",
+   "accession": "UPI002B62E083",
+   "final_verdict": "supported outside 1.32 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "default",
+   "job": "nocardia_NBC_01730_WSG58785",
+   "accession": "WP_327112628.1",
+   "final_verdict": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "grade": "A",
+   "grade_now": "A",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "default",
+   "job": "nocardia_NBC_00881_WSY60125",
+   "accession": "WP_406270362.1",
+   "final_verdict": "supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "C"
+  },
+  {
+   "setting": "min_pairs_per_boundary=3",
+   "job": "omnitrophota_DAOOUB_HOW35280",
+   "accession": "UPI002CD77A7D",
+   "final_verdict": "supported outside 1.28 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_pairs_per_boundary=3",
+   "job": "omnitrophota_DAOPMG_HPD84636",
+   "accession": "UPI002D0F8BFA",
+   "final_verdict": "supported outside 1.25 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_pairs_per_boundary=3",
+   "job": "omnitrophota_DAOTDT_HRZ03494",
+   "accession": "UPI002B62E083",
+   "final_verdict": "supported outside 1.25 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_pairs_per_boundary=3",
+   "job": "nocardia_NBC_01730_WSG58785",
+   "accession": "WP_327112628.1",
+   "final_verdict": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "grade": "A",
+   "grade_now": "A",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_pairs_per_boundary=3",
+   "job": "nocardia_NBC_00881_WSY60125",
+   "accession": "WP_406270362.1",
+   "final_verdict": "supported by the reads (short reads; the 1.09 kb repeat block(s) spanned by 64+ long reads)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "C"
+  },
+  {
+   "setting": "min_pairs_per_boundary=10",
+   "job": "omnitrophota_DAOOUB_HOW35280",
+   "accession": "UPI002CD77A7D",
+   "final_verdict": "supported outside 1.46 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_pairs_per_boundary=10",
+   "job": "omnitrophota_DAOPMG_HPD84636",
+   "accession": "UPI002D0F8BFA",
+   "final_verdict": "supported outside 1.41 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_pairs_per_boundary=10",
+   "job": "omnitrophota_DAOTDT_HRZ03494",
+   "accession": "UPI002B62E083",
+   "final_verdict": "supported outside 1.48 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_pairs_per_boundary=10",
+   "job": "nocardia_NBC_01730_WSG58785",
+   "accession": "WP_327112628.1",
+   "final_verdict": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "grade": "A",
+   "grade_now": "A",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_pairs_per_boundary=10",
+   "job": "nocardia_NBC_00881_WSY60125",
+   "accession": "WP_406270362.1",
+   "final_verdict": "supported outside 1.13 kb of repeat; long reads do not span it (or it was not measured)",
+   "grade": "C",
+   "grade_now": "B",
+   "rna_stage_grade": "C"
+  },
+  {
+   "setting": "min_unique_depth_illumina=5",
+   "job": "omnitrophota_DAOOUB_HOW35280",
+   "accession": "UPI002CD77A7D",
+   "final_verdict": "inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_unique_depth_illumina=5",
+   "job": "omnitrophota_DAOPMG_HPD84636",
+   "accession": "UPI002D0F8BFA",
+   "final_verdict": "supported outside 1.3 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_unique_depth_illumina=5",
+   "job": "omnitrophota_DAOTDT_HRZ03494",
+   "accession": "UPI002B62E083",
+   "final_verdict": "supported outside 1.32 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_unique_depth_illumina=5",
+   "job": "nocardia_NBC_01730_WSG58785",
+   "accession": "WP_327112628.1",
+   "final_verdict": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "grade": "A",
+   "grade_now": "A",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_unique_depth_illumina=5",
+   "job": "nocardia_NBC_00881_WSY60125",
+   "accession": "WP_406270362.1",
+   "final_verdict": "supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "C"
+  },
+  {
+   "setting": "min_unique_depth_illumina=20",
+   "job": "omnitrophota_DAOOUB_HOW35280",
+   "accession": "UPI002CD77A7D",
+   "final_verdict": "inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_unique_depth_illumina=20",
+   "job": "omnitrophota_DAOPMG_HPD84636",
+   "accession": "UPI002D0F8BFA",
+   "final_verdict": "supported outside 1.3 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_unique_depth_illumina=20",
+   "job": "omnitrophota_DAOTDT_HRZ03494",
+   "accession": "UPI002B62E083",
+   "final_verdict": "supported outside 1.32 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_unique_depth_illumina=20",
+   "job": "nocardia_NBC_01730_WSG58785",
+   "accession": "WP_327112628.1",
+   "final_verdict": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "grade": "A",
+   "grade_now": "A",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_unique_depth_illumina=20",
+   "job": "nocardia_NBC_00881_WSY60125",
+   "accession": "WP_406270362.1",
+   "final_verdict": "supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "C"
+  },
+  {
+   "setting": "min_frac_depth5=0.95",
+   "job": "omnitrophota_DAOOUB_HOW35280",
+   "accession": "UPI002CD77A7D",
+   "final_verdict": "inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_frac_depth5=0.95",
+   "job": "omnitrophota_DAOPMG_HPD84636",
+   "accession": "UPI002D0F8BFA",
+   "final_verdict": "supported outside 1.3 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_frac_depth5=0.95",
+   "job": "omnitrophota_DAOTDT_HRZ03494",
+   "accession": "UPI002B62E083",
+   "final_verdict": "supported outside 1.32 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_frac_depth5=0.95",
+   "job": "nocardia_NBC_01730_WSG58785",
+   "accession": "WP_327112628.1",
+   "final_verdict": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "grade": "A",
+   "grade_now": "A",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "min_frac_depth5=0.95",
+   "job": "nocardia_NBC_00881_WSY60125",
+   "accession": "WP_406270362.1",
+   "final_verdict": "supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "C"
+  },
+  {
+   "setting": "max_discordant_frac=0.05",
+   "job": "omnitrophota_DAOOUB_HOW35280",
+   "accession": "UPI002CD77A7D",
+   "final_verdict": "inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "max_discordant_frac=0.05",
+   "job": "omnitrophota_DAOPMG_HPD84636",
+   "accession": "UPI002D0F8BFA",
+   "final_verdict": "supported outside 1.3 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "max_discordant_frac=0.05",
+   "job": "omnitrophota_DAOTDT_HRZ03494",
+   "accession": "UPI002B62E083",
+   "final_verdict": "supported outside 1.32 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "max_discordant_frac=0.05",
+   "job": "nocardia_NBC_01730_WSG58785",
+   "accession": "WP_327112628.1",
+   "final_verdict": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "grade": "A",
+   "grade_now": "A",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "max_discordant_frac=0.05",
+   "job": "nocardia_NBC_00881_WSY60125",
+   "accession": "WP_406270362.1",
+   "final_verdict": "supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "C"
+  },
+  {
+   "setting": "max_discordant_frac=0.2",
+   "job": "omnitrophota_DAOOUB_HOW35280",
+   "accession": "UPI002CD77A7D",
+   "final_verdict": "inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "max_discordant_frac=0.2",
+   "job": "omnitrophota_DAOPMG_HPD84636",
+   "accession": "UPI002D0F8BFA",
+   "final_verdict": "supported outside 1.3 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "max_discordant_frac=0.2",
+   "job": "omnitrophota_DAOTDT_HRZ03494",
+   "accession": "UPI002B62E083",
+   "final_verdict": "supported outside 1.32 kb of repeat (no long reads to resolve it)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "max_discordant_frac=0.2",
+   "job": "nocardia_NBC_01730_WSG58785",
+   "accession": "WP_327112628.1",
+   "final_verdict": "supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)",
+   "grade": "A",
+   "grade_now": "A",
+   "rna_stage_grade": "B"
+  },
+  {
+   "setting": "max_discordant_frac=0.2",
+   "job": "nocardia_NBC_00881_WSY60125",
+   "accession": "WP_406270362.1",
+   "final_verdict": "supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)",
+   "grade": "B",
+   "grade_now": "B",
+   "rna_stage_grade": "C"
+  }
+ ],
+ "notes": [
+  "v3.1 (copy-number test) was added after the v3 controls missed the collapsed repeat (passed as supported) and did not call the expansion a break",
+  "sensitivity.tsv was run with the v3 rules by --reverdict (no reads); NBC_00881 at min_pairs=10 becomes 'supported outside' because the unplaceable stretches grow and their long-read crossing cannot be recounted from the stored result",
+  "control regions are not genes: the ORF-consensus part of the check is not meaningful there; the in-silico chimeric control was skipped for them"
+ ]
+}

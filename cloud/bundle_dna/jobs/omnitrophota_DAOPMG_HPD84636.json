@@ -1,0 +1,17 @@
+{
+ "job_id": "omnitrophota_DAOPMG_HPD84636",
+ "label": "Omnitrophota MAG AMR_MDS_3205 HPD84636 (85,803 aa)",
+ "assembly_url": "https://ftp.ebi.ac.uk/pub/databases/ena/wgs/public/dao/DAOPMG01.fasta.gz",
+ "contig": "DAOPMG010000001.1",
+ "gene_start": 848101,
+ "gene_end": 1105512,
+ "strand": "+",
+ "ont": [],
+ "illumina": [
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR500/000/SRR5007150/SRR5007150_1.fastq.gz",
+  "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR500/000/SRR5007150/SRR5007150_2.fastq.gz"
+ ],
+ "illumina_bytes": 6988219669,
+ "ont_bytes": 0,
+ "illumina_expected_reads": 78636086
+}

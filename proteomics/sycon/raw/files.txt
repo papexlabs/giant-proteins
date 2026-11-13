@@ -1,0 +1,8 @@
+GW1999_1_2804.raw 608262171  ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2025/03/PXD060105/GW1999_1_2804.raw
+GW1999_P_INSOL.raw 713104174  ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2025/03/PXD060105/GW1999_P_INSOL.raw
+GW1999_3_2804.raw 732699913  ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2025/03/PXD060105/GW1999_3_2804.raw
+Sponge_Sycon_2023_HBWS01_CDS.fasta 29277567  ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2025/03/PXD060105/Sponge_Sycon_2023_HBWS01_CDS.fasta
+F014903.dat 514916312  ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2025/03/PXD060105/F014903.dat
+Protein_Report_for_Sycon_newDB_mergeP_April_1123.xls 11422  ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2025/03/PXD060105/Protein_Report_for_Sycon_newDB_mergeP_April_1123.xls
+GW1999_2_2804.raw 755583581  ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2025/03/PXD060105/GW1999_2_2804.raw
+GW1999_INSOL_P_1_10.raw 670470474  ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2025/03/PXD060105/GW1999_INSOL_P_1_10.raw

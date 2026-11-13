@@ -1,0 +1,41 @@
+setting	job	accession	final_verdict	grade	grade_now	rna_stage_grade
+default	omnitrophota_DAOOUB_HOW35280	UPI002CD77A7D	inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	B	B	B
+default	omnitrophota_DAOPMG_HPD84636	UPI002D0F8BFA	supported outside 1.3 kb of repeat (no long reads to resolve it)	B	B	B
+default	omnitrophota_DAOTDT_HRZ03494	UPI002B62E083	supported outside 1.32 kb of repeat (no long reads to resolve it)	B	B	B
+default	nocardia_NBC_01730_WSG58785	WP_327112628.1	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	A	A	B
+default	nocardia_NBC_00881_WSY60125	WP_406270362.1	supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)	B	B	C
+min_pairs_per_boundary=3	omnitrophota_DAOOUB_HOW35280	UPI002CD77A7D	supported outside 1.28 kb of repeat (no long reads to resolve it)	B	B	B
+min_pairs_per_boundary=3	omnitrophota_DAOPMG_HPD84636	UPI002D0F8BFA	supported outside 1.25 kb of repeat (no long reads to resolve it)	B	B	B
+min_pairs_per_boundary=3	omnitrophota_DAOTDT_HRZ03494	UPI002B62E083	supported outside 1.25 kb of repeat (no long reads to resolve it)	B	B	B
+min_pairs_per_boundary=3	nocardia_NBC_01730_WSG58785	WP_327112628.1	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	A	A	B
+min_pairs_per_boundary=3	nocardia_NBC_00881_WSY60125	WP_406270362.1	supported by the reads (short reads; the 1.09 kb repeat block(s) spanned by 64+ long reads)	B	B	C
+min_pairs_per_boundary=10	omnitrophota_DAOOUB_HOW35280	UPI002CD77A7D	supported outside 1.46 kb of repeat (no long reads to resolve it)	B	B	B
+min_pairs_per_boundary=10	omnitrophota_DAOPMG_HPD84636	UPI002D0F8BFA	supported outside 1.41 kb of repeat (no long reads to resolve it)	B	B	B
+min_pairs_per_boundary=10	omnitrophota_DAOTDT_HRZ03494	UPI002B62E083	supported outside 1.48 kb of repeat (no long reads to resolve it)	B	B	B
+min_pairs_per_boundary=10	nocardia_NBC_01730_WSG58785	WP_327112628.1	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	A	A	B
+min_pairs_per_boundary=10	nocardia_NBC_00881_WSY60125	WP_406270362.1	supported outside 1.13 kb of repeat; long reads do not span it (or it was not measured)	C	B	C
+min_unique_depth_illumina=5	omnitrophota_DAOOUB_HOW35280	UPI002CD77A7D	inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	B	B	B
+min_unique_depth_illumina=5	omnitrophota_DAOPMG_HPD84636	UPI002D0F8BFA	supported outside 1.3 kb of repeat (no long reads to resolve it)	B	B	B
+min_unique_depth_illumina=5	omnitrophota_DAOTDT_HRZ03494	UPI002B62E083	supported outside 1.32 kb of repeat (no long reads to resolve it)	B	B	B
+min_unique_depth_illumina=5	nocardia_NBC_01730_WSG58785	WP_327112628.1	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	A	A	B
+min_unique_depth_illumina=5	nocardia_NBC_00881_WSY60125	WP_406270362.1	supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)	B	B	C
+min_unique_depth_illumina=20	omnitrophota_DAOOUB_HOW35280	UPI002CD77A7D	inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	B	B	B
+min_unique_depth_illumina=20	omnitrophota_DAOPMG_HPD84636	UPI002D0F8BFA	supported outside 1.3 kb of repeat (no long reads to resolve it)	B	B	B
+min_unique_depth_illumina=20	omnitrophota_DAOTDT_HRZ03494	UPI002B62E083	supported outside 1.32 kb of repeat (no long reads to resolve it)	B	B	B
+min_unique_depth_illumina=20	nocardia_NBC_01730_WSG58785	WP_327112628.1	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	A	A	B
+min_unique_depth_illumina=20	nocardia_NBC_00881_WSY60125	WP_406270362.1	supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)	B	B	C
+min_frac_depth5=0.95	omnitrophota_DAOOUB_HOW35280	UPI002CD77A7D	inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	B	B	B
+min_frac_depth5=0.95	omnitrophota_DAOPMG_HPD84636	UPI002D0F8BFA	supported outside 1.3 kb of repeat (no long reads to resolve it)	B	B	B
+min_frac_depth5=0.95	omnitrophota_DAOTDT_HRZ03494	UPI002B62E083	supported outside 1.32 kb of repeat (no long reads to resolve it)	B	B	B
+min_frac_depth5=0.95	nocardia_NBC_01730_WSG58785	WP_327112628.1	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	A	A	B
+min_frac_depth5=0.95	nocardia_NBC_00881_WSY60125	WP_406270362.1	supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)	B	B	C
+max_discordant_frac=0.05	omnitrophota_DAOOUB_HOW35280	UPI002CD77A7D	inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	B	B	B
+max_discordant_frac=0.05	omnitrophota_DAOPMG_HPD84636	UPI002D0F8BFA	supported outside 1.3 kb of repeat (no long reads to resolve it)	B	B	B
+max_discordant_frac=0.05	omnitrophota_DAOTDT_HRZ03494	UPI002B62E083	supported outside 1.32 kb of repeat (no long reads to resolve it)	B	B	B
+max_discordant_frac=0.05	nocardia_NBC_01730_WSG58785	WP_327112628.1	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	A	A	B
+max_discordant_frac=0.05	nocardia_NBC_00881_WSY60125	WP_406270362.1	supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)	B	B	C
+max_discordant_frac=0.2	omnitrophota_DAOOUB_HOW35280	UPI002CD77A7D	inconclusive: weakest single-copy boundary spanned by 4 [1.34 kb in 2 stretch(es) where this library cannot place pairs uniquely (repeat), not crossed]	B	B	B
+max_discordant_frac=0.2	omnitrophota_DAOPMG_HPD84636	UPI002D0F8BFA	supported outside 1.3 kb of repeat (no long reads to resolve it)	B	B	B
+max_discordant_frac=0.2	omnitrophota_DAOTDT_HRZ03494	UPI002B62E083	supported outside 1.32 kb of repeat (no long reads to resolve it)	B	B	B
+max_discordant_frac=0.2	nocardia_NBC_01730_WSG58785	WP_327112628.1	supported by the reads (short reads; the 9.0 kb repeat block(s) spanned by 9+ long reads)	A	A	B
+max_discordant_frac=0.2	nocardia_NBC_00881_WSY60125	WP_406270362.1	supported by the reads (short reads; the 1.1 kb repeat block(s) spanned by 64+ long reads)	B	B	C

@@ -1,0 +1,386 @@
+{
+ "dataset": "PRIDE PXD025008 (Kizina et al. 2022, Appl Environ Microbiol 88:e02407-21)",
+ "inputs": {
+  "peak_lists": [
+   "Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.mzid_Mudpit_160209_OV3_P5_SK_JHa_373-Pe3_01.MGF",
+   "Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.mzid_Mudpit_160211_OV3_P5_SK_JHa_373-Pe2_01.MGF",
+   "Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.mzid_Mudpit_160212_OV3_P5_SK_JHa_373-Pe1_01.MGF",
+   "Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid_Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.MGF",
+   "Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.mzid_Mudpit_160214_OV3_P5_SK_JHa_372-Pe2_01.MGF",
+   "Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.mzid_Mudpit_160215_OV3_P5_SK_JHa_372-Pe3_01.MGF"
+  ],
+  "database": "db/search_db.fasta (built by build_db.py)",
+  "search": "run_search.sh (Sage)",
+  "config": "search/sage_config.json"
+ },
+ "spectra_in_peak_lists": 594284,
+ "target_psms_spectrum_q_le_0.01": 502718,
+ "target_peptides_peptide_q_le_0.01": 42000,
+ "target_proteins_protein_q_le_0.01": 7981,
+ "giant": {
+  "accession": "WP_128698900.1",
+  "length": 39686,
+  "protein_q": 0.00020151345,
+  "peptides_q1_any": 186,
+  "peptides_q1_unique_to_giant": 186,
+  "psms_on_unique_peptides": 1522,
+  "unique_peptides_occurring_more_than_once_in_giant": 0,
+  "covered_residues_by_unique_peptides": 2357,
+  "coverage_pct": 5.94,
+  "distinct_regions": 86,
+  "first_unique_peptide_start": 292,
+  "last_unique_peptide_end": 16957,
+  "unique_peptide_starts_per_1000aa_bin": [
+   30,
+   59,
+   55,
+   18,
+   17,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "internal_repeat_blocks_20mer": [
+   [
+    17653,
+    17820
+   ],
+   [
+    17828,
+    18350
+   ],
+   [
+    18460,
+    19294
+   ],
+   [
+    21471,
+    22043
+   ],
+   [
+    22765,
+    23599
+   ],
+   [
+    24650,
+    25032
+   ],
+   [
+    25034,
+    25204
+   ],
+   [
+    25215,
+    25314
+   ]
+  ],
+  "peptides_around_repeat_blocks": [
+   {
+    "repeat_block": [
+     17653,
+     17820
+    ],
+    "unique_single_copy_peptides_before": 186,
+    "unique_single_copy_peptides_after": 0,
+    "peptides_inside": 0
+   },
+   {
+    "repeat_block": [
+     17828,
+     18350
+    ],
+    "unique_single_copy_peptides_before": 186,
+    "unique_single_copy_peptides_after": 0,
+    "peptides_inside": 0
+   },
+   {
+    "repeat_block": [
+     18460,
+     19294
+    ],
+    "unique_single_copy_peptides_before": 186,
+    "unique_single_copy_peptides_after": 0,
+    "peptides_inside": 0
+   },
+   {
+    "repeat_block": [
+     21471,
+     22043
+    ],
+    "unique_single_copy_peptides_before": 186,
+    "unique_single_copy_peptides_after": 0,
+    "peptides_inside": 0
+   },
+   {
+    "repeat_block": [
+     22765,
+     23599
+    ],
+    "unique_single_copy_peptides_before": 186,
+    "unique_single_copy_peptides_after": 0,
+    "peptides_inside": 0
+   },
+   {
+    "repeat_block": [
+     24650,
+     25032
+    ],
+    "unique_single_copy_peptides_before": 186,
+    "unique_single_copy_peptides_after": 0,
+    "peptides_inside": 0
+   },
+   {
+    "repeat_block": [
+     25034,
+     25204
+    ],
+    "unique_single_copy_peptides_before": 186,
+    "unique_single_copy_peptides_after": 0,
+    "peptides_inside": 0
+   },
+   {
+    "repeat_block": [
+     25215,
+     25314
+    ],
+    "unique_single_copy_peptides_before": 186,
+    "unique_single_copy_peptides_after": 0,
+    "peptides_inside": 0
+   }
+  ],
+  "theoretical_tryptic_peptides_per_1000aa_bin": [
+   48,
+   56,
+   63,
+   53,
+   58,
+   45,
+   53,
+   52,
+   42,
+   50,
+   56,
+   46,
+   52,
+   51,
+   55,
+   58,
+   51,
+   46,
+   47,
+   54,
+   41,
+   49,
+   60,
+   53,
+   53,
+   55,
+   56,
+   61,
+   50,
+   52,
+   50,
+   59,
+   56,
+   50,
+   59,
+   53,
+   55,
+   62,
+   60,
+   37
+  ],
+  "unique_peptides_in_first_6000aa": 182,
+  "our_flags": "none: data/locus_checks.tsv has no D rule, no N, 0 other frames open; no DNA-check job exists for this entry"
+ },
+ "controls": {
+  "CTRLREV_giant": {
+   "peptides_q1": 0,
+   "psms_spectrum_q1": 2,
+   "protein_q": 0.063445985
+  },
+  "CTRLSHUF_giant": {
+   "peptides_q1": 0,
+   "psms_spectrum_q1": 2,
+   "protein_q": 0.17356591
+  }
+ },
+ "abundant_proteins_same_organism": [
+  {
+   "protein": "Velamenicoccus|QAT17045.1|BU251_04490",
+   "name": "18-strand beta-barrel outer membrane pore",
+   "length": 480,
+   "psms_q1": 10534,
+   "peptides_q1": 33,
+   "unique_peptides_q1": 31,
+   "unique_coverage_pct": 61.7,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT17089.1|BU251_04735",
+   "name": "co-chaperone GroES",
+   "length": 544,
+   "psms_q1": 4753,
+   "peptides_q1": 46,
+   "unique_peptides_q1": 41,
+   "unique_coverage_pct": 76.7,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT17732.1|BU251_08370",
+   "name": "GPI-membrane anchored actin binding protein with KELCH repeats",
+   "length": 4528,
+   "psms_q1": 4730,
+   "peptides_q1": 180,
+   "unique_peptides_q1": 177,
+   "unique_coverage_pct": 52.2,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT16786.1|BU251_03080",
+   "name": "translation elongation factor Tu",
+   "length": 400,
+   "psms_q1": 3599,
+   "peptides_q1": 29,
+   "unique_peptides_q1": 23,
+   "unique_coverage_pct": 55.0,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT17061.1|BU251_04585",
+   "name": "pyruvate phosphate dikinase",
+   "length": 918,
+   "psms_q1": 3494,
+   "peptides_q1": 64,
+   "unique_peptides_q1": 59,
+   "unique_coverage_pct": 67.9,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT16782.1|BU251_03055",
+   "name": "DNA-directed RNA polymerase subunit beta",
+   "length": 1133,
+   "psms_q1": 3159,
+   "peptides_q1": 88,
+   "unique_peptides_q1": 78,
+   "unique_coverage_pct": 67.1,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT16783.1|BU251_03060",
+   "name": "DNA-directed RNA polymerase subunit beta'",
+   "length": 1362,
+   "psms_q1": 2626,
+   "peptides_q1": 96,
+   "unique_peptides_q1": 82,
+   "unique_coverage_pct": 55.7,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT16725.1|BU251_02745",
+   "name": "hypothetical protein",
+   "length": 3180,
+   "psms_q1": 2050,
+   "peptides_q1": 83,
+   "unique_peptides_q1": 82,
+   "unique_coverage_pct": 40.8,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT18033.1|BU251_05955",
+   "name": "polyribonucleotide nucleotidyltransferase",
+   "length": 700,
+   "psms_q1": 1761,
+   "peptides_q1": 50,
+   "unique_peptides_q1": 48,
+   "unique_coverage_pct": 56.4,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT16243.1|BU251_00065",
+   "name": "ATPase for pilus assembly/DNA-transfer CpaF",
+   "length": 740,
+   "psms_q1": 1560,
+   "peptides_q1": 51,
+   "unique_peptides_q1": 51,
+   "unique_coverage_pct": 75.3,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|WP_128698900.1|BU251_00165",
+   "name": "giant",
+   "length": 39686,
+   "psms_q1": 1520,
+   "peptides_q1": 186,
+   "unique_peptides_q1": 186,
+   "unique_coverage_pct": 5.9,
+   "protein_q": 0.00020151345
+  },
+  {
+   "protein": "Velamenicoccus|QAT16240.1|BU251_00050",
+   "name": "peptidyl-prolyl cis-trans isomerase",
+   "length": 314,
+   "psms_q1": 1486,
+   "peptides_q1": 28,
+   "unique_peptides_q1": 27,
+   "unique_coverage_pct": 78.3,
+   "protein_q": 0.00020151345
+  }
+ ],
+ "search_settings": {
+  "tool": "Sage 0.14.7 release binary (reports itself as 0.14.6), tools/sage-v0.14.7-aarch64-apple-darwin",
+  "enzyme": "trypsin (KR, not before P), 1 missed cleavage, peptides 7-40 aa",
+  "precursor_tol_ppm": 10,
+  "fragment_tol_da": 0.5,
+  "variable_mods": "Met oxidation (max 2)",
+  "fixed_mods": "none",
+  "isotope_errors": [
+   0,
+   1
+  ],
+  "decoys": "generated by Sage (rev_)",
+  "threads": 4,
+  "wall_s": 2128,
+  "peak_rss_gb": 5.2,
+  "database_entries": 151457
+ },
+ "authors_paper": {
+  "doi": "10.1128/aem.02407-21",
+  "reports_giant": true,
+  "quote": "Three other large proteins with transmembrane helices are among the most frequently detected proteins, ... and a very large multienzyme surface protein (4,384 kDa). Its gene codes for 39,678 amino acids",
+  "note": "paper gives no peptide count or coverage map for it in the main text (Table S1 not retrieved); authors FASTA entry Omnitrophica_OP3_32 is 39,671 aa",
+  "authors_mzid_checked": "raw/Mudpit_160213_OV3_P5_SK_JHa_372-Pe1_01.mzid.gz: 174 PeptideEvidence entries for Omnitrophica_OP3_32, 136 distinct start positions (277..25870), 122 of them in the first 3,000 aa (unfiltered evidence entries, not a 1 % FDR list)"
+ }
+}

@@ -1,0 +1,329 @@
+NP_001254479.2 Homo sapiens 361 full
+XDA72527.1 Ovis aries 348 full
+XP_039350638.1 Mauremys reevesii 352 full
+XP_071822701.1 Apostichopus japonicus 297 full
+XP_071822703.1 Apostichopus japonicus 296 full
+XP_071822704.1 Apostichopus japonicus 296 full
+XP_071822705.1 Apostichopus japonicus 296 full
+XP_071822707.1 Apostichopus japonicus 296 full
+XP_071822708.1 Apostichopus japonicus 296 full
+XP_071822711.1 Apostichopus japonicus 296 full
+XP_071822713.1 Apostichopus japonicus 296 full
+XP_071822722.1 Apostichopus japonicus 296 full
+XP_071822725.1 Apostichopus japonicus 296 full
+XP_071822721.1 Apostichopus japonicus 296 full
+XP_071822719.1 Apostichopus japonicus 296 full
+XP_071822718.1 Apostichopus japonicus 296 full
+XP_071822715.1 Apostichopus japonicus 296 full
+XP_071822720.1 Apostichopus japonicus 296 full
+XP_071822716.1 Apostichopus japonicus 296 full
+XP_071822726.1 Apostichopus japonicus 296 full
+XP_071822724.1 Apostichopus japonicus 296 full
+XP_071822714.1 Apostichopus japonicus 296 full
+XP_071822712.1 Apostichopus japonicus 296 full
+XP_071822727.1 Apostichopus japonicus 296 full
+XP_071822731.1 Apostichopus japonicus 296 full
+XP_071822730.1 Apostichopus japonicus 296 full
+XP_071822742.1 Apostichopus japonicus 296 full
+XP_071822754.1 Apostichopus japonicus 296 full
+XP_071822709.1 Apostichopus japonicus 295 full
+XP_071822710.1 Apostichopus japonicus 295 full
+XP_071822736.1 Apostichopus japonicus 295 full
+XP_071822735.1 Apostichopus japonicus 295 full
+XP_071822732.1 Apostichopus japonicus 295 full
+XP_071822733.1 Apostichopus japonicus 295 full
+XP_071822734.1 Apostichopus japonicus 295 full
+XP_071822737.1 Apostichopus japonicus 295 full
+XP_071822746.1 Apostichopus japonicus 295 full
+XP_071822752.1 Apostichopus japonicus 295 full
+XP_071822728.1 Apostichopus japonicus 294 full
+XP_071822738.1 Apostichopus japonicus 294 full
+XP_071822739.1 Apostichopus japonicus 294 full
+XP_071822741.1 Apostichopus japonicus 294 full
+XP_071822753.1 Apostichopus japonicus 294 full
+XP_071822743.1 Apostichopus japonicus 293 full
+XP_071822744.1 Apostichopus japonicus 293 full
+XP_071822745.1 Apostichopus japonicus 293 full
+XP_071822747.1 Apostichopus japonicus 293 full
+XP_071822751.1 Apostichopus japonicus 293 full
+XP_071822750.1 Apostichopus japonicus 292 full
+XP_071822748.1 Apostichopus japonicus 292 full
+XP_071822749.1 Apostichopus japonicus 292 full
+KAI5187665.1 Manis pentadactyla 332 full
+XP_089379146.1 Sceloporus occidentalis 311 full
+KAO2468769.1 Equus caballus 302 full
+XP_085351973.1 Saccoglossus kowalevskii 366 full
+XP_085706711.1 Eptatretus burgeri 295 full
+XP_089194185.1 Octopus bimaculoides 285 full
+{
+ "models": 57,
+ "replicates": 20,
+ "fractions": [
+  0.05,
+  0.1,
+  0.2,
+  0.3,
+  0.4,
+  0.5,
+  0.6,
+  0.8,
+  1.0
+ ],
+ "by_kind_fraction": {
+  "shift 0.05": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.113,
+    "full": 0.887
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.113,
+    "full": 0.887
+   }
+  },
+  "shift 0.1": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.997,
+    "full": 0.003
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.997,
+    "full": 0.003
+   }
+  },
+  "shift 0.2": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.865,
+    "partial": 0.135,
+    "full": 0.0
+   }
+  },
+  "shift 0.3": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 1.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 0.4": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 1.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 0.5": {
+   "v1": {
+    "contradicted": 0.725,
+    "under-supported where covered": 0.198,
+    "partial": 0.076,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.725,
+    "under-supported where covered": 0.275,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 0.6": {
+   "v1": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 0.8": {
+   "v1": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "shift 1.0": {
+   "v1": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.05": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.116,
+    "full": 0.884
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.116,
+    "full": 0.884
+   }
+  },
+  "skip 0.1": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.558,
+    "full": 0.442
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.558,
+    "full": 0.442
+   }
+  },
+  "skip 0.2": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.278,
+    "partial": 0.722,
+    "full": 0.0
+   }
+  },
+  "skip 0.3": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.0,
+    "partial": 1.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 1.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.4": {
+   "v1": {
+    "contradicted": 0.0,
+    "under-supported where covered": 0.001,
+    "partial": 0.999,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.0,
+    "under-supported where covered": 1.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.5": {
+   "v1": {
+    "contradicted": 0.242,
+    "under-supported where covered": 0.061,
+    "partial": 0.696,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.242,
+    "under-supported where covered": 0.758,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.6": {
+   "v1": {
+    "contradicted": 0.981,
+    "under-supported where covered": 0.009,
+    "partial": 0.011,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.981,
+    "under-supported where covered": 0.019,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 0.8": {
+   "v1": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 1.0,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  },
+  "skip 1.0": {
+   "v1": {
+    "contradicted": 0.035,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   },
+   "v2": {
+    "contradicted": 0.035,
+    "under-supported where covered": 0.0,
+    "partial": 0.0,
+    "full": 0.0
+   }
+  }
+ },
+ "true_models_verdicts": {
+  "full": 57
+ }
+}

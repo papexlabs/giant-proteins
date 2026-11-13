@@ -1,0 +1,270 @@
+species_key	run	in_job_list	status	driver	stop_rule	reads_processed	run_read_count	frac_of_run_read	candidate_reads	stage_a_s	skip_reason	n_result_files
+Acnodon_oligacanthus_051861665.1_rep	SRR24825400	yes	usable	v2	complete	47164352	23582176	1.0	2	747		1
+Acnodon_oligacanthus_051861665.1_rep	SRR24825401	yes	usable	v2	complete	40480834	20240417	1.0	44	693		1
+Acnodon_oligacanthus_051861665.1_rep	SRR24825408	yes	usable	v2	complete	63293980	31646990	1.0	17	1004		1
+Acnodon_oligacanthus_051861665.1_rep	SRR24825409	yes	usable	v2	complete	40923008	20461504	1.0	2	649		1
+Apostichopus_japonicus_037975245.1	SRR1216681	yes	usable	v2	complete	56527350	28263675	1.0	34699	756		1
+Apostichopus_japonicus_037975245.1	SRR6251621	yes	usable	v2	complete	49214046	24607023	1.0	950340	645		1
+Apostichopus_japonicus_037975245.1	SRR8269390	yes	usable	v2	complete	83571800	41785900	1.0	17235	1372		1
+Apostichopus_japonicus_037975245.1	SRR8801566	yes	usable	v2	complete	68664104	34332052	1.0	1363379	1173		1
+Arctogadus_glacialis_988276835.1_rep	ERR15744427	yes	usable	v2	complete	34523476	34523476	0.5	188	620		1
+Arctogadus_glacialis_988276835.1_rep	ERR15744432	yes	usable	v2	complete	35266910	35266910	0.5	83	586		1
+Arctogadus_glacialis_988276835.1_rep	ERR15744439	yes	usable	v2	complete	32481952	32481952	0.5	0	723		1
+Arctogadus_glacialis_988276835.1_rep	ERR15744441	yes	usable	v2	complete	32174074	32174074	0.5	0	633		1
+Bagarius_yarrelli_005784505.1	SRR5943894	yes	usable	v2	stream error curl rc=18	11981886	17064566	0.351	13244	309		1
+Bagarius_yarrelli_005784505.1	SRR8367572	yes	usable	v2	complete/stream error curl rc=18	46012304	23258395	0.989	38922	618		1
+Bombina_bombina_027579735.1	SRR11300591	yes	usable	v2	complete	68392016	34196008	1.0	891	528		1
+Bombina_bombina_027579735.1	SRR11300592	yes	usable	v2	read cap	120000000	75832498	0.791	682	791		1
+Bombina_bombina_027579735.1	SRR13736769	yes	usable	v2	complete	3418074	1709037	1.0	53575	55		1
+Bombina_bombina_027579735.1	SRR13736773	yes	usable	v2	saturation	4000008	5052227	0.396	93112	68		1
+Candoia_aspera_035149785.1	SRR629646	yes	usable	v2	complete	70096418	35048209	1.0	4274	1303		1
+Caretta_caretta_965140235.1	SRR10032989	yes	usable	v2	complete	57001672	28500836	1.0	11155	947		1
+Caretta_caretta_965140235.1	SRR12335473	yes	usable	v2	saturation/stream error curl rc=18	24152383	19906468	0.607	89835	532		1
+Caretta_caretta_965140235.1	SRR12630879	yes	usable	v2	complete	93114410	46557205	1.0	29330	1382		1
+Caretta_caretta_965140235.1	SRR5288332	yes	usable	v2	stream error curl rc=18	15571754	32756822	0.238	3177	540		1
+Carettochelys_insculpta_033958435.1	SRR26796060	yes	usable	v2	complete	93474266	46737133	1.0	5898	1294		1
+Carettochelys_insculpta_033958435.1	SRR26796061	yes	usable	v2	complete/stream error curl rc=18	32509447	23540938	0.69	1750	567		1
+Catharus_ustulatus_009819885.2	SRR24272130	yes	usable	v2	complete	108265976	54132988	1.0	3038	1192		1
+Catharus_ustulatus_009819885.2	SRR24272164	yes	usable	v2	complete	107826416	53913208	1.0	4048	1332		1
+Catharus_ustulatus_009819885.2	SRR4340326	yes	usable	v2	complete	36371494	36371494	1.0	389	1314		1
+Catharus_ustulatus_009819885.2	SRR4340338	yes	usable	v2	complete	65384878	32692439	1.0	573	1310		1
+Cetorhinus_maximus_964194155.1	ERR13132928	yes	usable	v2	complete	38855490	38855490	0.5	12456	580		1
+Chelonoidis_abingdonii_003597395.2	SRR6299281	yes	usable	v2	stream error curl rc=18	15361435	18177015	0.845	3	233		1
+Chelonoidis_abingdonii_003597395.2	SRR6950600	yes	usable	v2	complete	40234188	20117094	1.0	34	736		1
+Chiloscyllium_plagiosum_037043375.1	SRR18297558	yes	usable	v2	complete	52923152	26461576	1.0	784	536		1
+Chiloscyllium_plagiosum_037043375.1	SRR26469071	yes	usable	v2	saturation/stream error curl rc=18	33379327	24345165	0.686	68611	602		1
+Chiloscyllium_plagiosum_037043375.1	SRR26534035	yes	usable	v2	complete	68707202	34353601	1.0	111	1100		1
+Chiloscyllium_plagiosum_037043375.1	SRR26671420	yes	usable	v2	complete	61849520	30924760	1.0	10	638		1
+Chrysemys_picta_bellii_011386835.1	SRR19523438	yes	usable	v2	stream error curl rc=18	29762175	37344127	0.797	3887	542		1
+Chrysemys_picta_bellii_011386835.1	SRR19523443	yes	usable	v2	complete	30411609	30411609	1.0	1856	448		1
+Chrysemys_picta_bellii_011386835.1	SRR647694	yes	usable	v2	complete/stream error curl rc=18	40064104	28812027	0.695	8622	1125		1
+Chrysemys_picta_bellii_011386835.1	SRR647703	yes	usable	v2	saturation	30500000	28968124	0.526	194272	634		1
+Cirrhinus_molitorella_033026305.1	DRR850600	yes	usable	v2	complete	45618312	22809156	1.0	33377	1002		1
+Cirrhinus_molitorella_033026305.1	DRR850601	yes	usable	v2	complete	44152722	22076361	1.0	30171	968		1
+Cirrhinus_molitorella_033026305.1	SRR31547351	yes	usable	v2	complete	56565716	28282858	1.0	92568	866		1
+Cirrhinus_molitorella_033026305.1	SRR31547352	yes	usable	v2	complete	43726558	21863279	1.0	120967	621		1
+Cirrhinus_molitorella_033026305.1	SRR38849134	yes	usable	v2	complete/stream error curl rc=18	34309760	24524760	0.699	53081	824		1
+Cirrhinus_molitorella_033026305.1	SRR38849136	yes	usable	v2	stream error curl rc=18	29817870	26032954	0.573	47909	494		1
+Collichthys_lucidus_004119915.2	SRR11060134	yes	usable	v2	complete	45733208	22866604	1.0	6	762		1
+Collichthys_lucidus_004119915.2	SRR13687135	yes	usable	v2	complete	59008512	29504256	1.0	21716	946		1
+Collichthys_lucidus_004119915.2	SRR3054795	yes	usable	v2	saturation	32936558	23651736	0.696	90038	517		1
+Collichthys_lucidus_004119915.2	SRR5381711	yes	usable	v2	stream error curl rc=18	32815882	25688029	0.639	32720	696		1
+Corticium_candelabrum_963422355.1	ERR11814103	yes	usable	v2	complete	36549614	36549614	0.5	112	909		1
+Corticium_candelabrum_963422355.1	ERR14986693	yes	usable	v2	complete	81319394	81319394	0.5	710	1093		1
+Cricetulus_griseus_000223135.1	ERR16729280	yes	usable	v2	saturation	107244500	129036352	0.416	95620	411		1
+Cricetulus_griseus_000223135.1	ERR7417864	yes	usable	v2	saturation	55837293	106122732	0.263	95620	562		1
+Cricetulus_griseus_000223135.1	SRR12442801	yes	usable	v2	stream error curl rc=18	32597612	33864124	0.963	52071	790		1
+Cricetulus_griseus_000223135.1	SRR12774961	yes	usable	v2	saturation	1000000	29859781	0.017	95620	36		1
+Emydura_macquarii_macquarii_026122565.2	SRR29317039	yes	usable	v2	complete	45769248	22884624	1.0	2342	906		1
+Emydura_macquarii_macquarii_026122565.2	SRR29317041	yes	usable	v2	complete	50187932	25093966	1.0	1420	818		1
+Emydura_macquarii_macquarii_026122565.2	SRR29317042	yes	usable	v2	complete	55920836	27960418	1.0	2749	864		1
+Emydura_macquarii_macquarii_026122565.2	SRR29317043	yes	usable	v2	complete	43163144	21581572	1.0	393777	737		1
+Engystomops_pustulosus_040894005.1	SRR10362872	yes	usable	v2	complete/stream error curl rc=18	41214811	26464434	0.779	58926	765		1
+Engystomops_pustulosus_040894005.1	SRR11565164	yes	usable	v2	complete/stream error curl rc=18	36896096	28772029	0.641	737	620		1
+Engystomops_pustulosus_040894005.1	SRR11565165	yes	usable	v2	complete/stream error curl rc=18	42147772	24388173	0.864	931	454		1
+Engystomops_pustulosus_040894005.1	SRR11583962	yes	usable	v2	complete	10800157	10800157	1.0	108	536		1
+Eptatretus_burgeri_056783735.1	DRR707973	yes	usable	v2	saturation	41666750	35463409	0.587	101478	561		1
+Eptatretus_burgeri_056783735.1	DRR707978	yes	usable	v2	saturation	10333354	33536433	0.154	101478	147		1
+Eptatretus_burgeri_056783735.1	SRR22514654	yes	usable	v2	saturation	35666738	28948359	0.616	101478	589		1
+Eptatretus_burgeri_056783735.1	SRR5234495	yes	usable	v2	saturation	12871300	23861637	0.27	101478	241		1
+Equus_caballus_036426135.1	ERR17599890	yes	usable	v2	saturation	5000000	47248588	0.053	92796	113		1
+Equus_caballus_036426135.1	ERR9828616	yes	usable	v2	saturation	5629142	81651094	0.034	92796	125		1
+Equus_caballus_036426135.1	SRR14570694	yes	usable	v2	saturation	9333352	47901489	0.097	92796	137		1
+Equus_caballus_036426135.1	SRR30656243	yes	usable	v2	complete	83550784	41775392	1.0	11373	1561		1
+Eretmochelys_imbricata_965152285.1	SRR10286858	yes	usable	v2	complete	56787860	28393930	1.0	9	936		1
+Eretmochelys_imbricata_965152285.1	SRR12540966	yes	usable	v2	complete	66120638	33060319	1.0	278	1020		1
+Eretmochelys_imbricata_965152285.1	SRR12540970	yes	usable	v2	complete	57073048	28536524	1.0	241	712		1
+Eretmochelys_imbricata_965152285.1	SRR5357800	yes	usable	v2	complete	56787860	28393930	1.0	9	888		1
+Furcifer_pardalis_030440675.1	SRR9298914	yes	usable	v2	complete/stream error curl rc=18	42572078	32181459	0.661	10191	622		1
+Gasterosteus_aculeatus_982374505.1_rep	ERR15672777	yes	usable	v2	complete	68158908	68158908	0.5	566	884		1
+Gasterosteus_aculeatus_982374505.1_rep	ERR17894432	yes	usable	v2	complete	82162384	82162384	0.5	5702	1202		1
+Gasterosteus_aculeatus_982374505.1_rep	SRR13272337	yes	usable	v2	read cap	120000000	69093059	0.868	115347	1098		1
+Gasterosteus_aculeatus_982374505.1_rep	SRR27754177	yes	usable	v2	read cap	120000000	68572691	0.875	2588	1367		1
+Gasterosteus_aculeatus_982374505.1_rep	SRR7057977	yes	usable	v2	read cap	60000000	76890014	0.78	1831	2096		1
+Gasterosteus_aculeatus_982374505.1_rep	SRR9709255	yes	usable	v2	read cap	60000000	71051548	0.844	1962	1953		1
+Gasterosteus_aculeatus_982374575.1_rep	ERR15672777	yes	usable	v2	complete	68158908	68158908	0.5	1118	808		1
+Gasterosteus_aculeatus_982374575.1_rep	ERR17894432	yes	usable	v2	complete	82162384	82162384	0.5	5917	1298		1
+Gasterosteus_aculeatus_982374575.1_rep	SRR13272337	yes	usable	v2	read cap	120000000	69093059	0.868	114641	1178		1
+Gasterosteus_aculeatus_982374575.1_rep	SRR27754177	yes	usable	v2	read cap	120000000	68572691	0.875	4415	1512		1
+Gasterosteus_aculeatus_982374575.1_rep	SRR7057977	yes	usable	v2	read cap	60000000	76890014	0.78	1709	1459		1
+Gasterosteus_aculeatus_982374575.1_rep	SRR9709255	yes	usable	v2	read cap	60000000	71051548	0.844	2208	1552		1
+Gekko_japonicus_001447785.1	DRR851198	yes	usable	v2	saturation	26490080	36486007	0.363	100354	315		1
+Gekko_japonicus_001447785.1	SRR22574970	yes	usable	v2	saturation	33666734	27260886	0.617	100354	685		1
+Gekko_japonicus_001447785.1	SRR23271846	yes	usable	v2	stream error curl rc=18	32364550	43588000	0.371	63637	525		1
+Gekko_japonicus_001447785.1	SRR23271859	yes	usable	v2	complete/stream error curl rc=18	49039038	24951970	0.983	91482	611		1
+Geotrypetes_seraphini_902459505.2	SRR5062016	yes	usable	v2	complete/stream error curl rc=18	7546017	5585544	0.675	1147	632		1
+Haemorhous_mexicanus_027477595.1	SRR10526815	yes	usable	v2	complete	69238206	34619103	1.0	34620	1286		1
+Haemorhous_mexicanus_027477595.1	SRR24858377	yes	usable	v2	complete	14310579	14310579	1.0	4502	228		1
+Haemorhous_mexicanus_027477595.1	SRR27975436	yes	usable	v2	complete	119120494	59560247	1.0	9	920		1
+Haemorhous_mexicanus_027477595.1	SRR35569300	yes	usable	v2	complete	24088526	12044263	1.0	406	380		1
+Halichondria_panicea_963675165.1	ERR12708751	yes	usable	v2	complete	76570276	76570276	0.5	36888	1270		1
+Halichondria_panicea_963675165.1	ERR5383343	yes	usable	v2	complete/stream error curl rc=18	75577277	81850304	0.462	20414	1324		1
+Halichondria_panicea_963675165.1	SRR40027405	yes	usable	v2	complete	78813094	39406547	1.0	13722	937		1
+Halichondria_panicea_963675165.1	SRR7507854	yes	usable	v2	complete	49748396	49748396	1.0	1228	653		1
+Heterocephalus_glaber_000230445.1	SRR35001519	yes	usable	v2	read cap	60000000	125951943	0.476	30112	986		1
+Heterocephalus_glaber_000230445.1	SRR5517425	yes	usable	v2	stream error curl rc=18	4101002	44090622	0.093	9285	80		1
+Heterocephalus_glaber_000230445.1	SRR6817642	yes	usable	v2	saturation	36883706	28038704	0.658	95278	403		1
+Heterocephalus_glaber_000230445.1	SRR9291397	yes	usable	v2	read cap	60000000	135004171	0.444	11929	693		1
+Homo_sapiens_000001405.40	ERR030899	yes	usable	v2	saturation	10000005	82864636	0.121	97940	230		1
+Homo_sapiens_000001405.40	SRR12625574	yes	usable	v2	saturation	1619046	81232335	0.01	97940	30		1
+Homo_sapiens_000001405.40	SRR20672175	yes	usable	v2	saturation	0	85980924	0.0	97940	20		1
+Homo_sapiens_000001405.40	SRR21934199	no (v1 box)	usable	v1			103237938		2824809			1
+Homo_sapiens_000001405.40	SRR22870348	yes	usable	v2	stream error curl rc=18	22617257	86902410	0.26	1440	504		1
+Homo_sapiens_000001405.40	SRR31127718	yes	usable	v2	read cap	120000000	76983342	0.779	74192	552		1
+Hyperolius_riggenbachi_040937935.1	SRR27929939	yes	usable	v2	complete/stream error curl rc=18	30036310	24996309	0.601	11894	650		1
+Lepidochelys_kempii_965140285.1	SRR28144313	yes	usable	v2	complete	40046494	20023247	1.0	1827	411		1
+Lepidochelys_kempii_965140285.1	SRR28144315	yes	usable	v2	complete	19171140	19171140	0.5	197	441		1
+Lepidochelys_kempii_965140285.1	SRR28144316	yes	usable	v2	complete	54718774	27359387	1.0	2050	836		1
+Lepidochelys_kempii_965140285.1	SRR28144317	yes	usable	v2	complete	42612924	21306462	1.0	1041	485		1
+Lepidochelys_kempii_965140285.1_extra	SRR28144313	yes	usable	v2	complete	40046494	20023247	1.0	1684	504		1
+Lepidochelys_kempii_965140285.1_extra	SRR28144315	yes	usable	v2	complete	19171140	19171140	0.5	149	506		1
+Lepidochelys_kempii_965140285.1_extra	SRR28144316	yes	usable	v2	complete	54718774	27359387	1.0	1854	711		1
+Lepidochelys_kempii_965140285.1_extra	SRR28144317	yes	usable	v2	complete	42612924	21306462	1.0	909	502		1
+Lepidochelys_olivacea_965140255.1	SRR12963731	yes	usable	v2	complete	37928714	18964357	1.0	41	527		1
+Lepidochelys_olivacea_965140255.1	SRR12963747	yes	usable	v2	complete	39823058	19911529	1.0	78	545		1
+Lepidochelys_olivacea_965140255.1	SRR30543069	yes	usable	v2	complete	27635586	13817793	1.0	20	212		1
+Lepidochelys_olivacea_965140255.1	SRR30543071	yes	usable	v2	complete	27455446	13727723	1.0	6	251		1
+Lepidochelys_olivacea_965140295.1	SRR12963731	yes	usable	v2	complete	37928714	18964357	1.0	43	539		1
+Lepidochelys_olivacea_965140295.1	SRR12963747	yes	usable	v2	complete	39823058	19911529	1.0	78	538		1
+Lepidochelys_olivacea_965140295.1	SRR30543069	yes	usable	v2	complete	27635586	13817793	1.0	20	228		1
+Lepidochelys_olivacea_965140295.1	SRR30543071	yes	usable	v2	complete	27455446	13727723	1.0	4	243		1
+Lepidochelys_olivacea_965140295.1_extra	SRR12963731	yes	usable	v2	complete	37928714	18964357	1.0	45	582		1
+Lepidochelys_olivacea_965140295.1_extra	SRR12963747	yes	usable	v2	complete/stream error curl rc=18	31860210	19911529	0.8	63	638		1
+Lepidochelys_olivacea_965140295.1_extra	SRR30543069	yes	usable	v2	complete	27635586	13817793	1.0	20	276		1
+Lepidochelys_olivacea_965140295.1_extra	SRR30543071	yes	usable	v2	complete	27455446	13727723	1.0	4	246		1
+Macrotis_lagotis_037893015.1	SRR27461674	yes	usable	v2	saturation	81560863	86791456	0.47	97750	749		1
+Manis_pentadactyla_024244205.1	DRR868313	yes	usable	v2	saturation	9786098	23063799	0.212	99988	173		1
+Manis_pentadactyla_024244205.1	SRR11306700	yes	usable	v2	complete	80290156	40145078	1.0	32	1144		1
+Manis_pentadactyla_024244205.1	SRR11306701	yes	usable	v2	stream error curl rc=18	43858671	39432410	0.556	26704	860		1
+Manis_pentadactyla_024244205.1	SRR29468387	yes	usable	v2	complete/stream error curl rc=18	29795665	20693857	0.72	32	466		1
+Marmota_monax_901343595.1	SRR17216544	yes	usable	v2	read cap	120000000	64650059	0.928	286	1202		1
+Marmota_monax_901343595.1	SRR1975725	yes	usable	v2	read cap/stream error curl rc=18	117472456	64092756	0.916	1733	1360		1
+Marmota_monax_901343595.1	SRR2137029	yes	usable	v2	read cap	120000000	61093909	0.982	199	1248		1
+Marmota_monax_901343595.1	SRR28713075	yes	usable	v2	read cap	60000000	143713628	0.417	138	776		1
+Mauremys_reevesii_016161935.1	SRR25083062	yes	usable	v2	complete	53690868	26845434	1.0	45482	678		1
+Mauremys_reevesii_016161935.1	SRR31718979	yes	usable	v2	complete	63767068	31883534	1.0	1227	976		1
+Mauremys_reevesii_016161935.1	SRR5483245	yes	usable	v2	complete	60396746	30198373	1.0	2448	1059		1
+Mauremys_reevesii_016161935.1	SRR955754	yes	usable	v2	saturation/stream error curl rc=18	24054576	31930038	0.377	64594	465		1
+Microcaecilia_unicolor_901765095.2	SRR5591423	yes	usable	v2	saturation	10891100	26785365	0.203	97590	242		1
+Microcaecilia_unicolor_901765095.2	SRR5591425	yes	usable	v2	stream error curl rc=18	33934316	27618553	0.614	2535	756		1
+Microcaecilia_unicolor_901765095.2	SRR5591439	yes	usable	v2	complete/stream error curl rc=18	52379663	26308178	0.996	4137	1018		1
+Microcaecilia_unicolor_901765095.2	SRR5591440	yes	usable	v2	stream error curl rc=18	32483269	29031169	0.559	2045	1005		1
+Microcaecilia_unicolor_901765095.2_nosat	SRR5591423	yes	usable	v2	complete	53570730	26785365	1.0	482701	1113		1
+Myxine_glutinosa_964187855.1	ERR12318582	yes	usable	v2	saturation	32119222	65527524	0.245	115126	688		1
+Myxine_glutinosa_964187855.1	SRR22512554	yes	usable	v2	saturation	45333424	30986534	0.732	115126	576		1
+Myxine_glutinosa_964187855.1	SRR27189700	yes	usable	v2	saturation/stream error curl rc=18	52611911	77412240	0.34	104335	294		1
+Myxine_glutinosa_964187855.1	SRR27189702	yes	usable	v2	complete	103946882	51973441	1.0	88951	462		1
+Natator_depressus_965152195.1	SRR12335445	yes	usable	v2	complete	17412044	8706022	1.0	52637	312		1
+Natator_depressus_965152195.1	SRR12335449	yes	usable	v2	complete	14521014	7260507	1.0	12824	259		1
+Natator_depressus_965152195.1	SRR12335482	yes	usable	v2	complete	16414110	8207055	1.0	73116	261		1
+Natator_depressus_965152195.1	SRR12335525	yes	usable	v2	saturation	21531364	31869416	0.338	96046	478		1
+Natator_depressus_965152275.1	SRR12335445	yes	usable	v2	complete	17412044	8706022	1.0	52637	397		1
+Natator_depressus_965152275.1	SRR12335449	yes	usable	v2	complete	14521014	7260507	1.0	12824	421		1
+Natator_depressus_965152275.1	SRR12335482	yes	usable	v2	complete	16414110	8207055	1.0	73126	395		1
+Natator_depressus_965152275.1	SRR12335525	yes	usable	v2	saturation	21531364	31869416	0.338	97738	426		1
+Natrix_helvetica_964273705.1	ERR14379132	yes	usable	v2	saturation	19205308	78099532	0.123	102262	287		1
+Octopus_bimaculoides_046866305.1	SRR2047122	yes	usable	v2	saturation	46534700	35528765	0.655	102510	691		1
+Octopus_bimaculoides_046866305.1	SRR32191433	yes	usable	v2	saturation	29000000	36051826	0.402	102510	567		1
+Octopus_bimaculoides_046866305.1	SRR33418569	yes	usable	v2	read cap	60000000	79407958	0.756	237	513		1
+Octopus_bimaculoides_046866305.1	SRR7645418	yes	usable	v2	complete	8650570	4325285	1.0	18149	102		1
+Ovis_ammon_polii_x_Ovis_aries_023701675.1	SRR19412708	yes	usable	v2	complete/stream error curl rc=18	50777537	31219646	0.813	0	857		1
+Ovis_aries_017524585.1	SRR12247890	yes	usable	v2	saturation	0	42626399	0.0	97082	18		1
+Ovis_aries_017524585.1	SRR6260350	yes	usable	v2	saturation	500000	60660240	0.008	97083	28		1
+Ovis_aries_017524585.1	SRR8644991	yes	usable	v2	saturation	1674269	44231566	0.019	97082	44		1
+Ovis_aries_017524585.1	SRR8731868	yes	usable	v2	saturation	3200000	49021810	0.065	97083	82		1
+Ovis_aries_040805955.1	SRR12247890	yes	usable	v2	saturation	0	42626399	0.0	99406	22		1
+Ovis_aries_040805955.1	SRR6260350	yes	usable	v2	saturation	500000	60660240	0.008	99407	25		1
+Ovis_aries_040805955.1	SRR8644991	yes	usable	v2	saturation	2009122	44231566	0.023	99406	46		1
+Ovis_aries_040805955.1	SRR8731868	yes	usable	v2	saturation	3200000	49021810	0.065	99407	94		1
+Owenia_fusiformis_903813345.2_rep	SRR1222288	yes	usable	v2	complete	55204894	27602447	1.0	1063	910		1
+Owenia_fusiformis_903813345.2_rep	SRR19644662	yes	usable	v2	complete	65566632	32783316	1.0	11	1217		1
+Owenia_fusiformis_903813345.2_rep	SRR27206468	yes	usable	v2	complete	71169766	35584883	1.0	1569	1275		1
+Owenia_fusiformis_903813345.2_rep	SRR27206469	yes	usable	v2	complete	69501294	34750647	1.0	1675	1318		1
+Pan_troglodytes_002880755.3	SRR11869016	yes	usable	v2	saturation	31500000	52576655	0.599	97951	559		1
+Pan_troglodytes_002880755.3	SRR6706780	yes	usable	v2	complete	29076598	29076598	1.0	55596	560		1
+Pan_troglodytes_002880755.3	SRR6900765	yes	usable	v2	saturation	42370584	52600695	0.806	97951	839		1
+Pan_troglodytes_002880755.3	SRR976210	yes	usable	v2	stream error curl rc=18	11227758	16460164	0.682	0	117		1
+Pantherophis_guttatus_059756535.1	SRR10360869	yes	usable	v2	complete	95049618	47524809	1.0	75168	962		1
+Pantherophis_guttatus_059756535.1	SRR32343001	yes	usable	v2	saturation	69205334	40847499	0.847	98174	934		1
+Pantherophis_guttatus_059756535.1	SRR6868484	yes	usable	v2	complete	42065528	42065528	1.0	24700	1444		1
+Pantherophis_guttatus_059756535.1	SRR9596706	yes	usable	v2	saturation	38613900	62410596	0.619	98175	878		1
+Pantherophis_guttatus_059756535.1_nosat	SRR32343001	yes	usable	v2	complete	81694998	40847499	1.0	115599	1100		1
+Pantherophis_guttatus_059756535.1_nosat	SRR9596706	yes	usable	v2	read cap	60000000	62410596	0.961	152061	1788		1
+Platysternon_megacephalum_057946115.1	SRR23003489	yes	usable	v2	complete	50447854	25223927	1.0	88646	720		1
+Platysternon_megacephalum_057946115.1	SRR23003491	yes	usable	v2	complete	56904342	28452171	1.0	70136	809		1
+Platysternon_megacephalum_057946115.1	SRR34722846	yes	usable	v2	complete	7687146	3843573	1.0	805	110		1
+Platysternon_megacephalum_057946115.1	SRR34722867	yes	usable	v2	complete	8526378	4263189	1.0	1164	81		1
+Poecile_montanus_038429875.2	SRR10852963	yes	usable	v2	complete	67348076	33674038	1.0	52	413		1
+Poecile_montanus_038429875.2	SRR24965189	yes	usable	v2	complete	101259098	50629549	1.0	1837	1307		1
+Poecile_montanus_038429875.2	SRR24965191	yes	usable	v2	complete/stream error curl rc=18	62194672	45711767	0.68	1803	1425		1
+Poecile_montanus_038429875.2	SRR24965192	yes	usable	v2	complete/stream error curl rc=18	51451021	42956795	0.599	2677	1479		1
+Pongo_abelii_002880775.3	SRR10393301	yes	usable	v2	complete/stream error curl rc=22	27811641	27811641	0.5	15028	1096		1
+Pongo_abelii_002880775.3	SRR34180371	yes	usable	v2	complete/stream error curl rc=18	57781428	45859984	0.63	46828	1053		1
+Pongo_abelii_002880775.3	SRR35901374	yes	usable	v2	complete	44588750	22294375	1.0	13096	683		1
+Pongo_abelii_002880775.3	SRR6190020	yes	usable	v2	saturation	19333343	32871459	0.588	97968	397		1
+Pongo_abelii_028885655.2	SRR10393301	yes	usable	v2	complete	27811641	27811641	0.5	2118	1316		1
+Pongo_abelii_028885655.2	SRR34180371	yes	usable	v2	complete/stream error curl rc=18	47153472	45859984	0.514	5293	976		1
+Pongo_abelii_028885655.2	SRR35901374	yes	usable	v2	complete	44588750	22294375	1.0	857	707		1
+Pongo_abelii_028885655.2	SRR6190020	yes	usable	v2	complete	32871459	32871459	1.0	296	599		1
+Prionailurus_iriomotensis_054601675.1	DRR584687	yes	usable	v2	complete	55165766	27582883	1.0	47153	628		1
+Prionailurus_iriomotensis_054601675.1	DRR584688	yes	usable	v2	complete	50625572	25312786	1.0	39233	490		1
+Prionailurus_iriomotensis_054601675.1	DRR584690	yes	usable	v2	complete	44791754	22395877	1.0	31733	492		1
+Prionailurus_iriomotensis_054601675.1	DRR584691	yes	usable	v2	complete	50720562	25360281	1.0	32419	554		1
+Prymnesium_parvum_041296205.1	ERR13175042	yes	usable	v1			82841628		3773			1
+Prymnesium_parvum_041296205.1	ERR16089377	yes	usable	v1			88647464		83555			1
+Prymnesium_parvum_041296205.1	SRR1296710	yes	usable	v1			36039906		5277			1
+Prymnesium_parvum_041296205.1	SRR18033826	yes	usable	v1			36500913		10604			1
+Prymnesium_parvum_041296205.1	SRR23517916	yes	usable	v1			643225062		28920			1
+Prymnesium_parvum_041296205.1	SRR25683907	yes	usable	v1			27015100		6381			1
+Prymnesium_parvum_041296205.1	SRR2918059	yes	usable	v1			34889195		55881			1
+Pteropus_pselaphon_056242155.1	DRR360862	yes	usable	v2	complete	87590742	43795371	1.0	21765	658		1
+Pygoscelis_adeliae_000699105.1	SRR10695049	yes	usable	v2	complete	54766506	27383253	1.0	239	849		1
+Pygoscelis_adeliae_000699105.1	SRR10695050	yes	usable	v2	complete	54091746	27045873	1.0	153	813		1
+Pygoscelis_adeliae_000699105.1	SRR5253662	yes	usable	v2	saturation	2750882	7248881	0.379	94866	97		1
+Rana_temporaria_905171775.1	SRR11300562	yes	usable	v2	saturation	39389582	42157749	0.467	95786	384		1
+Rana_temporaria_905171775.1	SRR7140896	yes	usable	v2	saturation	29207950	54422657	0.268	95786	322		1
+Rana_temporaria_905171775.1	SRR7251162	yes	usable	v2	saturation	39108950	49212586	0.397	95786	407		1
+Rana_temporaria_905171775.1	SRR8149036	yes	usable	v2	complete	74262974	37131487	1.0	1013	854		1
+Rana_temporaria_905171775.1_nosat	SRR11300562	yes	usable	v2	complete/stream error curl rc=18	70704821	42157749	0.839	168912	567		1
+Rana_temporaria_905171775.1_nosat	SRR7140896	yes	usable	v2	complete/stream error curl rc=18	75196109	54422657	0.691	238586	1092		1
+Rana_temporaria_905171775.1_nosat	SRR7251162	yes	usable	v2	complete/stream error curl rc=18	74852588	49212586	0.761	179832	899		1
+Ranitomeya_imitator_032444005.1	ERR3169406	yes	usable	v2	read cap	120000000	60077764	0.999	2812	944		1
+Ranitomeya_imitator_032444005.1	SRR29420394	yes	usable	v2	complete	117280268	58640136	1.0	8186	1117		1
+Ranitomeya_imitator_032444005.1	SRR33606904	yes	usable	v2	complete	93170964	46585482	1.0	1279	1314		1
+Ranitomeya_imitator_032444005.1	SRR34630721	yes	usable	v2	complete	59014808	29507404	1.0	35476	792		1
+Saccoglossus_kowalevskii_978046115.1	ERR16910187	yes	usable	v2	complete/stream error curl rc=18	46741811	83647002	0.279	53192	853		1
+Saccoglossus_kowalevskii_978046115.1	SRR16599457	yes	usable	v2	complete	10327251	10327251	1.0	65870	182		1
+Saccoglossus_kowalevskii_978046115.1	SRR16599516	yes	usable	v2	complete	10554566	10554566	1.0	28086	132		1
+Saccoglossus_kowalevskii_978046115.1	SRR16599541	yes	usable	v2	complete	11939362	11939362	1.0	8612	218		1
+Sceloporus_occidentalis_023333645.1	SRR29377057	yes	usable	v2	saturation	9167913	28009093	0.164	98298	207		1
+Sceloporus_occidentalis_023333645.1	SRR29377058	yes	usable	v2	saturation	26951152	31300318	0.431	98298	356		1
+Sceloporus_occidentalis_023333645.1	SRR29377060	yes	usable	v2	saturation	13741096	27066195	0.254	98298	246		1
+Sceloporus_occidentalis_023333645.1	SRR6841720	yes	usable	v2	saturation/stream error curl rc=18	26879594	18821787	0.714	57366	553		1
+Schistosoma_haematobium_944470465.2_rep	ERR10016938	yes	usable	v2	complete	68692202	68692202	0.5	1366794	2933		1
+Schistosoma_haematobium_944470465.2_rep	ERR11178326	yes	usable	v2	complete	7486658	7486658	0.5	2659	77		1
+Schistosoma_haematobium_944470465.2_rep	SRR15400769	yes	usable	v2	complete	34649008	17324504	1.0	11224	382		1
+Schistosoma_haematobium_944470465.2_rep	SRR7867975	yes	usable	v2	complete	84726824	42363412	1.0	23879	1436		1
+Solea_senegalensis_019176455.1	ERR15284582	yes	usable	v2	read cap	60000000	103151056	0.582	7270	840		1
+Solea_senegalensis_019176455.1	SRR18693561	yes	usable	v2	saturation	19869443	47379849	0.21	85444	185		1
+Solea_senegalensis_019176455.1	SRR18693670	yes	usable	v2	saturation	15893237	40609005	0.196	85444	159		1
+Solea_senegalensis_019176455.1	SRR3417239	yes	usable	v2	stream error curl rc=18	76716542	55065964	0.697	12004	862		1
+Solea_senegalensis_019176455.1_nosat	SRR18693561	yes	usable	v2	complete/stream error curl rc=18	60851792	47379849	0.642	250284	778		1
+Solea_senegalensis_019176455.1_nosat	SRR18693670	yes	usable	v2	complete	81218010	40609005	1.0	426339	908		1
+Sphaerodactylus_townsendi_021028975.2	SRR15111496	yes	usable	v2	saturation/stream error curl rc=18	36654237	25000000	0.733	76801	835		1
+Sycon_ciliatum_964019385.1	ERR12318596	yes	usable	v2	saturation	14569544	63134990	0.115	93018	289		1
+Sycon_ciliatum_964019385.1	ERR13472825	yes	usable	v2	stream error curl rc=18/stream error curl rc=22	13099101	32774420	0.2	31718	319		1
+Sycon_ciliatum_964019385.1	ERR466683	yes	usable	v2	saturation	19500000	15978762	0.61	93018	383		1
+Sycon_ciliatum_964019385.1	ERR466762	yes	usable	v2	complete	27612406	13806203	1.0	73544	687		1
+Sycon_ciliatum_964019385.1	ERR7564493	yes	usable	v2	saturation	17821800	27063408	0.329	93018	399		1
+Sycon_ciliatum_964019385.1	SRR11617527	yes	usable	v2	saturation	10282797	23952734	0.215	93018	160		1
+Synaphobranchus_kaupii_029718625.1_rep	SRR15082969	yes	usable	v2	complete	70785072	35392536	1.0	5547	1126		1
+Synaphobranchus_kaupii_029718625.1_rep	SRR15082972	yes	usable	v2	complete	14150308	7075154	1.0	2349	273		1
+Synaphobranchus_kaupii_029718625.1_rep	SRR15082973	yes	usable	v2	complete	25383428	12691714	1.0	4822	398		1
+Synaphobranchus_kaupii_029718625.1_rep	SRR15082974	yes	usable	v2	complete	37989336	18994668	1.0	10217	602		1
+Synaphobranchus_kaupii_029718625.1_rep	SRR15082975	yes	usable	v2	complete	54617870	27308935	1.0	17497	797		1
+Thalia_democratica_965202585.1	ERR14075523	yes	usable	v2	saturation	112582840	120116034	0.469	89828	1724		1
+Thamnophis_sirtalis_051295495.1	SRR29276959	yes	usable	v2	complete	33377032	16688516	1.0	18199	982		1
+Thamnophis_sirtalis_051295495.1	SRR6668169	yes	usable	v2	complete	34547468	17273734	1.0	89687	966		1
+Thamnophis_sirtalis_051295495.1	SRR805129	yes	usable	v2	saturation/stream error curl rc=18	36078402	32436477	0.556	69302	789		1
+Thamnophis_sirtalis_051295495.1	SRR869504	yes	usable	v2	complete/stream error curl rc=18	42026518	28206932	0.745	28641	931		1
+Vipera_ursinii_947247035.1	ERR10908602	yes	usable	v2	complete	29589136	29589136	0.5	35767	608		1
