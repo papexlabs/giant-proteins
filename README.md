@@ -5,6 +5,8 @@ human titin isoform in UniProtKB, UniParc and NCBI Protein (snapshots of 11 Nove
 graded A–D by explicit checks, RNA-seq junction evidence, source-read checks of bacterial assemblies and
 public proteomics. **Status: draft, not peer reviewed.**
 
+Archived at Zenodo: https://doi.org/10.5281/zenodo.24201672
+
 The manuscript and its supplement (LaTeX sources and PDFs) will be added to `paper/` when the preprint is posted. The graded table
 (Supplementary Table S1) is `paper/supplementary/Table_S1_leaderboard.tsv`, with its column dictionary beside it.
 
