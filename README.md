@@ -7,7 +7,7 @@ public proteomics. **Status: draft, not peer reviewed.**
 
 Archived at Zenodo: https://doi.org/10.5281/zenodo.24201672
 
-The manuscript and its supplement (LaTeX sources and PDFs) will be added to `paper/` when the preprint is posted. The graded table
+Preprint (not peer reviewed): https://doi.org/10.5281/zenodo.24293516. The manuscript and its supplement (LaTeX sources and PDFs) are in `paper/`. The graded table
 (Supplementary Table S1) is `paper/supplementary/Table_S1_leaderboard.tsv`, with its column dictionary beside it.
 
 ## Layout
@@ -51,7 +51,7 @@ Every stage reads the previous stage's files, so each can be rerun alone.
 | Leaderboard | `scripts/16_leaderboard.py` | `data/leaderboard.tsv` |
 | Controls | `controls/d1/run_d1_controls.py`, `run_d1_holdout.py`; `controls/rna_power/run_rna_power.py`; `controls/dna/build_refs.py` then `run_controls.sh`; `controls/rna_rep/junction_mappability.py`; `controls/sensitivity/run_sensitivity.py` | `controls/*/` |
 | Proteomics | `proteomics/run_download.sh`, `run_download_raw.sh`, `build_db.py`, `run_search.sh`, `run_search_raw.sh`, `analyze_verified.py`, `verify_extra.py`, `verify_raw.py`; `proteomics/sycon/run_download.sh`, `run_search.sh` | `proteomics/results/`, `proteomics/sycon/results/`, `data/followups/peptide_evidence.tsv` |
-| Paper | `.venv/bin/python paper/build.py` (needs the LaTeX sources, added with the preprint) | `paper/manuscript.pdf`, `paper/supplement.pdf` |
+| Paper | `.venv/bin/python paper/build.py` | `paper/manuscript.pdf`, `paper/supplement.pdf` |
 
 To regrade from the stored results without any download, restore the synced RNA-seq results and run the
 grading chain:

@@ -1,0 +1,499 @@
+% Supplementary information (separate PDF). Build: python3 paper/build.py
+\documentclass[11pt]{article}
+\input{preamble.tex}
+\renewcommand{\thetable}{S\arabic{table}}
+\renewcommand{\thefigure}{S\arabic{figure}}
+\usepackage{placeins}
+\setcounter{table}{1}  % Table S1 is the leaderboard file; the first table below is S2
+\title{Supplementary information for ``Evidence grades for protein database entries longer than titin''}
+\author{Ahmet Tahir Mat\\[2pt]\small Papex Labs}
+\date{\small 13 November 2026. Preprint, not peer reviewed.}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section*{Supplementary Note 1. Rule revisions and additions}
+\addcontentsline{toc}{section}{Note 1. Rule revisions and additions}
+
+The rules were set by us on two controls (human titin NP\_001254479.2 and PKZILLA-1) and revised seven times while the
+work was in progress. Each revision, with its effect:
+
+\begin{enumerate}[leftmargin=*]
+\item \textbf{Isoforms counted as independent support.} The ``other assembly'' line (S2) first counted isoforms of one gene
+and same-assembly entries as independent assemblies. Fixing this moved \nm{s1_fix_B_to_C} sequences from B to C at Stage 1.
+\item \textbf{Gene-wide junction test and saturation stop.} A gene-wide test of missing junction support, combined with a
+read-saturation stop that ended runs early when coverage was concentrated at the 3$'$ end, first downgraded
+\nm{titin_downgrades_withdrawn} titin models from B to C. We withdrew the test, now count missing support only at introns
+whose flanking exons are covered, and re-ran the affected runs without the stop.
+\item \textbf{The 1-kb window repeat mask.} In the source-read check this mask produced two false ``against'' verdicts for
+the Omnitrophota ORF (Note~3). It was replaced by a library simulation without changing any threshold.
+\item \textbf{The repeat rule.} Positive controls showed that the repeat pattern alone also flags real silk proteins and
+adhesins (Note~2). It now counts only with DNA-level evidence (D2 or D3). This moved \nm{repeat_flag_all} sequences from D
+to C, \nm{repeat_flag_big} of them above \nm{pkz_len} aa.
+\item \textbf{The RNA-seq verdict order.} A power test showed that models with 20--40\,\% wrong introns were called
+``partial''. The test for unsupported covered introns now runs first. No real verdict changed.
+\item \textbf{A copy-number test in the source-read check (v3.1).} Known misassemblies showed that a collapsed or duplicated
+repeat passed the check. The added test catches both and changed no real verdict.
+\item \textbf{Twin records.} The orthologue and other-assembly lines (S1, S2) counted a RefSeq record and its GenBank or
+UniProtKB twin from the same genome as independent; for S1 this happened when one species name carried ``Candidatus'' and
+the other did not. Fixing this moved \nm{twin_fix_n} sequences from B to C, \nm{twin_fix_big} of them longer than \nm{pkz_len} aa. The error was found during
+the proteomics analysis (WP\_128698900.1 had been B on an ``orthologue'' that was the UniProtKB copy of its own genome).
+\end{enumerate}
+
+The repeat rule, the RNA verdict order and the copy-number test were revised after we saw the controls. Only the repeat rule
+was tested again on an independent set (the \nm{hold_n}-protein hold-out set); the other two have not been tested on fresh
+cases.
+
+Two rules were added late. \textbf{The peptide line (S6)} was written after we had seen its only test case, the search of the
+deposited PXD025008 peak lists. A first draft asked for unique peptides in three of the five length fifths, which
+WP\_128698900.1 met in that search with \nm{prot_giant_first6000} of its \nm{prot_giant_peptides} peptides in the first
+6,000 aa. We replaced it with all five fifths, because three would count N-terminal peptides as support for the whole
+model. Under the first draft, that entry and its GenBank twin would have been B; in the later search of the raw files,
+peptides cover only two fifths, so neither version gives B. \textbf{The guard for the repeat-flag RNA-seq stage} (Note~4)
+was written and implemented before that stage's data existed.
+
+\section*{Supplementary Note 2. Controls of the grading rules}
+\addcontentsline{toc}{section}{Note 2. Controls of the grading rules}
+
+We added four controls after the audit had run, to test the rules rather than the entries. Three of them changed a rule.
+
+\paragraph{Real repetitive proteins and the repeat rule.} Before scoring, we fixed a design set of real proteins with
+protein-level evidence in UniProtKB (release \nm{ctl_release}), \nm{ctl_n} entries in all: \nm{ctl_silk_n} reviewed silk
+proteins and \nm{ctl_spidroin_n} complete spidroins, \nm{ctl_mucin_n} mucins, \nm{ctl_adhesin_n} bacterial adhesins and the
+\nm{ctl_long_n} reviewed proteins of at least 5,000 aa. The pattern alone flagged \nm{ctl_d1_flagged}:
+\nm{ctl_spidroin_d1} of the \nm{ctl_spidroin_n} complete spidroins, the \spn{Bombyx mori} fibroin heavy chain,
+\nm{ctl_adhesin_d1} of the \nm{ctl_adhesin_n} adhesins (all serine-rich repeat proteins) and two long human proteins, the
+IgGFc-binding protein and NBPF20; it flagged \nm{ctl_mucin_d1} mucins. None of the \nm{ctl_flagged_with_cds} flagged
+proteins with a retrievable coding sequence showed a DNA-level contradiction: each had a Fickett median of at least
+\nm{ctl_flagged_fickett_min} and at most \nm{ctl_flagged_open_max} open alternative frame. We therefore revised the rule so
+that D1 counts only together with D2 or D3. A hold-out set fixed before scoring it, all \nm{hold_n} other reviewed proteins of
+1,000--4,999 aa with protein-level evidence, held \nm{hold_trigger} proteins with the pattern; the first rule would have
+flagged all of them, and none of the \nm{hold_d1_cds} with a retrievable coding sequence met D2 or D3, so the revised rule
+flagged none. At the protein level the audit sequences with the pattern overlap the real repetitive proteins (main text Figure~3a).
+
+\paragraph{Can the RNA-seq rule contradict a model?} The ``contradicted'' rule fired for no model in the audit. To see
+whether it could, we made deliberately wrong versions of \nm{power_models} well-covered real models (the human titin
+control and every eukaryotic model with a ``full'' verdict and at least 100 testable introns): introns shifted by
+15--60 bp, or internal exons removed, each setting repeated \nm{power_reps} times at random.
+\begin{itemize}[leftmargin=*]
+\item With at least 60\,\% of the introns wrong, at least \nm{pw_contr_ge60_min_pct}\,\% of versions were called
+contradicted. At 50\,\% wrong, \nm{pw_shift50_pct}\,\% of shifted and \nm{pw_skip50_pct}\,\% of skipped versions were.
+\item With 20--40\,\% of the introns wrong, the original rule order called at least \nm{pw_v1_partial_2040_min_pct}\,\% of
+versions ``partial'', which counts as a line of support.
+\item Under the revised order (the test for unsupported introns with covered flanks first), every version with 30--40\,\%
+wrong introns is downgraded. At 20\,\% wrong, \nm{pw_v2_shift20_pct}\,\% of shifted but only \nm{pw_v2_skip20_pct}\,\% of
+skipped versions are; at 10\,\%, \nm{pw_v2_10_down_pct}\,\% are.
+\item The revision changes no verdict in the real data. The rule still misses wrong introns at a 10\,\% share and most
+versions with 20\,\% of exons skipped. Removing every internal exon leaves one intron, which cannot be tested.
+\end{itemize}
+
+\paragraph{Known misassemblies and the source-read check (Table~\ref{tab:misassembly}).} From the finished \spn{Nocardia}
+sp.\ NBC\_01730 genome and its own reads (all \nm{dna_nbc01730_reads} Illumina pairs and \nm{dna_nbc01730_ont_reads}
+nanopore reads) we built three misassemblies whose truth is known (a 10-kb deletion join, a two-copy 4.55-kb repeat collapsed
+to one copy, a 5-kb segment duplicated in tandem) and used two correct regions with long real repeats. The first version of
+the check (v3) caught the deletion, passed the collapsed repeat as ``supported by the reads'', and left the tandem
+duplication at ``supported outside 9.37 kb of repeat'': the repeat exemption hid a real error, though it did not raise a
+grade. We then added a copy-number test (v3.1) that fires on at least three consecutive 1-kb windows whose total depth is
+above $\sqrt{2}$ or below $1/\sqrt{2}$ of the gene's depth. It caught the collapse and the duplication and left the correct
+regions unchanged. Re-judged under v3.1, none of the five real checks changed verdict; over the repeat copies of the checked
+genes, depth was \nm{dnactl_repeat_depth_ratio_range} of the gene's depth (\nm{dnactl_omni_repeat_depth_ratio_range} for the
+Omnitrophota copies), as expected for correctly assembled copies. The test cannot see a copy-number error shorter than 3 kb.
+
+\begin{table}[ht]
+\centering\scriptsize
+\caption{The source-read check on known misassemblies and correct repeat regions of the finished \spn{Nocardia} sp.\
+NBC\_01730 genome, checked with the genome's own reads. v3.1 adds the copy-number test.}\label{tab:misassembly}
+\begin{tabularx}{\textwidth}{L{2.6cm} l Y Y Y}
+\toprule
+Region & Truth & v3, Illumina & v3, Illumina + nanopore & v3.1, Illumina + nanopore \\
+\midrule
+\tablebody{tables/tableS2_misassembly.tex}
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\paragraph{Threshold sensitivity (Table~\ref{tab:sensitivity}).} We varied each threshold of Stages 1 and 2, and each rule
+revision, one at a time (\nm{sens_variants} settings), and each threshold of the source-read check (\nm{dna_sens_settings}
+settings), rerunning the full pipeline in a copy of the repository; the published setting reproduced the released grades
+exactly. The six sequences longer than \nm{pkz_len} aa at grade A or B kept their grades in \nm{sens_big_ab_stable} of the
+\nm{sens_variants} Stage 1--2 settings. The exceptions: counting a single open alternative frame as D3 would make the two
+GC-rich \spn{Nocardia} ORFs and the \spn{Sycon} model D, and requiring 10 junction reads per intron would move the
+\spn{Sycon} model to C. Requiring 10 pairs per boundary would move NBC\_00881 from B to C, partly because its long-read
+crossing cannot be recounted from the stored result. Counting twin records as independent changes \nm{twin_fix_big} grades above
+\nm{pkz_len} aa and \nm{twin_fix_n} below it. Not stable: the split between D and C above \nm{pkz_len} aa, which depends
+on the repeat rule (\nm{fin_big_D} D under the revised rule, \nm{sens_d1v1_big_D} under the first), and the number of A
+grades among all \nm{n_retained} (\nm{sens_allA_range}), which depends on the RNA thresholds almost entirely through
+vertebrate titin isoforms.
+
+\begin{table}[ht]
+\centering\scriptsize
+\caption{Threshold sensitivity. Each threshold varied alone; ranges include the published value. Counts are sequences
+(all \nm{n_retained}; the \nm{n_retained_gt_pkz} longer than \nm{pkz_len} aa). Last column: most sequences changing grade
+(of which above \nm{pkz_len} aa).}\label{tab:sensitivity}
+\setlength{\tabcolsep}{3pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{L{3.3cm} L{1.9cm} L{1.7cm} l l L{2.3cm}}
+\toprule
+Threshold or rule & Published & Tested & All: A / B / C / D & Above: A / B / C / D & Changing \\
+\midrule
+\tablebody{tables/tableS3_sensitivity.tex}
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\FloatBarrier
+\section*{Supplementary Note 3. Case walk-throughs}
+\addcontentsline{toc}{section}{Note 3. Case walk-throughs}
+
+\paragraph{KAI4551101.1, a translated tandem repeat.} The model (\nm{ovis_length} aa) from an \spn{Ovis ammon polii}
+$\times$ \spn{O.~aries} hybrid assembly is annotated as \nm{ovis_n_exons} exons over \nm{ovis_genomic_span_bp} bp. The
+protein repeats with a period of \nm{ovis_protein_period_aa} aa at \nm{ovis_protein_period_identity} identity, and
+\nm{ovis_rep25_frac} of its residues lie in repeated 25-mers; it has no recognisable domain. The coding sequence has a GC
+fraction of \nm{ovis_gc_cds} and repeats with a period of \nm{ovis_dna_tandem_lag_bp} bp at \nm{ovis_dna_tandem_identity}
+identity; its Fickett coding score is \nm{ovis_fickett_median}, in the non-coding range. Two of the five alternative frames
+are nearly as open as the annotated one (\nm{ovis_min_stops_per_kcodon_other_frames} stop codons per 1,000 codons, against
+about 45 in the reverse frames). One RNA-seq run of \nm{ovis_rna_reads} reads gave \nm{ovis_rna_candidates} candidate reads
+on the locus. All \nm{ovis_entries} retained entries from this hybrid show the 22-aa period or a multiple of it and remain D
+under the revised rule because their coding sequences fail D2 or D3.
+
+\paragraph{Fish titin pair.} In KAK2904762.1 (\nm{cirrhinus_len} aa, \nm{cirrhinus_exons} exons), \nm{cirrhinus_runs}
+RNA-seq runs gave \nm{cirrhinus_reads_unique} uniquely mapped reads. TSR51413.1 (\nm{bagarius_len} aa) restarts at a titin
+N-terminus at aa \nm{bagarius_second_copy_start_aa} (first part \nm{bagarius_first_ttna} windows \gene{ttna}-like, second
+part \nm{bagarius_second_ttnb} \gene{ttnb}-like); its \nm{bagarius_runs} runs were too shallow to test the join.
+
+\paragraph{The two \spn{Nocardia} chromosomes.} NBC\_01730 (WP\_327112628.1): all \nm{dna_nbc01730_reads} Illumina reads
+used; median unique depth over the gene \nm{dna_nbc01730_depth} (gene-to-contig ratio \nm{dna_nbc01730_ratio}); at least
+\nm{dna_nbc01730_span_min_testable} uniquely placed pairs span every testable 1-kb boundary; a 9.0-kb repeat at the start of
+the gene is spanned by \nm{dna_nbc01730_ont_span_blocks} nanopore reads. NBC\_00881 (WP\_406270362.1): all
+\nm{dna_nbc00881_reads} Illumina reads used; at least \nm{dna_nbc00881_span_min_testable} pairs span every testable boundary;
+two short stretches that pairs cannot place (1.1 kb together) are spanned by \nm{dna_nbc00881_ont_span_blocks} nanopore
+reads. Both are supported by their reads. With an orthologue of consistent length in \spn{N.~arseniciresistens}
+(\nm{nbc01730_best_len} aa), NBC\_01730 reaches A; NBC\_00881 reaches B, the same homologue giving it a length ratio of
+\nm{nbc00881_ratio}, outside the $\pm$20\,\% rule.
+
+\paragraph{The \nm{orf_len_aa}-aa Omnitrophota ORF.} The three proteins (DAOTDT01, DAOPMG01, DAOOUB01) are
+\nm{omni_aa_identity_min_pct}--\nm{omni_aa_identity_max_pct}\,\% identical, on contigs of \nm{omni_contig_lengths} bp; the
+coding sequence in DAOTDT01 contains \nm{omni_n_in_cds} N. All reads of each sample were used (\nm{dna_tdt_reads},
+\nm{dna_pmg_reads} and \nm{dna_oub_reads}). Over the gene, median unique depth was \nm{dna_tdt_depth}, \nm{dna_pmg_depth}
+and \nm{dna_oub_depth}; the gene-to-contig depth ratio \nm{dna_tdt_ratio}, \nm{dna_pmg_ratio} and \nm{dna_oub_ratio};
+discordant pairs at most \nm{dna_tdt_discordant_pct}\,\% of any window; no clip pile-up broke read continuity; no consensus
+change breaks the frame. The two repeat copies (\nm{rep_copy_bp} bp each) lie \nm{rep_lag_bp} bp apart (an in-frame
+distance of \nm{rep_lag_codons} codons) and differ at \nm{rep_diffs} positions, the same coding positions in all three
+assemblies. The first version of the check reported a ``break'' with zero spanning pairs at one 1-kb boundary in two
+assemblies; each boundary lay in the middle of a repeat copy, where fragments of the library's size (median insert
+\nm{dna_oub_insert}--\nm{dna_tdt_insert} bp) cannot be placed uniquely, and the 1-kb window mask could not see a repeat
+shorter than a window. The revised check simulates the library on the assembly and asks how many unique spanning pairs a
+correct assembly would give at each boundary; at all three flagged boundaries the expected number was 0, and 0 was observed.
+DAOTDT01 and DAOPMG01 are ``supported outside 1.3 kb of repeat''; DAOOUB01 is ``inconclusive'' because one boundary at the
+edge of a copy has \nm{dna_oub_weakest_obs} pairs where about \nm{dna_oub_weakest_exp} are expected (the minimum is 5). If the
+10.4-kb segment between the copies were placed elsewhere, the frame would remain open at \nm{orf_len_if_excised} aa.
+
+\section*{Supplementary Note 4. RNA-seq stage in detail}
+\addcontentsline{toc}{section}{Note 4. RNA-seq stage in detail}
+
+\paragraph{Runs.} \nm{rna_runs_kept} run results from \nm{rna_species} species were kept (\nm{rna_runs_v2} from the final
+pipeline, which read \nm{rna_reads_billion}$\times10^9$ reads, and \nm{rna_runs_v1} from a first version); re-run results
+replaced earlier results of the same run. \nm{rna_runs_stream_error} runs ended because the archive closed the connection;
+they contributed the reads received before the drop (a median of \nm{rna_stream_error_frac_median_pct}\,\% of each run, as
+little as \nm{rna_stream_error_frac_min_pct}\,\%). Independently, \nm{rna_runs_saturation} runs ended at the saturation
+rule and \nm{rna_runs_readcap} at the cap of 60 million reads per file. Junction counts are therefore lower bounds; partial
+reading cannot create support. The \nm{rna_runs_v1} first-version results could have counted some reads twice after a
+restarted download; this affects read counts for PKZILLA-1, not the presence of its junctions.
+
+\paragraph{Controls and verdicts.} Human titin: \nm{titin_introns_counted_supported} of \nm{titin_n_introns} introns
+supported (\nm{titin_introns_unique_support} by unique reads), none of its \nm{titin_testable_introns} testable introns
+unsupported. PKZILLA-1: all \nm{pkz_n_introns} supported, \nm{pkz_introns_unique_support} by unique reads and
+\nm{pkz_introns_multi_only}, inside internally repeated modules, only by multi-mapped reads. Verdicts: \nm{rna_full} full,
+\nm{rna_partial} partial, \nm{rna_weak} weak, \nm{rna_noexpr} no expression; \nm{rna_noruns} models had no usable run and
+\nm{rna_nottested} could not be tested; none was contradicted. Four titin models first looked weakly supported because
+their runs had been cut by the saturation rule; with whole runs the \spn{Microcaecilia}, \spn{Rana} and \spn{Solea} models
+are ``partial'', with 1 unsupported intron among \nm{microcaecilia_testable}, \nm{rana_testable} and \nm{solea_testable}
+testable introns, and the \spn{Pantherophis} model remains limited by coverage (0 of \nm{pantherophis_testable}). One
+model placed on a different haplotype assembly had \nm{liftover_moved} of its \nm{liftover_n_introns} introns shifted by
+a few bases and a false ``contradicted'' verdict; a whole-locus lift-over corrected it, and a guard now flags such shifts.
+
+\paragraph{The repeat-flag models.} The \nm{rep_models} models graded D under the first repeat rule were never sent to the
+RNA stage. After the rule was revised they were tested in a separate run (\file{cloud/bundle_rep_rna}), under rules written
+down before the run (\file{cloud/bundle_rep_rna/RULES.txt}): the published rules unchanged, with multi-mapped reads not
+counted (repeat flag); ``full'' or ``partial'' moves C to B; ``contradicted'' moves C to D only if it also holds on the
+introns whose junction sequence (50 bp either side) is unique within the model, or through junctions leaving the gene; all
+other verdicts leave C. \nm{rep_testable} models in \nm{rep_jobs} species jobs could be tested (\nm{rep_runs} runs,
+\nm{rep_gb} GB, downloaded to disk with resumed retries); \nm{rep_untestable_noruns} have no Illumina RNA-seq run in ENA
+(\nm{rep_noruns_plectranthus} \spn{Plectranthus ornatus}, \nm{rep_noruns_merlangius} \spn{Merlangius merlangus}, \nm{rep_noruns_coilia} \spn{Coilia grayii}) and \nm{rep_untestable_nolocus}
+(\spn{Fasciola hepatica} UniParc entries) have no gene model with coordinates. All \nm{rep_run_results} run results came
+back, none skipped. Before the run, we counted for each model the introns whose junction is unique within the model
+(Table~\ref{tab:reprna}): all for \spn{Arctogadus} and \spn{Owenia}, \nm{mapp_schisto1_pct}\,\% for \spn{Schistosoma}, and
+\nm{mapp_syn1_pct}\,\% or less for the \spn{Synaphobranchus}, \spn{Acnodon} and stickleback models. For the latter,
+``partial'' was out of reach, and the stickleback and \spn{Acnodon} models could not reach 10 testable introns at all. The
+power test calibrated the rules on non-repetitive models; for repeat models an error confined to the repeated copies,
+including a wrong number of copies, is invisible, and a clean result means only that the uniquely mappable parts are
+spliced as annotated.
+
+Results (Table~\ref{tab:reprna}): both \spn{Schistosoma haematobium} isoform models are ``partial''
+(\nm{rep_schisto1_supported} of \nm{rep_schisto1_introns} and \nm{rep_schisto2_introns} introns supported by unique reads,
+none unsupported among \nm{rep_schisto1_testable} testable introns) and move from C to B; \spn{Owenia} (\nm{rep_owenia_supported}
+of \nm{rep_owenia_introns}) and \spn{Arctogadus} (\nm{rep_arcto_supported} of \nm{rep_arcto_introns}) are ``weak''; the six
+others had at most \nm{rep_noexpr_max_unique} uniquely placed reads (``no-expression''). No model was contradicted, so the
+guard was never applied. \emph{Disclosure:} the driver's download mode was tested on a Mac with one small \spn{Schistosoma}
+run (ERR11178326) before \file{RULES.txt} was committed; its result (5 introns supported in that run) was seen after the
+guard code had been written (file times 11:02--11:03 UTC; result 11:03:37 UTC) and was not used. The verdict does not
+depend on that run: another run alone (ERR10016938) supports \nm{rep_schisto_err10016938} introns.
+
+\begin{table}[ht]
+\centering\scriptsize
+\caption{RNA-seq of the testable repeat-flag models. Unique junctions: introns whose junction sequence occurs once in the
+model (computed before the run). Supported: introns with $\geq$ 3 exact uniquely placed reads. Testable: both flanking exons
+at unique depth $\geq$ 10 in one run (unsupported among them after the slash).}\label{tab:reprna}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l l r r l r r r l l l}
+\toprule
+Model & Organism & aa & Introns & Unique junctions & Runs & Unique reads & Supported & Testable & Verdict & Grade \\
+\midrule
+\tablebody{tables/tableS4_repeat_rna.tex}
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\FloatBarrier
+\section*{Supplementary Note 5. Proteomics}
+\addcontentsline{toc}{section}{Note 5. Proteomics}
+
+\paragraph{PXD025008, deposited peak lists.} We first searched the six deposited MudPIT peak lists (\nm{prot_spectra}
+spectra from \nm{prot_fractions} fractions) with Sage against the authors' database, with the organism's earlier genome-bin
+proteins replaced by the \nm{prot_closed_genome_proteins} proteins of the closed genome (CP019384.1), QAT16263.1 replaced by
+its RefSeq version WP\_128698900.1 (QAT16263.1 is the same sequence started 9 codons later), and a reversed and a shuffled
+copy of the giant added (\nm{prot_db_entries} entries). At 1\,\% FDR: \nm{prot_psms} PSMs, \nm{prot_peptides} peptides and
+\nm{prot_proteins} proteins; for the giant \nm{prot_giant_peptides} unique peptides (\nm{prot_giant_psms} PSMs, protein
+$q = $ \nm{prot_giant_protein_q}) covering \nm{prot_giant_residues} residues (\nm{prot_giant_cov_pct}\,\%) in
+\nm{prot_giant_regions} regions; per length fifth \nm{prot_giant_fifths}; the last at residue \nm{prot_giant_last_end}.
+Controls: reversed and shuffled copies \nm{prot_rev_psms} PSMs (best protein $q$ \nm{prot_rev_q} and \nm{prot_shuf_q});
+elongation factor Tu (\nm{prot_eftu_len} aa) \nm{prot_eftu_peptides} unique peptides covering \nm{prot_eftu_cov_pct}\,\%,
+ribosomal protein L7/L12 (\nm{prot_l7_len} aa) \nm{prot_l7_peptides} covering \nm{prot_l7_cov_pct}\,\%, both chosen by name
+before their results were seen. Among the \nm{prot_top_n} \spn{Velamenicoccus} proteins with the most PSMs, the giant ranks
+\nm{prot_top_rank_giant}th; the other proteins are covered to \nm{prot_top_cov_range}\,\% by unique peptides. In one of
+the authors' six identification files (Scaffold export), the \nm{prot_authors_pass_peptides} peptides on the giant that
+pass their threshold (their database holds a \nm{prot_authors_len}-aa version) all start in its first fifth.
+
+\paragraph{The deposited peak lists are a selection.} The peak lists hold \nm{prot_scan_share_pct}\,\% of the scan numbers
+of their fractions, and \nm{prot_id_rate_pct}\,\% of their spectra were identified at 1\,\% FDR. The raw files settle it:
+they hold \nm{raw_ms2} MS/MS spectra (\nm{raw_instrument}), of which the peak lists contain \nm{raw_mgf_share_pct}\,\%.
+
+\paragraph{PXD025008, raw files.} All \nm{raw_files} RAW files (\nm{prot_raw_gb} GB, SHA-1 checked) were converted
+without error and searched with the same database and settings (\nm{raw_wall_min} min on the laptop). At 1\,\% FDR:
+\nm{raw_psms} PSMs, \nm{raw_peptides} peptides, \nm{raw_proteins} proteins. Giant: \nm{raw_giant_peptides} unique peptides
+(\nm{raw_giant_psms} PSMs, protein $q = $ \nm{raw_giant_protein_q}), \nm{raw_giant_residues} residues
+(\nm{raw_giant_cov_pct}\,\%), per length fifth \nm{raw_giant_fifths}; \nm{raw_giant_first6000} start in the first 6,000 aa;
+the others start at \nm{raw_giant_after6000}; none ends after residue \nm{raw_giant_last_end}. \nm{raw_both} peptides are
+shared with the peak-list search, \nm{raw_only_raw} are found only in the raw files and \nm{raw_only_mgf} only in the peak
+lists, among them the one at \nm{raw_mgf_only_after6000} (peptide $q = $ \nm{prot_peak_last_q} in the peak-list search).
+Controls: reversed and shuffled copies \nm{raw_rev_psms} PSMs (best protein $q$ \nm{raw_rev_q} and \nm{raw_shuf_q});
+elongation factor Tu \nm{raw_eftu_peptides} unique peptides (\nm{raw_eftu_cov_pct}\,\%), L7/L12 \nm{raw_l7_peptides}
+(\nm{raw_l7_cov_pct}\,\%). Conversion used ThermoRawFileParser v.2.0.0-dev for macOS arm64, unpacked in the project folder;
+macOS refused to run the unsigned binary, so it was code-signed locally (ad hoc), which does not change what it computes.
+
+\paragraph{\spn{Sycon ciliatum}.} PRIDE lists two projects for the species. PXD031991 \citep{graubove2022} holds histones
+acid-extracted from nuclei and derivatised (propionylation) before digestion; it is not suited to detecting a giant protein
+and was not searched. PXD060105 \citep{voigt2025} is a proteome of the spicule organic matrix (tissue removed with sodium
+hypochlorite, matrix decalcified, proteins separated by gel). The authors' database (\nm{sy_db_authors} transcript-derived
+proteins) contains the model XP\_065194412.1 as \nm{sy_fragments} partial fragments, the longest \nm{sy_fragment_max_len}
+aa; their report of \nm{sy_authors_n} proteins does not include it, and their paper does not mention it. We replaced the
+fragments by the full model, added a reversed and a shuffled copy, and searched the \nm{sy_raw_files} RAW files
+(\nm{sy_ms2} MS/MS spectra, Orbitrap). The dataset is small: the lowest peptide- and protein-level $q$ of any target were
+\nm{sy_min_pep_q} and \nm{sy_min_prot_q}, so nothing can pass 1\,\% at those levels. At 1\,\% spectrum-level FDR the search
+gave \nm{sy_psms_spec} PSMs and \nm{sy_peptides_spec} peptides and recovered \nm{sy_authors_found} of the authors'
+\nm{sy_authors_n} proteins (their top protein, Calcarin 3, \nm{sy_calc3_psms} PSMs; tubulin beta \nm{sy_tub_psms}); the model
+obtained \nm{sy_giant_psms_spec} PSMs (\nm{sy_giant_psms_any} at any $q$, against \nm{sy_rev_psms_any} and
+\nm{sy_shuf_psms_any} for its reversed and shuffled copies). The absence is uninformative for a protein that is not expected
+in this fraction.
+
+\begin{table}[ht]
+\centering\scriptsize
+\caption{Proteomics searches. PSMs and peptides at 1\,\% FDR (spectrum, peptide and protein level); $^{a}$PXD060105 at
+spectrum level only, because the dataset cannot reach 1\,\% at the other levels. Last residue: end of the last unique
+peptide on the giant (share of its length). Controls: PSMs of the reversed / shuffled giant at 1\,\% FDR.}\label{tab:prot}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l l r r r r r l l}
+\toprule
+Search & Giant & MS/MS spectra & PSMs & Peptides & Giant peptides & Giant PSMs & Last residue & Controls \\
+\midrule
+\tablebody{tables/tableS5_proteomics.tex}
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\FloatBarrier
+\section*{Supplementary Note 6. Limitations in full}
+\addcontentsline{toc}{section}{Note 6. Limitations in full}
+\begin{enumerate}[leftmargin=*]
+\item \textbf{The rules are ours and were revised during the work} (Note~1). Thresholds were set by us on two controls, not
+by an outside annotator, and should be reviewed.
+\item \textbf{Partial downloads.} \nm{rna_runs_stream_error} RNA-seq run results ended because the archive closed the
+connection; junction counts are lower bounds, and a missing junction in a partly read run is weak evidence, which is why
+only introns with covered flanks count against a model (Note~4).
+\item \textbf{Tissue and coverage.} RNA-seq was taken from whatever tissues ENA offered; several models were tested only in
+tissues that probably do not express them (for example titins in blood or gonad). A ``weak'' or ``no-expression'' verdict
+is not evidence against a model.
+\item \textbf{Little protein evidence.} Two proteomic datasets were searched and a third examined. For PXD025008 the raw
+files were searched; our search limits (one missed cleavage, peptides of 7--40 aa) were set to fit a laptop's memory. For
+the other entries PRIDE was searched only by species name \citep{perezriverol2025}. RNA-seq shows that introns are spliced
+as annotated, and peptides that parts of a protein are made; neither shows that the full-length protein is made as one
+chain.
+\item \textbf{Repeats limit what short reads can test.} For the Omnitrophota ORF, one 1.2-kb repeat cannot be crossed by
+the available libraries. Junction counting inside repeated modules needs multi-mapped reads (PKZILLA-1), so models flagged
+as repeats do not get credit for such reads, and most of their introns cannot be tested at all (Note~4).
+\item \textbf{Locus placement.} RNA-stage loci were placed on the downloaded assembly by a sequence probe and a constant
+offset; across haplotypes this shifted \nm{liftover_moved} of one model's \nm{liftover_n_introns} introns and produced a
+false ``contradicted'' verdict, corrected by a whole-locus lift-over. A guard now flags any model whose reads show its
+junctions a few bases away; no other model showed this.
+\item \textbf{What the controls do not cover.} The repeat-rule controls used reviewed UniProtKB proteins, which favour
+well-studied organisms. The misassembly controls used one bacterial genome with deep coverage. The copy-number test cannot
+see errors shorter than 3 kb, so it could not detect a collapse of the 1.2-kb Omnitrophota repeat; the measured depth over
+those copies is what two correct copies would give, which is consistent with, not proof of, the assembled arrangement.
+\item \textbf{Scope.} MGnify and other metagenomic protein catalogues were not included. Of the bacterial models, only the
+three discussed were checked against their source reads. Database contents change, so every count refers to the stated
+snapshot dates. Orthology was judged by length consistency of DIAMOND hits in UniProtKB, which favours well-sampled clades.
+\item \textbf{Independence.} The three Omnitrophota assemblies come from three samples but one study and one assembly
+pipeline; agreement between them does not exclude a systematic error at the repeat.
+\end{enumerate}
+
+\section*{Supplementary Methods}
+\addcontentsline{toc}{section}{Supplementary Methods}
+
+\paragraph{Inventory.} UniProtKB (release 2026\_04) and UniParc were queried through the UniProt REST API for sequences
+longer than \nm{titin_len} aa \citep{uniprot2025}; UniParc cross-references were fetched per entry. NCBI Protein was queried
+with the Entrez length filter \texttt{35992:100000000[SLEN]} on 11 November 2026 \citep{sayers2026,oleary2016}; GenPept
+records were downloaded for coding-sequence coordinates, gene identifiers and RefSeq model evidence. Sequences were merged
+by MD5 checksum; withdrawn or patent/synthetic records and titles marked ``partial'' were excluded; loci were defined by
+shared NCBI GeneID or overlapping genomic coordinates.
+
+\paragraph{Stage 0: sequence flags.} For each protein: the share of X residues and of low-complexity 12-aa windows; the
+share of residues inside 25-mers that occur at least twice (rep25); the best tandem period and the self-identity at that
+lag; coverage by a panel of \nm{hmm_panel} Pfam profile HMMs \citep{mistry2021} (polyketide and peptide synthases, Ig/FN3
+and titin domains, adhesin repeats and other families typical of giant proteins), retrieved from the InterPro API on
+11 November 2026 and searched with PyHMMER \citep{eddy2011,larralde2023} at gathering thresholds.
+
+\paragraph{Stage 1: locus checks and grades.} Locus DNA was fetched from INSDC/RefSeq. For each model we measured the
+number and size of exons, contig length and distance to contig ends, N runs in the coding sequence, GC by codon position,
+the Fickett TESTCODE statistic in 300-bp windows \citep{fickett1982}, stop codons per 1,000 codons in the five alternative
+frames and the DNA tandem period. Each protein was cut into 1,000-aa windows and searched with DIAMOND 2.2.8
+(\texttt{--fast}, $E \leq 10^{-10}$) \citep{buchfink2021} against UniProtKB Swiss-Prot plus unreviewed entries of at least
+3,000 aa; we recorded the best homologue in another species and the ratio of lengths. A fusion test asked whether disjoint
+segments of the model each cover at least 70\,\% of a different complete reference protein.
+\begin{itemize}[leftmargin=*]
+\item \textbf{D1:} self-identity at the best period $\geq$ 0.6, or rep25 $\geq$ 0.8, with domain coverage $<$ 5\,\%; a
+contradiction only together with D2 or D3, otherwise recorded as a repeat flag (first version: the pattern alone).
+\item \textbf{D2:} $\geq$ 50\,\% of coding windows non-coding by Fickett, with domain coverage $<$ 5\,\%.
+\item \textbf{D3:} $\geq$ 2 of the 5 alternative frames with $<$ 5 stops per 1,000 codons, with domain coverage $<$ 5\,\%.
+\item \textbf{D4:} $\geq$ 1\,\% N in the coding sequence, or a model joined across contigs.
+\item \textbf{D5:} $\geq$ 2 disjoint segments, each covering $\geq$ 70\,\% of a different complete reference protein of
+$\geq$ 1,000 aa and at most 60\,\% of the query length, with no homologue in another species within $\pm$20\,\% of the query
+length; polyketide and nonribosomal peptide synthases are exempt.
+\item \textbf{Structure OK:} no D rule; no N in the coding sequence; the gene at least 1 kb from both contig ends; a coding
+signal (Fickett median $\geq$ 0.95 with $\leq$ 20\,\% of windows at or below 0.74; for GC-rich bacterial genomes, GC2 as the
+lowest codon position).
+\item \textbf{S1:} a homologue in another species hit on $\geq$ 50\,\% of the windows, with length within $\pm$20\,\%.
+\item \textbf{S2:} a near-identical copy ($\geq$ 95\,\% identity on $\geq$ 90\,\% of windows, length within $\pm$5\,\%) in a
+different assembly. S1 and S2 do not count a record's twin from the same genome: species names are compared without
+``Candidatus'' and strain text, and a RefSeq contig (NZ\_) belongs to the same assembly as its INSDC source.
+\item \textbf{S3:} NCBI's own report that RNA-seq supports all introns. \textbf{S4:} a curated RefSeq record.
+\item \textbf{S6:} at least 3 unique peptides at 1\,\% FDR (spectrum, peptide and protein level), with at least one in each
+fifth of the model's length; peptides in fewer fifths are noted but are not a support line. (S5 labels Stage 2 transcript
+support in the data files.)
+\item \textbf{Grades:} A = structure OK, plus S3 or S4, plus S1 or S2; B = structure OK plus any support line; C = no
+contradiction and no support line; D = any contradiction.
+\end{itemize}
+Human titin NP\_001254479.2 was graded as a control and is not counted among the \nm{n_retained}. Stage 1 used about
+\nm{stage1_cpu_hours} CPU-hours on a laptop.
+
+\paragraph{Stage 2: RNA-seq junction evidence.} For eukaryotic models at grade B or C, the fusion checks and the controls,
+we selected four public Illumina RNA-seq runs per species (six for the controls and the largest models) from ENA
+\citep{yuan2026}: 0.2--6~GB each, not single-cell, spread across studies, muscle first for titin-like models. Genome
+assemblies were downloaded from NCBI, or from ENA for assemblies NCBI had not yet linked. Runs were streamed as FASTQ over
+HTTPS (downloaded to disk with resumed retries for the repeat-flag stage), pre-filtered with minimap2 2.31 (\texttt{-x sr})
+\citep{li2018} against the coding exons $\pm$100 bp, and the candidate reads aligned with \texttt{-x splice:sr} to the whole
+genome, which serves as a decoy for paralogous and repeated sequence; alignments were handled with samtools
+\citep{danecek2021}. For each annotated intron we counted spliced reads that match it exactly, separately for uniquely
+placed (MAPQ $\geq$ 10) and multi-mapped reads. An intron is supported with $\geq$ 3 exact reads; multi-mapped reads count
+only for models without a repeat flag; an intron is testable if both flanking exons reach a mean unique depth of 10 in at
+least one run. Verdicts in order: no-expression ($<$ 50 unique reads); contradicted ($\geq$ 10 testable introns with
+$\geq$ 50\,\% unsupported, or more reads on junctions that leave the gene than on the annotated junctions); under-supported
+where covered ($\geq$ 10 testable introns with $\geq$ 20\,\% unsupported; tested after full and partial in the first
+version); full ($\geq$ 90\,\% supported); partial ($\geq$ 50\,\%); otherwise weak. Full raises C to B and B to A where
+Stage 1 had S1 or S2; partial raises C to B; under-supported lowers A to B and B to C; contradicted gives D (for the
+repeat-flag stage only with the guard of Note~4). Each run stopped at the end of the data, at 60 million reads per file,
+after 1,800 s of download (stream mode), or, in the first pass only, at a saturation level of candidate reads; runs cut short
+by the saturation rule were repeated without it. Loci placed on an assembly other than the model's own were checked by
+aligning the source locus to the target locus, and junction reads were counted at lifted coordinates where they moved.
+
+\paragraph{Stage 3: source-read check (rules v3 and v3.1).} Illumina pairs (and nanopore reads, where available) from the
+assembly's BioSample were streamed from ENA, or read from downloaded copies after repeated stream failures, and mapped with
+minimap2 to the whole assembly; only primary alignments with $\leq$ 3\,\% mismatches (Illumina) or $\leq$ 15\,\% (nanopore)
+were kept, and a mapping counted only if the number of reads processed reached ENA's read count. Measures in 1-kb windows
+over the gene: unique (MAPQ $\geq$ 20) and all-alignment depth; uniquely placed proper pairs (fragment $\leq$ 3$\times$ median
+insert) spanning each window boundary by $\geq$ 20 bp on both sides; clip pile-ups and whether physical coverage is lost
+there; discordant pairs; gene-to-contig depth ratio; positions where $\geq$ 50\,\% of reads carry an indel or a stop-creating
+substitution. Error-free pairs with the library's median insert and read length were cut from the assembly every 2 bp and
+mapped back; the expected number of unique spanning pairs at a boundary is the share of simulated pairs placed uniquely
+across it times the gene's median observed spanning count. A boundary is tested only if this expectation is $\geq$ 5;
+stretches below it must be crossed as a whole by $\geq$ 5 pairs or $\geq$ 3 nanopore reads with 500-bp flanks, otherwise they
+are reported as unresolved repeats. Supported: all testable boundaries spanned by $\geq$ 5 pairs ($\geq$ 3 long reads),
+$\geq$ 99\,\% of single-copy bases at depth $\geq$ 5, no clip pile-up with lost continuity, discordant pairs $\leq$ 10\,\%,
+depth ratio 0.5--2, no frame-breaking change. Against: a testable boundary with 0 pairs, a clip pile-up with lost
+continuity, $>$ 10\,\% discordant pairs, an out-of-range depth ratio, a frame-breaking change, or (since v3.1) $\geq$ 3
+consecutive windows whose all-alignment depth is above $\sqrt{2}$ or below $1/\sqrt{2}$ of the median over the gene's
+single-copy windows. Supported outside N kb of repeat: supported except across unresolved repeats; anything else
+inconclusive. Every check ran a negative control (an inverted join at the gene midpoint). Supported with S1 or S2 gives A,
+supported alone B, against D.
+
+\paragraph{Proteomics.} PXD025008 \citep{kizina2022}: peak lists, raw files and the authors' database were downloaded
+from PRIDE \citep{perezriverol2025} (\file{proteomics/run_download.sh}, \file{run_download_raw.sh}); the database was rebuilt
+by \file{proteomics/build_db.py}. Sage 0.14.7 \citep{lazear2023} (release binary for macOS arm64, which reports itself as
+0.14.6; 4 threads): trypsin (K or R, not before P), at most 1 missed cleavage, peptides of 7--40 aa, precursor tolerance
+10 ppm, fragment tolerance 0.5 Da, isotope errors 0--1, variable methionine oxidation (at most 2), no fixed modification,
+reversed decoys generated by Sage. Raw files were converted to indexed mzML by ThermoRawFileParser \citep{hulstaert2020}
+with vendor peak picking (\file{proteomics/run_search_raw.sh}). PXD060105 \citep{voigt2025}: the same pipeline
+(\file{proteomics/sycon/}), with fixed carbamidomethylation of cysteine and a fragment tolerance of 20 ppm for the Orbitrap
+spectra. Identifications were kept at spectrum, peptide and protein $q \leq 0.01$ (Sage target-decoy). A peptide counts as
+unique if its sequence, with I and L treated as equal, occurs in no other forward entry of the database. Positions,
+coverage and per-fifth counts are computed from peptide start positions (\file{analyze_verified.py},
+\file{verify_extra.py}, \file{verify_raw.py}, \file{sycon/analyze.py}).
+
+\paragraph{Controls of the grading rules.} The repeat-rule design and hold-out sets were defined by UniProtKB queries fixed
+before scoring (\file{controls/d1/}): reviewed entries with evidence at protein level; silk proteins (fibroin, spidroin or silk
+in the name, at least 300 aa, excluding silk gland factors) plus unreviewed complete spidroins of at least 2,500 aa with
+protein-level evidence; mucins of at least 2,000 aa; bacterial adhesins of at least 2,000 aa; all proteins of at least
+5,000 aa; the hold-out set all other reviewed entries of 1,000--4,999 aa. Scoring used the Stage 1 code paths; coding
+sequences came from ENA (at most three EMBL CDS records per entry, translation $\geq$ 95\,\% identical to the protein). The
+RNA-seq power test (\file{controls/rna_power/}) scored wrong models against the stored junction counts of the same runs
+(annotated junctions plus each run's 50 most frequent other junctions), with testability taken from the original flanking
+exons; fixed random seed. Known misassemblies (\file{controls/dna/}) were edited copies of GCA\_035920445.1 checked with its
+own Illumina (SRR21428551) and nanopore (SRR21563524) reads. Threshold sensitivity (\file{controls/sensitivity/}) reran the
+full pipeline in a throw-away copy of the repository, once per setting; source-read thresholds were varied by re-judging the
+stored results.
+
+\paragraph{Leaderboard.} One row per locus, the longest live model representing it. Copies in other assemblies (S2), and
+records of one organism sharing $\geq$ 90\,\% of the shorter protein's 10-mers (haplotypes, GenBank and RefSeq versions,
+isoforms; grades A--C only), are merged and listed; merged records are not counted as independent support.
+
+\paragraph{Software.} Python 3 (standard library), minimap2 2.31, samtools 1.25, DIAMOND 2.2.8, PyHMMER 0.12.3, Sage
+0.14.7, ThermoRawFileParser v.2.0.0-dev, matplotlib; LaTeX built with tectonic.
+
+\section*{Supplementary Table S1}
+\addcontentsline{toc}{section}{Supplementary Table S1}
+The leaderboard (\file{supplementary/Table_S1_leaderboard.tsv}): \nm{lb_loci} graded loci and \nm{lb_excluded_rows}
+excluded sequences, one row each. Column dictionary:
+
+{\small
+\begin{longtable}{L{5.7cm} p{9.6cm}}
+\toprule
+Column & Description \\
+\midrule
+\endhead
+\tablebody{tables/tableS1_columns.tex}
+\bottomrule
+\end{longtable}}
+
+\bibliographystyle{unsrtnat}
+\bibliography{refs}
+\end{document}
