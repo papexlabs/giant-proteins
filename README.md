@@ -7,7 +7,7 @@ public proteomics. **Status: draft, not peer reviewed.**
 
 Archived at Zenodo: https://doi.org/10.5281/zenodo.24201672
 
-Preprint (not peer reviewed): https://doi.org/10.5281/zenodo.24293516. The manuscript and its supplement (LaTeX sources and PDFs) are in `paper/`. The graded table
+Preprint (not peer reviewed): https://doi.org/10.5281/zenodo.24293516. Papex record: https://papex.org/id/PXP-PBR89SXYF8J4. The manuscript and its supplement (LaTeX sources and PDFs) are in `paper/`. The graded table
 (Supplementary Table S1) is `paper/supplementary/Table_S1_leaderboard.tsv`, with its column dictionary beside it.
 
 ## Layout
